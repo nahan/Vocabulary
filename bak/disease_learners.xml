@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="disease"> <hw highlight="yes">dis*ease</hw> <sound><wav>diseas01.wav</wav></sound> <pr>dɪˈzi:z</pr> <fl>noun</fl> <in><il>plural</il> <if>dis*easeas*es</if></in> <def><sn>1</sn> <dt>:an illness that affects a person, animal, or plant :a condition that prevents the body or mind from working normally <wsgram>count</wsgram> <vi>infectious/contagious <it>diseases</it></vi> <vi>He suffers from a rare genetic <it>disease</it>.</vi> <vi>a deadly/debilitating <it>disease</it></vi> <vi>a <it>disease</it> of the mind/kidneys</vi> <vi><it>diseases</it> of poultry</vi> <wsgram>noncount</wsgram> <vi>Thousands die of heart <it>disease</it> each year.</vi> <vi>They are working to stop the spread of <it>disease</it> in rural areas.</vi> <vi>gum/liver <it>disease</it></vi></dt> <sn>2</sn> <sgram>count</sgram> <dt>:a problem that a person, group, organization, or society has and cannot stop <vi>The article cites intolerance as one of the most dangerous of society's <it>diseases</it>.</vi> <vi>He sees crime as a <it>disease</it> that too often plagues the poor and disadvantaged.</vi></dt></def> <uro><ure>dis*eased</ure> <sound><wav>diseas02.wav</wav></sound> <pr>dɪˈzi:zd</pr> <fl>adjective</fl> <gram>more dis*eased; most dis*eased</gram> <utxt><vi>She removed the <it>diseased</it> tree limbs.</vi> <vi><it>diseased</it> cells/lungs/plants</vi> <vi>a <it>diseased</it> mind</vi></utxt></uro></entry>
+
+	<entry id="Alzheimer's disease"> <hw>Alz*hei*mer's disease</hw> <sound><wav>alzhei01.wav</wav><wav>alzhei02.wav</wav></sound> <pr>ˈɑ:ltsˌhaɪmɚz-</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a disease of the brain that causes people to slowly lose their memory and mental abilities as they grow old <ca>called also <cat>Alzheimer's</cat></ca></dt></def></entry>
+
+	<entry id="Creutzfeldt-Jakob disease"> <hw>Creutz*feldt–Ja*kob disease</hw> <sound><wav>creutz01.wav</wav></sound> <pr>ˈkroɪtsˌfɛltˈjɑ:ˌkoʊb-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>medical</sl> <dt>:a disease of the brain that causes people to lose their memory, to no longer be able to control their muscles, and eventually to die <ca>called also <cat>CJD</cat></ca></dt></def></entry>
+
+	<entry id="Dutch elm disease"> <hw>Dutch elm disease</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a disease that kills elm trees and that is caused by a fungus</dt></def></entry>
+
+	<entry id="foot-and-mouth disease"> <hw>foot–and–mouth disease</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a serious and often deadly disease of animals (such as cows and sheep)</dt></def></entry>
+
+	<entry id="hoof-and-mouth disease"> <hw>hoof–and–mouth disease</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:<sx>foot-and-mouth disease</sx></dt></def></entry>
+
+	<entry id="Legionnaires' disease"> <hw>Legionnaires' disease</hw> <vr><vl>also</vl> <va>Legionnaire's disease</va></vr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a serious disease of the lungs that is caused by bacteria</dt></def></entry>
+
+	<entry id="Lyme disease"> <hw>Lyme disease</hw> <sound><wav>lymedi01.wav</wav></sound> <pr>ˈlaɪm-</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a serious disease that is spread by the bite of a small insect (called a deer tick)</dt></def></entry>
+
+	<entry id="mad cow disease"> <hw>mad cow disease</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a fatal disease that affects the brain and nervous system of cattle</dt></def></entry>
+
+	<entry id="Parkinson's disease"> <hw>Par*kin*son's disease</hw> <sound><wav>parkin03.wav</wav></sound> <pr>ˈpɑɚkənsənz-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>medical</sl> <dt>:a disease that affects the nervous system and causes people's muscles to become weak and their arms and legs to shake <ca>called also <cat>Parkinson's</cat></ca></dt></def></entry>
+
+</entry_list>
