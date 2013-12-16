@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>constant</key>
+
+<ps>'kɒnstənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/5f/fd/5ffdcb035248b2b189901619a008a977.mp3</pron>
+
+<ps>ˈkɑnstənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/61/7a/617ac08757d38a5a7ed91c224f0e90a0.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>不断的，持续的；永恒的，始终如一的；坚定；忠实的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>[数]常数，常量；不变的事物；永恒值；
+
+</acceptation>
+
+<sent><orig>
+
+Functional outcome was assessed by the Constant-Murley Score.
+
+</orig>
+
+<trans>
+
+功能的结果评价依据Constant-Murley评分系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Constant modulus algorithm (CMA), which was used in blind equalization, is introduced in this paper.
+
+</orig>
+
+<trans>
+
+文中引入了用于盲信号均衡的恒模算法(CMA:constant modulus algorithm)。
+
+</trans></sent>
+
+<sent><orig>
+
+Electronic load can be set for constant current, constant resistance and constant voltage operation.
+
+</orig>
+
+<trans>
+
+电子负载可以设置为恒流，恒阻和恒压模式。
+
+</trans></sent>
+
+<sent><orig>
+
+The effect of passive decay rate constant? gain coefficient and space surround constant were analyzed.
+
+</orig>
+
+<trans>
+
+分析衰减常数、益系数和空间常数对图像增强处理的影响。
+
+</trans></sent>
+
+<sent><orig>
+
+Constant Humidity: AAS can keep constant humidity around the planting area of greenhouses '.
+
+</orig>
+
+<trans>
+
+保湿：AAS开启后可保持温室栽培区内空气湿度的相对稳定。
+
+</trans></sent>
+
+</dict>

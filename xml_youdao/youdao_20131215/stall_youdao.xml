@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stall]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[摊位]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stɔːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 货摊；畜栏；托辞]]></ex>
+
+                    <ex><![CDATA[vt. 拖延；使停转；使陷于泥中]]></ex>
+
+                    <ex><![CDATA[vi. 停止，停转；拖延]]></ex>
+
+                    <ex><![CDATA[n. (Stall)人名；(瑞典)斯塔尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[stall]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失速]]></ex>
+
+                            <ex><![CDATA[货摊]]></ex>
+
+                            <ex><![CDATA[摊位]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[large stall]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大排挡]]></ex>
+
+                            <ex><![CDATA[年夜排挡]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[market stall]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大牌檔]]></ex>
+
+                            <ex><![CDATA[街市档位]]></ex>
+
+                            <ex><![CDATA[街市台位]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

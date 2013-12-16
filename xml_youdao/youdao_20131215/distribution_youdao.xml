@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[distribution]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[分布]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪstrɪ'bjuːʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 分布；分配]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Distribution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[分配]]></ex>
+
+                            <ex><![CDATA[分布]]></ex>
+
+                            <ex><![CDATA[配送]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Binomial distribution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[二项分布]]></ex>
+
+                            <ex><![CDATA[二项分配]]></ex>
+
+                            <ex><![CDATA[二项式分布]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Uniform distribution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[均匀分布]]></ex>
+
+                            <ex><![CDATA[均匀分配]]></ex>
+
+                            <ex><![CDATA[连续型均匀分布]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

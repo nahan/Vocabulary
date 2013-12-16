@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>directory</key>
+
+<ps>dəˈrektəri</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/fd/ee/fdee29dcc1c9e36620e464b45de44801.mp3</pron>
+
+<ps>dɪˈrɛktəri, daɪ-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5f/8f/5f8f22b8cdbaeee8cf857673a9b6ba20.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>人名地址录，（电话）号码簿；（计算机文件或程序的）目录；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>指导的，指挥的；咨询的；管理的；
+
+</acceptation>
+
+<sent><orig>
+
+Working Directory: The application's working directory. By default, the directory containing the project file.
+
+</orig>
+
+<trans>
+
+工作目录：应用程序的工作目录。默认情况下，该目录包含项目文件。
+
+</trans></sent>
+
+<sent><orig>
+
+Multi-directory management, can be independent of each directory quotas, and switch to different management directory.
+
+</orig>
+
+<trans>
+
+多目录管理，每个目录都可以独立配额，并可切换到不同的管理目录。
+
+</trans></sent>
+
+<sent><orig>
+
+Search all designated files in the directory and the directory, saved to a file directory listing.
+
+</orig>
+
+<trans>
+
+搜索所有指定目录中的文件与目录，保存到一个文件。
+
+</trans></sent>
+
+<sent><orig>
+
+Deleting 'XX' will remove this directory. Are you sure you still want to delete this directory?
+
+</orig>
+
+<trans>
+
+删除'XX'将删除此目录。您确实想要删除此目录吗？
+
+</trans></sent>
+
+<sent><orig>
+
+Kelly's directory of merchants, manufactures and shippers is a general trades directory in two volumes.
+
+</orig>
+
+<trans>
+
+《凯利商人、制造商和货运行名录》是一种两卷本的一般贸易指南。
+
+</trans></sent>
+
+</dict>

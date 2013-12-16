@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>instance</key>
+
+<ps>'ɪnstəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/40/b7/40b732bb551057f9e584d9d97639439c.mp3</pron>
+
+<ps>ˈɪnstəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/71/23/7123a699d77db6479a1d8ece2c4f1c16.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>例子，实例；情况；要求，建议；[法]诉讼手续；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>举…为例；
+
+</acceptation>
+
+<sent><orig>
+
+Instance methods can access instance variables and instance methods directly.
+
+</orig>
+
+<trans>
+
+实例方法可以直接访问实例变量和实例方法。
+
+</trans></sent>
+
+<sent><orig>
+
+BW suit experienced generally preparation stage, prosecuting stage, first instance stage, second instance and third instance.
+
+</orig>
+
+<trans>
+
+细菌战诉讼案大致经历了准备阶段、起诉阶段、一审阶段、二审阶段、三审阶段，其结果以败诉告终。
+
+</trans></sent>
+
+<sent><orig>
+
+A delegate instance encapsulates a instance method.
+
+</orig>
+
+<trans>
+
+委托是函数的封装，它代表一“类”函数。
+
+</trans></sent>
+
+<sent><orig>
+
+If no such instance method is found, it continues with both instance and extension methods.
+
+</orig>
+
+<trans>
+
+如果未找到这样的实例方法，则编译器将使用实例方法和扩展方法继续进行编译。
+
+</trans></sent>
+
+<sent><orig>
+
+A delegate instance may encapsulate either static or instance method.
+
+</orig>
+
+<trans>
+
+委托实例可以封装静态或实例方法。
+
+</trans></sent>
+
+</dict>

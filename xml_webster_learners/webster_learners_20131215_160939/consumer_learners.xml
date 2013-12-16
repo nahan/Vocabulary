@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="consumer"> <hw highlight="yes">con*sum*er</hw> <sound><wav>consum04.wav</wav></sound> <pr>kənˈsu:mɚ, <it>Brit</it> kənˈsju:mɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>con*sum*ers</if></in> <def><gram>count</gram> <dt>:a person who buys goods and services <vi>Many <it>consumers</it> are still not comfortable making purchases on the Internet.</vi> <un>often used before another noun <vi><it>Consumer</it> spending is increasing.</vi> <vi><it>consumer</it> services</vi> <vi><it>consumer</it> demands/preferences</vi></un></dt></def></entry>
+
+	<entry id="consumer durables"> <hw>consumer durables</hw> <fl>noun</fl> <def><gram>plural</gram> <sl>Brit</sl> <dt>:<sx>durable goods</sx></dt></def></entry>
+
+	<entry id="consumer goods"> <hw>consumer goods</hw> <fl>noun</fl> <def><gram>plural</gram> <dt>:products that people buy for personal use or for use at home <vi>a range of <it>consumer goods</it>, from clothing to cameras to food</vi></dt></def></entry>
+
+	<entry id="consumer price index"> <hw>consumer price index</hw> <fl>noun</fl> <dro><dre>the consumer price index</dre> <def><sl>US</sl> <dt>:a list of prices of goods and services that shows how much prices have changed in a given period of time <un>abbr. <it>CPI</it></un> <ca>called also (<it>Brit</it>) <it>retail price index</it></ca></dt></def></dro></entry>
+
+</entry_list>

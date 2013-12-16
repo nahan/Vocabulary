@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[luck]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[运气]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lʌk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 运气；幸运；带来好运的东西]]></ex>
+
+                    <ex><![CDATA[vi. 靠运气，走运；凑巧碰上]]></ex>
+
+                    <ex><![CDATA[n. (Luck)人名；(德、瑞典)卢克；(英)勒克；(法)吕克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Luck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[运气]]></ex>
+
+                            <ex><![CDATA[好运]]></ex>
+
+                            <ex><![CDATA[幸运]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hard Luck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[倒霉命运]]></ex>
+
+                            <ex><![CDATA[演员在录音或摄像时因出错而需要重作]]></ex>
+
+                            <ex><![CDATA[不幸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[luck star]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幸运星]]></ex>
+
+                            <ex><![CDATA[侥幸星]]></ex>
+
+                            <ex><![CDATA[幸运之星]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

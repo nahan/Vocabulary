@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>convert</key>
+
+<ps>kən'vɜ:t</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/60/f1/60f197ea76a90c50da87dca214cf0657.mp3</pron>
+
+<ps>kənˈvɚt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/31/16/31168275dcaac634489082b54c4c66d0.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>（使）转变；使皈依；兑换，换算；侵占；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>经过转变；被改变；[橄榄球] 触地得分后得附加分；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>皈依者；改变宗教信仰者；
+
+</acceptation>
+
+<sent><orig>
+
+CONVERT Converts FAT volumes to NTFS. You cannot convert the current drive.
+
+</orig>
+
+<trans>
+
+将FAT卷转换为NTFS卷。不能转换当前驱动器。
+
+</trans></sent>
+
+<sent><orig>
+
+A. convert table from PDF to delimited text file that can be imported into database.
+
+</orig>
+
+<trans>
+
+转换表，从PDF格式，以分隔符的文本文件可以导入到数据库中。
+
+</trans></sent>
+
+<sent><orig>
+
+Active Tracking filters convert this dirty AC power into a clean, reliable source of energy.
+
+</orig>
+
+<trans>
+
+有源跟踪滤波器将交流电源转换成清洁、可靠的能量来源。
+
+</trans></sent>
+
+<sent><orig>
+
+He is a convert to Catholicism.
+
+</orig>
+
+<trans>
+
+他改信天主教。
+
+</trans></sent>
+
+<sent><orig>
+
+The female images convert from traditionally looking upwards males to looking flatly, overlooking and overstepping males.
+
+</orig>
+
+<trans>
+
+女性形象则由传统的仰视男性向平视、俯瞰、超越男性的转变。
+
+</trans></sent>
+
+</dict>

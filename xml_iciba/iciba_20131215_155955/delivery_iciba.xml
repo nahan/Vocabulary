@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>delivery</key>
+
+<ps>dɪˈlɪvəri</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/0b/7c/0b7c19005ac0d72e7eed1d1c2eaef50b.mp3</pron>
+
+<ps>dɪˈlɪvəri, -ˈlɪvri</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/71/08/7108537956afa2a526f96cc9da7b0c36.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>传送，投递；[法]（正式）交付；分娩；讲演；
+
+</acceptation>
+
+<sent><orig>
+
+There are two methods for the delivery in this contest, namely written delivery and on-line delivery.
+
+</orig>
+
+<trans>
+
+本次大赛作品提交方式主要为书面提交和在线提交两种。
+
+</trans></sent>
+
+<sent><orig>
+
+Monitor delivery and remote warehouse inventory to insure customer delivery.
+
+</orig>
+
+<trans>
+
+监控成品发运和异地库存，确保满足客户供货。
+
+</trans></sent>
+
+<sent><orig>
+
+Confirm delivery to OE internal, follow material, production schedule, improvement on time delivery rate.
+
+</orig>
+
+<trans>
+
+确定交货期给订单执行，跟进物料，生产计划，提高准时交货率。
+
+</trans></sent>
+
+<sent><orig>
+
+Tracing the delivery process to ensure the delivery on time.
+
+</orig>
+
+<trans>
+
+协助销售工程师、跟踪发货进程以确保准时发货。
+
+</trans></sent>
+
+<sent><orig>
+
+Input order into SAP system, and print delivery form to warehouse for delivery.
+
+</orig>
+
+<trans>
+
+准确输入客户订单到系统中，并打印送货单据给仓库进行备货和送货。
+
+</trans></sent>
+
+</dict>

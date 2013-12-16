@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rough]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[粗糙的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rʌf]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 艰苦；高低不平的地面；未经加工的材料；粗糙的部分]]></ex>
+
+                    <ex><![CDATA[adj. 粗糙的；粗略的；粗野的；艰苦的；未经加工的]]></ex>
+
+                    <ex><![CDATA[vt. 使粗糙；粗暴对待；草拟]]></ex>
+
+                    <ex><![CDATA[adv. 粗糙地；粗略地；粗暴地]]></ex>
+
+                    <ex><![CDATA[vi. 举止粗野]]></ex>
+
+                    <ex><![CDATA[n. (Rough)人名；(英)拉夫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Rough]]></key>
+
+            <value>
+
+                            <ex><![CDATA[我爱芳邻]]></ex>
+
+                            <ex><![CDATA[粗糙的]]></ex>
+
+                            <ex><![CDATA[粗略的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rough handling]]></key>
+
+            <value>
+
+                            <ex><![CDATA[粗率的处理]]></ex>
+
+                            <ex><![CDATA[粗暴搬运]]></ex>
+
+                            <ex><![CDATA[野蛮装卸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rough diamond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[钻坯]]></ex>
+
+                            <ex><![CDATA[指“没加工的钻石”]]></ex>
+
+                            <ex><![CDATA[可造之才]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

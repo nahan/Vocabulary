@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[discount]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[折扣]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dɪskaʊnt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 折扣；贴现率]]></ex>
+
+                    <ex><![CDATA[vt. 打折扣；将…贴现；贬损；低估；忽视]]></ex>
+
+                    <ex><![CDATA[vi. 贴现；打折扣出售商品]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Discount]]></key>
+
+            <value>
+
+                            <ex><![CDATA[折扣]]></ex>
+
+                            <ex><![CDATA[贴现]]></ex>
+
+                            <ex><![CDATA[打折扣]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[quantity discount]]></key>
+
+            <value>
+
+                            <ex><![CDATA[数量折扣]]></ex>
+
+                            <ex><![CDATA[大批量折扣]]></ex>
+
+                            <ex><![CDATA[折扣量]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[special discount]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特别折扣]]></ex>
+
+                            <ex><![CDATA[特价区]]></ex>
+
+                            <ex><![CDATA[出格扣头]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

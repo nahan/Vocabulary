@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stare]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[盯着看]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[steə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 凝视；注视]]></ex>
+
+                    <ex><![CDATA[vt. 凝视，盯着看]]></ex>
+
+                    <ex><![CDATA[vi. 凝视，盯着看；显眼]]></ex>
+
+                    <ex><![CDATA[n. (Stare)人名；(瑞典)斯塔勒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[stare]]></key>
+
+            <value>
+
+                            <ex><![CDATA[凝视]]></ex>
+
+                            <ex><![CDATA[盯视]]></ex>
+
+                            <ex><![CDATA[盯着看]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[stare decisis]]></key>
+
+            <value>
+
+                            <ex><![CDATA[遵循先例]]></ex>
+
+                            <ex><![CDATA[遵从前例]]></ex>
+
+                            <ex><![CDATA[遵循先例原则]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[stare into]]></key>
+
+            <value>
+
+                            <ex><![CDATA[凝视]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

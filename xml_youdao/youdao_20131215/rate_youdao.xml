@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[率]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[reɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 比率，率；速度；价格；等级]]></ex>
+
+                    <ex><![CDATA[vt. 认为；估价；责骂]]></ex>
+
+                    <ex><![CDATA[vi. 责骂；被评价]]></ex>
+
+                    <ex><![CDATA[n. (Rate)人名；(法、塞)拉特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[比率]]></ex>
+
+                            <ex><![CDATA[率]]></ex>
+
+                            <ex><![CDATA[价格]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Exchange rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[汇率]]></ex>
+
+                            <ex><![CDATA[兑换率]]></ex>
+
+                            <ex><![CDATA[外汇率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sampling rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[采样率]]></ex>
+
+                            <ex><![CDATA[取样率]]></ex>
+
+                            <ex><![CDATA[取样频率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

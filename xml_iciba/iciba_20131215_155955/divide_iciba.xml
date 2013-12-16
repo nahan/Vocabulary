@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>divide</key>
+
+<ps>dɪ'vaɪd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/9a/2c/9a2ccf756bc0216a6ecda715d66f3920.mp3</pron>
+
+<ps>dɪˈvaɪd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/95/bd/95bd4d656164278daf3f83b7099a8529.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>分；划分；分离；（使）产生分歧；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>分水岭，分界线；分配；
+
+</acceptation>
+
+<sent><orig>
+
+We'll divide up the work (divide the work up) among us.
+
+</orig>
+
+<trans>
+
+我们将分担工作。
+
+</trans></sent>
+
+<sent><orig>
+
+Collywobbles divide season, divide time.
+
+</orig>
+
+<trans>
+
+肚子疼不分季节，不分早晚。
+
+</trans></sent>
+
+<sent><orig>
+
+To divide by 12, the trick is divide by 4 first, then by 3.
+
+</orig>
+
+<trans>
+
+为了完成处理12，我们采用以下技巧，先将数除以4，然后再除以3。
+
+</trans></sent>
+
+<sent><orig>
+
+Their cent will divide go dividing not divide evenly, be in so grouse each other, brawl.
+
+</orig>
+
+<trans>
+
+他们分来分去分不匀，所以在互相埋怨、争吵。
+
+</trans></sent>
+
+<sent><orig>
+
+Code with a divide-by zero error fails only if you divide by zero.
+
+</orig>
+
+<trans>
+
+只有在被零除的时候，代码才会发生被零除的错误。
+
+</trans></sent>
+
+</dict>

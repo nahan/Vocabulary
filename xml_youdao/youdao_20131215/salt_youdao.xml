@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[salt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[盐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɔːlt; sɒlt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 盐；风趣，刺激性]]></ex>
+
+                    <ex><![CDATA[adj. 咸水的；含盐的，咸味的；盐腌的；猥亵的]]></ex>
+
+                    <ex><![CDATA[vt. 用盐腌；给…加盐；将盐撒在道路上使冰或雪融化]]></ex>
+
+                    <ex><![CDATA[n. (Salt)人名；(西)萨尔特；(英)索尔特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Salt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特工绍特]]></ex>
+
+                            <ex><![CDATA[食盐]]></ex>
+
+                            <ex><![CDATA[盐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Acid salt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[酸式盐]]></ex>
+
+                            <ex><![CDATA[酸性盐]]></ex>
+
+                            <ex><![CDATA[酸盐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sea salt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[食用海盐]]></ex>
+
+                            <ex><![CDATA[海盐]]></ex>
+
+                            <ex><![CDATA[海盐餐厅]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cookie]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[饼干]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kʊkɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 饼干；小甜点]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Cookie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[曲奇]]></ex>
+
+                            <ex><![CDATA[小甜饼]]></ex>
+
+                            <ex><![CDATA[饼干]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sugar Cookie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[糖果曲奇]]></ex>
+
+                            <ex><![CDATA[曲奇饼干]]></ex>
+
+                            <ex><![CDATA[皆大欢喜]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[butter cookie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奶油曲奇饼]]></ex>
+
+                            <ex><![CDATA[牛油曲奇]]></ex>
+
+                            <ex><![CDATA[牛油曲奇饼]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

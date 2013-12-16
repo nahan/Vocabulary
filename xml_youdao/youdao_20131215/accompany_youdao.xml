@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[accompany]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[陪]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'kʌmpənɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 陪伴，伴随；伴奏]]></ex>
+
+                    <ex><![CDATA[vi. 伴奏，伴唱]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[accompany]]></key>
+
+            <value>
+
+                            <ex><![CDATA[陪伴]]></ex>
+
+                            <ex><![CDATA[伴随]]></ex>
+
+                            <ex><![CDATA[陪同]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[to accompany]]></key>
+
+            <value>
+
+                            <ex><![CDATA[伴奏]]></ex>
+
+                            <ex><![CDATA[陪伴]]></ex>
+
+                            <ex><![CDATA[陪同下]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lonely accompany]]></key>
+
+            <value>
+
+                            <ex><![CDATA[孤独的陪伴]]></ex>
+
+                            <ex><![CDATA[孤独地陪]]></ex>
+
+                            <ex><![CDATA[陪伴寂寞]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

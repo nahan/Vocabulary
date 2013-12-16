@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>gram</key>
+
+<ps>ɡræm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/1a/3b/1a3bf9aa031e174c9bf83dca2e17b43a.mp3</pron>
+
+<ps>ɡræm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c5/bc/c5bc23dc24c013b95c88cf3aa7ab4e17.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>绿豆；鹰嘴豆；绿豆种子；克；
+
+</acceptation>
+
+<sent><orig>
+
+A Chinese speech recognition method based on character-based N-gram model is proposed in this thesis.
+
+</orig>
+
+<trans>
+
+本文提出了基于字的N-gram模型(characterbased N-gram model)的汉语语音识别方法，推导了模型参数的估值公式，并给出了模型的训练和识别算法。
+
+</trans></sent>
+
+<sent><orig>
+
+Results In those pathogen there 52%is Gram-positive bacteria, there 48%is Gram-negative bacteria.
+
+</orig>
+
+<trans>
+
+结果致病菌中革兰氏阳性菌占52%，革兰氏阴性菌占48%。
+
+</trans></sent>
+
+<sent><orig>
+
+The results shows that the ratio of gram-positive germs and gram-negative germs was 1.53:1.
+
+</orig>
+
+<trans>
+
+结果表明：分离菌株中，革兰氏阳性菌与革兰氏阴性菌之比为1.53：1。
+
+</trans></sent>
+
+<sent><orig>
+
+Gram-negative becillus. fungi, gram-positive bacillus, escherichia coli, candida albicans, guam-positive coccus accounted for 56.1%,29.3%,14.6%,26.8%,22.0%,12.7%, respectively.
+
+</orig>
+
+<trans>
+
+培养出革兰氏阴性杆菌56.1%,真菌29.3%,革兰氏阳性球菌14.6%。 其中大肠埃希菌26.8%,白假丝酵母22.0%,阴沟肠杆菌12.7%。
+
+</trans></sent>
+
+<sent><orig>
+
+Results: The common pathogens in CRS were fungi (41.1%),Gram-positive cocci (35.6%)and Gram-negtive bacilli (23.3%). Non-C.
+
+</orig>
+
+<trans>
+
+结果：CRS常见的致病菌依次为真菌(41.1%),革兰阳性球菌(35.6%),革兰阴性杆菌(23.3%)。
+
+</trans></sent>
+
+</dict>

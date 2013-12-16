@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[swap]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[交换]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[swɔp, swɔ:p]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 交换；交换之物]]></ex>
+
+                    <ex><![CDATA[vt. 与...交换；以...作交换]]></ex>
+
+                    <ex><![CDATA[vi. 交换；交易]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Swap]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交换]]></ex>
+
+                            <ex><![CDATA[掉期]]></ex>
+
+                            <ex><![CDATA[置换]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[swap transaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[调期交易]]></ex>
+
+                            <ex><![CDATA[掉期交易]]></ex>
+
+                            <ex><![CDATA[互惠信贷交易]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[swap file]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交换文件]]></ex>
+
+                            <ex><![CDATA[置换档]]></ex>
+
+                            <ex><![CDATA[互换文件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

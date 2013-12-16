@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[remark]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[备注]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'mɑːk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 注意；言辞]]></ex>
+
+                    <ex><![CDATA[vt. 评论；觉察]]></ex>
+
+                    <ex><![CDATA[vi. 谈论]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Remark]]></key>
+
+            <value>
+
+                            <ex><![CDATA[备注]]></ex>
+
+                            <ex><![CDATA[评论]]></ex>
+
+                            <ex><![CDATA[芯片频率重标识]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[remark on]]></key>
+
+            <value>
+
+                            <ex><![CDATA[评论]]></ex>
+
+                            <ex><![CDATA[谈论]]></ex>
+
+                            <ex><![CDATA[议论]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[eloquent remark]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雄辩的演讲]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

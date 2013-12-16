@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[resort]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[度假胜地]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'zɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 凭借，手段；度假胜地；常去之地]]></ex>
+
+                    <ex><![CDATA[vi. 求助，诉诸；常去；采取某手段或方法]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Resort]]></key>
+
+            <value>
+
+                            <ex><![CDATA[度假村]]></ex>
+
+                            <ex><![CDATA[度假酒店]]></ex>
+
+                            <ex><![CDATA[求助]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[summer resort]]></key>
+
+            <value>
+
+                            <ex><![CDATA[避暑胜地]]></ex>
+
+                            <ex><![CDATA[避暑地]]></ex>
+
+                            <ex><![CDATA[避暑山庄]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sundance Resort]]></key>
+
+            <value>
+
+                            <ex><![CDATA[日舞渡假村]]></ex>
+
+                            <ex><![CDATA[度假村]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

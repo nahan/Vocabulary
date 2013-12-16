@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="butcher[1]"> <hw hindex="1">butch*er</hw> <sound><wav>butche01.wav</wav></sound> <pr>ˈbʊtʃɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>butch*ers</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:someone who cuts and sells meat in a shop</dt> <sn>b</sn> <dt>:someone who kills animals and prepares their meat to be eaten</dt> <sn>2</sn> <dt>:a shop that sells meat <vi>The town was small but had a grocery store and a <it>butcher</it> (store/shop).</vi></dt> <sn>3</sn> <dt>:someone who kills a lot of people or animals in a brutal or cruel way <vi>They are a bunch of <it>butchers</it> [=<it>murderers</it>] who gained power by slaughtering their enemies.</vi></dt> <sn>4</sn> <ssl>informal</ssl> <dt>:someone who does something very roughly and badly <vi>That surgeon is a <it>butcher</it>! [=a terrible surgeon]</vi></dt></def> <dro><dre>have/take a butcher's</dre> <def><sl>Brit</sl> <sl>informal</sl> <dt>:to look at something <vi>This may be what we need. <it>Have a butcher's</it>.</vi></dt></def></dro></entry>
+
+	<entry id="butcher[2]"> <hw hindex="2">butcher</hw> <altpr>ˈbʊtʃɚ</altpr> <fl>verb</fl> <in><if>butchers</if></in> <in><if>butchered</if></in> <in><if>butcher*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to kill (an animal) and prepare its meat for sale <vi>They've hired someone to <it>butcher</it> the hogs.</vi></dt> <sn>2</sn> <dt>:to kill (people or animals) in a brutal and cruel way <vi>Many innocent people were <it>butchered</it> under his regime.</vi></dt> <sn>3</sn> <ssl>informal</ssl> <dt>:to do (something) very badly :to make a mess of (something) <vi>The band has <it>butchered</it> my favorite song.</vi></dt></def></entry>
+
+	<entry id="butch"> <hw>butch</hw> <sound><wav>butch001.wav</wav></sound> <pr>ˈbʊtʃ</pr> <fl>adjective</fl> <def><gram>more butch; most butch</gram> <sl>informal</sl> <sn>1</sn> <ssl>sometimes offensive</ssl> <dt>:having a very masculine appearance and way of behaving <un>used especially to describe homosexual women and men</un></dt> <sn>2</sn> <ssl>of hair</ssl> <dt>:cut very short <vi>a <it>butch</it> haircut</vi></dt></def></entry>
+
+</entry_list>

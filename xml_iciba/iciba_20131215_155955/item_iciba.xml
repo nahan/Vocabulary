@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>item</key>
+
+<ps>'aɪtəm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b0/8e/b08e8fe815b1298862d50b2f54667c79.mp3</pron>
+
+<ps>ˈaɪtəm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/44/7b/447b7147e84be512208dcc0995d67ebc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>条，条款；项目；一则；一件商品（或物品）；
+
+</acceptation>
+
+<pos>adv.</pos>
+
+<acceptation>又，同上；
+
+</acceptation>
+
+<sent><orig>
+
+TO move to an item in a list or item, press first letter of the item.
+
+</orig>
+
+<trans>
+
+移动到列表中的项目或一个项目，按一下项目名称的第一个字母对应键。
+
+</trans></sent>
+
+<sent><orig>
+
+The item margin is the distance (in pixels) between the item edge and the item data.
+
+</orig>
+
+<trans>
+
+条目边距是条目边界和条目数据之间的距离（以像素点数计）。
+
+</trans></sent>
+
+<sent><orig>
+
+Conflict Message: Conflicting edits were made to this item. Open the item to resolve this conflict.
+
+</orig>
+
+<trans>
+
+冲突信息：在此项目上做了冲突编辑。请打开该项目解决此冲突。
+
+</trans></sent>
+
+<sent><orig>
+
+Complete each item applicable to your address. If any item does not apply. Leave blank.
+
+</orig>
+
+<trans>
+
+填报地址时，祇需填写适用之空格，不适用者留空。
+
+</trans></sent>
+
+<sent><orig>
+
+There's an important news item / item of news in today's paper.
+
+</orig>
+
+<trans>
+
+今天报上有一则重要新闻。
+
+</trans></sent>
+
+</dict>

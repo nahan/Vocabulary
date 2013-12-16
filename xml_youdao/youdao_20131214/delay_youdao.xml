@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[delay]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[延迟]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'leɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 延期；耽搁；被耽搁或推迟的时间]]></ex>
+
+                    <ex><![CDATA[vt. 延期；耽搁]]></ex>
+
+                    <ex><![CDATA[vi. 延期；耽搁]]></ex>
+
+                    <ex><![CDATA[n. (Delay)人名；(英)迪莱；(法)德莱]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Delay]]></key>
+
+            <value>
+
+                            <ex><![CDATA[延迟]]></ex>
+
+                            <ex><![CDATA[延时]]></ex>
+
+                            <ex><![CDATA[耽搁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Shapiro delay]]></key>
+
+            <value>
+
+                            <ex><![CDATA[引力时间延迟效应]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Language delay]]></key>
+
+            <value>
+
+                            <ex><![CDATA[语言发展迟缓]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

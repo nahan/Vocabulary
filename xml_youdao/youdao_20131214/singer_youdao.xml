@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[singer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[歌手]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɪŋə(r)]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 歌手，歌唱家]]></ex>
+
+                    <ex><![CDATA[n. (Singer)人名；(英、德、瑞典、塞、罗、捷、葡、土)辛格；(法)桑热]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Singer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[歌手]]></ex>
+
+                            <ex><![CDATA[歌唱家]]></ex>
+
+                            <ex><![CDATA[美国胜家]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pop singer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[流行歌手]]></ex>
+
+                            <ex><![CDATA[流行音乐]]></ex>
+
+                            <ex><![CDATA[盛行歌手]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lead singer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主唱]]></ex>
+
+                            <ex><![CDATA[主唱者]]></ex>
+
+                            <ex><![CDATA[主歌手]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

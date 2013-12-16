@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[continuous]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[连续]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'tɪnjʊəs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 连续的，持续的；继续的；连绵不断的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Continuous]]></key>
+
+            <value>
+
+                            <ex><![CDATA[连续]]></ex>
+
+                            <ex><![CDATA[不断]]></ex>
+
+                            <ex><![CDATA[持续]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[continuous spectrum]]></key>
+
+            <value>
+
+                            <ex><![CDATA[连续光谱]]></ex>
+
+                            <ex><![CDATA[连续谱]]></ex>
+
+                            <ex><![CDATA[连续频谱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[continuous tone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[连续调]]></ex>
+
+                            <ex><![CDATA[连续调原稿]]></ex>
+
+                            <ex><![CDATA[连续色调]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[offence]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[犯罪]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'fens]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 犯罪；违反；过错；攻击]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Offence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[英甲]]></ex>
+
+                            <ex><![CDATA[犯罪]]></ex>
+
+                            <ex><![CDATA[冒犯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[disciplinary offence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[违纪行为]]></ex>
+
+                            <ex><![CDATA[违反纪律行为]]></ex>
+
+                            <ex><![CDATA[违反纪律罪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[implicated offence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[牵连犯]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

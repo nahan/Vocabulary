@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[principle]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[原则]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prɪnsɪp(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 原理，原则；主义，道义；本质，本义；根源，源泉]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Principle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[原则]]></ex>
+
+                            <ex><![CDATA[原理]]></ex>
+
+                            <ex><![CDATA[法则]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Equivalence principle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[等效原理]]></ex>
+
+                            <ex><![CDATA[等价原理]]></ex>
+
+                            <ex><![CDATA[等效性原理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cosmological principle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宇宙学原理]]></ex>
+
+                            <ex><![CDATA[宇宙论原则]]></ex>
+
+                            <ex><![CDATA[大宇宙定理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

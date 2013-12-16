@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[producer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[生产商]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prə'djuːsə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 制作人，制片人；生产者；发生器]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Producer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[制片人]]></ex>
+
+                            <ex><![CDATA[制作人]]></ex>
+
+                            <ex><![CDATA[生产者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Film producer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电影监制]]></ex>
+
+                            <ex><![CDATA[电影制片人]]></ex>
+
+                            <ex><![CDATA[制片人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[producer equilibrium]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生产者均衡]]></ex>
+
+                            <ex><![CDATA[生产者平衡]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

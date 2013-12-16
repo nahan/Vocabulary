@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>transform</key>
+
+<ps>træns'fɔ:m</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6d/33/6d330fa99ea079bc22f629872cb0677e.mp3</pron>
+
+<ps>trænsˈfɔrm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d8/25/d825c53d89d9cacb3e034bcb138f3d37.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>改变；改观；变换；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>改变；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>[数]变换式；
+
+</acceptation>
+
+<sent><orig>
+
+DCT is based on FFT (Fast Fourier Transform), so integers FFT transform must be structured firstly.
+
+</orig>
+
+<trans>
+
+DCT变换采取基于FFT(fast Fourier transform)的快速算法，所以，首先寻找整数FFT变换。
+
+</trans></sent>
+
+<sent><orig>
+
+D graphics translation transform, transform scaling, rotation transform, transform the wrong cut and symmetry transformation process.
+
+</orig>
+
+<trans>
+
+实现二维图形的平移变换、放缩变换、旋转变换、错切变换及对称变换的程序。
+
+</trans></sent>
+
+<sent><orig>
+
+The development of time-frequency analysis has three periods: Fourier transform, short-time Fourier transform and wavelet transform.
+
+</orig>
+
+<trans>
+
+时频分析方法经历了富氏变换、短时富利叶变换、小波变换三个阶段。
+
+</trans></sent>
+
+<sent><orig>
+
+This procedure realize orthogonal transformation images, including Fourier transform, discrete cosine transform, Walsh transform.
+
+</orig>
+
+<trans>
+
+本程序实现图像的正交变换，包括傅立叶变换，离散余弦变换，沃尔什变换。
+
+</trans></sent>
+
+<sent><orig>
+
+The selected transform file cannot be found. Please select a different transform or uncheck Apply Transform.
+
+</orig>
+
+<trans>
+
+无法找到所选的转换文件。请选择其他转换或取消选中“应用转换”。
+
+</trans></sent>
+
+</dict>

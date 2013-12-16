@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[plane]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[飞机]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pleɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 飞机；平面；程度，水平]]></ex>
+
+                    <ex><![CDATA[adj. 平的；平面的]]></ex>
+
+                    <ex><![CDATA[vt. 刨平；用刨子刨；掠过水面]]></ex>
+
+                    <ex><![CDATA[vi. 刨；乘飞机旅行；翱翔]]></ex>
+
+                    <ex><![CDATA[n. (Plane)人名；(塞、瑞典、法)普拉内]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Plane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞机]]></ex>
+
+                            <ex><![CDATA[平面]]></ex>
+
+                            <ex><![CDATA[机上]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Paper plane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[纸飞机]]></ex>
+
+                            <ex><![CDATA[生活随想]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ground plane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[接地层]]></ex>
+
+                            <ex><![CDATA[地平面]]></ex>
+
+                            <ex><![CDATA[水平投影]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

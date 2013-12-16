@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[contemporary]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[当代]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'temp(ə)r(ər)ɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 同时代的人；同时期的东西]]></ex>
+
+                    <ex><![CDATA[adj. 当代的；同时代的；属于同一时期的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[contemporary]]></key>
+
+            <value>
+
+                            <ex><![CDATA[当代的]]></ex>
+
+                            <ex><![CDATA[同时代的]]></ex>
+
+                            <ex><![CDATA[现代]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Contemporary design]]></key>
+
+            <value>
+
+                            <ex><![CDATA[现代风格设计]]></ex>
+
+                            <ex><![CDATA[当代设计]]></ex>
+
+                            <ex><![CDATA[当代设计研究生课程]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Contemporary Celtic]]></key>
+
+            <value>
+
+                            <ex><![CDATA[当代凯尔特]]></ex>
+
+                            <ex><![CDATA[当代凯尔特音乐]]></ex>
+
+                            <ex><![CDATA[风格]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

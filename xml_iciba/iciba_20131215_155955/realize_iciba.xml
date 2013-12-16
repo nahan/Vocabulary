@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>realize</key>
+
+<ps>'ri:əlaɪz</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/73/f4/73f4450cc10d46ddafef09ed338e68c6.mp3</pron>
+
+<ps>ˈriəˌlaɪz</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/7d/4e/7d4e6b66b4d15185ff15858e524730c8.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>实现；了解，意识到；（所担心的事）发生；以…价格卖出；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>变卖，赚得；
+
+</acceptation>
+
+<sent><orig>
+
+The verb in question is written variously realize and realise.
+
+</orig>
+
+<trans>
+
+我们正在讲的这个动词可以分别写成 realize和realise 两种形式。
+
+</trans></sent>
+
+<sent><orig>
+
+Could versus signal passing programme came realize frequency de multiplication, could realize precise frequency synthesis output.
+
+</orig>
+
+<trans>
+
+可以对信号通过编程来实现分频，从而可以实现精确的频率合成输出。
+
+</trans></sent>
+
+<sent><orig>
+
+Only then helps them to realize the value toable to realize the self-value.
+
+</orig>
+
+<trans>
+
+只有帮助他们实现价值才能实现自我价值。
+
+</trans></sent>
+
+<sent><orig>
+
+Color realize static edit box and color box, and gives concrete steps to realize.
+
+</orig>
+
+<trans>
+
+实现彩色编辑框和彩色静态框，并给出了具体实现步骤。
+
+</trans></sent>
+
+<sent><orig>
+
+Realize ECM generation adopting DES algorithm and realize EMM generationadopting RSA algorithm.
+
+</orig>
+
+<trans>
+
+分别采用DES 算法和RSA 算法，实现了条件接收系统授权控制消息和授权管理消息的生成。
+
+</trans></sent>
+
+</dict>

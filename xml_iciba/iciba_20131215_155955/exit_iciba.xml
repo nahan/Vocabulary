@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>exit</key>
+
+<ps>'eksɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4d/7d/4d7d972ff48eadcc8398af06730367d3.mp3</pron>
+
+<ps>ˈɛɡzɪt, ˈɛksɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f2/4f/f24f62eeb789199b9b2e467df3b1876b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>出口，通道；退场；退去，退出；死亡；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>离开；退出；退场；去世；
+
+</acceptation>
+
+<sent><orig>
+
+From terminal emulation uses EXIT command.
+
+</orig>
+
+<trans>
+
+退出终端仿真器使用EXIT命令。
+
+</trans></sent>
+
+<sent><orig>
+
+Enter configuration commands, one per line. End with command exit!
+
+</orig>
+
+<trans>
+
+输入配置命令，以行为单位，以EXIT命令结束！
+
+</trans></sent>
+
+<sent><orig>
+
+When you press exit, the screen return to normal live video display of the far end.
+
+</orig>
+
+<trans>
+
+当按Exit时，屏幕会返回正常的远端实时视频显示状态。
+
+</trans></sent>
+
+<sent><orig>
+
+Four exits. Sorted by direction: South-east exit, north-east exit, south-west exit and north-west exit.
+
+</orig>
+
+<trans>
+
+有4个。按方向分为：东南出口、东北出口、西南出口、西北出口。
+
+</trans></sent>
+
+<sent><orig>
+
+The supplier will be eligible to exit Containment after meeting the established exit criteria.
+
+</orig>
+
+<trans>
+
+供应商有资格退出可控制策略，在满足已制定的退出标准后。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hurt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[伤害]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɜːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 痛苦；危害；痛苦的原因]]></ex>
+
+                    <ex><![CDATA[vt. 使受伤；损害；使疼痛；使痛心]]></ex>
+
+                    <ex><![CDATA[adj. 受伤的；痛苦的；受损的]]></ex>
+
+                    <ex><![CDATA[vi. 感到疼痛；有坏处；带来痛苦]]></ex>
+
+                    <ex><![CDATA[n. (Hurt)人名；(德、匈、捷)胡特；(英)赫特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Hurt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[伤害]]></ex>
+
+                            <ex><![CDATA[使受伤]]></ex>
+
+                            <ex><![CDATA[受伤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[get hurt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[受伤]]></ex>
+
+                            <ex><![CDATA[受伤了]]></ex>
+
+                            <ex><![CDATA[爱了点伤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Love Hurt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[情伤]]></ex>
+
+                            <ex><![CDATA[爱太伤人]]></ex>
+
+                            <ex><![CDATA[爱伤]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

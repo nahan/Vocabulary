@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[log]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[日志]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lɒg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 记录；航行日志；原木]]></ex>
+
+                    <ex><![CDATA[vt. 切；伐木；航行]]></ex>
+
+                    <ex><![CDATA[vi. 伐木]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Log]]></key>
+
+            <value>
+
+                            <ex><![CDATA[日志]]></ex>
+
+                            <ex><![CDATA[记录]]></ex>
+
+                            <ex><![CDATA[原木]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[log out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[注销]]></ex>
+
+                            <ex><![CDATA[登出]]></ex>
+
+                            <ex><![CDATA[退出系统]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[system log]]></key>
+
+            <value>
+
+                            <ex><![CDATA[系统日志]]></ex>
+
+                            <ex><![CDATA[系统记录]]></ex>
+
+                            <ex><![CDATA[系统日志档案]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

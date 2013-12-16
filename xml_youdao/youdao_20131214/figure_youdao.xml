@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[figure]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[图]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fɪgə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 数字；人物；图形；价格；（人的）体形；画像]]></ex>
+
+                    <ex><![CDATA[vt. 计算；认为；描绘；象征]]></ex>
+
+                    <ex><![CDATA[vi. 计算；出现；扮演角色]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[figure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[人物]]></ex>
+
+                            <ex><![CDATA[数字]]></ex>
+
+                            <ex><![CDATA[体形]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[figure out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[计算出]]></ex>
+
+                            <ex><![CDATA[估计]]></ex>
+
+                            <ex><![CDATA[想出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Noise figure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[噪声系数]]></ex>
+
+                            <ex><![CDATA[噪声指数]]></ex>
+
+                            <ex><![CDATA[噪声因数]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

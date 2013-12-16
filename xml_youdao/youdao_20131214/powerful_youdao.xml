@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[powerful]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[强大的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['paʊəfʊl; -f(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 强大的；强有力的]]></ex>
+
+                    <ex><![CDATA[adv. 很；非常]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[powerful]]></key>
+
+            <value>
+
+                            <ex><![CDATA[强大的]]></ex>
+
+                            <ex><![CDATA[强劲]]></ex>
+
+                            <ex><![CDATA[有力的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Powerful charge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[更多的费用]]></ex>
+
+                            <ex><![CDATA[强力冲锋]]></ex>
+
+                            <ex><![CDATA[强力突击]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[powerful remedy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可星]]></ex>
+
+                            <ex><![CDATA[克星]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

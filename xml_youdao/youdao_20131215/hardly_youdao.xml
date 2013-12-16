@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hardly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[几乎没有]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['hɑːdlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 几乎不，简直不；刚刚]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[hardly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[几乎不]]></ex>
+
+                            <ex><![CDATA[刚刚]]></ex>
+
+                            <ex><![CDATA[几乎没有]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hardly ever]]></key>
+
+            <value>
+
+                            <ex><![CDATA[几乎不]]></ex>
+
+                            <ex><![CDATA[很少]]></ex>
+
+                            <ex><![CDATA[几乎从不]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hardly when]]></key>
+
+            <value>
+
+                            <ex><![CDATA[几乎未来得及]]></ex>
+
+                            <ex><![CDATA[刚一…就]]></ex>
+
+                            <ex><![CDATA[几乎未来得及就]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

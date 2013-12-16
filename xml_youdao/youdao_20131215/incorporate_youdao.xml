@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[incorporate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[合并]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'kɔːpəreɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 包含，吸收；体现；把……合并]]></ex>
+
+                    <ex><![CDATA[adj. 合并的；一体化的；组成公司的]]></ex>
+
+                    <ex><![CDATA[vi. 合并；混合；组成公司]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[incorporate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[结合]]></ex>
+
+                            <ex><![CDATA[合并]]></ex>
+
+                            <ex><![CDATA[包含]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Incorporate Into]]></key>
+
+            <value>
+
+                            <ex><![CDATA[并入]]></ex>
+
+                            <ex><![CDATA[把什么并入]]></ex>
+
+                            <ex><![CDATA[使从属于]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[incorporate with]]></key>
+
+            <value>
+
+                            <ex><![CDATA[混合]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

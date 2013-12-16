@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[morning]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[早....]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɔːnɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 早晨；黎明；初期]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Morning]]></key>
+
+            <value>
+
+                            <ex><![CDATA[早晨]]></ex>
+
+                            <ex><![CDATA[早上]]></ex>
+
+                            <ex><![CDATA[上午]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Good morning]]></key>
+
+            <value>
+
+                            <ex><![CDATA[早上好]]></ex>
+
+                            <ex><![CDATA[早安]]></ex>
+
+                            <ex><![CDATA[早晨好]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[New Morning]]></key>
+
+            <value>
+
+                            <ex><![CDATA[清晨]]></ex>
+
+                            <ex><![CDATA[新晨]]></ex>
+
+                            <ex><![CDATA[黄昏]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

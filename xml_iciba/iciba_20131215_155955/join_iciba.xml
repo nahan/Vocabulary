@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>join</key>
+
+<ps>dʒɔɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/83/c4/83c49f1737892a312c6c5d24419e0cdf.mp3</pron>
+
+<ps>dʒɔɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/73/1b/731b886d80d2ea138da54d30f43b2005.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>连接；联结；加入；参加；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>结合；参与；上（火车、飞机等）；上（路）；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>连接；结合；接合处；接合点；
+
+</acceptation>
+
+<sent><orig>
+
+The Fork-Join structure is one of the basic modeling structures for parallel processing.
+
+</orig>
+
+<trans>
+
+fork-join任务图是一种并行处理的基本结构。
+
+</trans></sent>
+
+<sent><orig>
+
+To combine data from multiple table-valued objects, you use the JOIN operation from SQL.
+
+</orig>
+
+<trans>
+
+若要组合来自多个表值对象的数据，可使用SQL的JOIN操作。
+
+</trans></sent>
+
+<sent><orig>
+
+A JOIN or SUBST command cannot be used for a drive that contains previously joined drives.
+
+</orig>
+
+<trans>
+
+包含先前加入驱动器的驱动器无法使用JOIN或subst命令。
+
+</trans></sent>
+
+<sent><orig>
+
+The legislation join between administration punishment and criminal punishment Include content join and formal join.
+
+</orig>
+
+<trans>
+
+行政处罚与刑事处罚立法上的衔接包括内容上的衔接和形式上的衔接。
+
+</trans></sent>
+
+<sent><orig>
+
+Join KR, ruby Madeleine! All your wishes and dreams, passion, ideal will join us realize!
+
+</orig>
+
+<trans>
+
+加盟KR（卡璐琳兰）！你的所有激情、愿望、梦想、理想都将与我们一起实现！
+
+</trans></sent>
+
+</dict>

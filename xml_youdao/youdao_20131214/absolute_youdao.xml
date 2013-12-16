@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[absolute]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[绝对]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['æbsəluːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 绝对；绝对事物]]></ex>
+
+                    <ex><![CDATA[adj. 绝对的；完全的；专制的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Absolute]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绝对]]></ex>
+
+                            <ex><![CDATA[完全的]]></ex>
+
+                            <ex><![CDATA[纯粹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Absolute advantage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绝对优势]]></ex>
+
+                            <ex><![CDATA[绝对利益]]></ex>
+
+                            <ex><![CDATA[绝对上风]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Absolute music]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绝对音乐]]></ex>
+
+                            <ex><![CDATA[纯音乐]]></ex>
+
+                            <ex><![CDATA[美声仙音]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

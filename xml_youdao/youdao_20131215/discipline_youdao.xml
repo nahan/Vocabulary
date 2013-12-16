@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[discipline]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[纪律]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dɪsɪplɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 学科；纪律；训练；惩罚]]></ex>
+
+                    <ex><![CDATA[vt. 训练，训导；惩戒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Discipline]]></key>
+
+            <value>
+
+                            <ex><![CDATA[纪律]]></ex>
+
+                            <ex><![CDATA[学科]]></ex>
+
+                            <ex><![CDATA[惩罚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Child discipline]]></key>
+
+            <value>
+
+                            <ex><![CDATA[家庭教育]]></ex>
+
+                            <ex><![CDATA[儿童管教]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[school discipline]]></key>
+
+            <value>
+
+                            <ex><![CDATA[校纪]]></ex>
+
+                            <ex><![CDATA[学校纪律]]></ex>
+
+                            <ex><![CDATA[校级]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

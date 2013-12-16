@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[glove]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[手套]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[glʌv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 手套]]></ex>
+
+                    <ex><![CDATA[vt. 给…戴手套]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Glove]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手套]]></ex>
+
+                            <ex><![CDATA[分指手套]]></ex>
+
+                            <ex><![CDATA[手套儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[glove box]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手套箱]]></ex>
+
+                            <ex><![CDATA[杂物箱]]></ex>
+
+                            <ex><![CDATA[套手工作箱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Silk glove]]></key>
+
+            <value>
+
+                            <ex><![CDATA[丝手套]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

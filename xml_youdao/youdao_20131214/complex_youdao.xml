@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[complex]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[复杂的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒmpleks]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 复合体；综合设施]]></ex>
+
+                    <ex><![CDATA[adj. 复杂的；合成的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Complex]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复杂]]></ex>
+
+                            <ex><![CDATA[情结]]></ex>
+
+                            <ex><![CDATA[络合物]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[complex number]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复数]]></ex>
+
+                            <ex><![CDATA[复数值]]></ex>
+
+                            <ex><![CDATA[复素数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Complex analysis]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复分析]]></ex>
+
+                            <ex><![CDATA[复变函数论]]></ex>
+
+                            <ex><![CDATA[复变分析]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

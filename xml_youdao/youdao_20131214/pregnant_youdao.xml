@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pregnant]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[怀孕]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pregnənt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 怀孕的；富有意义的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[pregnant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[怀孕的]]></ex>
+
+                            <ex><![CDATA[重要的]]></ex>
+
+                            <ex><![CDATA[孕妇]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[become pregnant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[怀孕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pregnant rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[受孕率]]></ex>
+
+                            <ex><![CDATA[胎鼠]]></ex>
+
+                            <ex><![CDATA[妊娠率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chicken[1]"> <hw highlight="yes" hindex="1">chick*en</hw> <sound><wav>chicke01.wav</wav></sound> <pr>ˈtʃɪkn̩</pr> <fl>noun</fl> <in><il>plural</il> <if>chick*ens</if></in> <def><sn>1 a</sn> <sgram>count</sgram> <dt>:a bird that is raised by people for its eggs and meat</dt> <sn>b</sn> <sgram>noncount</sgram> <dt>:the meat of the chicken used as food <vi>We had <it>chicken</it> for dinner.</vi> <vi>fried/roasted/grilled <it>chicken</it></vi> <un>often used before another noun <vi><it>chicken</it> soup/broth</vi> <vi><it>chicken</it> salad</vi></un></dt> <sn>2</sn> <sgram>count</sgram> <ssl>informal</ssl> <dt>:a person who is afraid :<sx>coward</sx> <vi>It's just a spider, you <it>chicken</it>!</vi> <vi>Don't be such a big <it>chicken</it>.</vi></dt></def> <dro><dre>count your chickens</dre> <def><dt><snote>If you <phrase>count your chickens</phrase> or (<it>US</it>) <phrase>count your chickens before they hatch</phrase> or (<it>Brit</it>) <phrase>before they're hatched</phrase>, you believe that something you want to happen will definitely happen before you know for certain that it really will. <vi>Don't <it>count your chickens before they hatch</it>—we don't know yet if she will accept our offer.</vi></snote></dt></def></dro> <dro><dre>your chickens come home to roost</dre> <dx>see <dxt>roost</dxt></dx></dro> <dxnl>see also <dxt>spring chicken</dxt></dxnl></entry>
+
+	<entry id="chicken[2]"> <hw hindex="2">chicken</hw> <altpr>ˈtʃɪkn̩</altpr> <fl>adjective</fl> <lb>not used before a noun</lb> <def><gram>more chicken; most chicken</gram> <sl>informal</sl> <dt>:too afraid to do something <vi>He's too <it>chicken</it> [=<it>cowardly</it>] to stand up to them.</vi> <vi>You're <it>chicken</it>, aren't you?</vi></dt></def></entry>
+
+	<entry id="chicken[3]"> <hw hindex="3">chicken</hw> <altpr>ˈtʃɪkn̩</altpr> <fl>verb</fl> <in><if>chickens</if></in> <in><if>chickened</if></in> <in><if>chicken*ing</if></in> <dro><dre>chicken out</dre> <def><gram>phrasal verb</gram> <sl>informal</sl> <dt>:to decide not to do something because you are afraid <vi>He was going to ask her on a date, but he <it>chickened out</it> at the last minute.</vi></dt></def></dro></entry>
+
+	<entry id="chicken-and-egg"> <hw>chicken–and–egg</hw> <fl>adjective</fl> <def><dt><un>used to describe a situation in which it is difficult to tell which of two things happened first <vi>a <it>chicken-and-egg</it> situation/dilemma</vi></un></dt></def></entry>
+
+	<entry id="chicken feed"> <hw>chicken feed</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>informal</sl> <dt>:an amount of money that is too small to be considered important <vi>The project cost almost a million dollars, which isn't exactly <it>chicken feed</it>.</vi> <vi>Ten bucks? That's <it>chicken feed</it>!</vi></dt></def></entry>
+
+	<entry id="chicken-fried steak"> <hw>chick*en–fried steak</hw> <sound><wav>chicke03.wav</wav></sound> <pr>ˈtʃɪkənˈfraɪd-</pr> <fl>noun</fl> <in><il>plural</il> <if>⁓ steaks</if></in> <def><gram>count, noncount</gram> <sl>US</sl> <dt>:a steak that is coated with flour, fried, and served with gravy</dt></def></entry>
+
+	<entry id="chicken pox"> <hw>chicken pox</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a disease that often affects children and that causes a fever and red spots on the skin</dt></def></entry>
+
+	<entry id="chicken wire"> <hw>chicken wire</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of strong wire that is used especially to make fences</dt></def></entry>
+
+	<entry id="spring chicken"> <hw>spring chicken</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ens</if></in> <def><gram>count</gram> <sl>informal + humorous</sl> <dt>:a young person <un>usually used in negative statements to say that someone is not young <vi>She's <phrase>no spring chicken</phrase>, that's for sure.</vi></un></dt></def></entry>
+
+</entry_list>

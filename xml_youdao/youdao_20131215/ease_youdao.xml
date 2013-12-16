@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ease]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[缓解]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[iːz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 轻松，舒适；安逸，悠闲]]></ex>
+
+                    <ex><![CDATA[vt. 减轻，缓和；使安心]]></ex>
+
+                    <ex><![CDATA[vi. 减轻，缓和；放松；灵活地移动]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Ease]]></key>
+
+            <value>
+
+                            <ex><![CDATA[减轻]]></ex>
+
+                            <ex><![CDATA[缓解]]></ex>
+
+                            <ex><![CDATA[容易]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ease pain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[镇痛]]></ex>
+
+                            <ex><![CDATA[减少疼痛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ease up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放松]]></ex>
+
+                            <ex><![CDATA[缓和]]></ex>
+
+                            <ex><![CDATA[减轻]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

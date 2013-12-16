@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>visible</key>
+
+<ps>ˈvɪzəbl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/39/a5/39a52995df293cb552043f12407bb78e.mp3</pron>
+
+<ps>ˈvɪzəbəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/46/cf/46cf0e59759c9b7f1112ca4b174343ef.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>看得见的；明显的，显然的；手头的，可得到的；可察觉到的；
+
+</acceptation>
+
+<sent><orig>
+
+Vertical margins of elements with 'overflow' other than 'visible' do not collapse with their in-flow children.
+
+</orig>
+
+<trans>
+
+除取visible值以外，设置了overflow属性的元素与它子元素间的margin不会被折叠。
+
+</trans></sent>
+
+<sent><orig>
+
+Let the visible be visible without illusion.
+
+</orig>
+
+<trans>
+
+让可见世界成为弃绝幻想的可见世界吧。
+
+</trans></sent>
+
+<sent><orig>
+
+Visible Gets or sets a value indicating whether the form is visible.
+
+</orig>
+
+<trans>
+
+返回或设置一个控件是否可见。
+
+</trans></sent>
+
+<sent><orig>
+
+Some planets are visible with a good telescope and some are visible with the naked eye.
+
+</orig>
+
+<trans>
+
+有些行星用好的望远镜可以看到，有些肉眼就能看到。
+
+</trans></sent>
+
+<sent><orig>
+
+Art does not reproduce the visible; rather, it makes visible.
+
+</orig>
+
+<trans>
+
+艺术不是复制看得见的东西；准确来说，艺术创造出看得见的东西。
+
+</trans></sent>
+
+</dict>

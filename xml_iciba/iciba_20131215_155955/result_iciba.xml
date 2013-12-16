@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>result</key>
+
+<ps>rɪ'zʌlt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a7/58/a75810aedf1d0331d1bebd12fadb73e9.mp3</pron>
+
+<ps>rɪˈzʌlt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b4/a8/b4a88417b3d0170d754c647c30b7216a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>结果；（尤指足球比赛的）胜利；[体]比分；成功实现的事；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>发生，产生；归结为，导致；后果，终结；由…而造成[产生]；
+
+</acceptation>
+
+<sent><orig>
+
+Recognition results show up on the screen, but also output to a file Result. txt Medium.
+
+</orig>
+
+<trans>
+
+识别的结果显示在屏幕上，同时也输出到文件result.txt中。
+
+</trans></sent>
+
+<sent><orig>
+
+Theory result, simulation result and experiment result are consistent, satisfying the request of engineering.
+
+</orig>
+
+<trans>
+
+理论解、数值模拟解与测试结果基本吻合，满足工程精度要求。
+
+</trans></sent>
+
+<sent><orig>
+
+These vibrations are as a result of these star internal nucleus fusion result.
+
+</orig>
+
+<trans>
+
+这些振动是由于这些恒星的内部核融合所致。
+
+</trans></sent>
+
+<sent><orig>
+
+This includes result data such as column values, and result metadata such as column names.
+
+</orig>
+
+<trans>
+
+返回的数据，有比如字段的值和元数据（例如字段名）。
+
+</trans></sent>
+
+<sent><orig>
+
+Divides two numbers, returns a numeric result, and assigns the result to the first argument.
+
+</orig>
+
+<trans>
+
+将两个数相除并返回一个数值结果，然后将结果赋给第一个参数。
+
+</trans></sent>
+
+</dict>

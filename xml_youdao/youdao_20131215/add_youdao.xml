@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[add]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[添加]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[æd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 加法，加法运算]]></ex>
+
+                    <ex><![CDATA[vi. 加；增加；加起来；做加法]]></ex>
+
+                    <ex><![CDATA[vt. 增加，添加；补充说；计算…总和]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Add]]></key>
+
+            <value>
+
+                            <ex><![CDATA[添加]]></ex>
+
+                            <ex><![CDATA[增加]]></ex>
+
+                            <ex><![CDATA[地址]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[add up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[合计]]></ex>
+
+                            <ex><![CDATA[加算]]></ex>
+
+                            <ex><![CDATA[加起来]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ADD Add]]></key>
+
+            <value>
+
+                            <ex><![CDATA[地址]]></ex>
+
+                            <ex><![CDATA[补充]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

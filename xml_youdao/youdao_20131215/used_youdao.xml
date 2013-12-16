@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[used]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[使用]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[juːzd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 用；习惯（use的过去式）]]></ex>
+
+                    <ex><![CDATA[adj. 习惯的；二手的，使用过的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Used]]></key>
+
+            <value>
+
+                            <ex><![CDATA[二手]]></ex>
+
+                            <ex><![CDATA[所用]]></ex>
+
+                            <ex><![CDATA[过去常常]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[intentionally used]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有意利用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[used leather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[旧皮革]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[section]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[节]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sekʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 截面；部分；部门；地区；章节]]></ex>
+
+                    <ex><![CDATA[vt. 把…分段；将…切片；对…进行划分]]></ex>
+
+                    <ex><![CDATA[vi. 被切割成片；被分成部分]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[section]]></key>
+
+            <value>
+
+                            <ex><![CDATA[截面]]></ex>
+
+                            <ex><![CDATA[节]]></ex>
+
+                            <ex><![CDATA[部分]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[QC Section]]></key>
+
+            <value>
+
+                            <ex><![CDATA[品管科]]></ex>
+
+                            <ex><![CDATA[品管课]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[normal section]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正截面]]></ex>
+
+                            <ex><![CDATA[法截面]]></ex>
+
+                            <ex><![CDATA[法向截面]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chocolate"> <hw highlight="yes">choc*o*late</hw> <sound><wav>chocol11.wav</wav><wav>chocol01.wav</wav></sound> <pr>ˈtʃɑ:klət</pr> <fl>noun</fl> <in><il>plural</il> <if>choc*o*lates</if></in> <def><sn>1</sn> <sgram>noncount</sgram> <dt>:a food that is made from cacao beans and that is eaten as candy or used as a flavoring ingredient in other sweet foods <vi>a bar of <it>chocolate</it></vi> <vi><it>chocolate-</it>covered raisins</vi> <vi>The cake recipe calls for four squares of <it>chocolate</it>.</vi> <dx>see also <dxt>dark chocolate</dxt> <dxt>hot chocolate</dxt> <dxt>milk chocolate</dxt> <dxt>white chocolate</dxt></dx></dt> <sn>2</sn> <sgram>count</sgram> <dt>:a candy made or covered with chocolate <vi>She gave me a box of <it>chocolates</it> for my birthday.</vi></dt> <sn>3</sn> <sgram>noncount</sgram> <dt>:a dark brown color <ca>called also <cat>chocolate brown</cat></ca> <dx>see color picture on page C3</dx></dt></def> <uro><ure>chocolate</ure> <fl>adjective</fl> <utxt><vi>a <it>chocolate</it> cake with <it>chocolate</it> frosting</vi> <vi><it>chocolate</it> ice cream</vi> <vi><it>chocolate</it> sauce/milk</vi></utxt></uro> <uro><ure>choc*o*laty</ure> <vr><vl>also</vl> <va>choc*o*lat*ey</va> <sound><wav>chocol13.wav</wav><wav>chocol03.wav</wav></sound> <pr>ˈtʃɑ:kləti</pr></vr> <fl>adjective</fl> <gram>more choc*o*laty; most choc*o*laty</gram> <utxt><vi>a <it>chocolaty</it> flavor</vi></utxt></uro></entry>
+
+	<entry id="chocolate-box"> <hw>chocolate–box</hw> <fl>adjective</fl> <lb>always used before a noun</lb> <def><sl>Brit</sl> <sl>informal</sl> <dt>:pretty in a way that seems too perfect to be true or real <vi>a <it>chocolate-box</it> house</vi></dt></def></entry>
+
+	<entry id="dark chocolate"> <hw>dark chocolate</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -lates</if></in> <def><gram>count, noncount</gram> <sl>US</sl> <dt>:a kind of chocolate that is a very dark brown color and that is made without milk <ca>called also (<it>Brit</it>) <cat>plain chocolate</cat></ca> <dx>compare <dxt>milk chocolate</dxt> <dxt>white chocolate</dxt></dx></dt></def></entry>
+
+	<entry id="hot chocolate"> <hw>hot chocolate</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -lates</if></in> <def><gram>count, noncount</gram> <dt>:a hot drink that is chocolate-flavored <vi>a cup of <it>hot chocolate</it></vi> <ca>called also <cat>hot cocoa</cat></ca></dt></def></entry>
+
+	<entry id="milk chocolate"> <hw>milk chocolate</hw> <fl>noun</fl> <def><gram>count, noncount</gram> <dt>:a kind of chocolate that is made with milk <dx>compare <dxt>dark chocolate</dxt></dx></dt></def></entry>
+
+	<entry id="plain chocolate"> <hw>plain chocolate</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>Brit</sl> <dt>:<sx>dark chocolate</sx></dt></def></entry>
+
+	<entry id="white chocolate"> <hw>white chocolate</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of sweet chocolate that has a white color <dx>compare <dxt>dark chocolate</dxt> <dxt>milk chocolate</dxt></dx></dt></def></entry>
+
+</entry_list>

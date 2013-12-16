@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[clean]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[清洁]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kliːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 打扫]]></ex>
+
+                    <ex><![CDATA[adj. 清洁的，干净的；清白的]]></ex>
+
+                    <ex><![CDATA[vt. 使干净]]></ex>
+
+                    <ex><![CDATA[vi. 打扫，清扫]]></ex>
+
+                    <ex><![CDATA[adv. 完全地]]></ex>
+
+                    <ex><![CDATA[n. (Clean)人名；(英)克林]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[clean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[清洁]]></ex>
+
+                            <ex><![CDATA[干净的]]></ex>
+
+                            <ex><![CDATA[打扫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Clean Credit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[光票信用证]]></ex>
+
+                            <ex><![CDATA[信用状]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[clean bench]]></key>
+
+            <value>
+
+                            <ex><![CDATA[净化工作台]]></ex>
+
+                            <ex><![CDATA[洁净工作台]]></ex>
+
+                            <ex><![CDATA[洁净台]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

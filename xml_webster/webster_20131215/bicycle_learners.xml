@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bicycle[1]"> <art><artref id="bicycle.eps"/><capt/><dim>394,201</dim></art> <hw highlight="yes" hindex="1">bi*cy*cle</hw> <sound><wav>bicycl01.wav</wav></sound> <pr>ˈbaɪsɪkəl</pr> <fl>noun</fl> <in><il>plural</il> <if>bi*cy*cles</if></in> <def><gram>count</gram> <dt>:a 2-wheeled vehicle that a person rides by pushing on foot pedals <vi>She rode her <it>bicycle</it> [=<it>bike</it>] to school.</vi> <vi>They toured Europe on <it>bicycles</it>. = They toured Europe by <it>bicycle</it>.</vi> <vi>Let's go for a <it>bicycle</it> ride [=ride our bicycles for pleasure] after work tonight.</vi> <dx>compare <dxt>tricycle</dxt> <dxt>unicycle</dxt></dx></dt></def></entry>
+
+	<entry id="bicycle[2]"> <hw hindex="2">bicycle</hw> <altpr>ˈbaɪsɪkəl</altpr> <fl>verb</fl> <in><if>bicy*cles</if></in> <in><if>bicy*cled</if></in> <in><if>bicy*cling</if></in> <def><gram>no obj</gram> <dt>:to ride a bicycle <vi>She <it>bicycles</it> [=<it>bikes</it>] to work every day.</vi></dt></def> <uro><ure>bi*cy*cler</ure> <sound><wav>bicycl02.wav</wav></sound> <pr>ˈbaɪsɪklɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>bi*cy*clers</if></in> <gram>count</gram> <sl>US</sl> <utxt><vi>a group of <it>bicyclers</it></vi></utxt></uro> <uro><ure>bicycling</ure> <fl>noun</fl> <gram>noncount</gram> <utxt><vi><it>Bicycling</it> is his favorite sport.</vi> <vi>Let's <phrase>go bicycling</phrase> after work tonight.</vi></utxt></uro> <uro><ure>bi*cy*clist</ure> <sound><wav>bicycl03.wav</wav></sound> <pr>ˈbaɪsɪklɪst</pr> <fl>noun</fl> <in><il>plural</il> <if>bi*cy*clists</if></in> <gram>count</gram> <utxt><vi>A group of <it>bicyclists</it> rode by.</vi></utxt></uro></entry>
+
+	<entry id="bicycle shorts"> <hw>bicycle shorts</hw> <fl>noun</fl> <def><gram>plural</gram> <dt>:short pants that fit close to the body and that people sometimes wear when they ride a bicycle</dt></def></entry>
+
+	<entry id="tandem bicycle"> <hw>tandem bicycle</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cycles</if></in> <def><gram>count</gram> <dt>:a bicycle built for two riders with one sitting behind the other</dt></def></entry>
+
+	<entry id="motorbike"> <hw>mo*tor*bike</hw> <sound><wav>motorb01.wav</wav></sound> <pr>ˈmoʊtɚˌbaɪk</pr> <fl>noun</fl> <in><il>plural</il> <if>mo*tor*bikes</if></in> <def><gram>count</gram> <sn>1</sn> <ssl>US</ssl> <dt>:a small motorcycle</dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:<sx>motorcycle</sx></dt></def></entry>
+
+	<entry id="stationary bike"> <hw>stationary bike</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bikes</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:an exercise machine that you pedal like a bicycle but that stays in one place <ca>called also <cat>exercise bike</cat> <cat>stationary bicycle</cat></ca> <dx>see picture at <dxt>gym</dxt></dx></dt></def></entry>
+
+</entry_list>

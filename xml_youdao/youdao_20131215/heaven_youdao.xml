@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[heaven]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[天堂]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['hev(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 天堂；天空；极乐]]></ex>
+
+                    <ex><![CDATA[n. (Heaven)人名；(英)希文]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Heaven]]></key>
+
+            <value>
+
+                            <ex><![CDATA[天堂]]></ex>
+
+                            <ex><![CDATA[天国]]></ex>
+
+                            <ex><![CDATA[天]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Heaven Blue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蓝色天际]]></ex>
+
+                            <ex><![CDATA[班得瑞]]></ex>
+
+                            <ex><![CDATA[蓝色天际专辑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Heaven Story]]></key>
+
+            <value>
+
+                            <ex><![CDATA[天堂故事]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

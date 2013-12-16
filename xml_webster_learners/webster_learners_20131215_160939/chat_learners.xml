@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chat[1]"> <hw highlight="yes" hindex="1">chat</hw> <sound><wav>chat0001.wav</wav></sound> <pr>ˈtʃæt</pr> <fl>verb</fl> <in><if>chats</if></in> <in><if>chat*ted</if></in> <in><if>chat*ting</if></in> <def><gram>no obj</gram> <sn>1</sn> <dt>:to talk with someone in a casual way <vi>We <it>chatted</it> about our plans for the summer.</vi> <vi>called him up to <it>chat</it></vi></dt> <sn>2</sn> <dt>:to talk over the Internet by sending messages back and forth in a chat room <vi>She stayed up all night <it>chatting</it> with her friends online.</vi></dt></def> <dro><dre>chat up</dre> <gram>phrasal verb</gram> <def><phrasev><pva>chat (someone) up</pva> <pvl>or</pvl> <pva>chat up (someone)</pva></phrasev> <ssl>informal</ssl> <dt>:to talk informally with (someone, such as someone you are attracted to) <vi>He tried to <it>chat up</it> a girl at the dance.</vi></dt></def></dro></entry>
+
+	<entry id="chat[2]"> <hw highlight="yes" hindex="2">chat</hw> <altpr>ˈtʃæt</altpr> <fl>noun</fl> <in><il>plural</il> <if>chats</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:a light and friendly conversation <vi>We enjoyed a <it>chat</it> over coffee.</vi></dt> <sn>2</sn> <dt>:a talk held over the Internet by people using a chat room <wsgram>count</wsgram> <vi>live <it>chats</it></vi> <wsgram>noncount</wsgram> <vi>software used for e-mail and <it>chat</it></vi> <un>often used before another noun <vi><it>chat</it> sessions</vi> <vi><it>chat</it> software</vi></un> <dx>see also <dxt>chat room</dxt></dx></dt></def></entry>
+
+	<entry id="chat line"> <hw>chat line</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ lines</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a telephone service that people call in order to speak with other people about a certain topic</dt></def></entry>
+
+	<entry id="chat room"> <hw>chat room</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ rooms</if></in> <def><gram>count</gram> <dt>:a Web site or computer program that allows people to send messages to each other instantly over the Internet</dt></def></entry>
+
+	<entry id="chat show"> <hw>chat show</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ shows</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>talk show</sx></dt></def></entry>
+
+</entry_list>

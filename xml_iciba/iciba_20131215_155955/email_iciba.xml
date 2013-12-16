@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>email</key>
+
+<ps>'i:meɪl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/8a/fc/8afcb8a547b73985fcbd5ade4f451c8c.mp3</pron>
+
+<ps>'i:meɪl</ps>
+
+<pron>http://res-tts.iciba.com/0/c/8/0c83f57c786a0b4a39efab23731c7ebc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>电子邮件；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>给…发电子邮件；
+
+</acceptation>
+
+<sent><orig>
+
+BOINC Powered Projects can't export email addresses in statistics files; email addresses are private.
+
+</orig>
+
+<trans>
+
+但BOINC项目网站不能在对外提供的统计信息文件中提供email地址，因为email地址是不方便公开的。
+
+</trans></sent>
+
+<sent><orig>
+
+SMTP server and then email and forward it to the corresponding mail server to receive Email.
+
+</orig>
+
+<trans>
+
+然后SMTP服务器获得邮件，并将其转发给相应的接收Email的邮件服务器。
+
+</trans></sent>
+
+<sent><orig>
+
+We have been keeping in touch with each other by email since he left China.
+
+</orig>
+
+<trans>
+
+他离开中国以后，我们用email保持联系。
+
+</trans></sent>
+
+<sent><orig>
+
+For users having IP address,dial account and email account,the system can account the total fee together.
+
+</orig>
+
+<trans>
+
+对于既有IP地址，又有拨号帐号、EMAIL帐号的用户，系统可以对用户的各种费用统一计算、统一管理。
+
+</trans></sent>
+
+<sent><orig>
+
+This frequently happens via email or through the exchange of files (documents) .
+
+</orig>
+
+<trans>
+
+它们经常经由Email和文件（文档）交换传播。
+
+</trans></sent>
+
+</dict>

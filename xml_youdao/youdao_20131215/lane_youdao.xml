@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lane]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[莱恩]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[leɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 小巷；[航][水运] 航线；车道；罚球区]]></ex>
+
+                    <ex><![CDATA[n. (Lane)人名；(英、俄)莱恩；(老)兰；(德、法、意、葡、塞、瑞典)拉内]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胡同]]></ex>
+
+                            <ex><![CDATA[小路]]></ex>
+
+                            <ex><![CDATA[局域网仿真]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[CAMPBELL LANE]]></key>
+
+            <value>
+
+                            <ex><![CDATA[甘贝尔巷]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Motorcycle lane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[机]]></ex>
+
+                            <ex><![CDATA[机车道]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

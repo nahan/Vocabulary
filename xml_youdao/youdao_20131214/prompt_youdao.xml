@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[prompt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[提示]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prɒm(p)t]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格]]></ex>
+
+                    <ex><![CDATA[adj. 敏捷的，迅速的；立刻的]]></ex>
+
+                    <ex><![CDATA[vt. 提示；促进；激起；（给演员）提白]]></ex>
+
+                    <ex><![CDATA[adv. 准时地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Prompt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[提示]]></ex>
+
+                            <ex><![CDATA[迅速的]]></ex>
+
+                            <ex><![CDATA[促使]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pmt prompt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[即时的]]></ex>
+
+                            <ex><![CDATA[迅速的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[No prompt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不提示]]></ex>
+
+                            <ex><![CDATA[不提醒]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

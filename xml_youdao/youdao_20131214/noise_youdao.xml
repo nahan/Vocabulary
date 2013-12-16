@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[noise]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[噪音]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nɒɪz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [环境] 噪音；响声；杂音]]></ex>
+
+                    <ex><![CDATA[vt. 谣传]]></ex>
+
+                    <ex><![CDATA[vi. 发出声音；大声议论]]></ex>
+
+                    <ex><![CDATA[n. (Noise)人名；(英)诺伊斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Noise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[噪声]]></ex>
+
+                            <ex><![CDATA[噪音]]></ex>
+
+                            <ex><![CDATA[嘈杂声]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[background noise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[背景噪声]]></ex>
+
+                            <ex><![CDATA[杂讯]]></ex>
+
+                            <ex><![CDATA[本底噪声]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pink noise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[粉红噪声]]></ex>
+
+                            <ex><![CDATA[粉红噪音]]></ex>
+
+                            <ex><![CDATA[粉红色噪音]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

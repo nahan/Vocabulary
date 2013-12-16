@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[revolution]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[革命]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[revə'luːʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 革命；旋转；运行；循环]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Revolution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[革命]]></ex>
+
+                            <ex><![CDATA[旋转]]></ex>
+
+                            <ex><![CDATA[绕转]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Green Revolution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绿色革命]]></ex>
+
+                            <ex><![CDATA[绿色彩革命]]></ex>
+
+                            <ex><![CDATA[绿色反动]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[American Revolution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美国革命]]></ex>
+
+                            <ex><![CDATA[独立战争]]></ex>
+
+                            <ex><![CDATA[美国独立战争]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

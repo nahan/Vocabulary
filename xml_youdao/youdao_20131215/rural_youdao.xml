@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rural]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[农村]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['rʊər(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 农村的，乡下的；田园的，有乡村风味的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[rural]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乡下]]></ex>
+
+                            <ex><![CDATA[田园]]></ex>
+
+                            <ex><![CDATA[农村的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rural area]]></key>
+
+            <value>
+
+                            <ex><![CDATA[农村]]></ex>
+
+                            <ex><![CDATA[农村地区]]></ex>
+
+                            <ex><![CDATA[乡郊地区]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rural tourism]]></key>
+
+            <value>
+
+                            <ex><![CDATA[农家乐]]></ex>
+
+                            <ex><![CDATA[乡村旅游]]></ex>
+
+                            <ex><![CDATA[乡野观光]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

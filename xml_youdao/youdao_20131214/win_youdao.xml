@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[win]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[赢得]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 赢；胜利]]></ex>
+
+                    <ex><![CDATA[vt. 赢得；在…中获胜；劝诱]]></ex>
+
+                    <ex><![CDATA[vi. 赢；获胜；成功]]></ex>
+
+                    <ex><![CDATA[n. (Win)人名；(德、荷、缅)温；(英)温(女子教名Winifred的昵称)]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Win]]></key>
+
+            <value>
+
+                            <ex><![CDATA[获胜]]></ex>
+
+                            <ex><![CDATA[夺冠]]></ex>
+
+                            <ex><![CDATA[赢得]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[net win]]></key>
+
+            <value>
+
+                            <ex><![CDATA[净赢]]></ex>
+
+                            <ex><![CDATA[纯利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Win Win]]></key>
+
+            <value>
+
+                            <ex><![CDATA[双赢]]></ex>
+
+                            <ex><![CDATA[赢得]]></ex>
+
+                            <ex><![CDATA[正在翻译]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

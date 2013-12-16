@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[principal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[主要]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prɪnsəp(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 主要的；资本的]]></ex>
+
+                    <ex><![CDATA[n. 首长；校长；资本；当事人]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Principal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[校长]]></ex>
+
+                            <ex><![CDATA[本金]]></ex>
+
+                            <ex><![CDATA[中学校长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Principal balance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[本金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Principal Skinner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西摩·斯金纳]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

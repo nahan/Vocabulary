@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fail]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[失败]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[feɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 不及格]]></ex>
+
+                    <ex><![CDATA[vi. 失败，不及格；破产；缺乏；衰退]]></ex>
+
+                    <ex><![CDATA[vt. 不及格；使失望；忘记；舍弃]]></ex>
+
+                    <ex><![CDATA[n. (Fail)人名；(葡、捷)法伊尔；(法)法伊]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fail]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失败]]></ex>
+
+                            <ex><![CDATA[不及格]]></ex>
+
+                            <ex><![CDATA[衰退]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[fail to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[未能]]></ex>
+
+                            <ex><![CDATA[不能]]></ex>
+
+                            <ex><![CDATA[没能做成]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fianna Fail]]></key>
+
+            <value>
+
+                            <ex><![CDATA[共和党]]></ex>
+
+                            <ex><![CDATA[爱尔兰共和党]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

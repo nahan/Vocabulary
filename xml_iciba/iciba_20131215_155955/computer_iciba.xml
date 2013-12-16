@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>computer</key>
+
+<ps>kəmˈpju:tə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/2a/58/2a58362d5dac5fd2c952decbb339fedd.mp3</pron>
+
+<ps>kəmˈpjutɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/df/53/df53ca268240ca76670c8566ee54568a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>（电子）计算机，电脑；
+
+</acceptation>
+
+<sent><orig>
+
+The appearance of CIMS(Computer Integrated Manufacturing System)is based on CIM(Computer Integrated Manufacture).
+
+</orig>
+
+<trans>
+
+计算机集成制造系统(CIMS:Computer Integrated Manufacturing System)的出现是以计算机集成制造(CIM:Computer Integrated Manufacture)这一概念为基础的。
+
+</trans></sent>
+
+<sent><orig>
+
+Self-efficacy (SE) is being applied into computer use, which was defined as computer self-efficacy (CSE).
+
+</orig>
+
+<trans>
+
+计算机自我效能感(computer self-efficacy,CSE)是自我效能感理论在计算机培训、计算机辅助技术使用等行为活动中的应用。
+
+</trans></sent>
+
+<sent><orig>
+
+One of the important applications on Computer Assisted Instruction (CAI) is Computer-based Testing.
+
+</orig>
+
+<trans>
+
+计算机辅助教学CAI(ComputerAssistedInstruction)的一个重要应用是计算机辅助测验CBT(Computer-BasedTesting)。
+
+</trans></sent>
+
+<sent><orig>
+
+CTI is new developing computer and communication technology.
+
+</orig>
+
+<trans>
+
+计算机电话集成(CTI-Computer Telephony Integration)是一门新兴的计算机与通信技术。
+
+</trans></sent>
+
+<sent><orig>
+
+Diagial computer: Computer which uses discrete numbers to represent and manipulate data. See Analog computer.
+
+</orig>
+
+<trans>
+
+数字：用来代表一特定数量的记号或符号。它可以单独一个或联合同集的其他的数字。例如，在十进制系统中，数字是指0到9中的任何一个符号。
+
+</trans></sent>
+
+</dict>

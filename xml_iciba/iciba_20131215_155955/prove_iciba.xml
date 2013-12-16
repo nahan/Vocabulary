@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>prove</key>
+
+<ps>pru:v</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c1/dc/c1dce9af335d617e3d4c25897e2da16c.mp3</pron>
+
+<ps>pruv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d8/65/d865b63643bc6111e59334d7743a83af.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>证明，证实；[法]验证，检定；显示；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>显示出，证明是；
+
+</acceptation>
+
+<sent><orig>
+
+Are there any things that we can prove exist (or prove don't exist)?What are they?
+
+</orig>
+
+<trans>
+
+什么东西——我们可以证明存在——什么东西——不能证明。
+
+</trans></sent>
+
+<sent><orig>
+
+No amount of experimentation can ever prove me right; a single experiment can prove me wrong.
+
+</orig>
+
+<trans>
+
+我的正确可能经不起不断的试验，而一次简单的试验就可能证明我是错的。
+
+</trans></sent>
+
+<sent><orig>
+
+Pathos, humour and terror, in this film, prove rather incompatible bedfellows.
+
+</orig>
+
+<trans>
+
+在这部影片中，哀婉、幽默、恐惧显得是一些互不相容的拼凑。
+
+</trans></sent>
+
+<sent><orig>
+
+Events should prove one or other of these explanations to be correct.
+
+</orig>
+
+<trans>
+
+事实会证明，上述解释中总有一个是正确的。
+
+</trans></sent>
+
+<sent><orig>
+
+This shift inland could prove vital to China's economic prospects over the next few years.
+
+</orig>
+
+<trans>
+
+现代工业向内陆转移，对于中国未来几年的经济前景可能至关重要。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[leather]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[皮革]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['leðə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 皮革；皮革制品]]></ex>
+
+                    <ex><![CDATA[adj. 皮的；皮革制的]]></ex>
+
+                    <ex><![CDATA[vt. 用皮革包盖；抽打]]></ex>
+
+                    <ex><![CDATA[n. (Leather)人名；(英)莱瑟]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Leather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[皮革]]></ex>
+
+                            <ex><![CDATA[皮衣]]></ex>
+
+                            <ex><![CDATA[牛皮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[scrap leather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[废皮]]></ex>
+
+                            <ex><![CDATA[碎皮]]></ex>
+
+                            <ex><![CDATA[皮革类英语]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[imitation leather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[充牛皮装订]]></ex>
+
+                            <ex><![CDATA[仿牛皮]]></ex>
+
+                            <ex><![CDATA[仿皮]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

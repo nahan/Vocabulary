@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[control]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[控制]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'trəʊl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 控制；管理；抑制；操纵装置]]></ex>
+
+                    <ex><![CDATA[vt. 控制；管理；抑制]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Control]]></key>
+
+            <value>
+
+                            <ex><![CDATA[控制]]></ex>
+
+                            <ex><![CDATA[控件]]></ex>
+
+                            <ex><![CDATA[控制方式]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Access Control]]></key>
+
+            <value>
+
+                            <ex><![CDATA[访问控制]]></ex>
+
+                            <ex><![CDATA[存取控制]]></ex>
+
+                            <ex><![CDATA[权限控制]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Process control]]></key>
+
+            <value>
+
+                            <ex><![CDATA[过程控制]]></ex>
+
+                            <ex><![CDATA[程控制]]></ex>
+
+                            <ex><![CDATA[程序控制]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

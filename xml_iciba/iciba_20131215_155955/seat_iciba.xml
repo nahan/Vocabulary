@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>seat</key>
+
+<ps>si:t</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/49/e7/49e733dc16726af734eb8ee912993dc3.mp3</pron>
+
+<ps>sit</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/55/4e/554e4b55e8cc57f39f16f335b0a63825.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>席位，座位；所在地；场所；臀部；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使就座；使就职；使获得座位（或席位）；可容纳若干座位；
+
+</acceptation>
+
+<sent><orig>
+
+Replace the seat module with the new seat by placing it into body seat bore.
+
+</orig>
+
+<trans>
+
+用新的阀座更换阀座模块，并将其放置到阀体镗孔内。
+
+</trans></sent>
+
+<sent><orig>
+
+Every seat where you seat becomes a lion seat. The foot of the bodhi tree.
+
+</orig>
+
+<trans>
+
+只要你坐过，这座位就会成为狮子座，并在菩提树下。
+
+</trans></sent>
+
+<sent><orig>
+
+Which seat do you prefer, a window seat or aisle seat?
+
+</orig>
+
+<trans>
+
+你喜欢什么样的座位，是靠窗的，还是靠通道的？
+
+</trans></sent>
+
+<sent><orig>
+
+Replace valve seat with a new seat if required, or clean the existing seat.
+
+</orig>
+
+<trans>
+
+如果需要，则用新的阀座进行更换，或者清洗原有的阀座。
+
+</trans></sent>
+
+<sent><orig>
+
+Which seat do you prefer, a window seat or an aisle seat?
+
+</orig>
+
+<trans>
+
+你喜欢什么样的座位，是靠窗的还是靠通道的？
+
+</trans></sent>
+
+</dict>

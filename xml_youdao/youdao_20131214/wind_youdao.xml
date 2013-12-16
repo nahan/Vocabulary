@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wind]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[风]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɪnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 风；呼吸；气味；卷绕]]></ex>
+
+                    <ex><![CDATA[vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人]]></ex>
+
+                    <ex><![CDATA[vi. 缠绕；上发条；吹响号角]]></ex>
+
+                    <ex><![CDATA[n. (Wind)人名；(英、德、瑞典)温德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Wind]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风]]></ex>
+
+                            <ex><![CDATA[万得资讯]]></ex>
+
+                            <ex><![CDATA[缠绕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Wind power]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风能]]></ex>
+
+                            <ex><![CDATA[风力]]></ex>
+
+                            <ex><![CDATA[风力发电]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Wind River]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风河系统公司]]></ex>
+
+                            <ex><![CDATA[风河]]></ex>
+
+                            <ex><![CDATA[风河公司]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

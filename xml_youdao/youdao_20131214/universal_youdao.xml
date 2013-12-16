@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[universal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[通用]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[juːnɪ'vɜːs(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 一般概念；普通性]]></ex>
+
+                    <ex><![CDATA[adj. 普遍的；通用的；宇宙的；全世界的；全体的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Universal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环球]]></ex>
+
+                            <ex><![CDATA[通用]]></ex>
+
+                            <ex><![CDATA[普遍的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Universal grammar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[普遍文法]]></ex>
+
+                            <ex><![CDATA[普遍语法]]></ex>
+
+                            <ex><![CDATA[普遍性语法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Universal Pictures]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环球影业]]></ex>
+
+                            <ex><![CDATA[发行环球]]></ex>
+
+                            <ex><![CDATA[环球公司]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

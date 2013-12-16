@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>type</key>
+
+<ps>taɪp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c8/a3/c8a339fb85b3f16dce85e9e5de53d1eb.mp3</pron>
+
+<ps>taɪp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/59/9d/599dcce2998a6b40b1e38e8c6006cb0a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>类型；铅字；（印刷或打印的）文字；于…类型的；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>打字；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>[医学]测定（血型）；按类型把…归类；成为…的典型；[印刷]浇铸（铅字等）；
+
+</acceptation>
+
+<sent><orig>
+
+Among nine species,44.5% medicinal plants are Arum-type,55.5% are Paris-type.
+
+</orig>
+
+<trans>
+
+形成的菌根包括重楼型(Paris-type)和疆南星型(Arum-type)2种类型。
+
+</trans></sent>
+
+<sent><orig>
+
+That rule creates new instance of type-target, associated with that type.
+
+</orig>
+
+<trans>
+
+该规则创建type-target的新实例，关联至该类型。
+
+</trans></sent>
+
+<sent><orig>
+
+In this process, urokinase-type plasminogen activator(uPA) and P-selectin play a very important role.
+
+</orig>
+
+<trans>
+
+在此过程中，尿激酶型纤溶酶原激活物(urokinase-type plasminogen activator,uPA)和P-选择素起着十分重要的作用。
+
+</trans></sent>
+
+<sent><orig>
+
+The Clos Type network can satisfy this need quite well, so it is being used widely.
+
+</orig>
+
+<trans>
+
+Clos- Type网络能很好地满足这些要求 ，因此得到广泛的应用 。
+
+</trans></sent>
+
+<sent><orig>
+
+With templated states I get an error that ' type' is not defined. What's wrong?
+
+</orig>
+
+<trans>
+
+对于模板化状态，我得到一个'type'未定义的错误，有什么问题？
+
+</trans></sent>
+
+</dict>

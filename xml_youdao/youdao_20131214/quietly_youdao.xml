@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[quietly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[安静地]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ˈkwaɪətli]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 安静地；秘密地；平稳地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Quietly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[默默]]></ex>
+
+                            <ex><![CDATA[悄悄地]]></ex>
+
+                            <ex><![CDATA[静静]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sit quietly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[安静地坐]]></ex>
+
+                            <ex><![CDATA[静静地坐着]]></ex>
+
+                            <ex><![CDATA[安静地坐着]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[wait quietly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[静静地等待]]></ex>
+
+                            <ex><![CDATA[安静地等待]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

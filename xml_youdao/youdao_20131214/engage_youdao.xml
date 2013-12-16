@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[engage]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[参与]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'geɪdʒ; en-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 从事；答应，保证；交战；啮合]]></ex>
+
+                    <ex><![CDATA[vt. 吸引，占用；使参加；雇佣；使订婚；预定]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Engage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[从事]]></ex>
+
+                            <ex><![CDATA[雇用]]></ex>
+
+                            <ex><![CDATA[使从事于]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ENGAGE  N]]></key>
+
+            <value>
+
+                            <ex><![CDATA[挂上N档]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ENGAGE planet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[星界死者之书]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

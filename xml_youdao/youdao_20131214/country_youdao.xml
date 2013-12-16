@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[country]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[国家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kʌntrɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 国家，国土；国民；乡下，农村；乡村；故乡]]></ex>
+
+                    <ex><![CDATA[adj. 祖国的，故乡的；地方的，乡村的；国家的；粗鲁的；乡村音乐的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Country]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国家]]></ex>
+
+                            <ex><![CDATA[乡村]]></ex>
+
+                            <ex><![CDATA[我国]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Developing country]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发展中国家]]></ex>
+
+                            <ex><![CDATA[开发中国家]]></ex>
+
+                            <ex><![CDATA[〔分词]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Country park]]></key>
+
+            <value>
+
+                            <ex><![CDATA[郊野公园]]></ex>
+
+                            <ex><![CDATA[乡村公园]]></ex>
+
+                            <ex><![CDATA[国家公园]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

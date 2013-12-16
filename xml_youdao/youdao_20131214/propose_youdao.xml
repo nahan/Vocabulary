@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[propose]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[提出]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prə'pəʊz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 建议；求婚；打算]]></ex>
+
+                    <ex><![CDATA[vt. 建议；打算，计划；求婚]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Propose]]></key>
+
+            <value>
+
+                            <ex><![CDATA[提出]]></ex>
+
+                            <ex><![CDATA[求婚]]></ex>
+
+                            <ex><![CDATA[提议]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Grandstand Propose]]></key>
+
+            <value>
+
+                            <ex><![CDATA[看台求婚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[jiànyì propose]]></key>
+
+            <value>
+
+                            <ex><![CDATA[建议]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

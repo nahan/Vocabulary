@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[coast]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[海岸]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kəʊst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 海岸；滑坡]]></ex>
+
+                    <ex><![CDATA[vt. 沿…岸航行]]></ex>
+
+                    <ex><![CDATA[vi. 滑行；沿岸航行]]></ex>
+
+                    <ex><![CDATA[n. (Coast)人名；(英)科斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[coast]]></key>
+
+            <value>
+
+                            <ex><![CDATA[海岸]]></ex>
+
+                            <ex><![CDATA[岸]]></ex>
+
+                            <ex><![CDATA[海滨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Amalfi Coast]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阿马尔菲海岸]]></ex>
+
+                            <ex><![CDATA[意大利阿玛尔菲海岸]]></ex>
+
+                            <ex><![CDATA[阿玛菲海岸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Jurassic Coast]]></key>
+
+            <value>
+
+                            <ex><![CDATA[侏罗纪海岸]]></ex>
+
+                            <ex><![CDATA[侏罗纪海岸线]]></ex>
+
+                            <ex><![CDATA[侏罗纪海滩]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

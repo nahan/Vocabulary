@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[inquiry]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[调查]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'kwaɪrɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 探究；调查；质询]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Inquiry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[询盘]]></ex>
+
+                            <ex><![CDATA[查询]]></ex>
+
+                            <ex><![CDATA[询价]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[inquiry desk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[问讯处]]></ex>
+
+                            <ex><![CDATA[问询处]]></ex>
+
+                            <ex><![CDATA[咨询台]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[credit inquiry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[信用]]></ex>
+
+                            <ex><![CDATA[资信调查]]></ex>
+
+                            <ex><![CDATA[信用调查]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[practice]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[实践]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['præktɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 实践；练习；惯例]]></ex>
+
+                    <ex><![CDATA[vt. 练习；实习；实行]]></ex>
+
+                    <ex><![CDATA[vi. 练习；实习；实行]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[practice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实践]]></ex>
+
+                            <ex><![CDATA[练习]]></ex>
+
+                            <ex><![CDATA[趣味操练]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[social practice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[社会实践]]></ex>
+
+                            <ex><![CDATA[社会形态实践]]></ex>
+
+                            <ex><![CDATA[社会实际]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Practice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法网豪情]]></ex>
+
+                            <ex><![CDATA[律师本色]]></ex>
+
+                            <ex><![CDATA[状师实质]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

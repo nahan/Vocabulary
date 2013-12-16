@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>main</key>
+
+<ps>meɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/67/a7/67a73652a7dde66a3bc1deefc97a0107.mp3</pron>
+
+<ps>men</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/fa/d5/fad58de7366495db4650cfefac2fcd61.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>主要的，最重要的；全力的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>最主要的部分，重点；主要管道；体力；[航海]公海；
+
+</acceptation>
+
+<sent><orig>
+
+The program completes normally. All output buffers are emptied as part of the return from main.
+
+</orig>
+
+<trans>
+
+程序正常结束。作为main返回工作的一部分，将清空所有输出缓冲区。
+
+</trans></sent>
+
+<sent><orig>
+
+All output buffers are emptied as part of the return from main.
+
+</orig>
+
+<trans>
+
+作为main返回工作的一部分，将清空所有输出缓冲区。
+
+</trans></sent>
+
+<sent><orig>
+
+The design of main girder, main tower and main pier are briefly introduced.
+
+</orig>
+
+<trans>
+
+简要介绍主梁、主塔及主墩的设计。
+
+</trans></sent>
+
+<sent><orig>
+
+Pneumatic drive of the main surface of the main parts of the machining accuracy.
+
+</orig>
+
+<trans>
+
+气动驱动装置主要零件的主要表面的加工精度。
+
+</trans></sent>
+
+<sent><orig>
+
+Then the length of main cable at the location of main saddle is amended.
+
+</orig>
+
+<trans>
+
+再进行主索鞍处主缆长度的修正。
+
+</trans></sent>
+
+</dict>

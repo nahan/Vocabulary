@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[relax]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[放松]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'læks]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 放松，休息；松懈，松弛；变从容；休养]]></ex>
+
+                    <ex><![CDATA[vt. 放松；使休息；使松弛；缓和；使松懈]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Relax]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放松]]></ex>
+
+                            <ex><![CDATA[松弛]]></ex>
+
+                            <ex><![CDATA[放]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Relax Modifier]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放松修改器]]></ex>
+
+                            <ex><![CDATA[抓紧改器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[relax sports]]></key>
+
+            <value>
+
+                            <ex><![CDATA[休闲运动]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

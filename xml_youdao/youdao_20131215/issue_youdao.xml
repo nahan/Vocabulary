@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[issue]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[问题]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪʃuː; 'ɪsjuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 问题；流出；期号；发行物]]></ex>
+
+                    <ex><![CDATA[vt. 发行，发布；发给；放出，排出]]></ex>
+
+                    <ex><![CDATA[vi. 发行；流出；造成…结果；传下]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[issue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发行]]></ex>
+
+                            <ex><![CDATA[问题]]></ex>
+
+                            <ex><![CDATA[发出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bonus issue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[派送红股]]></ex>
+
+                            <ex><![CDATA[红股发行]]></ex>
+
+                            <ex><![CDATA[派送股份]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rights issue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[供股]]></ex>
+
+                            <ex><![CDATA[优先认股权]]></ex>
+
+                            <ex><![CDATA[配售新股]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

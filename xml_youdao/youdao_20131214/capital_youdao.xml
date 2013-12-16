@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[capital]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[资本]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kæpɪt(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 首都，省会；资金；大写字母；资本家]]></ex>
+
+                    <ex><![CDATA[adj. 首都的；重要的；大写的]]></ex>
+
+                    <ex><![CDATA[n. (Capital)人名；(法)卡皮塔尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Capital]]></key>
+
+            <value>
+
+                            <ex><![CDATA[资本]]></ex>
+
+                            <ex><![CDATA[首都]]></ex>
+
+                            <ex><![CDATA[资金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Working capital]]></key>
+
+            <value>
+
+                            <ex><![CDATA[营运资金]]></ex>
+
+                            <ex><![CDATA[营运资本]]></ex>
+
+                            <ex><![CDATA[周转资金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[human capital]]></key>
+
+            <value>
+
+                            <ex><![CDATA[人力资本]]></ex>
+
+                            <ex><![CDATA[人力资源]]></ex>
+
+                            <ex><![CDATA[人才资本]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

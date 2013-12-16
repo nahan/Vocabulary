@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>builder</key>
+
+<ps>ˈbɪldə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/9d/69/9d69586ccccf3939a45fce1d5e7f879a.mp3</pron>
+
+<ps>ˈbɪldɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c8/7a/c87a8ca60f0891b79d192fa86f019916.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>建设者，建筑者；创建者；经营建筑业者；增洁剂，促净剂；
+
+</acceptation>
+
+<sent><orig>
+
+Two ways of admixture programming with C++ Builder and Matlab are advanced.
+
+</orig>
+
+<trans>
+
+开发了利用Matlab Engine实现C++ Builder对Matlab功能调用和利用Matcom实现C++ Builder与Matlab语言的混合编程两种计算技术，提高了计算效率和工程应用价值。
+
+</trans></sent>
+
+<sent><orig>
+
+LAN in a computer search of program source code in C BUILDER development.
+
+</orig>
+
+<trans>
+
+一个在局域网中搜索计算机的程序原代码用C++BUILDER开发。
+
+</trans></sent>
+
+<sent><orig>
+
+The main development tool is Borland C++ Builder and the thinking of program is Modularization etc.
+
+</orig>
+
+<trans>
+
+软件的编译器主要是BorlandC++Builder,采用了模块化等编程思想。
+
+</trans></sent>
+
+<sent><orig>
+
+Based on Dreamweaver and C~(++ ) Builder,an applied multimedia courseware for tower equipment design is developed.
+
+</orig>
+
+<trans>
+
+以Dreamweaver,C++Builder为工具，开发出化工原理板式塔课程设计多媒体CAI应用软件。
+
+</trans></sent>
+
+<sent><orig>
+
+The data processing program for upper computer is compiled with C++ Builder language.
+
+</orig>
+
+<trans>
+
+上位机的数据处理程序应用C++ Builder语言编写。
+
+</trans></sent>
+
+</dict>

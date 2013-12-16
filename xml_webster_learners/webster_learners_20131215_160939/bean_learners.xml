@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bean[1]"> <hw highlight="yes" hindex="1">bean</hw> <sound><wav>bean0001.wav</wav></sound> <pr>ˈbi:n</pr> <fl>noun</fl> <in><il>plural</il> <if>beans</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:a seed that is eaten as a vegetable and that comes from any one of many different kinds of climbing plants <vi>We ate rice and <it>beans</it> for dinner.</vi></dt> <sn>b</sn> <dt>:a part of a plant that contains very young seeds and that is eaten as a vegetable <dx>see also <dxt>green bean</dxt> <dxt>pole bean</dxt> <dxt>snap bean</dxt> <dxt>string bean</dxt> <dxt>wax bean</dxt></dx></dt> <sn>c</sn> <dt>:a plant that produces beans <vi>We're growing tomatoes and <it>beans</it> in our garden this year.</vi></dt> <sn>2</sn> <dt>:a seed that looks like a bean but that does not come from a climbing plant <vi>coffee <it>beans</it></vi> <vi>cocoa <it>beans</it></vi> <vi>a vanilla <it>bean</it></vi> <dx>see also <dxt>jelly bean</dxt> <dxt>jumping bean</dxt></dx></dt></def> <dro><dre>a hill of beans</dre> <dx>see <dxt>hill</dxt></dx></dro> <dro><dre>full of beans</dre> <def><sl>informal</sl> <sn>1</sn> <dt>:full of energy and life <vi>We were young and <it>full of beans</it>.</vi> <vi>Although she's much older now, she's still <it>full of beans</it>.</vi></dt> <sn>2</sn> <ssl>US</ssl> <dt>:not correct or truthful :full of nonsense <vi>If that's what he's been saying, then he's <it>full of beans</it>.</vi></dt></def></dro> <dro><dre>not know beans about</dre> <def><sl>US</sl> <sl>informal</sl> <dt>:to not know anything about (something) <vi>He <it>doesn't know beans about</it> computers. [=he knows nothing about computers]</vi></dt></def></dro> <dro><dre>spill the beans</dre> <def><sl>informal</sl> <dt>:to reveal secret information <vi>I tried to get him to tell me what he knew, but he refused to <it>spill the beans</it>.</vi></dt></def></dro></entry>
+
+	<entry id="bean[2]"> <hw hindex="2">bean</hw> <altpr>ˈbi:n</altpr> <fl>verb</fl> <in><if>beans</if></in> <in><if>beaned</if></in> <in><if>bean*ing</if></in> <def><gram>+ obj</gram> <sl>informal</sl> <dt>:to hit (someone) on the head with something <vi>A kid in the back of the room <it>beaned</it> me with an eraser. [=threw an eraser that hit my head]</vi> <vi>(<it>baseball</it>) The pitcher almost <it>beaned</it> the first batter. [=he threw a pitch that almost hit the batter's head]</vi></dt></def></entry>
+
+	<entry id="bean counter"> <hw>bean counter</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ters</if></in> <def><gram>count</gram> <sl>informal + disapproving</sl> <dt>:a person who helps to run a business and who only cares about money <vi>He blames corporate <it>bean counters</it> for causing thousands of workers to lose their jobs.</vi></dt></def></entry>
+
+	<entry id="bean curd"> <hw>bean curd</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:<sx>tofu</sx></dt></def></entry>
+
+	<entry id="bean sprouts"> <hw>bean sprouts</hw> <fl>noun</fl> <def><gram>plural</gram> <dt>:very young plants that come from bean seeds and that are used as a vegetable</dt></def></entry>
+
+	<entry id="broad bean"> <hw>broad bean</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ beans</if></in> <def><gram>count</gram> <sl>chiefly Brit</sl> <dt>:<sx>fava bean</sx></dt></def></entry>
+
+	<entry id="butter bean"> <hw>butter bean</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ beans</if></in> <def><gram>count</gram> <sn>1</sn> <ssl>US</ssl> <dt>:a kind of small, flat bean :a small lima bean</dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:a lima bean that is dried before it is sold</dt></def></entry>
+
+	<entry id="cocoa bean"> <hw>cocoa bean</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ beans</if></in> <def><gram>count</gram> <dt>:the seed of a tropical tree (called the cacao) that is used in making cocoa, chocolate, and cocoa butter</dt></def></entry>
+
+	<entry id="coffee bean"> <hw>coffee bean</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ beans</if></in> <def><gram>count</gram> <dt>:the bean of a tropical tree or bush from which coffee is made</dt></def></entry>
+
+	<entry id="fava bean"> <hw>fa*va bean</hw> <sound><wav>favab01v.wav</wav></sound> <pr>ˈfɑ:və-</pr> <fl>noun</fl> <in><il>plural</il> <if>⁓ beans</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:a large, flat, pale green seed that is eaten as a vegetable <ca>called also (<it>chiefly Brit</it>) <cat>broad bean</cat></ca></dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="assessment"> <hw>as*sess*ment</hw> <sound><wav>assess03.wav</wav></sound> <pr>əˈsɛsmənt</pr> <fl>noun</fl> <in><il>plural</il> <if>as*sess*ments</if></in> <def><sl>formal</sl> <sn>1 a</sn> <dt>:the act of making a judgment about something :the act of assessing something <wsgram>count</wsgram> <vi>The book is a careful <it>assessment</it> [=<it>appraisal, evaluation</it>] of the president's achievements.</vi> <vi>The school uses a variety of tests for its annual student <it>assessments</it>. [=<it>evaluations</it>]</vi> <wsgram>noncount</wsgram> <vi>It's a difficult problem that requires careful <it>assessment</it>.</vi></dt> <sn>b</sn> <sgram>count</sgram> <dt>:an idea or opinion about something <vi>I don't agree with his <it>assessment</it> of the problem.</vi></dt> <sn>2</sn> <sgram>count</sgram> <dt>:an amount that a person is officially required to pay especially as a tax <vi>The owners claimed the tax <it>assessment</it> on their house was too high.</vi></dt></def></entry>
+
+	<entry id="self-assessment"> <hw>self–as*sess*ment</hw> <sound><wav>selfa02ld.wav</wav></sound> <pr>ˌsɛlfəˈsɛsmənt</pr> <fl>noun</fl> <in><il>plural</il> <if>self–as*sess*ments</if></in> <def><gram>count, noncount</gram> <dt>:the act or process of judging your own achievements or progress</dt></def></entry>
+
+	<entry id="self-"> <hw>self-</hw> <pr>ˌsɛlf</pr> <fl>combining form</fl> <def><sn>1 a</sn> <dt>:yourself or itself <vi><it>self</it>-pitying</vi></dt> <sn>b</sn> <dt>:of yourself or itself <vi><it>self</it>-destructive</vi> <vi><it>self</it>-sacrifice</vi></dt> <sn>2</sn> <dt>:by, to, with, for, or toward yourself or itself <vi><it>self</it>-made</vi> <vi><it>self</it>-evident</vi> <vi><it>self</it>-propelled</vi> <vi><it>self</it>-addressed</vi> <vi><it>self</it>-respect</vi></dt></def></entry>
+
+</entry_list>

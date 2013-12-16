@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>operator</key>
+
+<ps>'ɒpəreɪtə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/71/8b/718b9746e38ba278c7883cce98311ed3.mp3</pron>
+
+<ps>ˈɑpəˌretɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/4b/58/4b583376b2767b923c3e1da60d10de59.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>经营者；操作员；电话接线员；运算符；
+
+</acceptation>
+
+<sent><orig>
+
+Some GSM Operator charges different rate for SMS send inter operator and intra-operator.
+
+</orig>
+
+<trans>
+
+一些GSM运营商对发往内部运营商和外部运营商的SMS短消息实行不同的定价。
+
+</trans></sent>
+
+<sent><orig>
+
+Operator-Refers to the Cable Operator or the DBS Operator that delivers Program Services to the consumer.
+
+</orig>
+
+<trans>
+
+经营者、台、站-指传送节目给观众的有线台或直播卫星台。
+
+</trans></sent>
+
+<sent><orig>
+
+Image segmentation algorithm procedure, using Prewitt operator implementation Laplacian operator are examples of implementation.
+
+</orig>
+
+<trans>
+
+图像分割的算法的程序，用prewitt算子实现的还有laplacian算子实现的例子。
+
+</trans></sent>
+
+<sent><orig>
+
+The author emphasizes essentiality of operator quality and advances that operator's education must be compulsory.
+
+</orig>
+
+<trans>
+
+强调了旅游经营者素质的重要性，提出对旅游经营者教育应采取强制的方式。
+
+</trans></sent>
+
+<sent><orig>
+
+Extended object-based operator precedence algorithm was proposed on the basis of traditional operator precedence algorithm.
+
+</orig>
+
+<trans>
+
+在传统算符优先归约算法的基础上，提出了扩展的、基于对象的算符优先算法。
+
+</trans></sent>
+
+</dict>

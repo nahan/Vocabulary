@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[print]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[打印]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prɪnt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 印刷业；印花布；印刷字体；印章；印记]]></ex>
+
+                    <ex><![CDATA[vt. 印刷；打印；刊载；用印刷体写；在…印花样]]></ex>
+
+                    <ex><![CDATA[vi. 印刷；出版；用印刷体写]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Print]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打印]]></ex>
+
+                            <ex><![CDATA[印刷]]></ex>
+
+                            <ex><![CDATA[版画]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Print Spooler]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打印多任务缓冲处理器]]></ex>
+
+                            <ex><![CDATA[打印机共享]]></ex>
+
+                            <ex><![CDATA[打印服务]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[print preview]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打印预览]]></ex>
+
+                            <ex><![CDATA[列印预览]]></ex>
+
+                            <ex><![CDATA[预览打印]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

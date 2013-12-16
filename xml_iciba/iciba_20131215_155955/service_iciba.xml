@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>service</key>
+
+<ps>'sɜ:vɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d0/6b/d06b388659700a8a41b4c8acaf88ac71.mp3</pron>
+
+<ps>'sɝvɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/aa/ab/aaabf0d39951f3e6c3e8a7911df524c2.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>服务，服侍；服务业；维修服务；服役；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>检修，维修；向…提供服务；保养；满足需要；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>服务性的；耐用的；服现役的；
+
+</acceptation>
+
+<sent><orig>
+
+The OUT-OF-SERVICE-MANUAL state results from a manual removal of an AP from service.
+
+</orig>
+
+<trans>
+
+OUT-OF-SERVICE-MANUAL 状态是由手工使某个 AP 退出服务引起的。
+
+</trans></sent>
+
+<sent><orig>
+
+In this paper, We introduce how to build BSS service system with Service-oriented Architecture (SOA).
+
+</orig>
+
+<trans>
+
+在本文中也结合了面向服务的体系结构(Service-oriented Architecture,SOA)来构建电信BSS系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Web Service technology is an important technology to implement Service-Oriented Architecture (SOA) and information system integration.
+
+</orig>
+
+<trans>
+
+WebService技术是面向服务架构(Service-OrientedArchitecture,SOA)的实现技术之一，也是实现信息系统集成的重要技术。
+
+</trans></sent>
+
+<sent><orig>
+
+To accomplish this, your Activity should start a Service in which the upload takes place.
+
+</orig>
+
+<trans>
+
+要做到这一点，Activity应该启动一个Service处理上传工作。
+
+</trans></sent>
+
+<sent><orig>
+
+Restoring an AP moves the AP from the OUT-OF-SERVICE (OOS) state to the ACTIVE state.
+
+</orig>
+
+<trans>
+
+恢复 AP 会使 AP 从 OUT-OF-SERVICE (OOS) 状态变为 ACTIVE 状态。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[alter]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[改变]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɔːltə; 'ɒl-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 改变，更改]]></ex>
+
+                    <ex><![CDATA[vi. 改变；修改]]></ex>
+
+                    <ex><![CDATA[n. (Alter)人名；(英)奥尔特；(德、捷、葡、爱沙、立陶、拉脱、俄、西、罗、瑞典)阿尔特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[alter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[改变]]></ex>
+
+                            <ex><![CDATA[变更]]></ex>
+
+                            <ex><![CDATA[改动]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ALTER DATABASE]]></key>
+
+            <value>
+
+                            <ex><![CDATA[修改数据库]]></ex>
+
+                            <ex><![CDATA[修改数据库的权限]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Robert Alter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阿尔特]]></ex>
+
+                            <ex><![CDATA[奥尔特]]></ex>
+
+                            <ex><![CDATA[艾尔特]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

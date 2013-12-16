@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>engine</key>
+
+<ps>'endʒɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/94/46/9446a326e02af45affcfb81b3f06f2d2.mp3</pron>
+
+<ps>ˈɛndʒɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ad/19/ad1943a9fd6d3d7ee1e6af41a5b0d3e7.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>发动机，引擎；工具；火车头；机车；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>给…安装发动机；
+
+</acceptation>
+
+<sent><orig>
+
+In the third chapter, we construct a shadow engine based on the Tyr Shading Engine.
+
+</orig>
+
+<trans>
+
+本文第三章描述了在Tyr Shading Engine的基础上，架构了一个针对阴影算法的Shadow Engine的实现。
+
+</trans></sent>
+
+<sent><orig>
+
+The developments of MEMS, Micro Machining technology make it possible to fabricate Micro Turbine Engine(MTE).
+
+</orig>
+
+<trans>
+
+MEMS技术、微加工技术的发展，使得微型涡轮喷气发动机(Micro Turbine Engine,MTE)的制造成为可能。
+
+</trans></sent>
+
+<sent><orig>
+
+SKY has three inference engines: object inference engine. rule set inference engine and method inference engine.
+
+</orig>
+
+<trans>
+
+SKY拥有三部推理机：对象推理机、规则集推理机和方法推理机。
+
+</trans></sent>
+
+<sent><orig>
+
+The Rules Processing Engine consists of a Rules Engine, a Variable Engine, and an Expression Machine.
+
+</orig>
+
+<trans>
+
+规则处理引擎，构成一个规则引擎，一个变量的引擎，并表达了机器。
+
+</trans></sent>
+
+<sent><orig>
+
+Lower the engine and engine support cushions onto the engine compartment brackets.
+
+</orig>
+
+<trans>
+
+降低引擎和引擎支撑坐垫到引擎室托架上。
+
+</trans></sent>
+
+</dict>

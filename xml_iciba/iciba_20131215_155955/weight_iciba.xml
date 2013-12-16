@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>weight</key>
+
+<ps>weɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/71/52/7152c2fcd6be1f1ea2e1a2e26357b935.mp3</pron>
+
+<ps>wet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/7e/da/7edabf994b76a00cbc60c95af337db8f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>重量，体重；重担，重任；重要；[统]权，加重值，权重；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>加重于，使变重；使负重，使负担或压迫；[统]使加权，附加加重值于；
+
+</acceptation>
+
+<sent><orig>
+
+Weight Memo shows something about the weight emphatically, such as weight, weight, etc.
+
+</orig>
+
+<trans>
+
+重量单侧重说明重量内容，如：毛重、净重等。
+
+</trans></sent>
+
+<sent><orig>
+
+Deducting the tare weight from the gross weight, we get the net weight.
+
+</orig>
+
+<trans>
+
+毛重扣掉外包装重量便得到净重。
+
+</trans></sent>
+
+<sent><orig>
+
+Maximum container gross weight (cargo gross weight plus container weight) is 30 mt to port only.
+
+</orig>
+
+<trans>
+
+港口集装箱的最大总重量（货物总重量加上集装箱自身重量）是30公吨。
+
+</trans></sent>
+
+<sent><orig>
+
+Weight: including tare weight and net weight.
+
+</orig>
+
+<trans>
+
+重量：包括皮重与净重。
+
+</trans></sent>
+
+<sent><orig>
+
+The weight put on this thread was a weight of two pounds.
+
+</orig>
+
+<trans>
+
+放在这条绳子上的重物为两磅。
+
+</trans></sent>
+
+</dict>

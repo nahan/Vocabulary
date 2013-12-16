@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[craft]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[工艺]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[krɑːft]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 工艺；手艺；太空船]]></ex>
+
+                    <ex><![CDATA[vt. 精巧地制作]]></ex>
+
+                    <ex><![CDATA[n. (Craft)人名；(英、德、罗)克拉夫特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Craft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工艺]]></ex>
+
+                            <ex><![CDATA[手艺]]></ex>
+
+                            <ex><![CDATA[技巧]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[totem craft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[图腾工艺品]]></ex>
+
+                            <ex><![CDATA[珍珠工艺品]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[stage craft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[舞台艺术]]></ex>
+
+                            <ex><![CDATA[演技]]></ex>
+
+                            <ex><![CDATA[导演技巧]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

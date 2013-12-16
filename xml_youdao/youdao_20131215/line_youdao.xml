@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[line]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[行]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[laɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 路线，航线；排；绳]]></ex>
+
+                    <ex><![CDATA[vt. 排成一行；划线于；以线条标示；使…起皱纹]]></ex>
+
+                    <ex><![CDATA[vi. 排队；站成一排]]></ex>
+
+                    <ex><![CDATA[n. (Line)人名；(英)莱恩；(俄)利涅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Line]]></key>
+
+            <value>
+
+                            <ex><![CDATA[直线]]></ex>
+
+                            <ex><![CDATA[线路]]></ex>
+
+                            <ex><![CDATA[线条]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[line up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[排队]]></ex>
+
+                            <ex><![CDATA[使排成一行]]></ex>
+
+                            <ex><![CDATA[排成行]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[base line]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基线]]></ex>
+
+                            <ex><![CDATA[底线]]></ex>
+
+                            <ex><![CDATA[垒间线]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

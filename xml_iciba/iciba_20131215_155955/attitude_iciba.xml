@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>attitude</key>
+
+<ps>ˈætitju:d</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/b4/3b/b43b3777e949a30229c2121fb22a8285.mp3</pron>
+
+<ps>ˈætɪˌtud, -ˌtjud</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b4/3b/b43b3777e949a30229c2121fb22a8285.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>态度，看法；[戏剧]（表演时的）姿势；
+
+</acceptation>
+
+<sent><orig>
+
+The aerocraft attitude control is divided into two parts: attitude stabilization and attitude track.
+
+</orig>
+
+<trans>
+
+本文将飞行器姿态控制分为：姿态稳定和姿态跟踪两种情况加以研究。
+
+</trans></sent>
+
+<sent><orig>
+
+Conning error is a principle error of strapdown attitude algorithm, which degrades the attitude precision greatly.
+
+</orig>
+
+<trans>
+
+圆锥误差是影响捷联惯导系统姿态算法精度的原理性误差，其对三轴激光捷联惯导系统精度的影响显著。
+
+</trans></sent>
+
+<sent><orig>
+
+The Attitude Control System (ACS) software is responsible for maintaining the attitude of the spacecraft.
+
+</orig>
+
+<trans>
+
+姿态控制系统(ACS)软件负责维护航空器的姿态。
+
+</trans></sent>
+
+<sent><orig>
+
+ADI, Attitude Direction Indicator, An electronic display of airplane attitude inFORMation in pitch and roll.
+
+</orig>
+
+<trans>
+
+姿态指引仪，用来显示飞机的俯仰姿态和坡度的电子显示。
+
+</trans></sent>
+
+<sent><orig>
+
+Sometimes it a help to use you-attitude instead of I-attitude.
+
+</orig>
+
+<trans>
+
+有时第二人称比第一人称更有助于做到这些。
+
+</trans></sent>
+
+</dict>

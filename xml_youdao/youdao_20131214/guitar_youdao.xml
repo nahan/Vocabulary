@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[guitar]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[吉他]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gɪ'tɑː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 吉他，六弦琴]]></ex>
+
+                    <ex><![CDATA[vi. 弹吉他]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Guitar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吉他]]></ex>
+
+                            <ex><![CDATA[六弦琴]]></ex>
+
+                            <ex><![CDATA[吉它]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Guitar Slim]]></key>
+
+            <value>
+
+                            <ex><![CDATA[埃迪·琼斯]]></ex>
+
+                            <ex><![CDATA[苗条吉他]]></ex>
+
+                            <ex><![CDATA[表演者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Crazy Guitar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[疯狂吉他]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

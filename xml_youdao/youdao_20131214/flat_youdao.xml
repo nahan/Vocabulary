@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[flat]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[平]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[flæt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 平地；公寓；平面]]></ex>
+
+                    <ex><![CDATA[adj. 平的；单调的；不景气的；干脆的；平坦的；扁平的；浅的]]></ex>
+
+                    <ex><![CDATA[vi. 逐渐变平；[音乐]以降调唱（或奏）]]></ex>
+
+                    <ex><![CDATA[vt. 使变平；[音乐]使（音调）下降，尤指降半音]]></ex>
+
+                    <ex><![CDATA[adv. （尤指贴着另一表面）平直地；断然地；水平地；直接地，完全地]]></ex>
+
+                    <ex><![CDATA[n. （法）弗拉特（人名）；（英）弗莱特（人名）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[flat]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公寓]]></ex>
+
+                            <ex><![CDATA[结构]]></ex>
+
+                            <ex><![CDATA[扁平结构]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[FLAT MACHINE]]></key>
+
+            <value>
+
+                            <ex><![CDATA[平车]]></ex>
+
+                            <ex><![CDATA[横机]]></ex>
+
+                            <ex><![CDATA[针织横机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Flat noodles]]></key>
+
+            <value>
+
+                            <ex><![CDATA[板条]]></ex>
+
+                            <ex><![CDATA[板面]]></ex>
+
+                            <ex><![CDATA[米粉]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

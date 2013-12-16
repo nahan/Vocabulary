@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>match</key>
+
+<ps>mætʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/23/75/2375181e1c9e29e00e9a7b6f68a28312.mp3</pron>
+
+<ps>mætʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e3/cc/e3cc92c14a5e6dd1a7d94b6ff634d7fc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>比赛；对手；相配的人（或物）；火柴；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>相同；适应；使较量；使等同于；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>使相配，使相称；
+
+</acceptation>
+
+<sent><orig>
+
+The Kumite competition may be further divided into the team match and the individual match.
+
+</orig>
+
+<trans>
+
+对打比赛又可分为团体赛和个人赛(match)。
+
+</trans></sent>
+
+<sent><orig>
+
+The default is a perpendicular projection of the match edge points onto the reference edge.
+
+</orig>
+
+<trans>
+
+缺省地是将match边界上的控制点垂直投影到参考边上的部分。
+
+</trans></sent>
+
+<sent><orig>
+
+For Match Size, select Match Width, Match Height, or Match Width and Height.
+
+</orig>
+
+<trans>
+
+为匹配大小，选择匹配宽度，比赛高度或者比赛宽度和高度。
+
+</trans></sent>
+
+<sent><orig>
+
+Will attempt match without extra match string if no match.
+
+</orig>
+
+<trans>
+
+将尝试匹配没有额外的匹配字符串，如果没有匹配。
+
+</trans></sent>
+
+<sent><orig>
+
+That every match person must wear on the match number mark is stipulated the match rule.
+
+</orig>
+
+<trans>
+
+比赛规则规定每个比赛者必须佩戴一个赛号标志。
+
+</trans></sent>
+
+</dict>

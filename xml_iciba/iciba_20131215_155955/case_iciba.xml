@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>case</key>
+
+<ps>keɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/5f/46/5f469fae89e3658adea49e6f07236fc6.mp3</pron>
+
+<ps>kes</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/cd/14/cd14c323902024e72c850aa828d634a7.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>（实）例，事例；情况，状况；诉讼（事件），案件，判例；容器（箱，盒）；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…装入箱（或盒等）内；加盖于；包围，围住；[俚语]（尤指盗窃前）探察，侦查，窥测；
+
+</acceptation>
+
+<sent><orig>
+
+Case retrieval model directly impacts Case-Based Reasoning(CBR).
+
+</orig>
+
+<trans>
+
+事例检索模型直接影响基于事例推理(Case-BasedReasoning,CBR)的结果。
+
+</trans></sent>
+
+<sent><orig>
+
+CBR (Case-Based Reasoning)is one of the most distinguishing methods different from RBR(Rule-Based Reasoulng)in AI.
+
+</orig>
+
+<trans>
+
+CBR(Case-BasedReasoning)以完全不同于RBR(Rule—BasedReasoning)的方式在人工智能的众多技术中独树一帜。
+
+</trans></sent>
+
+<sent><orig>
+
+The singly-quoted characters in the case statements also produce integral values that are used for comparison.
+
+</orig>
+
+<trans>
+
+在case语句中，用单引号封闭起来的字符也会产生整数值，以便我们进行比较。
+
+</trans></sent>
+
+<sent><orig>
+
+Computer aided requirement analysis is an important research field of CASE.
+
+</orig>
+
+<trans>
+
+计算机辅助需求分析是CASE的一个重要研究领域。
+
+</trans></sent>
+
+<sent><orig>
+
+But this quickly got out of control and dreadnought CASE tools were born.
+
+</orig>
+
+<trans>
+
+但是，这很快就乱了套，各种重磅炸弹似的CASE工具迎面而来。
+
+</trans></sent>
+
+</dict>

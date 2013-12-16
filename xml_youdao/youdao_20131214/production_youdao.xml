@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[production]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[生产]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prə'dʌkʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 成果；产品；生产；作品]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Production]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生产]]></ex>
+
+                            <ex><![CDATA[产品]]></ex>
+
+                            <ex><![CDATA[制片]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Production system]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生产系统]]></ex>
+
+                            <ex><![CDATA[产生式系统]]></ex>
+
+                            <ex><![CDATA[制作系统]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Industrial Production]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工业生产指数]]></ex>
+
+                            <ex><![CDATA[工业生产]]></ex>
+
+                            <ex><![CDATA[工业产值]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

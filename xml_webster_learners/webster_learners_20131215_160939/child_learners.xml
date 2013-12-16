@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="child"> <hw highlight="yes">child</hw> <sound><wav>child001.wav</wav></sound> <pr>ˈtʃajəld</pr> <fl>noun</fl> <in><il>plural</il> <if>chil*dren</if> <sound><wav>child002.wav</wav></sound> <pr>ˈtʃɪldrən</pr></in> <def><gram>count</gram> <sn>1</sn> <dt>:a young person <vi>the birth of a <it>child</it></vi> <vi>She's pregnant with their first <it>child</it>.</vi> <vi>a play for both <it>children</it> and adults</vi> <vi>I went there once <phrase>as a child</phrase>. [=when I was a child]</vi> <un>often used before another noun. <vi>a <it>child</it> prodigy</vi> <vi>a <it>child</it> actor</vi> <vi><it>child</it> development</vi> <vi><it>child</it> psychologists</vi></un></dt> <sn>2</sn> <dt>:a son or daughter <vi>All of their <it>children</it> are grown now.</vi> <vi>an elderly couple and their adult <it>children</it></vi></dt> <sn>3</sn> <dt>:an adult who acts like a child :a childlike or childish person <vi>I'm a <it>child</it> when it comes to doing taxes. [=I need to be told or shown what to do]</vi> <vi>Men are such <it>children</it> sometimes.</vi></dt> <sn>4</sn> <dt>:a person who has been strongly influenced by a certain place or time or by the events happening during that time <vi>She's a <it>child</it> of her time.</vi> <vi>a <it>child</it> of the Depression</vi></dt></def> <dro><dre>children should be seen and not heard</dre> <def><dt><un>used to say that children should be quiet and well-behaved</un></dt></def></dro> <dro><dre>with child</dre> <def><sl>old-fashioned</sl> <dt>:<sx>pregnant</sx> <vi>She found herself <it>with child</it>. [=she discovered that she was pregnant]</vi></dt></def></dro> <dxnl>see also <dxt>brainchild</dxt></dxnl></entry>
+
+	<entry id="child benefit"> <hw>child benefit</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -fits</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:money that the government pays to families with children</dt></def></entry>
+
+	<entry id="child-rearing"> <hw>child–rearing</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:the process of taking care of and raising children <vi>Her husband is actively involved in <it>child-rearing</it>.</vi> <un>often used before another noun <vi><it>child-rearing</it> practices/methods</vi></un></dt></def></entry>
+
+	<entry id="child support"> <hw>child support</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:money that a former husband or wife must pay regularly to help raise a child <ca>called also (<it>Brit</it>) <cat>maintenance</cat></ca></dt></def></entry>
+
+	<entry id="child's play"> <hw>child's play</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:something that is very easy to do <vi>Landing a job should be <it>child's play</it> for someone with his skills.</vi></dt></def></entry>
+
+	<entry id="flower child"> <hw>flower child</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ children</if></in> <def><gram>count</gram> <dt>:a young person in the 1960s and 1970s who rejected the traditional values of society :<sx>hippie</sx></dt></def></entry>
+
+	<entry id="latchkey child"> <hw>latchkey child</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ children</if></in> <def><gram>count</gram> <dt>:a young child who is alone at home after school because the child's parents are working <ca>called also <cat>latchkey kid</cat></ca></dt></def></entry>
+
+	<entry id="love child"> <hw>love child</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ children</if></in> <def><gram>count</gram> <dt>:a child whose father and mother are not married to each other when the child is born :an illegitimate child <vi>the <it>love child</it> of a famous actor and one of his fans</vi></dt></def></entry>
+
+	<entry id="only child"> <hw>only child</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ children</if></in> <def><gram>count</gram> <dt>:a person who never had a brother or sister <vi>I was an <it>only child</it>.</vi> <vi>As an <it>only child</it>, it was her duty to take care of her aging parents.</vi></dt></def></entry>
+
+	<entry id="poster child"> <hw>poster child</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ children</if></in> <def><gram>count</gram> <sl>US</sl> <sn>1</sn> <dt>:a child who has a particular disease and is shown in posters to raise money to help fight that disease</dt> <sn>2</sn> <dt>:a person who represents or is identified with something (such as a cause or product) <vi>She was a stirring speaker and activist and soon became the <it>poster child</it> of the antiwar movement.</vi> <vi>(<it>humorous</it>) My brother is the <it>poster child</it> for laziness. [=he is very lazy]</vi></dt></def></entry>
+
+</entry_list>

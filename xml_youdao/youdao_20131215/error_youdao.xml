@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[error]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[错误]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['erə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 误差；错误；过失]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Error]]></key>
+
+            <value>
+
+                            <ex><![CDATA[错误]]></ex>
+
+                            <ex><![CDATA[误差]]></ex>
+
+                            <ex><![CDATA[差错]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[error handling]]></key>
+
+            <value>
+
+                            <ex><![CDATA[错误处理]]></ex>
+
+                            <ex><![CDATA[有限的错误处理]]></ex>
+
+                            <ex><![CDATA[差错处理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[error signal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[误差信号]]></ex>
+
+                            <ex><![CDATA[误差讯号]]></ex>
+
+                            <ex><![CDATA[错误信号]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

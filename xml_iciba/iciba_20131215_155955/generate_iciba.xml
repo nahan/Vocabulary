@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>generate</key>
+
+<ps>'dʒenəreɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d8/f7/d8f7a9e3a86f8963cc1950ddce953272.mp3</pron>
+
+<ps>ˈdʒɛnəˌret</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/15/11/15117b282328146ac6afebaa8acd80e7.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>形成，造成；产生物理反应；产生（后代）；引起；
+
+</acceptation>
+
+<sent><orig>
+
+A small utility to generate robust passwords with options.
+
+</orig>
+
+<trans>
+
+一个小实用程序将与选择产生柔韧的口令。
+
+</trans></sent>
+
+<sent><orig>
+
+To generate capital appreciation with regular income.
+
+</orig>
+
+<trans>
+
+资本增值及赚取定期收入。
+
+</trans></sent>
+
+<sent><orig>
+
+Using random number generator to generate a command line.
+
+</orig>
+
+<trans>
+
+用随机数产生器生成一个指令系列。
+
+</trans></sent>
+
+<sent><orig>
+
+The compiler knows what processor it is running and can generate code specifically for that processor.
+
+</orig>
+
+<trans>
+
+JIT编译器知道什么处理器正在运行，可以产生对应此处理器的优化代码。
+
+</trans></sent>
+
+<sent><orig>
+
+These checks are disabled by default as they generate a host of warnings.
+
+</orig>
+
+<trans>
+
+这些检查默认都是被关闭的，因为他们通常会产生大量的警告。
+
+</trans></sent>
+
+</dict>

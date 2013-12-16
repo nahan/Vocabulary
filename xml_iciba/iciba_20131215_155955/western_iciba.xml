@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>western</key>
+
+<ps>'westən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c4/6d/c46d30acc663cb8af1bf1343246ac6f2.mp3</pron>
+
+<ps>ˈwɛstən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9a/d8/9ad808399723e7b899d89c8682f058c7.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>西方的；欧美的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>西部电影，西部小说；西方人；
+
+</acceptation>
+
+<sent><orig>
+
+Expression of bFGF and FG-FR, in ovarian epithelial cancer tissue were detected by western blot.
+
+</orig>
+
+<trans>
+
+western blot方法检测上皮性卵巢癌组织中bFGF和FGFR_1的表达。
+
+</trans></sent>
+
+<sent><orig>
+
+Western-blot analysis with sera against CAV showed the fusion protein had good specificity.
+
+</orig>
+
+<trans>
+
+在Western-blot免疫印迹分析中，3个融合蛋白与CAV阳性血清均能发生特异性反应，表明它们都具有良好的反应性。
+
+</trans></sent>
+
+<sent><orig>
+
+Detected the existence of APR-2 through the method of Western-blot.
+
+</orig>
+
+<trans>
+
+兔多克隆抗血清，对APR一2进行western一blot检测。
+
+</trans></sent>
+
+<sent><orig>
+
+Effects on the protein expression of cyclin A,B_1 and D_1 were assessed by Western Blot.
+
+</orig>
+
+<trans>
+
+Western印迹检测细胞周期蛋白D1、A和B1表达的变化。
+
+</trans></sent>
+
+<sent><orig>
+
+Western-Blot assay indicated that the recombinant protein could react with polyclonal anti-serum bovis with good antigencity.
+
+</orig>
+
+<trans>
+
+Western-Blot分析表明，融合蛋白能够被牛分支杆菌阳性血清所识别，具有良好的反应原性。
+
+</trans></sent>
+
+</dict>

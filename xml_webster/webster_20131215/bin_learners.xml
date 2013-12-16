@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bin[1]"> <hw hindex="1">bin</hw> <sound><wav>bin00001.wav</wav></sound> <pr>ˈbɪn</pr> <fl>noun</fl> <in><il>plural</il> <if>bins</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a box that is used for storing things <vi>a storage/laundry <it>bin</it></vi> <vi>Put the old newspapers in the recycling <it>bin</it>.</vi></dt> <sn>2</sn> <ssl>chiefly Brit</ssl> <dt>:a can for trash or garbage :<sx>dustbin</sx> <dx>see also <dxt>bin liner</dxt> <dxt>binman</dxt></dx></dt></def></entry>
+
+	<entry id="bin[2]"> <hw hindex="2">bin</hw> <altpr>ˈbɪn</altpr> <fl>verb</fl> <in><if>bins</if></in> <in><if>binned</if></in> <in><if>bin*ning</if></in> <def><gram>+ obj</gram> <sl>Brit</sl> <sl>informal</sl> <dt>:to put (something) in the trash <vi><it>binning</it> old newspapers</vi></dt></def></entry>
+
+	<entry id="bin liner"> <hw>bin liner</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a plastic bag used in a garbage can</dt></def></entry>
+
+	<entry id="litter bin"> <hw>litter bin</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bins</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>trash can</sx></dt></def></entry>
+
+	<entry id="loony bin"> <hw>loony bin</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bins</if></in> <def><gram>count</gram> <sl>informal + offensive</sl> <dt>:a hospital for people who are insane <snote><it>Loony bin</it> is usually used in a joking way. <vi>If you keep acting like that we'll have to send you off to the <it>loony bin</it>.</vi></snote></dt></def></entry>
+
+	<entry id="waste bin"> <hw>waste bin</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bins</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>dustbin</sx></dt></def></entry>
+
+	<entry id="wheelie bin"> <hw>wheelie bin</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bins</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a large container with wheels that is used for holding trash</dt></def></entry>
+
+</entry_list>

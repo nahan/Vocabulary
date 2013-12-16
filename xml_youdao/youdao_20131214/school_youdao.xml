@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[school]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[学校]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skuːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 学校；学院；学派；鱼群]]></ex>
+
+                    <ex><![CDATA[vt. 教育]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[School]]></key>
+
+            <value>
+
+                            <ex><![CDATA[学校]]></ex>
+
+                            <ex><![CDATA[学派]]></ex>
+
+                            <ex><![CDATA[学院]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[High School]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高中]]></ex>
+
+                            <ex><![CDATA[中学]]></ex>
+
+                            <ex><![CDATA[高级中学]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[at school]]></key>
+
+            <value>
+
+                            <ex><![CDATA[在学校]]></ex>
+
+                            <ex><![CDATA[在上学]]></ex>
+
+                            <ex><![CDATA[在上课]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

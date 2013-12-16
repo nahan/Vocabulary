@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nowhere]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[地方]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nəʊhweə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 无处；任何地方；无名之地]]></ex>
+
+                    <ex><![CDATA[adj. 不存在的；毫无结果的；不知名的]]></ex>
+
+                    <ex><![CDATA[adv. 无处；任何地方都不；毫无结果]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[NOWHere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艾希尔]]></ex>
+
+                            <ex><![CDATA[无处]]></ex>
+
+                            <ex><![CDATA[无门]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nowhere boy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无处的男孩]]></ex>
+
+                            <ex><![CDATA[片]]></ex>
+
+                            <ex><![CDATA[不羁前传]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Midnight Nowhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[午夜夺命]]></ex>
+
+                            <ex><![CDATA[心得]]></ex>
+
+                            <ex><![CDATA[午夜惊魂]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

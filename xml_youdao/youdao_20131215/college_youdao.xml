@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[college]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[大学]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒlɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 大学；学院；学会]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[College]]></key>
+
+            <value>
+
+                            <ex><![CDATA[学院]]></ex>
+
+                            <ex><![CDATA[大学]]></ex>
+
+                            <ex><![CDATA[高校]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Boston College]]></key>
+
+            <value>
+
+                            <ex><![CDATA[波士顿学院]]></ex>
+
+                            <ex><![CDATA[波士顿大学]]></ex>
+
+                            <ex><![CDATA[美国波士顿学院]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Amherst College]]></key>
+
+            <value>
+
+                            <ex><![CDATA[安默斯特学院]]></ex>
+
+                            <ex><![CDATA[阿默斯特学院]]></ex>
+
+                            <ex><![CDATA[艾姆赫斯特学院]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>claim</key>
+
+<ps>kleɪm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f3/24/f3247e0bd9973f1ba7cdad1b08ca5dca.mp3</pron>
+
+<ps>klem</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/44/90/449002f8bf705eba132a38364982f6e7.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>声称；断言；需要；索取；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>提出要求；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>（根据权利而提出的）要求；声称；断言；索赔；
+
+</acceptation>
+
+<sent><orig>
+
+In our country, the claim pattern of the current joint liability is a free claim pattern.
+
+</orig>
+
+<trans>
+
+我国现行连带责任的求偿模式是任意求偿模式。
+
+</trans></sent>
+
+<sent><orig>
+
+Any dependent claim shall only refer to the preceding claim or claims.
+
+</orig>
+
+<trans>
+
+　　从属权利要求只能引用在前的权利要求。
+
+</trans></sent>
+
+<sent><orig>
+
+No such pre-assesment of claim construction. Claim construction incorporated into full trial.
+
+</orig>
+
+<trans>
+
+对所主张权利的定义不在审判前进行评审，而是被包含在整个审判过程中。
+
+</trans></sent>
+
+<sent><orig>
+
+Article 21 The patent claim shall have an independent claim, and may also contain subordinate claims.
+
+</orig>
+
+<trans>
+
+第二十一条权利要求书应当有独立权利要求，也可以有从属权利要求。
+
+</trans></sent>
+
+<sent><orig>
+
+He did not want to claim social superiority, he would not claim intrinsic personal superiority.
+
+</orig>
+
+<trans>
+
+他不想炫耀优越的社会地位，他也不会炫耀他个人出众的内在力量。
+
+</trans></sent>
+
+</dict>

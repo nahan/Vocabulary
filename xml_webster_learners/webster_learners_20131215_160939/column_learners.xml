@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="column"> <hw highlight="yes">col*umn</hw> <sound><wav>column01.wav</wav></sound> <pr>ˈkɑ:ləm</pr> <fl>noun</fl> <in><il>plural</il> <if>col*umns</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a long post made of steel, stone, etc., that is used as a support in a building <vi>a facade with marble <it>columns</it></vi></dt> <sn>2 a</sn> <dt>:a group of printed or written items (such as numbers or words) shown one under the other down a page <vi>Add the first <it>column</it> of numbers.</vi></dt> <sn>b</sn> <dt>:any one of two or more sections of print that appear next to each other on a page and are separated by a blank space or a line <vi>The article takes up three <it>columns</it>.</vi> <vi>The error appears at the bottom of the second <it>column</it>.</vi> <dx>see picture at <dxt>table</dxt></dx></dt> <sn>3</sn> <dt>:an article in a newspaper or magazine that appears regularly and that is written by a particular writer or deals with a particular subject <vi>a sports/gossip <it>column</it></vi> <vi>She writes a weekly <it>column</it> for the paper.</vi> <dx>see also <dxt>advice column</dxt></dx></dt> <sn>4</sn> <dt>:something that is tall and thin in shape <un>often + <it>of</it> <vi><it>Columns of</it> smoke rose from the chimneys.</vi></un> <dx>see also <dxt>steering column</dxt></dx></dt> <sn>5</sn> <dt>:a long row of people or things <un>often + <it>of</it> <vi>a <it>column of</it> troops/cars</vi></un></dt></def></entry>
+
+	<entry id="advice column"> <hw>advice column</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -umns</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:an article in a newspaper or magazine that offers advice to people who write to ask for help with a problem <ca>called also (<it>Brit</it>) <cat>agony column</cat></ca></dt></def> <uro><ure>advice columnist</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -nists</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="agony column"> <hw>agony column</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -umns</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>advice column</sx></dt></def></entry>
+
+	<entry id="personal column"> <hw>personal column</hw> <fl>noun</fl> <dro><dre>the personal column</dre> <def><sl>Brit</sl> <dt>:<sx>personals</sx></dt></def></dro></entry>
+
+	<entry id="spinal column"> <hw>spinal column</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -umns</if></in> <def><gram>count</gram> <sl>technical</sl> <dt>:<sx>backbone</sx> <dx>see picture at <dxt>human</dxt></dx></dt></def></entry>
+
+	<entry id="steering column"> <hw>steering column</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -umns</if></in> <def><gram>count</gram> <dt>:the thick post in a car that holds the steering wheel</dt></def></entry>
+
+</entry_list>

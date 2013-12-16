@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[involved]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[涉及到]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'vɒlvd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 涉及；使参与；包含（involve的过去式和过去分词）]]></ex>
+
+                    <ex><![CDATA[adj. 有关的；卷入的；复杂的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Involved]]></key>
+
+            <value>
+
+                            <ex><![CDATA[涉案]]></ex>
+
+                            <ex><![CDATA[卷入]]></ex>
+
+                            <ex><![CDATA[涉足]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[parties involved]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交换中的各方]]></ex>
+
+                            <ex><![CDATA[当事人]]></ex>
+
+                            <ex><![CDATA[当事者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[get involved]]></key>
+
+            <value>
+
+                            <ex><![CDATA[介入]]></ex>
+
+                            <ex><![CDATA[加入我们]]></ex>
+
+                            <ex><![CDATA[参与文库建设]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

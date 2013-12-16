@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[disaster]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[灾难]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'zɑːstə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 灾难，灾祸；不幸]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[disaster]]></key>
+
+            <value>
+
+                            <ex><![CDATA[灾难]]></ex>
+
+                            <ex><![CDATA[灾害]]></ex>
+
+                            <ex><![CDATA[灾祸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[natural disaster]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自然灾害]]></ex>
+
+                            <ex><![CDATA[天灾]]></ex>
+
+                            <ex><![CDATA[天然灾害]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Disaster film]]></key>
+
+            <value>
+
+                            <ex><![CDATA[灾难片]]></ex>
+
+                            <ex><![CDATA[灾害片]]></ex>
+
+                            <ex><![CDATA[灾祸片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[continue]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[继续]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'tɪnjuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 继续说…；使…继续；使…延长]]></ex>
+
+                    <ex><![CDATA[vi. 继续，延续；仍旧，连续]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[continue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[继续]]></ex>
+
+                            <ex><![CDATA[连续]]></ex>
+
+                            <ex><![CDATA[下去]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[continue shopping]]></key>
+
+            <value>
+
+                            <ex><![CDATA[继续购物]]></ex>
+
+                            <ex><![CDATA[继续购买]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[continue story]]></key>
+
+            <value>
+
+                            <ex><![CDATA[继续故事模式]]></ex>
+
+                            <ex><![CDATA[继续故事]]></ex>
+
+                            <ex><![CDATA[继续的故事]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

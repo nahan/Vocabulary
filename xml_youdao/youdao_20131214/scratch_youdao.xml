@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[scratch]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[刮伤]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skrætʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 擦伤；抓痕；刮擦声；乱写]]></ex>
+
+                    <ex><![CDATA[vt. 抓；刮；挖出；乱涂]]></ex>
+
+                    <ex><![CDATA[adj. 打草稿用的；凑合的；碰巧的]]></ex>
+
+                    <ex><![CDATA[vi. 抓；搔；发刮擦声；勉强糊口；退出比赛]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[scratch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[刮伤]]></ex>
+
+                            <ex><![CDATA[划伤]]></ex>
+
+                            <ex><![CDATA[抓]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[scratch pad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[即开式奖券]]></ex>
+
+                            <ex><![CDATA[草稿栏]]></ex>
+
+                            <ex><![CDATA[便笺本]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Scratch Resistance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不易刮花]]></ex>
+
+                            <ex><![CDATA[耐擦伤性]]></ex>
+
+                            <ex><![CDATA[刮不花]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

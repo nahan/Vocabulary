@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tree]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[树]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[triː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 树；木料；树状物]]></ex>
+
+                    <ex><![CDATA[vt. 把...赶上树]]></ex>
+
+                    <ex><![CDATA[vi. 爬上树；逃上树]]></ex>
+
+                    <ex><![CDATA[n. (Tree)人名；(英)特里]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tree]]></key>
+
+            <value>
+
+                            <ex><![CDATA[树]]></ex>
+
+                            <ex><![CDATA[树木]]></ex>
+
+                            <ex><![CDATA[大树]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Christmas tree]]></key>
+
+            <value>
+
+                            <ex><![CDATA[圣诞树]]></ex>
+
+                            <ex><![CDATA[采油树]]></ex>
+
+                            <ex><![CDATA[圣诞系列]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lemon Tree]]></key>
+
+            <value>
+
+                            <ex><![CDATA[柠檬树]]></ex>
+
+                            <ex><![CDATA[苏慧伦]]></ex>
+
+                            <ex><![CDATA[英文版]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ring]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[环]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 戒指；铃声，钟声；拳击场；环形物]]></ex>
+
+                    <ex><![CDATA[vi. 按铃；敲钟；回响；成环形]]></ex>
+
+                    <ex><![CDATA[vt. 按铃；包围；敲钟；套住]]></ex>
+
+                    <ex><![CDATA[n. (Ring)人名；(英、西、德、匈、瑞典、芬)林]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Ring]]></key>
+
+            <value>
+
+                            <ex><![CDATA[戒指]]></ex>
+
+                            <ex><![CDATA[年轮]]></ex>
+
+                            <ex><![CDATA[环]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[PISTON RING]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活塞环]]></ex>
+
+                            <ex><![CDATA[火塞环]]></ex>
+
+                            <ex><![CDATA[活塞圈]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sealing ring]]></key>
+
+            <value>
+
+                            <ex><![CDATA[密封圈]]></ex>
+
+                            <ex><![CDATA[密封环]]></ex>
+
+                            <ex><![CDATA[垫圈]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

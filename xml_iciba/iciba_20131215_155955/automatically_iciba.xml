@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>automatically</key>
+
+<ps>ˌɔ:tə'mætɪklɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/b7/89/b789f36b39d0c05d82705a34f0e0f6c0.mp3</pron>
+
+<ps>ˌɔtəˈmætɪkl:ɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b7/89/b789f36b39d0c05d82705a34f0e0f6c0.mp3</pron>
+
+<pos>adv.</pos>
+
+<acceptation>自动地；无意识地；不自觉地；机械地；
+
+</acceptation>
+
+<sent><orig>
+
+Support the picture, can automatically wrap and can automatically adjust the table height control form.
+
+</orig>
+
+<trans>
+
+支持图片，能自动换行且能自动调整表格高度的表格控件。
+
+</trans></sent>
+
+<sent><orig>
+
+Bending and cutting automatically avoid the connection, the roundness, automatically cut after bending.
+
+</orig>
+
+<trans>
+
+折弯和切割时自动避让铝条之间连接处，圆弧处，折弯后自动切割。
+
+</trans></sent>
+
+<sent><orig>
+
+Measure and repair the process and result automatically, stop and show automatically after repairing and finishing.
+
+</orig>
+
+<trans>
+
+自动检测修复进程和效果，修复完成后自动终止并显示。
+
+</trans></sent>
+
+<sent><orig>
+
+Seal packaging conditions can automatically save all the test results automatically archive and order printout.
+
+</orig>
+
+<trans>
+
+包装封合条件可全部自动保存，测试结果自动归档，并可排列打印输出。
+
+</trans></sent>
+
+<sent><orig>
+
+PID parameter automatically set, 30-segment automatically heating up programs.
+
+</orig>
+
+<trans>
+
+具有PID参数自整定功能，可编30段自动升温程序。
+
+</trans></sent>
+
+</dict>

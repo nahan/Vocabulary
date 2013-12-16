@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bell]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[贝尔]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bel]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 铃，钟；钟声，铃声；钟状物]]></ex>
+
+                    <ex><![CDATA[vt. 装钟于，系铃于]]></ex>
+
+                    <ex><![CDATA[vi. 鸣钟；成钟状鼓起]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贝尔]]></ex>
+
+                            <ex><![CDATA[钟]]></ex>
+
+                            <ex><![CDATA[铃]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Kristen Bell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[克里斯汀·贝尔]]></ex>
+
+                            <ex><![CDATA[基丝汀·贝尔]]></ex>
+
+                            <ex><![CDATA[贝尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Taco Bell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[塔可钟]]></ex>
+
+                            <ex><![CDATA[贝尔]]></ex>
+
+                            <ex><![CDATA[塔克钟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

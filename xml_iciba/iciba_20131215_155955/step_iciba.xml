@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>step</key>
+
+<ps>step</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4c/79/4c795fc8f24b2b99909f12e5c4b0be01.mp3</pron>
+
+<ps>stɛp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/27/64/2764ca9d34e90313978d044f27ae433b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>步，脚步；步骤，手段；步调；级别；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>举步，行走；踩，踏上；跨入；轻快地走；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>踏，踩；走；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>跳舞；迈步；使成阶梯状；
+
+</acceptation>
+
+<sent><orig>
+
+STEP-NC is a CNC data interface proposed by the developed industrial countries based on STEP.
+
+</orig>
+
+<trans>
+
+STEP-NC是工业化发达国家基于STEP标准提出的CNC数据接口。
+
+</trans></sent>
+
+<sent><orig>
+
+GS-STEP is a STEP toolkit that adapts to open environment.
+
+</orig>
+
+<trans>
+
+GS- STEP是一个面向开放环境的 STEP信息集成工具集 。
+
+</trans></sent>
+
+<sent><orig>
+
+If you want a different step, type a number in the Step input.
+
+</orig>
+
+<trans>
+
+如果您要索引以不同的数量递增，请在[Step]输入中键入递增数量。
+
+</trans></sent>
+
+<sent><orig>
+
+Conformance and integrality of product data in STEP implementation can be ensured by STEP conformance test.
+
+</orig>
+
+<trans>
+
+STEP一致性测试保证实施过程中产品数据的一致性和完整性。
+
+</trans></sent>
+
+<sent><orig>
+
+STEP AND INTERNET BASED SHIP DATA CENTER.
+
+</orig>
+
+<trans>
+
+基于STEP和Internet的船舶数据中心研究。
+
+</trans></sent>
+
+</dict>

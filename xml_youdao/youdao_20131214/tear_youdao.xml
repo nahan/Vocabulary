@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tear]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[眼泪]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 流泪, 撕破]]></ex>
+
+                    <ex><![CDATA[n. 眼泪, （撕破的）洞或裂缝, 撕扯]]></ex>
+
+                    <ex><![CDATA[vt. 撕掉, 扯下, 扰乱]]></ex>
+
+                    <ex><![CDATA[n. (Tear)人名；(英)蒂尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[眼泪]]></ex>
+
+                            <ex><![CDATA[泪水]]></ex>
+
+                            <ex><![CDATA[撕裂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tear off]]></key>
+
+            <value>
+
+                            <ex><![CDATA[急速脱掉]]></ex>
+
+                            <ex><![CDATA[撕掉]]></ex>
+
+                            <ex><![CDATA[扯掉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[LCL tear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[外侧韧带拉伤]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

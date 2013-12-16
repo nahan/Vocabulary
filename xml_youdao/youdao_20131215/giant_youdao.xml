@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[giant]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[巨大的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dʒaɪənt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 巨人；伟人；[动] 巨大的动物]]></ex>
+
+                    <ex><![CDATA[adj. 巨大的；巨人般的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Giant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[捷安特]]></ex>
+
+                            <ex><![CDATA[巨人]]></ex>
+
+                            <ex><![CDATA[巨大的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Giant panda]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大熊猫]]></ex>
+
+                            <ex><![CDATA[大猫熊]]></ex>
+
+                            <ex><![CDATA[英文名]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Giant Killing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[逆转监督]]></ex>
+
+                            <ex><![CDATA[局势恶化监视]]></ex>
+
+                            <ex><![CDATA[逆转看守]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

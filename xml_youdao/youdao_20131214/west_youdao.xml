@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[west]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[西]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[west]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 西；西方；西部]]></ex>
+
+                    <ex><![CDATA[adj. 西方的；朝西的]]></ex>
+
+                    <ex><![CDATA[adv. 在西方；向西方；自西方]]></ex>
+
+                    <ex><![CDATA[n. (West)人名；(英、德、芬、瑞典)韦斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[WEST]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西方]]></ex>
+
+                            <ex><![CDATA[西]]></ex>
+
+                            <ex><![CDATA[韦斯特]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[West Lake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西湖]]></ex>
+
+                            <ex><![CDATA[杭州西湖]]></ex>
+
+                            <ex><![CDATA[情牵西子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Key West]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基韦斯特岛]]></ex>
+
+                            <ex><![CDATA[基韦斯特]]></ex>
+
+                            <ex><![CDATA[西礁岛]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

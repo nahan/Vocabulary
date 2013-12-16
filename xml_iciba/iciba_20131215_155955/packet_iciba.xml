@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>packet</key>
+
+<ps>ˈpækɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6a/ab/6aabd92b378fddc1607a30807b1cc75a.mp3</pron>
+
+<ps>ˈpækɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9c/50/9c509e44db33400b9ffef2157ada8b5a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>小包；信息包；邮船；大笔款项；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>包装，打包；用邮船运送；
+
+</acceptation>
+
+<sent><orig>
+
+Virtual-packet concept and Virtual-packet switching (VPS) mechanism are proposed.
+
+</orig>
+
+<trans>
+
+提出了“虚分组”概念和“虚分组交换(VPS,Virtual-packet Switching)”机制。
+
+</trans></sent>
+
+<sent><orig>
+
+Guaranteed QoS includes three basic parameters: packet transfer delay, packet delay variation and packet loss rate.
+
+</orig>
+
+<trans>
+
+有保证的服务品质包含三种参数：封包传输延迟、封包延迟变异，以及封包遗失率。
+
+</trans></sent>
+
+<sent><orig>
+
+Taking aim at the packet mis-sequencing problem of the packet scheduling algorithm in terabit routers.
+
+</orig>
+
+<trans>
+
+研究了基于多级交换结构的太比特路由器分组调度算法。
+
+</trans></sent>
+
+<sent><orig>
+
+IPv6 also includes improved packet headers, which are quite different from IPv4's packet headers.
+
+</orig>
+
+<trans>
+
+IPv6还包含了改进的包报头，它与IPv4的包报头差别很大。
+
+</trans></sent>
+
+<sent><orig>
+
+Packet Length Start: Sets the minimum packet size for the rule.
+
+</orig>
+
+<trans>
+
+包长度的开始：套最小包大小为统治。
+
+</trans></sent>
+
+</dict>

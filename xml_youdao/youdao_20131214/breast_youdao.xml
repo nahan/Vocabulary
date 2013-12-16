@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[breast]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[乳房]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[brest]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 乳房，胸部；胸怀；心情]]></ex>
+
+                    <ex><![CDATA[vt. 以胸对着；与…搏斗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Breast]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乳房]]></ex>
+
+                            <ex><![CDATA[胸围]]></ex>
+
+                            <ex><![CDATA[乳腺]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Breast reduction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[缩胸]]></ex>
+
+                            <ex><![CDATA[乳房缩小术]]></ex>
+
+                            <ex><![CDATA[巨乳缩小]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[breast feeding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[母乳喂养]]></ex>
+
+                            <ex><![CDATA[喂哺母乳]]></ex>
+
+                            <ex><![CDATA[人乳哺育]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

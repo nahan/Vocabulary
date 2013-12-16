@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>database</key>
+
+<ps>'deɪtəbeɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/98/86/9886c501c07b7bc60f0363dada9cfa7a.mp3</pron>
+
+<ps>ˈdetəˌbes, ˈdætə-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/11/e0/11e0eed8d3696c0a632f822df385ab3c.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>数据库；资料库；信息库；
+
+</acceptation>
+
+<sent><orig>
+
+The server sets these variables whenever the default database changes.
+
+</orig>
+
+<trans>
+
+服务器当缺省database改变时设置这些变量的值。
+
+</trans></sent>
+
+<sent><orig>
+
+This database includes Virus Conservation Database, Typical Virus Specimen Database, Heredity Resource of Virus Database.
+
+</orig>
+
+<trans>
+
+该数据库包括病毒保藏数据库、病毒模式标本数据库和病毒遗传资源数据库等子库。
+
+</trans></sent>
+
+<sent><orig>
+
+The subsystems about database management, database research, database statistics, producing and printing report forms were designed.
+
+</orig>
+
+<trans>
+
+设计了数据库的管理、查询、统计、报表生成和列印等子系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Landslide spatial database mainly includes landslide factor database and landslide spatial distribution database.
+
+</orig>
+
+<trans>
+
+滑坡因素空间数据库包括滑坡因子数据库和滑坡分布数据库。
+
+</trans></sent>
+
+<sent><orig>
+
+You can use the Visual Database Tools to design a database and create database objects.
+
+</orig>
+
+<trans>
+
+可以使用可视化数据库工具设计数据库和创建数据库对象。
+
+</trans></sent>
+
+</dict>

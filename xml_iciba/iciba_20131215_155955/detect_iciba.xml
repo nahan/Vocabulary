@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>detect</key>
+
+<ps>dɪ'tekt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/cb/c6/cbc6624bdb21645b2e17c8a99fb38f4d.mp3</pron>
+
+<ps>dɪˈtɛkt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/29/6c/296ccece3e9d4949a538964510e58d21.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>查明，发现；洞察；侦察，侦查；[电子学]检波；
+
+</acceptation>
+
+<sent><orig>
+
+For instance, electrocardiograph can detect heart's condition. Electroencephalograph can detect brain's condition.
+
+</orig>
+
+<trans>
+
+例如，心电图仪可查抄人的心脏状态，脑电图仪可查抄人的前脑状态。
+
+</trans></sent>
+
+<sent><orig>
+
+Hardware auto-detect: Automatically detect your hardware and decide the best converting speed.
+
+</orig>
+
+<trans>
+
+硬件的自动检测：自动检测您的硬件，并决定最好的转换速度。
+
+</trans></sent>
+
+<sent><orig>
+
+The experimental results show that the method can detect the whole motion object from image sequence.
+
+</orig>
+
+<trans>
+
+实验表明，该方法可有效地从图像序列中检测出完整的运动目标。
+
+</trans></sent>
+
+<sent><orig>
+
+Database integrity tests can detect inconsistencies caused by hardware or software errors.
+
+</orig>
+
+<trans>
+
+数据库完整性测试可以检测到由于硬件或软件错误而导致的不一致。
+
+</trans></sent>
+
+<sent><orig>
+
+In the paper, Hu's invariants are used to detect the pipe and it achieves high rate.
+
+</orig>
+
+<trans>
+
+本文把Hu不变矩应用于类圆的检测中，提高了识别的准确性，速度也较快。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[market]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[市场]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɑːkɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 市场；行情；股票市场；市面；集市；销路；商店]]></ex>
+
+                    <ex><![CDATA[vt. 在市场上出售]]></ex>
+
+                    <ex><![CDATA[vi. 做买卖]]></ex>
+
+                    <ex><![CDATA[n. (Market)人名；(塞)马尔凯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Market]]></key>
+
+            <value>
+
+                            <ex><![CDATA[市场]]></ex>
+
+                            <ex><![CDATA[集市]]></ex>
+
+                            <ex><![CDATA[市]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Market economy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[市场经济]]></ex>
+
+                            <ex><![CDATA[自由市场经济]]></ex>
+
+                            <ex><![CDATA[市场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Capital market]]></key>
+
+            <value>
+
+                            <ex><![CDATA[资本市场]]></ex>
+
+                            <ex><![CDATA[资金市场]]></ex>
+
+                            <ex><![CDATA[资本]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

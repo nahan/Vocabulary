@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>current</key>
+
+<ps>'kʌrənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/cb/16/cb16fb700ce9877746e4ca478cc50383.mp3</pron>
+
+<ps>ˈkɚrənt, ˈkʌr-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/43/b5/43b5c9175984c071f30b873fdce0a000.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>现在的；最近的；流行的；流传的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>趋势；电流；水流；涌流；
+
+</acceptation>
+
+<sent><orig>
+
+However, the effect of unsaturated on calcium-activated potassium current and the mechanism are not clear.
+
+</orig>
+
+<trans>
+
+但是，不饱和脂肪酸对钙激活钾电流(calcium-activated potassium current, I_(K(Ca)))的影响及其作用机制尚不清楚。
+
+</trans></sent>
+
+<sent><orig>
+
+Compare recent, current, contemporary, modern and new.
+
+</orig>
+
+<trans>
+
+试比较recent、 current、 contemporary、 modern、 new这几个词。
+
+</trans></sent>
+
+<sent><orig>
+
+Direct Current (DC) Direct current is current with no reversals in polarity.
+
+</orig>
+
+<trans>
+
+直流直流是指没有正负极性往复变化的电流。
+
+</trans></sent>
+
+<sent><orig>
+
+The column may not have a default value of CURRENT_TIME, CURRENT_DATE or CURRENT_TIMESTAMP.
+
+</orig>
+
+<trans>
+
+这个字段也许没有一个默认的当前时间，当前日期或当前时间戳的值。
+
+</trans></sent>
+
+<sent><orig>
+
+But stabilized current supply with automatic balance used current sample for compensating output current offset.
+
+</orig>
+
+<trans>
+
+而自动平衡式稳流电源则利用电流采样，对输出电流的偏离进行补偿。
+
+</trans></sent>
+
+</dict>

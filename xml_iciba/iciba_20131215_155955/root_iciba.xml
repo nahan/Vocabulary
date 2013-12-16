@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>root</key>
+
+<ps>ru:t</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/57/ff/57ff09c3639f8ac75148eb01f145df58.mp3</pron>
+
+<ps>rut, rʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/63/a9/63a9f0ea7bb98050796b649e85481845.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>根，根源；原因，本质；祖先；[乐]和弦基音；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使生根；使固定；根源在于；欢呼，喝彩；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>生根；根除；
+
+</acceptation>
+
+<sent><orig>
+
+The default role, root\cli, connects to the root\cimv2 namespace to operate on the classes within root\cimv2.
+
+</orig>
+
+<trans>
+
+默认的作用，根\cli的，连接到root\cimv2命名空间操作的班级内根\cimv2。
+
+</trans></sent>
+
+<sent><orig>
+
+ROOT - ROOT is an OO framework for large-scale scientific data analysis and data mining.
+
+</orig>
+
+<trans>
+
+ROOT是一个面向对象框架，用于大规模科学数据分析和数据挖掘。
+
+</trans></sent>
+
+<sent><orig>
+
+Prepend root to the whole file name, if not already rooted.
+
+</orig>
+
+<trans>
+
+将root添加到完整的文件名中，如果它未被根目录化。
+
+</trans></sent>
+
+<sent><orig>
+
+THIS TOOL NEED THE ROOT PERMISSION TO EXECUTE.
+
+</orig>
+
+<trans>
+
+此工具需要root用户权限方可执行。
+
+</trans></sent>
+
+<sent><orig>
+
+NOTE: All the commands covered in this tutorial have to be run from a root account.
+
+</orig>
+
+<trans>
+
+注意：所有的命令都包括在本教程将运行从root帐号。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>implement</key>
+
+<ps>'ɪmplɪmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/71/37/71377ee16a9e050aaf16a61a8f5229e4.mp3</pron>
+
+<ps>ˈɪmpləmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/4b/9e/4b9e4636494461cf31094e9a16f456fe.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>实施，执行；使生效，实现；落实（政策）；把…填满；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>工具，器械；家具；手段；[法]履行（契约等）；
+
+</acceptation>
+
+<sent><orig>
+
+Plugins are allowed to register new actions dynamically to implement to implement their functionalities.
+
+</orig>
+
+<trans>
+
+插件允许动态的注册新的动作去实现他们自己的功能。
+
+</trans></sent>
+
+<sent><orig>
+
+Because implement militaristic policy, external aggressive, make economic height militarization, implement regulatory economy.
+
+</orig>
+
+<trans>
+
+由于实行军国主义政策，对外侵略，使经济高度军事化，并实行统制经济。
+
+</trans></sent>
+
+<sent><orig>
+
+The basic method applies Langrange interpolation techniques in time-domain to implement a secrecy fragmentation-reconstruction scheme.
+
+</orig>
+
+<trans>
+
+基本方法是在时域上应用拉格朗日插值技术实现秘密分割－重构方案。
+
+</trans></sent>
+
+<sent><orig>
+
+DG obtained the highest appraisal of Lean implement, simultaneously, received many precious suggestions by the visitors.
+
+</orig>
+
+<trans>
+
+各个小组对东莞厂在精益生产方面的执行给予了高度评价，并提出很多宝贵意见。
+
+</trans></sent>
+
+<sent><orig>
+
+The nodes implement function by adopting host-guest in testing instantaneous field.
+
+</orig>
+
+<trans>
+
+瞬态场的测试节点采用上、下位机模式实现其功能。
+
+</trans></sent>
+
+</dict>

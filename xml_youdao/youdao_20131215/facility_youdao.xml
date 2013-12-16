@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[facility]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[设施]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fə'sɪlɪtɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 设施；设备；容易；灵巧]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Facility]]></key>
+
+            <value>
+
+                            <ex><![CDATA[设施]]></ex>
+
+                            <ex><![CDATA[设备]]></ex>
+
+                            <ex><![CDATA[便利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Science Facility]]></key>
+
+            <value>
+
+                            <ex><![CDATA[科学院]]></ex>
+
+                            <ex><![CDATA[科学站]]></ex>
+
+                            <ex><![CDATA[科学工厂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Facility Supervisor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[设备主管]]></ex>
+
+                            <ex><![CDATA[设施主管]]></ex>
+
+                            <ex><![CDATA[厂务主管]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

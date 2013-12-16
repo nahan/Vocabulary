@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>yes</key>
+
+<ps>jes</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/52/2a/522a7a0d0f4886d8fda7144fc98e2848.mp3</pron>
+
+<ps>jɛs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a6/10/a6105c0a611b41b08f1209506350279e.mp3</pron>
+
+<pos>adv.</pos>
+
+<acceptation>是；（表示刚想起某事）哦；（表示不相信某人所言）真的吗；（鼓励某人继续讲）往下说；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>“是”，“行”；同意，答应；肯定的回答；赞成票；
+
+</acceptation>
+
+<sent><orig>
+
+Yes, we have quite a few ideas and plans for the interface.
+
+</orig>
+
+<trans>
+
+答：Yes.我们在界面的改进上有相当多的主意和构想。
+
+</trans></sent>
+
+<sent><orig>
+
+Please run the program with the ' -- yes' switch to enable BIOS update.
+
+</orig>
+
+<trans>
+
+请运行程序，使用'--yes'开关以启用BIOS更新。
+
+</trans></sent>
+
+<sent><orig>
+
+We want value to be on the word YES and not on a specific hand movement.
+
+</orig>
+
+<trans>
+
+我们想要强调口令“YES”的重要性，而不是某个特定的手移动。
+
+</trans></sent>
+
+<sent><orig>
+
+We simply say YES or the clicker and give the dog a food treat.
+
+</orig>
+
+<trans>
+
+我们只是简单的说出“YES”或按下响片，然后给狗食物奖励。
+
+</trans></sent>
+
+<sent><orig>
+
+I took a crayon and wrote a huge YES across the paper.
+
+</orig>
+
+<trans>
+
+我拿起一根炭笔，在纸上写下一个大大的“YES”（愿意）。
+
+</trans></sent>
+
+</dict>

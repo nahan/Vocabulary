@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>script</key>
+
+<ps>skrɪpt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/45/21/452196af4d0470dff7a760f1c67cd1b5.mp3</pron>
+
+<ps>skrɪpt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/32/05/3205c0ded576131ea255ad2bd38b0fb2.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>脚本，手迹；书写体铅字；剧本、广播稿或者电影剧本；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>为电影（或戏剧等）写剧本；编造；
+
+</acceptation>
+
+<sent><orig>
+
+At the begin of the script directly after the initial block of comment.
+
+</orig>
+
+<trans>
+
+放在最初的解释模块后面，script的起始部分。
+
+</trans></sent>
+
+<sent><orig>
+
+Meanwhile, kai calligraphy (regular script) and xing calligraphy (semi cursive script) also appeared and developed rapidly.
+
+</orig>
+
+<trans>
+
+同时，楷书和行书也出现并快速发展起来。
+
+</trans></sent>
+
+<sent><orig>
+
+East Palace, West Palace has 3 version, stage play script, film script and fiction.
+
+</orig>
+
+<trans>
+
+《东宫西宫》共有三个版本，舞台剧本、电影剧本、小说。
+
+</trans></sent>
+
+<sent><orig>
+
+Specifies a script for the page that is interpreted by a script engine.
+
+</orig>
+
+<trans>
+
+指定由脚本引擎解释的页面中的脚本。
+
+</trans></sent>
+
+<sent><orig>
+
+The official script in calligraphy is a transition between seal character, and regular script.
+
+</orig>
+
+<trans>
+
+隶体是书法从篆体到楷体的过渡。
+
+</trans></sent>
+
+</dict>

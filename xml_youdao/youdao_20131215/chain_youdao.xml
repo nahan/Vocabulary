@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[chain]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[链]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʃeɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 链；束缚；枷锁]]></ex>
+
+                    <ex><![CDATA[vt. 束缚；囚禁；用铁链锁住]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Chain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[链条]]></ex>
+
+                            <ex><![CDATA[链条槽]]></ex>
+
+                            <ex><![CDATA[链]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Supply Chain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[供应链]]></ex>
+
+                            <ex><![CDATA[供给链]]></ex>
+
+                            <ex><![CDATA[供需链]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chain drive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[链传动]]></ex>
+
+                            <ex><![CDATA[链条传动]]></ex>
+
+                            <ex><![CDATA[链传动机构]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

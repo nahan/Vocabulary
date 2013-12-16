@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[notice]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[请注意]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nəʊtɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 通知，布告；注意；公告]]></ex>
+
+                    <ex><![CDATA[vt. 通知；注意到；留心]]></ex>
+
+                    <ex><![CDATA[vi. 引起注意]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Notice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[通知]]></ex>
+
+                            <ex><![CDATA[商品描述]]></ex>
+
+                            <ex><![CDATA[公告]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Interpol notice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[红色通缉令]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bankruptcy notice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[破产公告]]></ex>
+
+                            <ex><![CDATA[破产通知书]]></ex>
+
+                            <ex><![CDATA[破产通知]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

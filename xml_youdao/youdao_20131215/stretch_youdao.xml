@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stretch]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[拉伸]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stretʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 伸展，延伸]]></ex>
+
+                    <ex><![CDATA[vt. 伸展,张开]]></ex>
+
+                    <ex><![CDATA[adj. 可伸缩的]]></ex>
+
+                    <ex><![CDATA[vi. 伸展]]></ex>
+
+                    <ex><![CDATA[n. (Stretch)人名；(英)斯特雷奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Stretch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拉伸]]></ex>
+
+                            <ex><![CDATA[伸展]]></ex>
+
+                            <ex><![CDATA[柱面拉伸镜]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stretch marks]]></key>
+
+            <value>
+
+                            <ex><![CDATA[妊娠纹]]></ex>
+
+                            <ex><![CDATA[怀胎纹]]></ex>
+
+                            <ex><![CDATA[腹纹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stretch rule]]></key>
+
+            <value>
+
+                            <ex><![CDATA[伸展定则]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

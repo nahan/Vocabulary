@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[roll]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[滚]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rəʊl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 卷，卷形物；名单；摇晃]]></ex>
+
+                    <ex><![CDATA[vt. 卷；滚动，转动；辗]]></ex>
+
+                    <ex><![CDATA[vi. 卷；滚动；转动；起伏，摇晃]]></ex>
+
+                    <ex><![CDATA[n. (Roll)人名；(英、法、德、俄、罗、葡、捷、挪、西、瑞典)罗尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[roll]]></key>
+
+            <value>
+
+                            <ex><![CDATA[滚动]]></ex>
+
+                            <ex><![CDATA[牛肠]]></ex>
+
+                            <ex><![CDATA[疋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[NATURAL ROLL]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自然上旋]]></ex>
+
+                            <ex><![CDATA[右滚转]]></ex>
+
+                            <ex><![CDATA[右滚转步]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Biscuit roll]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鸡蛋卷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[police]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[警察]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pə'liːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 警察，警方；治安]]></ex>
+
+                    <ex><![CDATA[adj. 警察的；有关警察的]]></ex>
+
+                    <ex><![CDATA[vt. 监督；管辖；维持治安；为…配备警察]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Police]]></key>
+
+            <value>
+
+                            <ex><![CDATA[警察]]></ex>
+
+                            <ex><![CDATA[警方]]></ex>
+
+                            <ex><![CDATA[民警]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[police station]]></key>
+
+            <value>
+
+                            <ex><![CDATA[警察局]]></ex>
+
+                            <ex><![CDATA[公安局]]></ex>
+
+                            <ex><![CDATA[派出所]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Police]]></key>
+
+            <value>
+
+                            <ex><![CDATA[警察乐队]]></ex>
+
+                            <ex><![CDATA[警察]]></ex>
+
+                            <ex><![CDATA[警察合唱团]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

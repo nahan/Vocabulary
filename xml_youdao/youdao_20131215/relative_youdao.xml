@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[relative]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[相对]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['relətɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 亲戚；相关物；[语] 关系词；亲缘植物]]></ex>
+
+                    <ex><![CDATA[adj. 相对的；有关系的；成比例的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Relative]]></key>
+
+            <value>
+
+                            <ex><![CDATA[亲戚]]></ex>
+
+                            <ex><![CDATA[亲属]]></ex>
+
+                            <ex><![CDATA[相对的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Relative risk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相对风险]]></ex>
+
+                            <ex><![CDATA[相对危险度]]></ex>
+
+                            <ex><![CDATA[相对危险性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[relative motion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相对运动]]></ex>
+
+                            <ex><![CDATA[相对移动]]></ex>
+
+                            <ex><![CDATA[相对活动]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

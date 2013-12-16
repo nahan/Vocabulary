@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stuff]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[的东西]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stʌf]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 东西；材料；填充物；素材资料]]></ex>
+
+                    <ex><![CDATA[vt. 塞满；填塞；让吃饱]]></ex>
+
+                    <ex><![CDATA[vi. 吃得过多]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Stuff]]></key>
+
+            <value>
+
+                            <ex><![CDATA[材料]]></ex>
+
+                            <ex><![CDATA[原料]]></ex>
+
+                            <ex><![CDATA[东西]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hot stuff]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大人物]]></ex>
+
+                            <ex><![CDATA[拜托小姐主题曲]]></ex>
+
+                            <ex><![CDATA[阿森纳队歌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[feeding stuff]]></key>
+
+            <value>
+
+                            <ex><![CDATA[饲料]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

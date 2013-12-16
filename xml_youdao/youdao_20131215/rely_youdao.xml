@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rely]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[依赖]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'laɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 依靠；信赖]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[rely]]></key>
+
+            <value>
+
+                            <ex><![CDATA[依靠]]></ex>
+
+                            <ex><![CDATA[依赖]]></ex>
+
+                            <ex><![CDATA[信赖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rely on]]></key>
+
+            <value>
+
+                            <ex><![CDATA[依靠]]></ex>
+
+                            <ex><![CDATA[依赖]]></ex>
+
+                            <ex><![CDATA[信赖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rely Eliza]]></key>
+
+            <value>
+
+                            <ex><![CDATA[瑞丽伊丽莎]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

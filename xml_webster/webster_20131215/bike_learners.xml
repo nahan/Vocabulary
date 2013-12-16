@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bike[1]"> <hw hindex="1">bike</hw> <sound><wav>bike0001.wav</wav></sound> <pr>ˈbaɪk</pr> <fl>noun</fl> <in><il>plural</il> <if>bikes</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:<sx>bicycle</sx> <vi>She rode her <it>bike</it> to school.</vi> <vi>a <it>bike</it> path</vi></dt> <sn>2</sn> <dt>:<sx>motorcycle</sx> <dx>see also <dxt>dirt bike</dxt> <dxt>motorbike</dxt></dx></dt></def></entry>
+
+	<entry id="bike[2]"> <hw hindex="2">bike</hw> <altpr>ˈbaɪk</altpr> <fl>verb</fl> <in><if>bikes</if></in> <in><if>biked</if></in> <in><if>bik*ing</if></in> <def><gram>no obj</gram> <dt>:to ride a bicycle <vi>We <it>biked</it> to the park.</vi> <vi>He <it>bikes</it> in the mountains.</vi></dt></def> <uro><ure>biking</ure> <fl>noun</fl> <gram>noncount</gram> <utxt><vi><it>Biking</it> is a great form of exercise.</vi> <vi>We're planning to <phrase>go biking</phrase> tomorrow.</vi></utxt></uro></entry>
+
+	<entry id="biker"> <hw>bik*er</hw> <sound><wav>biker001.wav</wav></sound> <pr>ˈbaɪkɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>bik*ers</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who rides a motorcycle :<sx>motorcyclist</sx></dt> <sn>2</sn> <ssl>chiefly US</ssl> <dt>:a person who rides a bicycle :<sx>bicyclist</sx></dt></def></entry>
+
+	<entry id="dirt bike"> <hw>dirt bike</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bikes</if></in> <def><gram>count</gram> <dt>:a small motorcycle that is designed to be used on rough surfaces</dt></def></entry>
+
+	<entry id="exercise bike"> <hw>exercise bike</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bikes</if></in> <def><gram>count</gram> <dt>:<sx>stationary bike</sx> <ca>called also <cat>exercise bicycle</cat></ca></dt></def></entry>
+
+	<entry id="mountain bike"> <hw>mountain bike</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bikes</if></in> <def><gram>count</gram> <dt>:a type of bicycle that has a strong frame, thick tires, and straight handlebars and that is used for riding over rough ground</dt></def> <uro><ure>mountain biker</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <gram>count</gram></uro> <uro><ure>mountain biking</ure> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>He enjoys <it>mountain biking</it>.</vi></utxt></uro></entry>
+
+	<entry id="push-bike"> <hw>push–bike</hw> <sound><wav>pushbi01.wav</wav></sound> <pr>ˈpʊʃˌbaɪk</pr> <fl>noun</fl> <in><il>plural</il> <if>push–bikes</if></in> <def><gram>count</gram> <sl>Brit</sl> <sl>old-fashioned</sl> <dt>:<sx>bicycle</sx></dt></def></entry>
+
+	<entry id="stationary bike"> <hw>stationary bike</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bikes</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:an exercise machine that you pedal like a bicycle but that stays in one place <ca>called also <cat>exercise bike</cat> <cat>stationary bicycle</cat></ca> <dx>see picture at <dxt>gym</dxt></dx></dt></def></entry>
+
+</entry_list>

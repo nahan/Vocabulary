@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="central[1]"> <hw highlight="yes" hindex="1">cen*tral</hw> <sound><wav>centra01.wav</wav></sound> <pr>ˈsɛntrəl</pr> <fl>adjective</fl> <def><sn>1</sn> <slb>always used before a noun</slb> <dt>:in the middle of something :located in the center of a thing or place <vi>The country is in <it>central</it> Africa. [=the area that is in the middle of Africa]</vi> <vi>The house has four rooms and a <it>central</it> chimney.</vi> <vi>City planners are looking for a <it>central</it> location for the new hospital.</vi></dt> <sn>2</sn> <dt>:main or most important <vi>The novel's <it>central</it> [=<it>main</it>] character is an orphan.</vi> <vi>The professor has become a <it>central</it> [=<it>key</it>] figure in the controversy.</vi> <vi>The evidence was <it>central</it> to the defense's case.</vi> <vi>a <it>central</it> belief/claim</vi></dt> <sn>3</sn> <slb>always used before a noun</slb> <dt>:controlling all other parts :having power over the other parts <vi>The country's schools are financed by both local and <it>central</it> governments.</vi> <vi>The <it>central</it> authority of the company's board is being challenged.</vi></dt> <sn>4</sn> <dt>:designed to reach all parts of a building <vi>The apartment has both <it>central</it> air-conditioning and <it>central</it> heating.</vi></dt></def> <uro><ure>cen*tral*i*ty</ure> <sound><wav>centra06.wav</wav></sound> <pr>sɛnˈtræləti</pr> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>We should emphasize the <it>centrality</it> of this evidence to our case.</vi></utxt></uro> <uro><ure>cen*tral*ly</ure> <sound><wav>centra02.wav</wav></sound> <pr>ˈsɛntrəli</pr> <fl>adverb</fl> <utxt><vi>The new hospital will be <it>centrally</it> located.</vi></utxt></uro></entry>
+
+	<entry id="central[2]"> <hw hindex="2">central</hw> <altpr>ˈsɛntrəl</altpr> <fl>noun</fl> <def><gram>singular</gram> <sl>US</sl> <sl>informal</sl> <dt>:a place where an activity takes place or a group meets :a place that is a center for an activity or group <vi>The resort is party <it>central</it> for college students on spring break. [=college students on spring break have many parties at the resort]</vi> <vi>Our family room becomes kid <it>central</it> on weekends.</vi></dt></def></entry>
+
+	<entry id="central bank"> <hw>central bank</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ banks</if></in> <def><gram>count</gram> <dt>:a bank that does business with other banks and with the government and that controls a country's money supply and interest rates</dt></def> <uro><ure>central banker</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="central casting"> <hw>central casting</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>informal</sl> <dt>:the department at a movie company that chooses which actor will play each part <snote>Someone who is said to be <phrase>from/out of central casting</phrase> is a person whose appearance, behavior, or nature seem to be typical for their job or position. <vi>The physics professor looks like he's right <it>out of central casting</it>: his white hair is disheveled, his suit rumpled, and he looks a little lost.</vi></snote></dt></def></entry>
+
+	<entry id="central city"> <hw>central city</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cities</if></in> <def><gram>count</gram> <dt>:the center part of a large city <vi>The <it>central city</it> is losing population, while the suburbs are expanding.</vi></dt></def></entry>
+
+	<entry id="central locking"> <hw>central locking</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>Brit</sl> <dt>:an electronic system that locks all the doors of a car at the same time</dt></def></entry>
+
+	<entry id="central nervous system"> <hw>central nervous system</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tems</if></in> <def><gram>count</gram> <dt>:the part of the nervous system that includes the brain and spinal cord</dt></def></entry>
+
+	<entry id="central processing unit"> <hw>central processing unit</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ units</if></in> <def><gram>count</gram> <dt>:<sx>cpu</sx></dt></def></entry>
+
+	<entry id="central reservation"> <hw>central reservation</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tions</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>median strip</sx></dt></def></entry>
+
+	<entry id="Central African Republic"> <hw>Central African Republic</hw> <fl>geographical name</fl> <dro><dre>the Central African Republic</dre> <dt>:country in Africa</dt></dro></entry>
+
+</entry_list>

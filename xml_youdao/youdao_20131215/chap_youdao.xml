@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[chap]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[章]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʃæp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 小伙子；家伙；龟裂]]></ex>
+
+                    <ex><![CDATA[vt. 使皲裂]]></ex>
+
+                    <ex><![CDATA[vi. 皲裂]]></ex>
+
+                    <ex><![CDATA[n. (Chap)人名；(柬)乍]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[CHAP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[挑战握手认证协议(Challenge Handshake Authentication Protocol)]]></ex>
+
+                            <ex><![CDATA[握手验证协议]]></ex>
+
+                            <ex><![CDATA[质询握手身份验证协议]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bath chap]]></key>
+
+            <value>
+
+                            <ex><![CDATA[猪头肉]]></ex>
+
+                            <ex><![CDATA[腌猪头肉]]></ex>
+
+                            <ex><![CDATA[咸猪豆肉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chap Cuttor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[章节分割器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[neat]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[整洁的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[niːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Neat]]></key>
+
+            <value>
+
+                            <ex><![CDATA[真整洁]]></ex>
+
+                            <ex><![CDATA[整洁的]]></ex>
+
+                            <ex><![CDATA[整齐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[neat cement]]></key>
+
+            <value>
+
+                            <ex><![CDATA[净水泥]]></ex>
+
+                            <ex><![CDATA[清水泥]]></ex>
+
+                            <ex><![CDATA[硅酸盐水泥]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[neat freak]]></key>
+
+            <value>
+
+                            <ex><![CDATA[如洁癖]]></ex>
+
+                            <ex><![CDATA[有洁癖的人]]></ex>
+
+                            <ex><![CDATA[洁癖]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

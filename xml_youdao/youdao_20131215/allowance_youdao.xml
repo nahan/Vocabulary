@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[allowance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[津贴]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'laʊəns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 津贴，零用钱；允许；限额]]></ex>
+
+                    <ex><![CDATA[vt. 定量供应]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[allowance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[津贴]]></ex>
+
+                            <ex><![CDATA[折让]]></ex>
+
+                            <ex><![CDATA[补贴]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[housing allowance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[住房补贴]]></ex>
+
+                            <ex><![CDATA[住房津贴]]></ex>
+
+                            <ex><![CDATA[房帖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Office allowance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[办公费]]></ex>
+
+                            <ex><![CDATA[办自费]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[close]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[关闭]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kləʊs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 结束]]></ex>
+
+                    <ex><![CDATA[adj. 紧密的；亲密的；亲近的]]></ex>
+
+                    <ex><![CDATA[vt. 关；结束；使靠近]]></ex>
+
+                    <ex><![CDATA[vi. 关；结束；关闭]]></ex>
+
+                    <ex><![CDATA[adv. 紧密地]]></ex>
+
+                    <ex><![CDATA[n. (Close)人名；(西)克洛塞；(英、法)克洛斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Close]]></key>
+
+            <value>
+
+                            <ex><![CDATA[关闭]]></ex>
+
+                            <ex><![CDATA[亲密的]]></ex>
+
+                            <ex><![CDATA[结束]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Complimentary Close]]></key>
+
+            <value>
+
+                            <ex><![CDATA[结束语]]></ex>
+
+                            <ex><![CDATA[结尾敬语]]></ex>
+
+                            <ex><![CDATA[信尾客套语]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stay close]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跟紧]]></ex>
+
+                            <ex><![CDATA[保持密切联系]]></ex>
+
+                            <ex><![CDATA[保持密切]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

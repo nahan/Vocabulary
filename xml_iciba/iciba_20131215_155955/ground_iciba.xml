@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>ground</key>
+
+<ps>graʊnd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/ba/b9/bab9a7b42e43aec4783231b4aa123bf1.mp3</pron>
+
+<ps>ɡraʊnd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/57/85/578552719239a72a2d45ad422f67d24d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>地面，土地；基础；范围；阵地，战场；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>搁浅，停飞；着陆；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…放在地上；在…的基础树立上；交给…基本知识；使…受初步训练；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>grind的过去式和过去分词；
+
+</acceptation>
+
+<sent><orig>
+
+This paper roundly analyzed the classic single airport ground-delay policy(GDP) model and multi-airport ground-delay policy(GDP) mode.
+
+</orig>
+
+<trans>
+
+系统地分析了单机场和多机场地面等待策略GDP(Ground-Delay Policy)经典模型。
+
+</trans></sent>
+
+<sent><orig>
+
+While Henry was a Ground, he was not at all like his family.
+
+</orig>
+
+<trans>
+
+尽管Henry是Ground家族的一个成员，他与他的家人毫无相似之处。
+
+</trans></sent>
+
+<sent><orig>
+
+Compare earth, ground, floor and soil.
+
+</orig>
+
+<trans>
+
+将earth、 ground、 floor、 soil这几个词作一比较。
+
+</trans></sent>
+
+<sent><orig>
+
+Additionally there are ground-to-air, ground-to-ground, air-to-ground and air-to-air missiles, etc.
+
+</orig>
+
+<trans>
+
+另外，还有地对空导弹、地对地导弹、空对地导弹、空对空导弹等。
+
+</trans></sent>
+
+<sent><orig>
+
+Ground settlement may accompany pipe jacking for complicated reasons, such as ground disturbance and ground loss.
+
+</orig>
+
+<trans>
+
+顶管在顶进过程中，产生地层扰动和地层损失，从而导致地面沉降。
+
+</trans></sent>
+
+</dict>

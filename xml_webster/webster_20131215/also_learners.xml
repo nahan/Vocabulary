@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="also"> <hw highlight="yes">al*so</hw> <sound><wav>also0001.wav</wav></sound> <pr>ˈɑ:lˌsoʊ</pr> <fl>adverb</fl> <def><sn>1</sn> <dt>:in addition <vi>She's a talented singer and <it>also</it> a fine actress.</vi> <vi>Thomas Edison is best known for inventing the lightbulb, but he <it>also</it> invented the phonograph.</vi> <vi>I don't think we should go out. Not only is it late, but it's <it>also</it> snowing.</vi></dt> <sn>2</sn> <dt>:in a similar way <vi>He saw something and she <it>also</it> saw it. [=she saw it too]</vi> <vi>“I grew up in North Dakota.” “Really? I'm <it>also</it> from North Dakota.” [=I'm from North Dakota too]</vi> <vi>My neighbors were <it>also</it> at the show that night.</vi></dt></def></entry>
+
+	<entry id="also-ran"> <hw>al*so–ran</hw> <sound><wav>alsor01w.wav</wav></sound> <pr>ˈɑ:lˌsoʊˌræn</pr> <fl>noun</fl> <in><il>plural</il> <if>al*so–rans</if></in> <def><gram>count</gram> <dt>:a person who has taken part in an election or contest and did not win <vi>He was an <it>also-ran</it> in last year's mayoral race.</vi></dt></def></entry>
+
+</entry_list>

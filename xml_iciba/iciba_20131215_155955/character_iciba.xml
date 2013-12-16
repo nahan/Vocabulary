@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>character</key>
+
+<ps>'kærəktə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/25/8e/258e359a5461114d8c196fc89a4f934d.mp3</pron>
+
+<ps>ˈkærəktɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a9/56/a956161a69928cd130a889b88082fb6e.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>性格，特征；品行；字母，符号；人物；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>刻，印；使具有特征；
+
+</acceptation>
+
+<sent><orig>
+
+Character and the value of the constant expression is representable in the type char.
+
+</orig>
+
+<trans>
+
+在char类型中，Character和常量表达式的值是可表示的。
+
+</trans></sent>
+
+<sent><orig>
+
+School builds character, believe it or not.
+
+</orig>
+
+<trans>
+
+学校的生活能有效地帮助我们健全自己的character--个性。
+
+</trans></sent>
+
+<sent><orig>
+
+The character which when preceded by an escape character represents any non-space character.
+
+</orig>
+
+<trans>
+
+前跟转义字符用于表示任意非空白字符的字符。
+
+</trans></sent>
+
+<sent><orig>
+
+A coded character set whose character set is an alphabetic character set.
+
+</orig>
+
+<trans>
+
+一种编码字符集，它的字符集是一种字母字符集。
+
+</trans></sent>
+
+<sent><orig>
+
+The character which when preceded by an escape character represents any non-lower case character.
+
+</orig>
+
+<trans>
+
+前跟转义字符用于表示任意非小写字母的字符。
+
+</trans></sent>
+
+</dict>

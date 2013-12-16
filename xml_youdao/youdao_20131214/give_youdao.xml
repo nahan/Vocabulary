@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[give]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[给]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 弹性；弯曲；伸展性]]></ex>
+
+                    <ex><![CDATA[vi. 捐赠；面向；有弹性；气候转暖]]></ex>
+
+                    <ex><![CDATA[vt. 给；产生；让步；举办；授予]]></ex>
+
+                    <ex><![CDATA[n. (Give)人名；(意)吉韦]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Give]]></key>
+
+            <value>
+
+                            <ex><![CDATA[给予]]></ex>
+
+                            <ex><![CDATA[付出]]></ex>
+
+                            <ex><![CDATA[给]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[give off]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发出]]></ex>
+
+                            <ex><![CDATA[放出]]></ex>
+
+                            <ex><![CDATA[发出或放出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[give away]]></key>
+
+            <value>
+
+                            <ex><![CDATA[泄露]]></ex>
+
+                            <ex><![CDATA[赠送]]></ex>
+
+                            <ex><![CDATA[分发]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

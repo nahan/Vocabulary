@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>access</key>
+
+<ps>'ækses</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4d/93/4d932770d5cf4cc23a4e56a9004cb166.mp3</pron>
+
+<ps>ˈæksɛs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9d/f3/9df3b01c60df20d13843841ff0d4482c.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>入口，出口；接近，进入；增长；爆发；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>接近，进入；使用，接近，获取；
+
+</acceptation>
+
+<sent><orig>
+
+Compacting optimizes the performance of both Access databases and Access projects.
+
+</orig>
+
+<trans>
+
+压缩可以优化Access数据库和Access项目的性能。
+
+</trans></sent>
+
+<sent><orig>
+
+Access combines compacting and repairing an Access file into a single process.
+
+</orig>
+
+<trans>
+
+MicrosoftAccess将对Access文件的压缩和修复放在一个进程中处理。
+
+</trans></sent>
+
+<sent><orig>
+
+System this use dynamic WEB technological ASP, and COM package come and realize through ACCESS base.
+
+</orig>
+
+<trans>
+
+该系统是使用动态WEB技术ASP、以及COM组件通过ACCESS数据库来实现的。
+
+</trans></sent>
+
+<sent><orig>
+
+Universal Product label printing program, Access database.
+
+</orig>
+
+<trans>
+
+通用产品标签打印程序，Access数据库。
+
+</trans></sent>
+
+<sent><orig>
+
+ACCESS database by reading, you can print the health card information!
+
+</orig>
+
+<trans>
+
+通过读取ACCESS数据库，可以打印健康证信息！
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>test</key>
+
+<ps>test</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/72/b8/72b81c9d32113317d5c83a1bd78d85ac.mp3</pron>
+
+<ps>test</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/09/8f/098f6bcd4621d373cade4e832627b4f6.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>试验；考验；测验；化验；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>测验；考查；考验；勘探；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>受试验；受测验；受考验；测得结果；
+
+</acceptation>
+
+<sent><orig>
+
+DST (Drill Stem Test), a fast test for show of oil and gas while drilling.
+
+</orig>
+
+<trans>
+
+DST (Drill-Stem-Test),即中途测试，是指油井在钻井过程中，对有油气显示的地层进行快速测试。
+
+</trans></sent>
+
+<sent><orig>
+
+This is a summary report of the development of CHANGSHA norms of Benton vis-ral Retention Test(VRT).
+
+</orig>
+
+<trans>
+
+本文是 Benton 视觉保持测验(Visual Retention Test,简称 VRT)长沙常模制订及试测总结。
+
+</trans></sent>
+
+<sent><orig>
+
+Added a test mode command-trees to respawn all dead trees instantly.
+
+</orig>
+
+<trans>
+
+增加了-tree命令，重生所有树木（只在-test模式有效）。
+
+</trans></sent>
+
+<sent><orig>
+
+The result was analyzed statistically by X2 (chi-square test) to compare the difference between two nationalities.
+
+</orig>
+
+<trans>
+
+用X~2检验(chi-square test)比较两个民族基因频率分布的差别，用Woof公式计算比数比(odds ratio,OR)和95％可信限(confidence interval,C.I.) 。
+
+</trans></sent>
+
+<sent><orig>
+
+All examined with tear break up time(BUT), Schirmer I test(SIt),rose bengal(RB) staining.
+
+</orig>
+
+<trans>
+
+所有患者组和对照组均行泪膜破裂时间(break up time ,BUT),Schirmer I试验(SchirmerI test,SIt)和虎红染色检查。
+
+</trans></sent>
+
+</dict>

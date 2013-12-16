@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[exact]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[确切的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪg'zækt; eg-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 准确的，精密的；精确的]]></ex>
+
+                    <ex><![CDATA[vt. 要求；强求；急需]]></ex>
+
+                    <ex><![CDATA[vi. 勒索钱财]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[exact]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精确的]]></ex>
+
+                            <ex><![CDATA[确切]]></ex>
+
+                            <ex><![CDATA[需要]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Exact functor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正合函子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Exact match]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精确匹配]]></ex>
+
+                            <ex><![CDATA[完全匹配]]></ex>
+
+                            <ex><![CDATA[准确匹配]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

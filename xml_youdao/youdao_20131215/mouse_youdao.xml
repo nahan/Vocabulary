@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mouse]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[鼠标]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[maʊs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 鼠标；老鼠；胆小羞怯的人]]></ex>
+
+                    <ex><![CDATA[vt. 探出]]></ex>
+
+                    <ex><![CDATA[vi. 捕鼠；窥探]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Mouse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鼠标]]></ex>
+
+                            <ex><![CDATA[老鼠]]></ex>
+
+                            <ex><![CDATA[滑鼠]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mickey Mouse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[米老鼠]]></ex>
+
+                            <ex><![CDATA[米奇老鼠]]></ex>
+
+                            <ex><![CDATA[万能米老鼠]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Minnie Mouse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[米妮老鼠]]></ex>
+
+                            <ex><![CDATA[米妮]]></ex>
+
+                            <ex><![CDATA[米老鼠]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

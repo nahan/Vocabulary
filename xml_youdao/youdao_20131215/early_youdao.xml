@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[early]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[早期]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɜːlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 早期的；早熟的]]></ex>
+
+                    <ex><![CDATA[adv. 提早；在初期]]></ex>
+
+                    <ex><![CDATA[n. (Early)人名；(英)厄尔利]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[early]]></key>
+
+            <value>
+
+                            <ex><![CDATA[早的]]></ex>
+
+                            <ex><![CDATA[早早]]></ex>
+
+                            <ex><![CDATA[早日]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Early Spring]]></key>
+
+            <value>
+
+                            <ex><![CDATA[早春]]></ex>
+
+                            <ex><![CDATA[早春二月]]></ex>
+
+                            <ex><![CDATA[早]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Early Christianity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[早期基督教]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[alcohol]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[酒精]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ælkəhɒl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 酒精，乙醇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Alcohol]]></key>
+
+            <value>
+
+                            <ex><![CDATA[酒精]]></ex>
+
+                            <ex><![CDATA[乙醇]]></ex>
+
+                            <ex><![CDATA[含酒精的饮料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Benzyl alcohol]]></key>
+
+            <value>
+
+                            <ex><![CDATA[苯甲醇]]></ex>
+
+                            <ex><![CDATA[苄醇]]></ex>
+
+                            <ex><![CDATA[防腐剂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Allyl alcohol]]></key>
+
+            <value>
+
+                            <ex><![CDATA[烯丙醇]]></ex>
+
+                            <ex><![CDATA[丙烯醇]]></ex>
+
+                            <ex><![CDATA[丙烯醇或烯丙醇]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

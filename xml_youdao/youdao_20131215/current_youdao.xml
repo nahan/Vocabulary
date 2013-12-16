@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[current]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[当前的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kʌr(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. （水，气，电）流；趋势；涌流]]></ex>
+
+                    <ex><![CDATA[adj. 现在的；流通的，通用的；最近的；草写的]]></ex>
+
+                    <ex><![CDATA[n. (Current)人名；(英)柯伦特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Current]]></key>
+
+            <value>
+
+                            <ex><![CDATA[当前]]></ex>
+
+                            <ex><![CDATA[电流]]></ex>
+
+                            <ex><![CDATA[本届]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[current account]]></key>
+
+            <value>
+
+                            <ex><![CDATA[经常项目]]></ex>
+
+                            <ex><![CDATA[经常收支]]></ex>
+
+                            <ex><![CDATA[经常帐户]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Current ratio]]></key>
+
+            <value>
+
+                            <ex><![CDATA[流动比率]]></ex>
+
+                            <ex><![CDATA[电流比]]></ex>
+
+                            <ex><![CDATA[流动化率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

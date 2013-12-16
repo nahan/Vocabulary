@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[square]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[广场]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skweə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 平方；广场；正方形]]></ex>
+
+                    <ex><![CDATA[adj. 平方的；正方形的；直角的；正直的]]></ex>
+
+                    <ex><![CDATA[vt. 使成方形；与…一致]]></ex>
+
+                    <ex><![CDATA[vi. 一致；成方形]]></ex>
+
+                    <ex><![CDATA[adv. 成直角地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Square]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正方形]]></ex>
+
+                            <ex><![CDATA[广场]]></ex>
+
+                            <ex><![CDATA[平方]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Trafalgar Square]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特拉法加广场]]></ex>
+
+                            <ex><![CDATA[特拉法尔加广场]]></ex>
+
+                            <ex><![CDATA[鸽子广场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Square Enix]]></key>
+
+            <value>
+
+                            <ex><![CDATA[史克威尔艾尼克斯]]></ex>
+
+                            <ex><![CDATA[史克威尔艾尼克斯公司]]></ex>
+
+                            <ex><![CDATA[发行厂商]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

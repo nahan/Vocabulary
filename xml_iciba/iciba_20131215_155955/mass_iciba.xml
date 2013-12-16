@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>mass</key>
+
+<ps>mæs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/52/40/5240c852ad4738cc439a700e99734442.mp3</pron>
+
+<ps>mæs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d9/0c/d90ccffa01275a7a7795fb6d1274e75f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>大量，大多；块，堆，团；[物理学]质量；弥撒曲；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>（使）集中，聚集；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>群众的；大规模的；整个的；集中的；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>聚集起来；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使集合；
+
+</acceptation>
+
+<sent><orig>
+
+All these ensure the quality and reliability of the MASS series ring switchgear.
+
+</orig>
+
+<trans>
+
+为MASS系统环网开关柜的高质量和可靠性提供了有效的保证。
+
+</trans></sent>
+
+<sent><orig>
+
+A fast double-error-correction Reed-Solomon algorithm for mass-storage system is proposed.
+
+</orig>
+
+<trans>
+
+提出了一种适用于大容量(Mass-Storage)系统可纠双错的Reed-Solomon快速编、泽码算法，具有硬件实现代价小，运算速度快的优点。
+
+</trans></sent>
+
+<sent><orig>
+
+The mass spectrometry-based proteomics techniques are powerful tools in the research of UPS.
+
+</orig>
+
+<trans>
+
+目前应用蛋白质组学技术的重要研究工具之一质谱(mass spectrometry,MS)技术研究UPS系统还处于起步阶段。
+
+</trans></sent>
+
+<sent><orig>
+
+It came along with mass production mass marketing, and the mass media.
+
+</orig>
+
+<trans>
+
+它和大生产、大营销、大众传媒携手并肩。
+
+</trans></sent>
+
+<sent><orig>
+
+Mass culture is supposedly a leveler and globalizer-by definition, we all share mass cultural references.
+
+</orig>
+
+<trans>
+
+大众文化被认为是平均主义者和全球主义者----通过定义，我们都分享了大众文化的特定意义。
+
+</trans></sent>
+
+</dict>

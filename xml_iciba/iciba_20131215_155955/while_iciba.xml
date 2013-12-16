@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>while</key>
+
+<ps>waɪl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6a/7d/6a7de660d2d2ade359d0dd8fc12efa19.mp3</pron>
+
+<ps>hwaɪl, waɪl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/90/18/901889f4f34f8ca18ac2f53d1fed346e.mp3</pron>
+
+<pos>conj.</pos>
+
+<acceptation>在…期间；与…同时；虽然；而；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>（一段）时间；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>消磨，打发（时间）；（愉快而懒散地）度过（时间）（常与 away 连用）；
+
+</acceptation>
+
+<sent><orig>
+
+In practice, do-while is less common than while.
+
+</orig>
+
+<trans>
+
+在实际应用中，while比do-while更常用一些。
+
+</trans></sent>
+
+<sent><orig>
+
+In Java, the keywords include if-else, while, do-while, for, and a selection statement called switch.
+
+</orig>
+
+<trans>
+
+在Java里，涉及的关键字包括if-else、while、do-while、for以及一个名为switch的选择语句。
+
+</trans></sent>
+
+<sent><orig>
+
+Any variable defined in the condition is visible only within the block associated with the while.
+
+</orig>
+
+<trans>
+
+在循环条件中定义的任意变量都只在与while关联的块语句中可见。
+
+</trans></sent>
+
+<sent><orig>
+
+What is the difference between a while statement and a do statement?
+
+</orig>
+
+<trans>
+
+while循环与do循环有何不同？
+
+</trans></sent>
+
+<sent><orig>
+
+Bill Venners: I once worked on a project where there was an 11-page while loop.
+
+</orig>
+
+<trans>
+
+比尔：我参与过的一个项目竟然有一个长达11页的while循环。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>length</key>
+
+<ps>lɛŋkθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/0c/29/0c29b9cc659c5bb4fac88c7db05df291.mp3</pron>
+
+<ps>leŋθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/2f/a4/2fa47f7c65fec19cc163b195725e3844.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>长度，长；时间的长短；（语）音长；一段，一节；
+
+</acceptation>
+
+<sent><orig>
+
+Note that this method will not reflect the length field of an array class.
+
+</orig>
+
+<trans>
+
+注意，此方法不反映数组类的length字段。
+
+</trans></sent>
+
+<sent><orig>
+
+Writes b. length bytes from the specified byte array to this output stream.
+
+</orig>
+
+<trans>
+
+将指定length长度的字节数组写入输出流。
+
+</trans></sent>
+
+<sent><orig>
+
+It is of medium length, neither cobby nor slack from excessive length.
+
+</orig>
+
+<trans>
+
+中等长度，既不矮胖、松弛也不过长。
+
+</trans></sent>
+
+<sent><orig>
+
+Then it is simulated to choose delay length, the result elicits the range of delay length.
+
+</orig>
+
+<trans>
+
+然后对延迟长度的选择进行仿真，得出延迟长度的选择范围。
+
+</trans></sent>
+
+<sent><orig>
+
+Tolerances, gaps, surfaces, installation chamfers, length of bearing surface, length of stroke, frequency, speed, etc.
+
+</orig>
+
+<trans>
+
+公差，间隙，表面，安装倒角，表面承受的长度，行程的长度，频率，速度等等。
+
+</trans></sent>
+
+</dict>

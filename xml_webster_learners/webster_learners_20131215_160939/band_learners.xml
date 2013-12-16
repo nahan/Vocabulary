@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="band[1]"> <hw highlight="yes" hindex="1">band</hw> <sound><wav>band0001.wav</wav></sound> <pr>ˈbænd</pr> <fl>noun</fl> <in><il>plural</il> <if>bands</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a usually small group of musicians who play popular music together <vi>The <it>band's</it> drummer is also the lead singer.</vi> <vi>a rock-and-roll <it>band</it></vi> <vi>a jazz <it>band</it></vi> <dx>compare <dxt>orchestra</dxt></dx> <dx>see also <dxt>big band</dxt> <dxt>brass band</dxt> <dxt>garage band</dxt> <dxt>marching band</dxt> <dxt>one-man band</dxt></dx></dt> <sn>2</sn> <dt>:a group of people or animals <vi>A <it>band</it> of scientists questioned the theory.</vi> <vi>She photographed a <it>band</it> of gorillas.</vi> <vi>a <it>band</it> of hunters from the tribe</vi></dt> <sn>3</sn> <dt>:a flat, straight piece of material (such as plastic or metal) that forms a circle around something <vi>A <it>band</it> of plastic holds the lid on the container.</vi> <vi>They placed a metal <it>band</it> with an identification number on the bird's leg.</vi> <vi>She lost her <phrase>wedding band</phrase>. [=<it>wedding ring</it>]</vi> <dx>see also <dxt>armband</dxt> <dxt>rubber band</dxt> <dxt>sweatband</dxt> <dxt>waistband</dxt></dx></dt> <sn>4</sn> <dt>:a strip of something that is different from what is around it :a thick line <vi>The bird has black <it>bands</it> above its eyes.</vi> <vi>The dress has an embroidered <it>band</it> at the hem.</vi> <un>often + <it>of</it> <vi>There is a <it>band of</it> white near the hem of the dress.</vi> <vi>A <it>band of</it> thunderstorms crossed the area late last night.</vi> <vi>They left a narrow <it>band of</it> grass growing near the street.</vi></un></dt> <sn>5</sn> <ssl>technical</ssl> <dt>:a range of frequencies over which radio signals are broadcast <vi>The radio station broadcasts on the AM <it>band</it>.</vi></dt> <sn>6</sn> <ssl>Brit</ssl> <dt>:a range or group between a lower and an upper limit :<sx>bracket</sx> <vi>People in younger age <it>bands</it> may be in higher or lower tax <it>bands</it>.</vi></dt></def> <dro><dre>to beat the band</dre> <def><sl>US</sl> <sl>informal</sl> <dt>:in a very forceful or obvious way <vi>He was snoring <it>to beat the band</it>. [=he was snoring very loudly]</vi></dt></def></dro></entry>
+
+	<entry id="band[2]"> <hw hindex="2">band</hw> <altpr>ˈbænd</altpr> <fl>verb</fl> <in><if>bands</if></in> <in><if>band*ed</if></in> <in><if>band*ing</if></in> <dro><dre>band together</dre> <gram>phrasal verb</gram> <def><dt>:to form a group in order to do or achieve something <vi>They <it>banded together</it> for protection.</vi> <vi>If we <it>band together</it>, we can meet the deadline.</vi></dt></def></dro></entry>
+
+	<entry id="Band-Aid[2]"> <hw hindex="2">Band–Aid</hw> <altpr>ˈbændˈeɪd</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><sl>disapproving</sl> <dt>:able to help or improve something only for a short period of time <vi>a <it>Band-Aid</it> solution to the problem</vi></dt></def></entry>
+
+	<entry id="band saw"> <hw>band saw</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ saws</if></in> <def><gram>count</gram> <dt>:a type of powered saw that is used especially for making curved cuts in wood</dt></def></entry>
+
+	<entry id="Band-Aid[1]"> <hw hindex="1">Band–Aid</hw> <sound><wav>banda01w.wav</wav></sound> <pr>ˈbændˈeɪd</pr> <fl>trademark</fl> <def><dt><un>used for a small bandage</un></dt></def></entry>
+
+	<entry id="big band"> <hw>big band</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bands</if></in> <def><gram>count</gram> <dt>:a large musical group that usually plays jazz music that people dance to</dt></def></entry>
+
+	<entry id="brass band"> <hw>brass band</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bands</if></in> <def><gram>count</gram> <dt>:a band (such as a marching band or a military band) in which most of the musicians play brass instruments (such as trumpets and trombones)</dt></def></entry>
+
+	<entry id="citizens band"> <hw>citizens band</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:<sx>cb</sx></dt></def></entry>
+
+	<entry id="elastic band"> <hw>elastic band</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bands</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>rubber band</sx></dt></def></entry>
+
+	<entry id="garage band"> <hw>garage band</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bands</if></in> <def><gram>count</gram> <dt>:a group of people who play rock music together and typically practice in a garage</dt></def></entry>
+
+</entry_list>

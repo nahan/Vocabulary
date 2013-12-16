@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[grade]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[年级]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[greɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 年级；等级；成绩；级别；阶段]]></ex>
+
+                    <ex><![CDATA[vt. 评分；把…分等级]]></ex>
+
+                    <ex><![CDATA[vi. 分等级；逐渐变化]]></ex>
+
+                    <ex><![CDATA[n. (Grade)人名；(英)格雷德；(法、德、西、葡、塞、瑞典)格拉德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[grade]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特级]]></ex>
+
+                            <ex><![CDATA[等级]]></ex>
+
+                            <ex><![CDATA[级]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tenth grade]]></key>
+
+            <value>
+
+                            <ex><![CDATA[十年级]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ball grade]]></key>
+
+            <value>
+
+                            <ex><![CDATA[球等级]]></ex>
+
+                            <ex><![CDATA[球品级]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

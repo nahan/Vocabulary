@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[influence]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[影响]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪnflʊəns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 影响；势力；感化；有影响的人或事]]></ex>
+
+                    <ex><![CDATA[vt. 影响；改变]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Influence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[影响]]></ex>
+
+                            <ex><![CDATA[影响力]]></ex>
+
+                            <ex><![CDATA[感化]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[influence factor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[影响因素]]></ex>
+
+                            <ex><![CDATA[影响因子]]></ex>
+
+                            <ex><![CDATA[电话干扰系数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[influence coefficient]]></key>
+
+            <value>
+
+                            <ex><![CDATA[影响系数]]></ex>
+
+                            <ex><![CDATA[影响力系数]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

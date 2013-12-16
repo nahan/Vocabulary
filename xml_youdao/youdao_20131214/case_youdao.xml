@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[case]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[情况下]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[keɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 情况；实例；箱]]></ex>
+
+                    <ex><![CDATA[vt. 包围；把…装于容器中]]></ex>
+
+                    <ex><![CDATA[n. (Case)人名；(英)凯斯；(西)卡塞；(法)卡斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[case]]></key>
+
+            <value>
+
+                            <ex><![CDATA[案例]]></ex>
+
+                            <ex><![CDATA[案件]]></ex>
+
+                            <ex><![CDATA[计算机辅助软件工程(Computer Aided Software Engineering)]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[case hardening]]></key>
+
+            <value>
+
+                            <ex><![CDATA[表面硬化]]></ex>
+
+                            <ex><![CDATA[表面淬硬]]></ex>
+
+                            <ex><![CDATA[外貌硬化]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Case grammar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[格语法]]></ex>
+
+                            <ex><![CDATA[格位语法]]></ex>
+
+                            <ex><![CDATA[格文法]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

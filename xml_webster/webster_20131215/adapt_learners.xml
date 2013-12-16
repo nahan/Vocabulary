@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="adapt"> <hw highlight="yes">adapt</hw> <sound><wav>adapt001.wav</wav></sound> <pr>əˈdæpt</pr> <fl>verb</fl> <in><if>adapts</if></in> <in><if>adapt*ed</if></in> <in><if>adapt*ing</if></in> <def><sn>1</sn> <dt>:to change your behavior so that it is easier to live in a particular place or situation <wsgram>no obj</wsgram> <vi>When children go to a different school, it usually takes them a while to <it>adapt</it>.</vi> <un>usually + <it>to</it> <vi>These fish all <it>adapt</it> easily <it>to</it> colder water.</vi> <vi>She has <it>adapted to</it> college life quite easily.</vi></un> <wsgram>+ obj</wsgram> <vi>She has <phrase>adapted herself to</phrase> college life quite easily.</vi></dt> <sn>2</sn> <sgram>+ obj</sgram> <dt>:to change (something) so that it functions better or is better suited for a purpose <vi>The teachers <it>adapted</it> [=<it>modified</it>] the curriculum so that students of all abilities will benefit from it.</vi> <vi>The camera has been <it>adapted</it> for underwater use.</vi> <vi>The clock was <it>adapted</it> to run on batteries.</vi></dt> <sn>3</sn> <sgram>+ obj</sgram> <dt>:to change (a movie, book, play, etc.) so that it can be presented in another form <vi>He <it>adapted</it> the novel for the stage. [=he rewrote the novel as a play]</vi> <vi>The movie was <it>adapted</it> from the book of the same title.</vi> <vi><it>adapting</it> the movie for television</vi></dt></def></entry>
+
+</entry_list>

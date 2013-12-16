@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="attorney"> <hw>at*tor*ney</hw> <sound><wav>attorn03.wav</wav></sound> <pr>əˈtɚni</pr> <fl>noun</fl> <in><il>plural</il> <if>at*tor*neys</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:<sx>lawyer</sx> <dx>see also <dxt>district attorney</dxt> <dxt>power of attorney</dxt> <dxt>state attorney</dxt></dx></dt></def></entry>
+
+	<entry id="attorney at law"> <hw>attorney at law</hw> <fl>noun</fl> <in><il>plural</il> <if>attorneys at law</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <sl>formal</sl> <dt>:<sx>lawyer</sx> <un>used chiefly as a title <vi>John Smith, <it>Attorney at Law</it></vi></un></dt></def></entry>
+
+	<entry id="attorney general"> <hw>attorney general</hw> <fl>noun</fl> <in><il>plural</il> <if>attorneys general</if> <il>or</il> <if>attorney generals</if></in> <def><gram>count</gram> <dt>:the chief lawyer of a country or state who represents the government in legal matters</dt></def></entry>
+
+	<entry id="district attorney"> <hw>district attorney</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -neys</if></in> <def><gram>count</gram> <dt>:a lawyer who works for the U.S. government in a state, county, etc., and who is responsible for starting a criminal case against someone <un>abbr. <it>DA</it></un></dt></def></entry>
+
+	<entry id="power of attorney"> <hw>power of attorney</hw> <fl>noun</fl> <in><il>plural</il> <if>powers of attorney</if></in> <def><sl>law</sl> <sn>1</sn> <sgram>count, noncount</sgram> <dt>:the right to act and make decisions for another person in business and legal matters <vi>Mrs. Flagg gave her son (a) <it>power of attorney</it> over all her accounts when she entered the nursing home.</vi></dt> <sn>2</sn> <sgram>count</sgram> <dt>:a document that gives someone the right of power of attorney</dt></def></entry>
+
+	<entry id="prosecuting attorney"> <hw>prosecuting attorney</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -neys</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:<sx>district attorney</sx></dt></def></entry>
+
+	<entry id="state attorney"> <hw>state attorney</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -neys</if></in> <def><gram>count</gram> <sl>US</sl> <sl>law</sl> <dt>:a government official (such as a district attorney) who represents a U.S. state in court cases within a district <ca>called also <cat>state's attorney</cat></ca></dt></def></entry>
+
+	<entry id="state's attorney"> <hw>state's attorney</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -neys</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:<sx>state attorney</sx></dt></def></entry>
+
+</entry_list>

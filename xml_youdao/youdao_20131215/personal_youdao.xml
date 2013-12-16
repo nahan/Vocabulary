@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[personal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[个人]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pɜːs(ə)n(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 人事消息栏；人称代名词]]></ex>
+
+                    <ex><![CDATA[adj. 个人的；身体的；亲自的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[personal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[个人的]]></ex>
+
+                            <ex><![CDATA[私人的]]></ex>
+
+                            <ex><![CDATA[亲见]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Personal property]]></key>
+
+            <value>
+
+                            <ex><![CDATA[动产]]></ex>
+
+                            <ex><![CDATA[个人财产]]></ex>
+
+                            <ex><![CDATA[人财产]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Personal development]]></key>
+
+            <value>
+
+                            <ex><![CDATA[个人发展]]></ex>
+
+                            <ex><![CDATA[人的能力发展]]></ex>
+
+                            <ex><![CDATA[自我发展]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

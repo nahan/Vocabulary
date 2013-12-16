@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dramatic]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[戏剧性的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[drə'mætɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 戏剧的；引人注目的；激动人心的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[dramatic]]></key>
+
+            <value>
+
+                            <ex><![CDATA[戏剧性的]]></ex>
+
+                            <ex><![CDATA[戏剧的]]></ex>
+
+                            <ex><![CDATA[生动的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[dramatic soprano]]></key>
+
+            <value>
+
+                            <ex><![CDATA[戏剧女高音]]></ex>
+
+                            <ex><![CDATA[女高音]]></ex>
+
+                            <ex><![CDATA[诗剧女高音]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dramatic Lyrics]]></key>
+
+            <value>
+
+                            <ex><![CDATA[戏剧抒情诗]]></ex>
+
+                            <ex><![CDATA[诗剧抒怀诗]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

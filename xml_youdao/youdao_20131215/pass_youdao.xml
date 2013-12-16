@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pass]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[通过]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɑːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 及格；经过；护照；途径；传球]]></ex>
+
+                    <ex><![CDATA[vt. 通过；经过；传递]]></ex>
+
+                    <ex><![CDATA[vi. 经过；传递；变化；终止]]></ex>
+
+                    <ex><![CDATA[n. (Pass)人名；(英、法、德、俄)帕斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pass]]></key>
+
+            <value>
+
+                            <ex><![CDATA[传球]]></ex>
+
+                            <ex><![CDATA[及格]]></ex>
+
+                            <ex><![CDATA[通过]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pass for]]></key>
+
+            <value>
+
+                            <ex><![CDATA[被认为]]></ex>
+
+                            <ex><![CDATA[冒充]]></ex>
+
+                            <ex><![CDATA[被认为是]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Khyber Pass]]></key>
+
+            <value>
+
+                            <ex><![CDATA[开伯尔山口]]></ex>
+
+                            <ex><![CDATA[开伯尔通道]]></ex>
+
+                            <ex><![CDATA[咖喱王]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

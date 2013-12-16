@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[eye]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[眼]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[aɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 眼睛；视力；眼光；见解，观点]]></ex>
+
+                    <ex><![CDATA[vt. 注视，看]]></ex>
+
+                    <ex><![CDATA[n. (Eye)人名；(德)艾厄；(英)艾]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Eye]]></key>
+
+            <value>
+
+                            <ex><![CDATA[眼睛(E Y E)]]></ex>
+
+                            <ex><![CDATA[眼]]></ex>
+
+                            <ex><![CDATA[登高者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[London Eye]]></key>
+
+            <value>
+
+                            <ex><![CDATA[伦敦眼]]></ex>
+
+                            <ex><![CDATA[伦敦之眼]]></ex>
+
+                            <ex><![CDATA[摩天轮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Eye relief]]></key>
+
+            <value>
+
+                            <ex><![CDATA[适眼距]]></ex>
+
+                            <ex><![CDATA[良视距]]></ex>
+
+                            <ex><![CDATA[视距]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

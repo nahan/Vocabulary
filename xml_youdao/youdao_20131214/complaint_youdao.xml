@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[complaint]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[投诉]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kəm'pleɪnt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 抱怨；诉苦；疾病；委屈]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Complaint]]></key>
+
+            <value>
+
+                            <ex><![CDATA[投诉]]></ex>
+
+                            <ex><![CDATA[抱怨]]></ex>
+
+                            <ex><![CDATA[疾病]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[complaint handling]]></key>
+
+            <value>
+
+                            <ex><![CDATA[投诉处理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[chief complaint]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主诉]]></ex>
+
+                            <ex><![CDATA[第二章]]></ex>
+
+                            <ex><![CDATA[病人主诉]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

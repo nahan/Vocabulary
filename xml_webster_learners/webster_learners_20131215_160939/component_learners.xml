@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="component[1]"> <hw highlight="yes" hindex="1">com*po*nent</hw> <sound><wav>compon01.wav</wav></sound> <pr>kəmˈpoʊnənt</pr> <fl>noun</fl> <in><il>plural</il> <if>coments</if></in> <def><gram>count</gram> <dt>:one of the parts of something (such as a system or mixture) :an important piece of something <vi>the <it>components</it> of an electric circuit</vi> <vi>He sells spare computer <it>components</it>.</vi> <vi>The interview is a key <it>component</it> in the hiring process.</vi> <vi>Hard work has been a major <it>component</it> of his success.</vi></dt></def></entry>
+
+	<entry id="component[2]"> <hw hindex="2">component</hw> <altpr>kəmˈpoʊnənt</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><dt>:helping to make up the whole of something (such as a system or a mixture) :forming or being a part of something <vi>the <it>component</it> parts of a machine</vi></dt></def></entry>
+
+</entry_list>

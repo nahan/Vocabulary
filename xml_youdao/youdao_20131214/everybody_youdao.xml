@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[everybody]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[每个人都]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['evrɪbɒdɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[pron. 每个人；人人]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[everybody]]></key>
+
+            <value>
+
+                            <ex><![CDATA[每个人]]></ex>
+
+                            <ex><![CDATA[张国荣]]></ex>
+
+                            <ex><![CDATA[后街男孩]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Everybody knows]]></key>
+
+            <value>
+
+                            <ex><![CDATA[每个人都知道的]]></ex>
+
+                            <ex><![CDATA[众人皆知]]></ex>
+
+                            <ex><![CDATA[大家都知道]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Everybody sings]]></key>
+
+            <value>
+
+                            <ex><![CDATA[每个人都歌唱]]></ex>
+
+                            <ex><![CDATA[翻唱区]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[unhappy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不开心]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌn'hæpɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 不快乐的；不幸福的；不适当的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[unhappy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不快乐的]]></ex>
+
+                            <ex><![CDATA[不如意]]></ex>
+
+                            <ex><![CDATA[不高兴的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Unhappy China]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中国不高兴]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[very unhappy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[悲惨的]]></ex>
+
+                            <ex><![CDATA[非常不高兴]]></ex>
+
+                            <ex><![CDATA[很不开心]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

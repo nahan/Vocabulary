@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>label</key>
+
+<ps>'leɪbl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/65/41/65417509e95385ef2c5fb3827458a9bb.mp3</pron>
+
+<ps>ˈlebəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d3/04/d304ba20e96d87411588eeabac850e34.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>标签；称标记，符号；[建] 门或窗户上面的线脚；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>贴标签于；把…称为；把…列为；[化]用放射性元素使（元素或原子等）示踪；
+
+</acceptation>
+
+<sent><orig>
+
+Format of output is simple. Each line contains a label corresponding to your file.
+
+</orig>
+
+<trans>
+
+输出的格式很简单，每行一个label,对应到你file里面的各行。
+
+</trans></sent>
+
+<sent><orig>
+
+Create a new application, and add two Label controls, three Edit controls, four Button button.
+
+</orig>
+
+<trans>
+
+新建一个应用程序，并添加两个Label控件，三个Edit控件，四个Button按钮。
+
+</trans></sent>
+
+<sent><orig>
+
+Format of output is simple. Each line contains a label corresponding to your test_file.
+
+</orig>
+
+<trans>
+
+输出的格式很简单，每行一个label,对应到你test_file里面的各行。
+
+</trans></sent>
+
+<sent><orig>
+
+Miyyo label can print packaging label,logistic label,address label,retailing label,and bar code label,etc.
+
+</orig>
+
+<trans>
+
+适用于外箱标签，物流标签，地址标签，服装标签，条形码标签，等等。
+
+</trans></sent>
+
+<sent><orig>
+
+Label display is of single label and full label.
+
+</orig>
+
+<trans>
+
+标牌显示分单标牌和全标牌。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>wait</key>
+
+<ps>weɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/29/ee/29ee4a62332e78b6dbb0c31842d0b154.mp3</pron>
+
+<ps>wet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/49/25/49256b9819abacbb8e6e031a03abe81b.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>等候；等待；（尤指长期地）希望；盼望；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>准备妥；在手边；可得到；可使用；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>推迟，搁置，延缓；
+
+</acceptation>
+
+<sent><orig>
+
+The protocol presented is compared with concurrency control HP2PL and OCC-TI-WAIT-50 protocol by simulation experiments.
+
+</orig>
+
+<trans>
+
+通过模拟仿真与传统的HP2PL和OCC-TI-WAIT-50协议进行比较。
+
+</trans></sent>
+
+<sent><orig>
+
+Wait, wait, wait. I was at home the whole time. How did I miss that?
+
+</orig>
+
+<trans>
+
+等等，我一直都在家，为什么没看到？
+
+</trans></sent>
+
+<sent><orig>
+
+I said, wait, wait, do I have to walk all the way over there?
+
+</orig>
+
+<trans>
+
+我说，我说，等等等，我是不是还得一路走到那里去？
+
+</trans></sent>
+
+<sent><orig>
+
+Wait on, Beano, wait till you can get a free one.
+
+</orig>
+
+<trans>
+
+等一下，比诺，等你能领到一个免费的再走。
+
+</trans></sent>
+
+<sent><orig>
+
+The average amount of wait time (milliseconds) for each lock request that resulted in a wait.
+
+</orig>
+
+<trans>
+
+导致等待的每个锁请求的平均等待时间量（毫秒）。
+
+</trans></sent>
+
+</dict>

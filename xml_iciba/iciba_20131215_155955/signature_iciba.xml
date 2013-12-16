@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>signature</key>
+
+<ps>ˈsɪgnətʃə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/7f/6a/7f6a2569fb1dba57202c00dedbb08224.mp3</pron>
+
+<ps>ˈsɪɡnətʃɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ac/20/ac201fd270c3b96beab24f2829780ab2.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>签名；署名；识别标志，鲜明特征；[医]药的用法说明；
+
+</acceptation>
+
+<sent><orig>
+
+The electronic handwritten signature verification technology includes a signature gathering system, and a signature verification system.
+
+</orig>
+
+<trans>
+
+电子手写签名认证技术包括签名采集系统和签名认证系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Threshold signature is a special digital signature,and it is in popular use.
+
+</orig>
+
+<trans>
+
+门限签名是一种特殊的数字签名，它在现实生活中具有广泛的用途。
+
+</trans></sent>
+
+<sent><orig>
+
+Signature should correspond to specimen signature on record for the Designated Account.
+
+</orig>
+
+<trans>
+
+签署必须与指定账户签署式样相同。
+
+</trans></sent>
+
+<sent><orig>
+
+If the file already has a digital signature, it will be overwritten by the new signature.
+
+</orig>
+
+<trans>
+
+如果文件已有数字签名，则会被新的签名改写。
+
+</trans></sent>
+
+<sent><orig>
+
+This signature should correspond with the specimen signature of card application form.
+
+</orig>
+
+<trans>
+
+必须与信用卡申请表上之印鉴签署相同。
+
+</trans></sent>
+
+</dict>

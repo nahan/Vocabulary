@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="beach[1]"> <hw highlight="yes" hindex="1">beach</hw> <sound><wav>beach001.wav</wav></sound> <pr>ˈbi:tʃ</pr> <fl>noun</fl> <in><il>plural</il> <if>beach*es</if></in> <def><gram>count</gram> <dt>:an area covered with sand or small rocks that is next to an ocean or lake <vi>We spent the day at the <it>beach</it>.</vi> <vi>walking/lying on the <it>beach</it></vi> <vi>white, sandy <it>beaches</it></vi> <vi>private/public <it>beaches</it></vi> <dx>see color picture on page C7</dx></dt></def></entry>
+
+	<entry id="beach[2]"> <hw hindex="2">beach</hw> <altpr>ˈbi:tʃ</altpr> <fl>verb</fl> <in><if>beaches</if></in> <in><if>beached</if></in> <in><if>beach*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to cause (a boat or ship) to go out of the water and onto a beach <vi>The pirates <it>beached</it> the ship on the island.</vi></dt> <sn>2</sn> <dt><snote>When a large ocean animal, such as a whale, is <phrase>beached</phrase> or has <phrase>beached itself</phrase>, it has come out of the water onto land and is unable to return to the water. <vi>People were trying to rescue a whale that had <it>beached itself</it> on the shore.</vi> <vi>a <it>beached</it> whale</vi></snote></dt></def></entry>
+
+	<entry id="beach ball"> <hw>beach ball</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ balls</if></in> <def><gram>count</gram> <dt>:a large ball that is filled with air and made for use at the beach</dt></def></entry>
+
+	<entry id="beach buggy"> <hw>beach buggy</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -gies</if></in> <def><gram>count</gram> <dt>:<sx>dune buggy</sx></dt></def></entry>
+
+	<entry id="beach towel"> <hw>beach towel</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -els</if></in> <def><gram>count</gram> <dt>:a large, usually brightly colored towel made for use at the beach</dt></def></entry>
+
+	<entry id="Daytona Beach"> <hw>Day*to*na Beach</hw> <sound><wav>ggdayt02.wav</wav></sound> <pr>deɪˈtoʊnə</pr> <fl>geographical name</fl> <def><dt>:U.S. city, Florida</dt></def> </entry>
+
+	<entry id="Huntington Beach"> <hw>Hun*ting*ton Beach</hw> <pr>ˈhʌntɪŋtən</pr> <fl>geographical name</fl> <def><dt>:U.S. city, California</dt></def> </entry>
+
+	<entry id="Long Beach"> <hw>Long Beach</hw> <fl>geographical name</fl> <def><dt>:U.S. city, California</dt></def> </entry>
+
+	<entry id="Virginia"> <hw>Vir*gin*ia</hw> <sound><wav>ggvirg02.wav</wav></sound> <pr>vɚˈʤɪnjə</pr> <fl>geographical name</fl> <def><sn>1</sn> <dt>:state of the U.S.</dt> <sn>2</sn> <bnote>Virginia Beach</bnote> <dt>:U.S. city, Virginia</dt> </def> <uro><ure>Vir*gin*ian</ure> <sound><wav>ggvirg03.wav</wav></sound> <pr>vɚˈʤɪnjən</pr> <fl>adjective or noun</fl></uro></entry>
+
+</entry_list>

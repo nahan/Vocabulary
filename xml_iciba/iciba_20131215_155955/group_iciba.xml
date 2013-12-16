@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>group</key>
+
+<ps>ɡru:p</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6f/98/6f98316a536e211f9699b43f682bed97.mp3</pron>
+
+<ps>ɡrup</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/db/0f/db0f6f37ebeb6ea09489124345af2a45.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>组，团体；群，批；（雕塑等的）群像；（英美的）空军大队；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>使成群，集合；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>分类，归类；
+
+</acceptation>
+
+<sent><orig>
+
+In-game, the groups are tracked via the group-tracking of ACE.
+
+</orig>
+
+<trans>
+
+在游戏中，小组通过ACEMOD的group-tracking来定轨道。
+
+</trans></sent>
+
+<sent><orig>
+
+Outside of this group things look even worse.
+
+</orig>
+
+<trans>
+
+在这群组(group)之外事情看起来甚至更糟。
+
+</trans></sent>
+
+<sent><orig>
+
+In the application top-level folder, locate the group subdirectory which contains the bld. inf file.
+
+</orig>
+
+<trans>
+
+在应用程序的最高级的文件夹里，在group的子目录下包含着bld.inf的文件。
+
+</trans></sent>
+
+<sent><orig>
+
+The rats were randomly divided into 4 groups: normal group、1K group、1K1C group、1K1C+BEA group.
+
+</orig>
+
+<trans>
+
+随机分为正常对照组、单肾对照组(1K)、1K1C组、1K1C+BEA组。
+
+</trans></sent>
+
+<sent><orig>
+
+Heard him say, our group is called experimental group, another group called the group.
+
+</orig>
+
+<trans>
+
+听他说，我们这组叫做实验组，另一组叫做对照组。
+
+</trans></sent>
+
+</dict>

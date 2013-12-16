@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>driver</key>
+
+<ps>'draɪvə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/7f/f4/7ff47ceb71247519b941fc097443c3f5.mp3</pron>
+
+<ps>ˈdraɪvɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e2/d4/e2d45d57c7e2941b65c6ccd64af4223e.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>驾驶员，司机；驱动器，驱动程序；驱逐者，驱赶者；（高尔夫球）球棒；
+
+</acceptation>
+
+<sent><orig>
+
+Winpcap work in the driver (Driver) layer, can be highly efficient network operation.
+
+</orig>
+
+<trans>
+
+Winpcap工作于驱动(Driver)层，所以能以很高的效率进行网络操作。
+
+</trans></sent>
+
+<sent><orig>
+
+Please make sure to read Driver Installation Hints Document before you install this driver.
+
+</orig>
+
+<trans>
+
+请切记阅读安装提示司机在你安装这个驱动文件。
+
+</trans></sent>
+
+<sent><orig>
+
+The driver can not detect the disk, please put the disk into the driver correctly.
+
+</orig>
+
+<trans>
+
+“驱动器没有检测到磁盘，请将磁盘放入驱动器”英文怎么翻译啊？
+
+</trans></sent>
+
+<sent><orig>
+
+You can and PDD layers by implementing your device driver as a monolithic driver.
+
+</orig>
+
+<trans>
+
+你完全可以把你的设备实现为一个单体的驱动程序。
+
+</trans></sent>
+
+<sent><orig>
+
+Figure3-17. Driver selection page for Driver Verifier.
+
+</orig>
+
+<trans>
+
+图3-17。驱动匹配的驱动选项页。
+
+</trans></sent>
+
+</dict>

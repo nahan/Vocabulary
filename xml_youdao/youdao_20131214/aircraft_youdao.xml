@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[aircraft]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[飞机]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['eəkrɑːft]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 飞机，航空器]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Aircraft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞机]]></ex>
+
+                            <ex><![CDATA[航空器]]></ex>
+
+                            <ex><![CDATA[飞行器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cargo aircraft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[货机]]></ex>
+
+                            <ex><![CDATA[运输机]]></ex>
+
+                            <ex><![CDATA[全货机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Aircraft registration]]></key>
+
+            <value>
+
+                            <ex><![CDATA[航空器注册编号]]></ex>
+
+                            <ex><![CDATA[航空器登记]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

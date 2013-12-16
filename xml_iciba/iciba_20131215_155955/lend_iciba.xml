@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>lend</key>
+
+<ps>lend</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/ac/9c/ac9cd52ce9823fed850c7c5784e2a338.mp3</pron>
+
+<ps>lɛnd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a1/6c/a16c0a41b56415bc5354724d0d6e655d.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>把…借给；贷（款）；贡献，给予；适于；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>增加；增添；给…增加；给予；
+
+</acceptation>
+
+<sent><orig>
+
+Mary lend john some books. Mary lend some book to John.
+
+</orig>
+
+<trans>
+
+玛丽借给约翰一些书。
+
+</trans></sent>
+
+<sent><orig>
+
+He lend the company money or he lend money to the company.
+
+</orig>
+
+<trans>
+
+他将钱借给公司。
+
+</trans></sent>
+
+<sent><orig>
+
+As a result it does not increase such banks' appetite to lend.
+
+</orig>
+
+<trans>
+
+结果它没有增加银行贷款的愿望。
+
+</trans></sent>
+
+<sent><orig>
+
+I will lend you books as many as you want.
+
+</orig>
+
+<trans>
+
+你要借多少本书，我就借给你多少本。
+
+</trans></sent>
+
+<sent><orig>
+
+I chipped in to lend a helping hand for that poor girl.
+
+</orig>
+
+<trans>
+
+我捐了一些钱，想帮帮那个可怜的女孩。
+
+</trans></sent>
+
+</dict>

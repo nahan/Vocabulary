@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>if</key>
+
+<ps>ɪf</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/0f/b3/0fb303cda05bb7f65fa0e409041e4021.mp3</pron>
+
+<ps>ɪf</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/39/c8/39c8942e1038872a822c0dc75eedbde3.mp3</pron>
+
+<pos>conj.</pos>
+
+<acceptation>如果，倘若；即使；〈口〉是否；假设；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>条件，设想；
+
+</acceptation>
+
+<sent><orig>
+
+BMD of the lumbar vertebrae in OVX-IF, OVX-EXE and OVX-IF-EXE was significantly higher than in OVX(P&lt;0.01).
+
+</orig>
+
+<trans>
+
+OVX-IF、OVX-EXE及OVX-EXE-IF组腰椎BMD明显高于OVX组(P&lt;0.05，P&lt;0.01)。
+
+</trans></sent>
+
+<sent><orig>
+
+Interestingly, although both forskolin and IBMX increased basal If, their effects on CCh-inhibited If were different.
+
+</orig>
+
+<trans>
+
+但有趣的是，尽管Forskolin和IBMX可增加基础If,它们对CCh抑制的If的作用却大不相同。
+
+</trans></sent>
+
+<sent><orig>
+
+If there is an IF inside a stored procedure, you are doing something wrong.
+
+</orig>
+
+<trans>
+
+果存储过程中有IF,尔可能犯了错误。
+
+</trans></sent>
+
+<sent><orig>
+
+IF_FUNCS-This is an array of the names of permitted PHP functions in IF statements.
+
+</orig>
+
+<trans>
+
+这是一个可允许包含在if语句中的php函数名数组。
+
+</trans></sent>
+
+<sent><orig>
+
+If there is an IF inside a stored procedure, are doing something wrong.
+
+</orig>
+
+<trans>
+
+如果存储过程中有IF,你可能犯了错误。
+
+</trans></sent>
+
+</dict>

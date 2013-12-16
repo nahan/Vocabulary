@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[industry]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[行业]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪndəstrɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 产业；工业；勤勉]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Industry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[产业]]></ex>
+
+                            <ex><![CDATA[工业]]></ex>
+
+                            <ex><![CDATA[行业]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Heavy industry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[重工业]]></ex>
+
+                            <ex><![CDATA[重工]]></ex>
+
+                            <ex><![CDATA[年工程项目]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[automobile industry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[汽车产业]]></ex>
+
+                            <ex><![CDATA[汽车工业]]></ex>
+
+                            <ex><![CDATA[汽车业]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ban]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[禁止]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bæn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 禁令，禁忌]]></ex>
+
+                    <ex><![CDATA[vt. 禁止，取缔]]></ex>
+
+                    <ex><![CDATA[n. (Ban)人名；(日)蕃(名)；(缅、老、柬)班；(东南亚国家华语)万；(法)邦；(中)饼(广东话·威妥玛)；(德、塞、罗、阿拉伯)巴恩；(英)班恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Ban]]></key>
+
+            <value>
+
+                            <ex><![CDATA[禁令]]></ex>
+
+                            <ex><![CDATA[禁止]]></ex>
+
+                            <ex><![CDATA[取缔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ban Chiang]]></key>
+
+            <value>
+
+                            <ex><![CDATA[班清]]></ex>
+
+                            <ex><![CDATA[万昌酒店]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ray ban]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雷朋]]></ex>
+
+                            <ex><![CDATA[雷鹏]]></ex>
+
+                            <ex><![CDATA[墨镜]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

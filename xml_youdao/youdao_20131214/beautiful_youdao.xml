@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[beautiful]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[美丽的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bjuːtɪfʊl; -f(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 美丽的]]></ex>
+
+                    <ex><![CDATA[出色地]]></ex>
+
+                    <ex><![CDATA[出色的]]></ex>
+
+                    <ex><![CDATA[迷人的]]></ex>
+
+                    <ex><![CDATA[迷人地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Beautiful]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美丽]]></ex>
+
+                            <ex><![CDATA[漂亮]]></ex>
+
+                            <ex><![CDATA[美极了]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Beautiful Life]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美丽人生]]></ex>
+
+                            <ex><![CDATA[美丽的人生]]></ex>
+
+                            <ex><![CDATA[美好生活]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Beautiful Cooking]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美女厨房]]></ex>
+
+                            <ex><![CDATA[靓女庖厨]]></ex>
+
+                            <ex><![CDATA[第一季]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

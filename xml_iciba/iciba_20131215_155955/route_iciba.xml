@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>route</key>
+
+<ps>ru:t</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/80/1f/801f2484d136bed1a08df1e482e22bab.mp3</pron>
+
+<ps>rut, raʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9c/46/9c46408a3bc655c68505c57a11d6c4ee.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>路；（公共汽车和列车等的）常规路线；航线；渠道，途径；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>按某路线发送；给…规定路线[次序，程序]；
+
+</acceptation>
+
+<sent><orig>
+
+The Route data model is one of the suitable structures for it.
+
+</orig>
+
+<trans>
+
+Route数据模型是解决这个问题的一种合适的方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Bolted route-A route protected with pre-placed anchors rather than removable protection pieces. A sport route.
+
+</orig>
+
+<trans>
+
+预先设置膨胀螺栓和挂片作为保护点而非可取出的保护装置的攀登路线。竞技路线。
+
+</trans></sent>
+
+<sent><orig>
+
+Route A shows the typical click move order. Route B shows a waypointed version.
+
+</orig>
+
+<trans>
+
+A路显示的是普通移动命令。B路显示的是路标模式。
+
+</trans></sent>
+
+<sent><orig>
+
+According to the standard of route selection, method of selecting circumambulating route is given.
+
+</orig>
+
+<trans>
+
+根据城市路网最优路线选择的标准，给出了进行绕行路线选择的方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Instead of taking the direct route, we will come around the scenic route.
+
+</orig>
+
+<trans>
+
+我们没有选择直接的路线，而将绕道风景更美的路线。
+
+</trans></sent>
+
+</dict>

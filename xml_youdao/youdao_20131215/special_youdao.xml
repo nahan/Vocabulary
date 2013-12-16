@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[special]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[特殊的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['speʃ(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 特使，特派人员；特刊；特色菜；专车；特价商品]]></ex>
+
+                    <ex><![CDATA[adj. 特别的；专门的，专用的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Special]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特别]]></ex>
+
+                            <ex><![CDATA[特殊]]></ex>
+
+                            <ex><![CDATA[特殊技]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[special relativity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[狭义相对论]]></ex>
+
+                            <ex><![CDATA[特殊相对论]]></ex>
+
+                            <ex><![CDATA[相对论]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Special Olympics]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特殊奥林匹克运动会]]></ex>
+
+                            <ex><![CDATA[特奥会]]></ex>
+
+                            <ex><![CDATA[特殊奥运会]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

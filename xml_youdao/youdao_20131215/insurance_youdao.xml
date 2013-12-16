@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[insurance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[保险]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'ʃʊər(ə)ns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 保险；保险费；保险契约；赔偿金]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Insurance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[保险]]></ex>
+
+                            <ex><![CDATA[保险费]]></ex>
+
+                            <ex><![CDATA[保险学]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unemployment insurance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失业保险]]></ex>
+
+                            <ex><![CDATA[待业保险费]]></ex>
+
+                            <ex><![CDATA[失业保险金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[medical insurance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[医疗保险]]></ex>
+
+                            <ex><![CDATA[医疗保险费]]></ex>
+
+                            <ex><![CDATA[医疗保障]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

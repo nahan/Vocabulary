@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sharp]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[锋利的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃɑːp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 尖头；骗子；内行]]></ex>
+
+                    <ex><![CDATA[adj. 急剧的；锋利的；强烈的；敏捷的；刺耳的]]></ex>
+
+                    <ex><![CDATA[vt. 磨快；把音调升高]]></ex>
+
+                    <ex><![CDATA[adv. 急剧地；锐利地；突然地]]></ex>
+
+                    <ex><![CDATA[vi. 打扮；升音演奏]]></ex>
+
+                    <ex><![CDATA[n. (Sharp)人名；(英)夏普]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[SHARP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[夏普]]></ex>
+
+                            <ex><![CDATA[锋利]]></ex>
+
+                            <ex><![CDATA[锐利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sharp Peak]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蚺蛇尖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sharp Ratio]]></key>
+
+            <value>
+
+                            <ex><![CDATA[夏普指数]]></ex>
+
+                            <ex><![CDATA[回报风险指数]]></ex>
+
+                            <ex><![CDATA[夏普比率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

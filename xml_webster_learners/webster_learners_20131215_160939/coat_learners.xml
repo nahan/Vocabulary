@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="coat[1]"> <hw highlight="yes" hindex="1">coat</hw> <sound><wav>coat0001.wav</wav></sound> <pr>ˈkoʊt</pr> <fl>noun</fl> <in><il>plural</il> <if>coats</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:an outer piece of clothing that can be long or short and that is worn to keep warm or dry <vi>She put on her <it>coat</it>, hat, and gloves, and then she went outside.</vi> <vi>a winter/fur/wool <it>coat</it></vi></dt> <sn>b</sn> <ssl>chiefly US</ssl> <dt>:a piece of clothing that is worn over a shirt as part of a suit :<sx>jacket</sx> <vi>He was wearing a <it>coat</it> and tie.</vi> <vi>a <phrase>sport coat</phrase></vi></dt> <sn>2</sn> <dt>:the outer covering of fur, hair, or wool on an animal <vi>The dog has a thick/smooth/shaggy <it>coat</it>.</vi></dt> <sn>3</sn> <dt>:a thin layer of paint covering a surface <vi>a <it>coat</it> of paint</vi> <vi>The house needed three <it>coats</it> to cover the original paint.</vi></dt></def> <uro><ure>coatless</ure> <fl>adjective</fl> <utxt><vi>a shivering, <it>coatless</it> child</vi></utxt></uro></entry>
+
+	<entry id="coat[2]"> <hw highlight="yes" hindex="2">coat</hw> <altpr>ˈkoʊt</altpr> <fl>verb</fl> <in><if>coats</if></in> <in><if>coat*ed</if></in> <in><if>coat*ing</if></in> <def><gram>+ obj</gram> <dt>:to cover (something or someone) with a thin layer of something <vi>Rock dust <it>coated</it> his hair.</vi> <vi>My shoes are <it>coated</it> with mud.</vi> <vi>Ice <it>coated</it> the deck.</vi> <vi><it>Coat</it> the chicken with flour.</vi></dt></def></entry>
+
+	<entry id="coat hanger"> <art><artref id="coat_hanger.tif"/><capt>coat hanger</capt><dim>80.2,79.8</dim></art> <hw>coat hanger</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a device that is used for hanging clothes in a closet :<sx>hanger</sx></dt></def></entry>
+
+	<entry id="coat of arms"> <hw>coat of arms</hw> <fl>noun</fl> <in><il>plural</il> <if>coats of arms</if></in> <def><gram>count</gram> <dt>:a special group of pictures that belong to a person, family, or group of people and that are shown on a shield</dt></def></entry>
+
+	<entry id="frock coat"> <hw>frock coat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ coats</if></in> <def><gram>count</gram> <sl>old-fashioned</sl> <dt>:a long coat worn by men especially in the 19th century</dt></def></entry>
+
+	<entry id="morning coat"> <hw>morning coat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ coats</if></in> <def><gram>count</gram> <dt>:a type of formal black coat worn by men with some suits <vi>The groom wore a <it>morning coat</it>.</vi></dt></def></entry>
+
+	<entry id="sport coat"> <hw>sport coat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ coats</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a man's coat that is like the top part of a suit but is less formal <ca>called also <cat>sports coat</cat> <cat>sports jacket</cat> (<it>US</it>) <cat>sport jacket</cat></ca> <dx>see color picture on page C15</dx></dt></def></entry>
+
+	<entry id="sports coat"> <hw>sports coat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ coats</if></in> <def><gram>count</gram> <dt>:<sx>sport coat</sx></dt></def></entry>
+
+	<entry id="trench coat"> <hw>trench coat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ coats</if></in> <def><gram>count</gram> <dt>:a usually long raincoat with deep pockets and a belt</dt></def></entry>
+
+</entry_list>

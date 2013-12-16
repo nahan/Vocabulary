@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="annoy"> <hw highlight="yes">an*noy</hw> <sound><wav>annoy001.wav</wav></sound> <pr>əˈnoɪ</pr> <fl>verb</fl> <in><if>an*noys</if></in> <in><if>an*noyed</if></in> <in><if>an*noy*ing</if></in> <def><gram>+ obj</gram> <dt>:to cause (someone) to feel slightly angry <vi>Her constant chatter <it>annoyed</it> [=<it>irritated</it>] all of us.</vi> <vi>I was <it>annoyed</it> [=<it>upset, bothered</it>] by his question.</vi></dt></def> <uro><ure>annoyed</ure> <fl>adjective</fl> <gram>more annoyed; most annoyed</gram> <utxt><vi>She is <it>annoyed</it> at/with me.</vi> <vi>She looked at him with a very <it>annoyed</it> expression.</vi> <vi>He was <it>annoyed</it> (to realize) that he had forgotten his wallet.</vi></utxt></uro> <uro><ure>annoying</ure> <fl>adjective</fl> <gram>more annoying; most annoying</gram> <utxt><vi>He has several <it>annoying</it> [=<it>irritating</it>] habits.</vi> <vi>That noise is very <it>annoying</it>.</vi></utxt></uro> <uro><ure>an*noy*ing*ly</ure> <fl>adverb</fl> <utxt><vi>She can be <it>annoyingly</it> sweet.</vi></utxt></uro></entry>
+
+</entry_list>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[exam]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[考试]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪg'zæm; eg-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 考试；测验]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[exam]]></key>
+
+            <value>
+
+                            <ex><![CDATA[考试]]></ex>
+
+                            <ex><![CDATA[终极面试]]></ex>
+
+                            <ex><![CDATA[检查]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[simulated exam]]></key>
+
+            <value>
+
+                            <ex><![CDATA[模拟测试]]></ex>
+
+                            <ex><![CDATA[模仿测试]]></ex>
+
+                            <ex><![CDATA[摹拟测试]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[exam practice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[考试演练]]></ex>
+
+                            <ex><![CDATA[考试练习]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

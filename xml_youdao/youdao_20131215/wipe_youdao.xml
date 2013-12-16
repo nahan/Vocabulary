@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wipe]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[擦]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[waɪp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 擦拭；用力打]]></ex>
+
+                    <ex><![CDATA[vi. 擦；打]]></ex>
+
+                    <ex><![CDATA[vt. 擦；消除；涂上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[wipe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[擦]]></ex>
+
+                            <ex><![CDATA[擦除]]></ex>
+
+                            <ex><![CDATA[划接]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Iris wipe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[星形擦拭]]></ex>
+
+                            <ex><![CDATA[星状擦拭]]></ex>
+
+                            <ex><![CDATA[指定顶点数产生多边形]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Wipe left]]></key>
+
+            <value>
+
+                            <ex><![CDATA[向左擦除]]></ex>
+
+                            <ex><![CDATA[往左擦去]]></ex>
+
+                            <ex><![CDATA[自右而左]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

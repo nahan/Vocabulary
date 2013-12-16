@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[word]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[词]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɜːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [语] 单词；话语；消息；诺言；命令]]></ex>
+
+                    <ex><![CDATA[vt. 用言辞表达]]></ex>
+
+                    <ex><![CDATA[n. (Word)人名；(英)沃德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Word]]></key>
+
+            <value>
+
+                            <ex><![CDATA[单词]]></ex>
+
+                            <ex><![CDATA[字]]></ex>
+
+                            <ex><![CDATA[词]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Word Formation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[构词法]]></ex>
+
+                            <ex><![CDATA[造词法]]></ex>
+
+                            <ex><![CDATA[词性转换]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[key word]]></key>
+
+            <value>
+
+                            <ex><![CDATA[关键字]]></ex>
+
+                            <ex><![CDATA[中心词]]></ex>
+
+                            <ex><![CDATA[关键词]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

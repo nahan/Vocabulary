@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>pool</key>
+
+<ps>pu:l</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/ec/b9/ecb9ccca88d3433e568131d65b70c775.mp3</pron>
+
+<ps>pul</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b1/0a/b10a8c0bede9eb4ea771b04db3149f28.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>水池；石油层；（液体等的）一滩；共同储金；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>使形成池塘或水洼；淤积；合伙经营；采（煤等）；
+
+</acceptation>
+
+<sent><orig>
+
+Because Commons-DBCP uses Commons-Pool, then the relation of them is introduced.
+
+</orig>
+
+<trans>
+
+由于Commons-DBCP使用了Commons-Pool,所以也描述了它们两者之间的联系。
+
+</trans></sent>
+
+<sent><orig>
+
+The pool identified as the reclamation storage pool must be a primary sequential storage pool.
+
+</orig>
+
+<trans>
+
+回收存储池的池的类型必须是主顺序存储池。
+
+</trans></sent>
+
+<sent><orig>
+
+Its wide range of hydrotherapy facilities includes relaxing artic pool, saltwater pool and aromatherapy massage pool.
+
+</orig>
+
+<trans>
+
+内设大型的水疗浸浴区、香薰牛奶池、盐池、智能按摩浴池和北极冰池。
+
+</trans></sent>
+
+<sent><orig>
+
+The scholar foolishly had the educate cooling pool for swimming pool.
+
+</orig>
+
+<trans>
+
+学者愚蠢的把学院的冷却池当成游泳池。
+
+</trans></sent>
+
+<sent><orig>
+
+Water-proof for water tower, pool, oil pool, toilet, internal and external wall and floor.
+
+</orig>
+
+<trans>
+
+水塔、游泳池、油池、厕卫间及室内、外墙地面防水。
+
+</trans></sent>
+
+</dict>

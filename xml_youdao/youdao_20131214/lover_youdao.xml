@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lover]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[情人]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lʌvə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 爱人，恋人；爱好者]]></ex>
+
+                    <ex><![CDATA[n. (Lover)人名；(英)洛弗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Lover]]></key>
+
+            <value>
+
+                            <ex><![CDATA[情人]]></ex>
+
+                            <ex><![CDATA[爱人]]></ex>
+
+                            <ex><![CDATA[恋人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Princess Lover]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公主恋人]]></ex>
+
+                            <ex><![CDATA[公主恋人主题曲]]></ex>
+
+                            <ex><![CDATA[公主恋人角色曲]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[fit lover]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爱情左右]]></ex>
+
+                            <ex><![CDATA[爱情左灯右行]]></ex>
+
+                            <ex><![CDATA[爱情呼叫转移]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

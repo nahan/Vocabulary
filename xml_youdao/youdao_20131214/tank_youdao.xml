@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tank]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[坦克]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tæŋk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 坦克；水槽；池塘]]></ex>
+
+                    <ex><![CDATA[vt. 把…贮放在柜内；打败]]></ex>
+
+                    <ex><![CDATA[vi. 乘坦克行进]]></ex>
+
+                    <ex><![CDATA[n. (Tank)人名；(德、土、阿塞、土库、挪)汤克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tank]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坦克]]></ex>
+
+                            <ex><![CDATA[吕建中]]></ex>
+
+                            <ex><![CDATA[三国恋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tank destroyer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[驱逐战车]]></ex>
+
+                            <ex><![CDATA[坦克摧毁者]]></ex>
+
+                            <ex><![CDATA[坦克杀手]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ram tank]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白羊坦克]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[occur]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[发生]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'kɜː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 发生；出现；存在]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Occur]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发生]]></ex>
+
+                            <ex><![CDATA[出现]]></ex>
+
+                            <ex><![CDATA[存在]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[to occur]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发生]]></ex>
+
+                            <ex><![CDATA[使发生]]></ex>
+
+                            <ex><![CDATA[发案]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[May occur]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可能发生]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

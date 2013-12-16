@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cheese"> <hw highlight="yes">cheese</hw> <sound><wav>cheese01.wav</wav></sound> <pr>ˈtʃi:z</pr> <fl>noun</fl> <in><il>plural</il> <if>chees*es</if></in> <def><dt>:a yellow or white solid food that is made from milk <wsgram>noncount</wsgram> <vi>a piece of <it>cheese</it></vi> <vi>Sprinkle the casserole with <it>cheese</it>.</vi> <vi>grated/melted <it>cheese</it></vi> <wsgram>count</wsgram> <vi>imported <it>cheeses</it></vi> <vi>a mild <it>cheese</it></vi> <un>often used before another noun <vi><it>cheese</it> sandwiches/omelets</vi> <vi>a <it>cheese</it> [=<it>cheesy</it>] sauce/spread</vi></un></dt></def> <dro><dre>say cheese</dre> <def><dt><snote>If you say the word “cheese” in an exaggerated way, you look like you are smiling, so someone who is taking your photograph and wants you to smile will tell you to <it>say cheese</it>.</snote></dt></def></dro> <dxnl>see also <dxt>big cheese</dxt></dxnl></entry>
+
+	<entry id="American cheese"> <hw>American cheese</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a mild cheese made in the U.S. from cheddar cheese</dt></def></entry>
+
+	<entry id="big cheese"> <hw>big cheese</hw> <fl>noun</fl> <dro><dre>the big cheese</dre> <def><sl>informal</sl> <dt>:the most powerful or important person <vi>You'll have to ask <it>the big cheese</it>. [=<it>the boss</it>]</vi> <vi>Who's <it>the big cheese</it> around here?</vi></dt></def></dro></entry>
+
+	<entry id="blue cheese"> <hw>blue cheese</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cheeses</if></in> <def><gram>count, noncount</gram> <dt>:a kind of cheese that is white with lines of blue mold and that has a strong flavor</dt></def></entry>
+
+	<entry id="cottage cheese"> <hw>cottage cheese</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of soft white cheese that has a mild flavor</dt></def></entry>
+
+	<entry id="cream cheese"> <hw>cream cheese</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a soft white cheese made from milk and cream</dt></def></entry>
+
+	<entry id="goat cheese"> <hw>goat cheese</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cheeses</if></in> <def><gram>count, noncount</gram> <sl>chiefly US</sl> <dt>:a cheese that is made from goat's milk</dt></def></entry>
+
+	<entry id="string cheese"> <hw>string cheese</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>chiefly US</sl> <dt>:cheese that can be pulled apart in narrow strips</dt></def></entry>
+
+	<entry id="Swiss cheese"> <hw>Swiss cheese</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of cheese that is hard and pale yellow and that has many large holes</dt></def></entry>
+
+	<entry id="jack[1]"> <hw hindex="1">jack</hw> <sound><wav>jack0001.wav</wav></sound> <pr>ˈʤæk</pr> <fl>noun</fl> <in><il>plural</il> <if>jacks</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:a device used for lifting something heavy (such as a car)</dt> <sn>2</sn> <sgram>count</sgram> <dt>:a playing card that has a picture of a soldier or servant and that is worth more than a ten and less than a queen <vi>the <it>jack</it> of hearts/spades/clubs/diamonds</vi> <dx>see picture at <dxt>playing card</dxt></dx></dt> <sn>3</sn> <sgram>count</sgram> <dt>:a small opening where something connects with a wire to something else <vi>a telephone/stereo <it>jack</it></vi></dt> <sn>4 a</sn> <sgram>count</sgram> <dt>:a small usually metal object that has six points and that is used in the game of jacks</dt> <sn>b</sn> <bnote>jacks</bnote> <sgram>plural</sgram> <dt>:a child's game in which jacks are thrown and picked up while bouncing and catching a small ball <vi>children playing <it>jacks</it></vi></dt> <sn>5</sn> <sgram>noncount</sgram> <ssl>US slang</ssl> <dt>:anything at all <un>used in negative statements <vi>You don't know <it>jack</it>. = (<it>offensive</it>) You don't know <phrase>jack shit</phrase>.</vi></un></dt></def></entry>
+
+</entry_list>

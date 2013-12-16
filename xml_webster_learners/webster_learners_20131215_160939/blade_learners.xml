@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="blade"> <hw highlight="yes">blade</hw> <sound><wav>blade001.wav</wav></sound> <pr>ˈbleɪd</pr> <fl>noun</fl> <in><il>plural</il> <if>blades</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:the flat sharp part of a weapon or tool that is used for cutting <vi>a knife <it>blade</it></vi> <vi>the <it>blade</it> of an ax</vi> <dx>see picture at <dxt>carpentry</dxt></dx> <dx>see also <dxt>razor blade</dxt> <dxt>switchblade</dxt></dx></dt> <sn>2</sn> <dt>:one of the flat spinning parts that are used on some machines to push air or water <vi>a propeller <it>blade</it></vi></dt> <sn>3</sn> <dt>:the wide flat part of an oar or paddle</dt> <sn>4</sn> <dt>:the sharp metal piece on the bottom of an ice skate <dx>see picture at <dxt>skate</dxt></dx></dt> <sn>5</sn> <dt>:a single piece of grass or a similar plant <vi>a <it>blade</it> of grass</vi></dt> <sn>6</sn> <ssl>literary</ssl> <sn>a</sn> <dt>:<sx>sword <sxn>1</sxn></sx> <vi>an opponent worthy of my <it>blade</it></vi></dt> <sn>b</sn> <dt>:<sx>swordsman</sx> <vi>the best <it>blade</it> in the land</vi></dt></def> <dxnl>see also <dxt>shoulder blade</dxt></dxnl></entry>
+
+	<entry id="razor blade"> <hw>razor blade</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ blades</if></in> <def><gram>count</gram> <dt>:a small, thin, sharp piece of metal that is used in a razor <dx>see picture at <dxt>grooming</dxt></dx></dt></def></entry>
+
+	<entry id="shoulder blade"> <hw>shoulder blade</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ blades</if></in> <def><gram>count</gram> <dt>:one of the two flat, triangular bones of the shoulder that are located in the upper back <ca>called also <cat>scapula</cat></ca> <dx>see picture at <dxt>human</dxt></dx></dt></def></entry>
+
+</entry_list>

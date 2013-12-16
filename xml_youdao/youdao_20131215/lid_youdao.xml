@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lid]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[盖子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 盖子；眼睑；限制]]></ex>
+
+                    <ex><![CDATA[vt. 给…盖盖子]]></ex>
+
+                    <ex><![CDATA[n. (Lid)人名；(捷、挪)利德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lid]]></key>
+
+            <value>
+
+                            <ex><![CDATA[盖子]]></ex>
+
+                            <ex><![CDATA[盖]]></ex>
+
+                            <ex><![CDATA[低影响开发(Low Impact Development)]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[toilet lid]]></key>
+
+            <value>
+
+                            <ex><![CDATA[马桶盖]]></ex>
+
+                            <ex><![CDATA[搪瓷马桶盖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lid clamp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[眼睑夹]]></ex>
+
+                            <ex><![CDATA[睑夹]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[recovery]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[复苏]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'kʌv(ə)rɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 恢复，复原；痊愈；重获]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[RECOVERY]]></key>
+
+            <value>
+
+                            <ex><![CDATA[恢复]]></ex>
+
+                            <ex><![CDATA[复苏]]></ex>
+
+                            <ex><![CDATA[重获]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Recovery Console]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复原主控台]]></ex>
+
+                            <ex><![CDATA[恢复控制台]]></ex>
+
+                            <ex><![CDATA[故障恢复控制台]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Waste recovery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[废物回收]]></ex>
+
+                            <ex><![CDATA[废料回收]]></ex>
+
+                            <ex><![CDATA[废气回收]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

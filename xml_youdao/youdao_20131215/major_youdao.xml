@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[major]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[主要]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['meɪdʒə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [人类] 成年人；主修科目；陆军少校]]></ex>
+
+                    <ex><![CDATA[adj. 主要的；重要的；主修的；较多的]]></ex>
+
+                    <ex><![CDATA[vi. 主修]]></ex>
+
+                    <ex><![CDATA[n. (Major)人名；(西)马霍尔；(法)马若尔；(捷、德、塞、瑞典)马约尔；(英)梅杰]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Major]]></key>
+
+            <value>
+
+                            <ex><![CDATA[少校]]></ex>
+
+                            <ex><![CDATA[专业]]></ex>
+
+                            <ex><![CDATA[主修]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[major in]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主修]]></ex>
+
+                            <ex><![CDATA[专攻]]></ex>
+
+                            <ex><![CDATA[专研]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Oreolalax major]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大齿蟾]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

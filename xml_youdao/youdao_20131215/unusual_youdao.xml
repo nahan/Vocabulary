@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[unusual]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不寻常的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌn'juːʒʊəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 不寻常的；与众不同的；不平常的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[unusual]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不平常的]]></ex>
+
+                            <ex><![CDATA[不寻常的]]></ex>
+
+                            <ex><![CDATA[不同寻常]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Not unusual]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不在少数]]></ex>
+
+                            <ex><![CDATA[不寻常]]></ex>
+
+                            <ex><![CDATA[不稀罕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unusual structure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[异常结构]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

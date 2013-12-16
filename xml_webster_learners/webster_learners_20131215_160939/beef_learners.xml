@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="beef[1]"> <hw highlight="yes" hindex="1">beef</hw> <sound><wav>beef0001.wav</wav></sound> <pr>ˈbi:f</pr> <fl>noun</fl> <in><il>plural</il> <if>beefs</if></in> <def><sn>1</sn> <sgram>noncount</sgram> <dt>:meat from a cow <vi>a pound of <it>beef</it></vi> <vi>ground <it>beef</it></vi> <vi>I'm not eating as much <it>beef</it> as I used to.</vi> <un>often used before another noun <vi>the <it>beef</it> industry</vi> <vi><it>beef</it> stew [=a stew made with beef]</vi></un></dt> <sn>2</sn> <sgram>count</sgram> <ssl>informal</ssl> <dt>:<sx>complaint</sx> <vi>My real <it>beef</it> is with the organization's president, not the group itself.</vi> <vi>What's your <it>beef</it>?</vi></dt> <sn>3</sn> <sgram>noncount</sgram> <ssl>informal</ssl> <dt>:muscles <vi>a football player with a lot of <it>beef</it> and brawn [=a very muscular football player]</vi></dt></def></entry>
+
+	<entry id="beef[2]"> <hw hindex="2">beef</hw> <altpr>ˈbi:f</altpr> <fl>verb</fl> <in><if>beefs</if></in> <in><if>beefed</if></in> <in><if>beef*ing</if></in> <def><gram>no obj</gram> <sl>informal</sl> <dt>:<sx>complain</sx> <vi>She's always <it>beefing</it> about something.</vi></dt></def> <dro><dre>beef up</dre> <gram>phrasal verb</gram> <def><phrasev><pva>beef (something) up</pva> <pvl>or</pvl> <pva>beef up (something)</pva></phrasev> <ssl>informal</ssl> <dt>:to add weight, strength, or power to (something) <vi>Security around the city will be <it>beefed up</it> during the event.</vi> <vi>The medicine helps <it>beef up</it> the immune system.</vi></dt></def></dro></entry>
+
+	<entry id="chipped beef"> <hw>chipped beef</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>US</sl> <dt>:smoked dried beef that is sliced thin</dt></def></entry>
+
+	<entry id="corned beef"> <hw>corned beef</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:beef that has been preserved in salt water <vi>a slice of <it>corned beef</it></vi> <vi>a <it>corned beef</it> sandwich</vi></dt></def></entry>
+
+</entry_list>

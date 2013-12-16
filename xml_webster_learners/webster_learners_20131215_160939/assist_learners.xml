@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="assist[1]"> <hw highlight="yes" hindex="1">as*sist</hw> <sound><wav>assist01.wav</wav></sound> <pr>əˈsɪst</pr> <fl>verb</fl> <in><if>as*sists</if></in> <in><if>as*sist*ed</if></in> <in><if>as*sist*ing</if></in> <def><dt>:to give support or help :to make it easier for someone to do something or for something to happen :<sx>help</sx> <wsgram>+ obj</wsgram> <vi>The device <it>assists</it> those who can't climb stairs.</vi> <vi>The President was <it>assisted</it> by his advisers.</vi> <vi>The President was <it>assisted</it> with his speech. = The President was <it>assisted</it> in writing his speech.</vi> <vi>She <it>assisted</it> the boy with his homework.</vi> <vi>Another doctor <it>assisted</it> him with the operation.</vi> <wsgram>no obj</wsgram> <vi>Another doctor <it>assisted</it> with the operation.</vi> <vi>Federal agents are <it>assisting</it> with the investigation.</vi> <vi>She <it>assisted</it> in making the decision.</vi> <vi>The cream <it>assists</it> in the prevention of skin cancer.</vi></dt></def></entry>
+
+	<entry id="assist[2]"> <hw hindex="2">assist</hw> <altpr>əˈsɪst</altpr> <fl>noun</fl> <in><il>plural</il> <if>assists</if></in> <def><gram>count</gram> <sn>1</sn> <ssl>US</ssl> <ssl>somewhat informal</ssl> <dt>:an action that helps someone <un>usually singular <vi>He wrote the story <phrase>with an assist from</phrase> [=<it>with the help/assistance of</it>] his friend. [=his friend helped him to write the story]</vi></un></dt> <sn>2</sn> <ssl>sports</ssl> <dt>:an action (such as passing a ball or puck) that helps a teammate to score <vi>He had 3 goals and 2 <it>assists</it> in the hockey game.</vi></dt></def></entry>
+
+</entry_list>

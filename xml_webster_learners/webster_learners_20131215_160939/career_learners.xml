@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="career[1]"> <hw highlight="yes" hindex="1">ca*reer</hw> <sound><wav>career01.wav</wav></sound> <pr>kəˈriɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>ca*reers</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a job or profession that someone does for a long time <vi>I want to make teaching my <it>career</it>. = I want to have a <it>career</it> as a teacher. [=I want to be a teacher]</vi> <vi>She hopes to pursue a <it>career</it> in medicine.</vi> <un>often used before another noun <vi>He was a <it>career</it> diplomat/soldier. [=he was a diplomat/soldier for all or most of his working life]</vi></un></dt> <sn>2</sn> <dt>:a period of time spent in a job or profession <vi>My <it>career</it> as a waitress lasted one day.</vi> <vi>During his long <it>career</it> in advertising he won numerous awards and honors.</vi></dt></def></entry>
+
+	<entry id="career[2]"> <hw hindex="2">career</hw> <altpr>kəˈriɚ</altpr> <fl>verb</fl> <in><if>careers</if></in> <in><if>careered</if></in> <in><if>career*ing</if></in> <def><gram>no obj</gram> <dt>:<sx>careen</sx></dt></def></entry>
+
+</entry_list>

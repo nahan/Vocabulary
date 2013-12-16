@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[championship]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[冠军]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['tʃæmpɪənʃɪp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 锦标赛；冠军称号；冠军的地位]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Championship]]></key>
+
+            <value>
+
+                            <ex><![CDATA[锦标赛]]></ex>
+
+                            <ex><![CDATA[冠军赛]]></ex>
+
+                            <ex><![CDATA[总冠军]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Championship Manager]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冠军足球经理]]></ex>
+
+                            <ex><![CDATA[冠军足球司理]]></ex>
+
+                            <ex><![CDATA[球司理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rally Championship]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冠军拉力赛]]></ex>
+
+                            <ex><![CDATA[拉力冠军赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

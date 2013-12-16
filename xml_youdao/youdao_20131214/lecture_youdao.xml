@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lecture]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[讲座]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lektʃə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 演讲；讲稿；教训]]></ex>
+
+                    <ex><![CDATA[vt. 演讲；训诫]]></ex>
+
+                    <ex><![CDATA[vi. 讲课；讲演]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lecture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[讲座]]></ex>
+
+                            <ex><![CDATA[演讲]]></ex>
+
+                            <ex><![CDATA[讲课]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lecture theatre]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大教室]]></ex>
+
+                            <ex><![CDATA[阶梯教室]]></ex>
+
+                            <ex><![CDATA[阅览室]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lecture scope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[教学镜]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

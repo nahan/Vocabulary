@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[die]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[死]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[daɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 冲模，钢模；骰子]]></ex>
+
+                    <ex><![CDATA[vi. 死亡；凋零；熄灭]]></ex>
+
+                    <ex><![CDATA[vt. 死，死于…]]></ex>
+
+                    <ex><![CDATA[n. (Die)人名；(西)迭；(阿拉伯)迪埃]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[die]]></key>
+
+            <value>
+
+                            <ex><![CDATA[死]]></ex>
+
+                            <ex><![CDATA[死亡]]></ex>
+
+                            <ex><![CDATA[刀模]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[die out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[消失]]></ex>
+
+                            <ex><![CDATA[灭绝]]></ex>
+
+                            <ex><![CDATA[逐渐消失]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Die Hard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[虎胆龙威]]></ex>
+
+                            <ex><![CDATA[终极警探]]></ex>
+
+                            <ex><![CDATA[终极警探台]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

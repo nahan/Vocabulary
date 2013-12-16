@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>block</key>
+
+<ps>blɒk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/14/51/14511f2f5564650d129ca7cabc333278.mp3</pron>
+
+<ps>blɑk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/14/51/14511f2f5564650d129ca7cabc333278.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>块；街区；&lt;英&gt;大楼，大厦；障碍物，阻碍；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>阻止；阻塞；限制；
+
+</acceptation>
+
+<sent><orig>
+
+Smith says he's also looking into building a BLOCK terrain park and snowboarding school there.
+
+</orig>
+
+<trans>
+
+史密斯说他现在在考虑建立BLOCK的地面公园和滑雪学校。
+
+</trans></sent>
+
+<sent><orig>
+
+Margins of inline-block elements do not collapse (not even with their in-flow children).
+
+</orig>
+
+<trans>
+
+设置了inline-block元素的垂直margin不会被折叠（甚至与他们的子元素间也是一样）。
+
+</trans></sent>
+
+<sent><orig>
+
+The block can either be a fixed block or a moving block.
+
+</orig>
+
+<trans>
+
+该方式将线路分成多个区段，通常一个区段上不能多于一辆列车。
+
+</trans></sent>
+
+<sent><orig>
+
+Production of automobile disk-type block, shoe block, facing and motorbike brake block.
+
+</orig>
+
+<trans>
+
+生产各类高品质的汽车盘式片、鼓式片、蹄块、衬片、摩托车刹车片。
+
+</trans></sent>
+
+<sent><orig>
+
+These sub-block sets are denoted by capital letters following the block number (Block 15S, for example).
+
+</orig>
+
+<trans>
+
+这些子批号集用紧跟在批号数字之后的大写字母表示（比如说，第15S批）。
+
+</trans></sent>
+
+</dict>

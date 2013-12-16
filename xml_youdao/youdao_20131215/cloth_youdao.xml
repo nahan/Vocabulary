@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cloth]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[布]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[klɒθ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 布；织物；桌布]]></ex>
+
+                    <ex><![CDATA[adj. 布制的]]></ex>
+
+                    <ex><![CDATA[n. (Cloth)人名；(德)克洛特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Cloth]]></key>
+
+            <value>
+
+                            <ex><![CDATA[布料]]></ex>
+
+                            <ex><![CDATA[布]]></ex>
+
+                            <ex><![CDATA[衣料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Abrasive cloth]]></key>
+
+            <value>
+
+                            <ex><![CDATA[砂布]]></ex>
+
+                            <ex><![CDATA[砂皮布]]></ex>
+
+                            <ex><![CDATA[研磨布]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[TWILL CLOTH]]></key>
+
+            <value>
+
+                            <ex><![CDATA[斜纹织物]]></ex>
+
+                            <ex><![CDATA[多经丝筛布]]></ex>
+
+                            <ex><![CDATA[斜纹棉布]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

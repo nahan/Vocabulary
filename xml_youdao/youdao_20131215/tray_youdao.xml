@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tray]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[托盘]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[treɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 托盘；文件盒；隔底匣；（无线电的）发射箱]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tray]]></key>
+
+            <value>
+
+                            <ex><![CDATA[托盘]]></ex>
+
+                            <ex><![CDATA[货盘]]></ex>
+
+                            <ex><![CDATA[盘]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cutlery tray]]></key>
+
+            <value>
+
+                            <ex><![CDATA[装餐具的容器]]></ex>
+
+                            <ex><![CDATA[餐具盘]]></ex>
+
+                            <ex><![CDATA[刀叉盘]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ice tray]]></key>
+
+            <value>
+
+                            <ex><![CDATA[制冰块的盘子]]></ex>
+
+                            <ex><![CDATA[冰块盘子]]></ex>
+
+                            <ex><![CDATA[冰盒]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

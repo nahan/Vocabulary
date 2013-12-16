@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>and</key>
+
+<ps>ənd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c0/63/c0632621df711c761e94a5b18286480e.mp3</pron>
+
+<ps>ənd, ən,ænd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/be/5d/be5d5d37542d75f93a87094459f76678.mp3</pron>
+
+<pos>conj.</pos>
+
+<acceptation>和，与；而且；于是，然后；因此；
+
+</acceptation>
+
+<sent><orig>
+
+Silicon Valley, and particularly Google, has a brutal variation of Gillette's razors-and-blades business model.
+
+</orig>
+
+<trans>
+
+硅谷——尤其是谷歌(Google)——对金？吉列(KingGillette)“剃刀与刀片”(razors-and-blades)的业务模式进行了野蛮的变革。
+
+</trans></sent>
+
+<sent><orig>
+
+Bitmapped indexes are only useful equality queries, especially in combination with AND, OR, and NOT operators.
+
+</orig>
+
+<trans>
+
+位图索引仅对确定值的查询有效，尤其是拥有AND,OR和NOT逻辑运算符的组合。
+
+</trans></sent>
+
+<sent><orig>
+
+And there will be more and more chances to travel in different countries.
+
+</orig>
+
+<trans>
+
+And将会有越来越多的机会在不同的国家旅行。
+
+</trans></sent>
+
+<sent><orig>
+
+&quot;And&quot;, &quot;but&quot;and&quot;whereas&quot; are conjunctions.
+
+</orig>
+
+<trans>
+
+and，but和whereas是连词。
+
+</trans></sent>
+
+<sent><orig>
+
+SRCAND Combines pixels of the destination and source bitmaps using the Boolean AND operator.
+
+</orig>
+
+<trans>
+
+SRCAND使用AND运算符组合源位图和目标位图的像素。
+
+</trans></sent>
+
+</dict>

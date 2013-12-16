@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="confusing"> <hw>confusing</hw> <altpr>kənˈfju:zɪŋ</altpr> <fl>adjective</fl> <def><gram>more confusing; most confusing</gram> <dt>:difficult to understand <vi>I find the whole political situation so <it>confusing</it>! [=<it>perplexing</it>]</vi> <vi>The instructions were <it>confusing</it>.</vi> <vi>The city's winding streets are <it>confusing</it> to most visitors.</vi> <vi><it>confusing</it> terms</vi></dt></def> <uro><ure>con*fus*ing*ly</ure> <fl>adverb</fl> <utxt><vi>The city's streets are <it>confusingly</it> arranged.</vi> <vi>Even more <it>confusingly</it>, they have the same first name.</vi></utxt></uro></entry>
+
+	<entry id="confuse"> <hw highlight="yes">con*fuse</hw> <sound><wav>confus01.wav</wav></sound> <pr>kənˈfju:z</pr> <fl>verb</fl> <in><if>con*fus*es</if></in> <in><if>con*fused</if></in> <in><if>con*fus*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to make (someone) uncertain or unable to understand something <vi>The city's winding streets <it>confuse</it> [=<it>perplex</it>] most visitors.</vi> <vi>The general was trying to <it>confuse</it> the enemy.</vi> <un>often used as <it>(be) confused</it> <vi>She <it>was confused</it> by many of the scientific terms in the article.</vi></un></dt> <sn>2</sn> <dt>:to make (something) difficult to understand <vi>Stop <it>confusing</it> [=<it>blurring</it>] the issue.</vi> <vi>The new evidence only <it>confused</it> matters further.</vi></dt> <sn>3</sn> <dt>:to mistakenly think that one person or thing is another person or thing :to mistake (one person or thing) for another <vi>I always <it>confuse</it> [=(<it>informal</it>) <it>mix up</it>] your car and mine.</vi> <vi>You must be <it>confusing</it> me with someone else.</vi> <vi>Some people <it>confuse</it> money with happiness. [=think that having a lot of money will make them happy]</vi></dt></def></entry>
+
+</entry_list>

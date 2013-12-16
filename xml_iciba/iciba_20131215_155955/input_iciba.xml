@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>input</key>
+
+<ps>'ɪnpʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/67/7e/677ec63ddd3caa9cbeca609e850b3756.mp3</pron>
+
+<ps>ˈɪnˌpʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a4/3c/a43c1b0aa53a0c908810c06ab1ff3967.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>输入，投入；输入电路；&lt;电&gt;输入端；输入的数据；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…输入电脑；[自][电子] 输入；输入，给料；
+
+</acceptation>
+
+<sent><orig>
+
+It'shows how to separate input fields with equal names from each other.
+
+</orig>
+
+<trans>
+
+它将展示给我们如何根据input输入区不同的名称来区分不同的input输入区。
+
+</trans></sent>
+
+<sent><orig>
+
+This example demonstrates what the QueryString contains if several input fields have the same name.
+
+</orig>
+
+<trans>
+
+这个例子讲告诉我们，如果一些input输入区的名称(name)相同，那么QueryString将包含的内容。
+
+</trans></sent>
+
+<sent><orig>
+
+Input from the buffer to receive the return and delete characters.
+
+</orig>
+
+<trans>
+
+Input从接收缓冲区返回和删除字符。
+
+</trans></sent>
+
+<sent><orig>
+
+Put through the power and press the INPUT key to enter the TV status.
+
+</orig>
+
+<trans>
+
+通过打开电源，并按INPUT（输入）键，进入电视输入状态。
+
+</trans></sent>
+
+<sent><orig>
+
+Set the value 3 (according to the stage number) for the input &quot;pass&quot;
+
+</orig>
+
+<trans>
+
+设置值3（根据步骤的步骤号）说明这些input（变量参数）已经“通过”
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[view]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[视图]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[vjuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 观察；视野；意见；风景]]></ex>
+
+                    <ex><![CDATA[vt. 观察；考虑；查看]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[View]]></key>
+
+            <value>
+
+                            <ex><![CDATA[视图]]></ex>
+
+                            <ex><![CDATA[查看]]></ex>
+
+                            <ex><![CDATA[观点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mountain View]]></key>
+
+            <value>
+
+                            <ex><![CDATA[山景城]]></ex>
+
+                            <ex><![CDATA[山景市]]></ex>
+
+                            <ex><![CDATA[芒廷维尤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Page view]]></key>
+
+            <value>
+
+                            <ex><![CDATA[单页点阅率]]></ex>
+
+                            <ex><![CDATA[浏览量]]></ex>
+
+                            <ex><![CDATA[页面浏览量]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[promotion]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[促销活动]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prə'məʊʃn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 提升，[劳经] 晋升；推销，促销；促进；发扬，振兴]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[PROMOTION]]></key>
+
+            <value>
+
+                            <ex><![CDATA[促销]]></ex>
+
+                            <ex><![CDATA[推广]]></ex>
+
+                            <ex><![CDATA[晋升]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sales promotion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[促销]]></ex>
+
+                            <ex><![CDATA[促销活动]]></ex>
+
+                            <ex><![CDATA[销售促进]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[promotion opportunity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[提升机会]]></ex>
+
+                            <ex><![CDATA[推广机会]]></ex>
+
+                            <ex><![CDATA[提升机会中华考试网]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

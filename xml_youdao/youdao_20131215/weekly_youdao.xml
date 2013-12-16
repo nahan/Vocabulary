@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[weekly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[每周]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wiːklɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 周刊]]></ex>
+
+                    <ex><![CDATA[adj. 每周的；周刊的；一周一次的]]></ex>
+
+                    <ex><![CDATA[adv. 每周一次；逐周]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Weekly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[每周]]></ex>
+
+                            <ex><![CDATA[周刊]]></ex>
+
+                            <ex><![CDATA[周薪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Entertainment Weekly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[娱乐周刊]]></ex>
+
+                            <ex><![CDATA[文娱周刊]]></ex>
+
+                            <ex><![CDATA[娱乐周报]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sudden Weekly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[忽然1周]]></ex>
+
+                            <ex><![CDATA[忽然一周]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

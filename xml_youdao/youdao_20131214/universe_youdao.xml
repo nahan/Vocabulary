@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[universe]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[宇宙]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['juːnɪvɜːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 宇宙；世界；领域]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Universe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宇宙]]></ex>
+
+                            <ex><![CDATA[世界]]></ex>
+
+                            <ex><![CDATA[总体]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Miss Universe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环球小姐]]></ex>
+
+                            <ex><![CDATA[宇宙小姐]]></ex>
+
+                            <ex><![CDATA[举世蜜斯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Entropia Universe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[安特罗皮亚世界]]></ex>
+
+                            <ex><![CDATA[安卓皮亚世界]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

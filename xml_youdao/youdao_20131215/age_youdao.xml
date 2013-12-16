@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[age]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[年龄]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[eɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 年龄；时代；寿命，使用年限；阶段]]></ex>
+
+                    <ex><![CDATA[vt. 使成熟；使变老，使上年纪]]></ex>
+
+                    <ex><![CDATA[vi. 成熟；变老]]></ex>
+
+                    <ex><![CDATA[n. (Age)人名；(瑞典)阿格；(日)扬 (姓)；(西、荷)阿赫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[age]]></key>
+
+            <value>
+
+                            <ex><![CDATA[年龄]]></ex>
+
+                            <ex><![CDATA[时代]]></ex>
+
+                            <ex><![CDATA[老化]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stone Age]]></key>
+
+            <value>
+
+                            <ex><![CDATA[石器时代]]></ex>
+
+                            <ex><![CDATA[石票代]]></ex>
+
+                            <ex><![CDATA[石器时期]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Golden Age]]></key>
+
+            <value>
+
+                            <ex><![CDATA[黄金时代]]></ex>
+
+                            <ex><![CDATA[金色年代]]></ex>
+
+                            <ex><![CDATA[黄金年代]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

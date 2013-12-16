@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>transaction</key>
+
+<ps>trænˈzækʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/3b/95/3b95542baa3ade61a0a2e1cf15a65dbe.mp3</pron>
+
+<ps>trænˈsækʃən, -ˈzæk-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f4/d5/f4d5b76a2418eba4baeabc1ed9142b54.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>交易，业务，事务；办理，处理；（一笔）交易，（一项）事务；（学会等的）会议记录，学报；
+
+</acceptation>
+
+<sent><orig>
+
+According to transaction cost theory, outsourcing could simplify the organizations, and then reduce transaction costs.
+
+</orig>
+
+<trans>
+
+根据交易费用理论，外包可以使企业精简，进而减少内部交易费用。
+
+</trans></sent>
+
+<sent><orig>
+
+Returns the underlying transaction object created by the transaction dispenser.
+
+</orig>
+
+<trans>
+
+返回由事务分配器创建的基本事务对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Propagation: normally all code executed within a transaction scope will run in that transaction.
+
+</orig>
+
+<trans>
+
+事务传播：通常在一个事务中执行的所有代码都会在这个事务中运行。
+
+</trans></sent>
+
+<sent><orig>
+
+Unable to rollback transaction. No transaction is currently in progress.
+
+</orig>
+
+<trans>
+
+无法回滚事务。当前无正在进行的事务。
+
+</trans></sent>
+
+<sent><orig>
+
+Tax that cannot be assessed in regular periods may be assessed on a transaction-by-transaction basis.
+
+</orig>
+
+<trans>
+
+不能按照固定期限纳税的，可以按次纳税。
+
+</trans></sent>
+
+</dict>

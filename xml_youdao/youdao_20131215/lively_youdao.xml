@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lively]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[活泼的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['laɪvlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 活泼的；生动的；真实的；生气勃勃的]]></ex>
+
+                    <ex><![CDATA[n. (Lively)人名；(英)莱夫利]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lively]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活泼的]]></ex>
+
+                            <ex><![CDATA[热闹]]></ex>
+
+                            <ex><![CDATA[充满活力的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Blke Lively]]></key>
+
+            <value>
+
+                            <ex><![CDATA[莱弗利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lively Allegro]]></key>
+
+            <value>
+
+                            <ex><![CDATA[海顿C大调第一大提琴协奏曲第三乐章生动的快板]]></ex>
+
+                            <ex><![CDATA[生动的快板]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[membership]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[会员]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['membəʃɪp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 资格；成员资格；会员身分]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[membership]]></key>
+
+            <value>
+
+                            <ex><![CDATA[会员]]></ex>
+
+                            <ex><![CDATA[会员资格]]></ex>
+
+                            <ex><![CDATA[成员资格]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[membership card]]></key>
+
+            <value>
+
+                            <ex><![CDATA[会员卡]]></ex>
+
+                            <ex><![CDATA[会员证]]></ex>
+
+                            <ex><![CDATA[有会员卡么]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Prune Membership]]></key>
+
+            <value>
+
+                            <ex><![CDATA[变形成员]]></ex>
+
+                            <ex><![CDATA[剪除变形组元素]]></ex>
+
+                            <ex><![CDATA[删减成员]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

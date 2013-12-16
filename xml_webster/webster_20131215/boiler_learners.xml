@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="boiler"> <hw>boil*er</hw> <sound><wav>boiler01.wav</wav></sound> <pr>ˈboɪlɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>boil*ers</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a large container in which water is heated to produce steam in an engine <dx>see also <dxt>double boiler</dxt></dx></dt> <sn>2</sn> <ssl>chiefly Brit</ssl> <dt>:<sx>furnace</sx> b</dt></def></entry>
+
+	<entry id="boiler room"> <hw>boiler room</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ rooms</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a room with equipment for heating a building or ship :a room in which a boiler is located</dt> <sn>2</sn> <ssl>US</ssl> <dt>:a room with many telephones that are used by people who call strangers and use dishonest or forceful methods to try to sell them something</dt></def></entry>
+
+	<entry id="double boiler"> <hw>double boiler</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a pair of deep cooking pans that fit together so that the contents of the top pan can be cooked or heated by boiling water in the bottom pan <vi>Melt the chocolate in a <it>double boiler</it>.</vi> <dx>see picture at <dxt>kitchen</dxt></dx></dt></def></entry>
+
+	<entry id="donkey"> <hw>don*key</hw> <sound><wav>donkey11.wav</wav><wav>donkey02.wav</wav><wav>donkey01.wav</wav></sound> <pr>ˈdɑ:ŋki</pr> <fl>noun</fl> <in><il>plural</il> <if>don*keys</if></in> <def><gram>count</gram> <dt>:an animal that is like a small horse with large ears</dt></def></entry>
+
+</entry_list>

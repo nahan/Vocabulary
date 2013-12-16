@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[steady]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[稳定的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['stedɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 关系固定的情侣；固定支架]]></ex>
+
+                    <ex><![CDATA[adj. 稳定的；不变的；沉着的]]></ex>
+
+                    <ex><![CDATA[vt. 使稳定；稳固；使坚定]]></ex>
+
+                    <ex><![CDATA[adv. 稳定地；稳固地]]></ex>
+
+                    <ex><![CDATA[vi. 稳固]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[steady]]></key>
+
+            <value>
+
+                            <ex><![CDATA[踏实的]]></ex>
+
+                            <ex><![CDATA[塌实的]]></ex>
+
+                            <ex><![CDATA[稳定]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[close steady]]></key>
+
+            <value>
+
+                            <ex><![CDATA[收市时价格稳定]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[steady motion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[定常运动]]></ex>
+
+                            <ex><![CDATA[稳定运动]]></ex>
+
+                            <ex><![CDATA[守衡运动]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

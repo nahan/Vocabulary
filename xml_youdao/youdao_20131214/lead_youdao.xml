@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lead]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[铅]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[liːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 领导；铅；导线；榜样]]></ex>
+
+                    <ex><![CDATA[adj. 带头的；最重要的]]></ex>
+
+                    <ex><![CDATA[vi. 领导；导致；用水砣测深]]></ex>
+
+                    <ex><![CDATA[vt. 领导；致使；引导；指挥]]></ex>
+
+                    <ex><![CDATA[n. (Lead)人名；(英)利德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Lead]]></key>
+
+            <value>
+
+                            <ex><![CDATA[领先]]></ex>
+
+                            <ex><![CDATA[铅]]></ex>
+
+                            <ex><![CDATA[带领]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lead poisoning]]></key>
+
+            <value>
+
+                            <ex><![CDATA[铅中毒]]></ex>
+
+                            <ex><![CDATA[中铅毒]]></ex>
+
+                            <ex><![CDATA[铅毒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[phase lead]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相位超前]]></ex>
+
+                            <ex><![CDATA[相位领先]]></ex>
+
+                            <ex><![CDATA[相移超前]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

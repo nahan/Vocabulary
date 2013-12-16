@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[institution]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[机构]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪnstɪ'tjuːʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 制度；建立；（社会或宗教等）公共机构；习俗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Institution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[制度]]></ex>
+
+                            <ex><![CDATA[机构]]></ex>
+
+                            <ex><![CDATA[公共机构]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[public institution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[事业单位]]></ex>
+
+                            <ex><![CDATA[公共机构]]></ex>
+
+                            <ex><![CDATA[奇迹单位]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[social institution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[社会制度]]></ex>
+
+                            <ex><![CDATA[社会机构]]></ex>
+
+                            <ex><![CDATA[社会建制]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

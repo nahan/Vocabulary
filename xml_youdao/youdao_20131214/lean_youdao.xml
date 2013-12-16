@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lean]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[精益]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[liːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 瘦肉；倾斜；倾斜度]]></ex>
+
+                    <ex><![CDATA[adj. 瘦的；贫乏的，歉收的]]></ex>
+
+                    <ex><![CDATA[vt. 使倾斜]]></ex>
+
+                    <ex><![CDATA[vi. 倾斜；倚靠；倾向；依赖]]></ex>
+
+                    <ex><![CDATA[n. (Lean)人名；(西)莱安；(柬)连；(英)利恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[倾斜]]></ex>
+
+                            <ex><![CDATA[屈身]]></ex>
+
+                            <ex><![CDATA[精益]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lean coal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贫煤]]></ex>
+
+                            <ex><![CDATA[瘦煤]]></ex>
+
+                            <ex><![CDATA[低级煤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lean Manufacture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精益生产]]></ex>
+
+                            <ex><![CDATA[精益制造]]></ex>
+
+                            <ex><![CDATA[精益生产方式]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

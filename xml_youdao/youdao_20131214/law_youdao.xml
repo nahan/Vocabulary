@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[law]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[法律]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 法律；规律；法治；法学；诉讼；司法界]]></ex>
+
+                    <ex><![CDATA[vt. 控告；对…起诉]]></ex>
+
+                    <ex><![CDATA[vi. 起诉；控告]]></ex>
+
+                    <ex><![CDATA[n. (Law)人名；(东南亚国家华语)刘；(英、缅、柬)劳]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Law]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法律]]></ex>
+
+                            <ex><![CDATA[法学]]></ex>
+
+                            <ex><![CDATA[规律]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Jude Law]]></key>
+
+            <value>
+
+                            <ex><![CDATA[裘德·洛]]></ex>
+
+                            <ex><![CDATA[裘德洛]]></ex>
+
+                            <ex><![CDATA[裘德]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Canon law]]></key>
+
+            <value>
+
+                            <ex><![CDATA[教会法]]></ex>
+
+                            <ex><![CDATA[教会法规]]></ex>
+
+                            <ex><![CDATA[寺院法]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

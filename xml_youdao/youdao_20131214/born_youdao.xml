@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[born]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[出生]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɔːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 出世（bear的过去分词）]]></ex>
+
+                    <ex><![CDATA[adj. 天生的]]></ex>
+
+                    <ex><![CDATA[n. (Born)人名；(柬)邦；(英、西、俄、捷、德、瑞典、匈)博恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[born]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生于]]></ex>
+
+                            <ex><![CDATA[出生于]]></ex>
+
+                            <ex><![CDATA[出生]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Born approximation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[玻恩近似]]></ex>
+
+                            <ex><![CDATA[玻饵似]]></ex>
+
+                            <ex><![CDATA[博恩近似]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Max Born]]></key>
+
+            <value>
+
+                            <ex><![CDATA[马克斯·玻恩]]></ex>
+
+                            <ex><![CDATA[麦克斯·玻恩]]></ex>
+
+                            <ex><![CDATA[马克斯玻恩]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

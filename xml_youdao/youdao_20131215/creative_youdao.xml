@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[creative]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[创意]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kriː'eɪtɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 创造性的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Creative]]></key>
+
+            <value>
+
+                            <ex><![CDATA[创意]]></ex>
+
+                            <ex><![CDATA[创新]]></ex>
+
+                            <ex><![CDATA[富创造力的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Creative Commons]]></key>
+
+            <value>
+
+                            <ex><![CDATA[共享创意]]></ex>
+
+                            <ex><![CDATA[创作共用]]></ex>
+
+                            <ex><![CDATA[知识共享]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Creative Director]]></key>
+
+            <value>
+
+                            <ex><![CDATA[创意总监]]></ex>
+
+                            <ex><![CDATA[创作总监]]></ex>
+
+                            <ex><![CDATA[创意指导]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

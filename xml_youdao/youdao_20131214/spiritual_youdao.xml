@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[spiritual]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[精神上的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['spɪrɪtʃʊəl; -tjʊəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 圣歌（尤指美国南部黑人的）]]></ex>
+
+                    <ex><![CDATA[adj. 精神的，心灵的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[spiritual]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精神的]]></ex>
+
+                            <ex><![CDATA[心灵]]></ex>
+
+                            <ex><![CDATA[精神上的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Spiritual Assembly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[灵体会]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[spiritual enhancement]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精神升华]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

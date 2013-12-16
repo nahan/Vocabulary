@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>string</key>
+
+<ps>strɪŋ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/fb/10/fb1070b5cd5ae98194192e2eeb6076d5.mp3</pron>
+
+<ps>strɪŋ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b4/5c/b45cffe084dd3d20d928bee85e7b0f21.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>绳子，带子；线丝，植物纤维；串；[计算机科学]字符串；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>上弦，调弦；使排成一行或一系列；绑，系或用线挂起；延伸或扩展；
+
+</acceptation>
+
+<sent><orig>
+
+The isbn member is implicitly initialized by the string default constructor as an empty string.
+
+</orig>
+
+<trans>
+
+isbn成员由string的默认构造函数隐式初始化为空串。
+
+</trans></sent>
+
+<sent><orig>
+
+Macros in this section work with both narrow and wide string objects (string and wstring).
+
+</orig>
+
+<trans>
+
+本节的宏支持窄字符和宽字符对象(string和wstring)。
+
+</trans></sent>
+
+<sent><orig>
+
+However, the String object that s was pointing to is still occupying memory.
+
+</orig>
+
+<trans>
+
+然而，s指向的String对象依然占据着内存空间。
+
+</trans></sent>
+
+<sent><orig>
+
+Strings are initialized to null, not empty string.
+
+</orig>
+
+<trans>
+
+String是被初始化为null,不是空字符。
+
+</trans></sent>
+
+<sent><orig>
+
+The use of the String + has some interesting behavior.
+
+</orig>
+
+<trans>
+
+我们注意到运用“String +”时一些有趣的现象。
+
+</trans></sent>
+
+</dict>

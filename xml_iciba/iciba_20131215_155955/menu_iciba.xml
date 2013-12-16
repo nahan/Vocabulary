@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>menu</key>
+
+<ps>ˈmenju:</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/aa/d0/aad038b99331a3a15431fc512fb1fd1e.mp3</pron>
+
+<ps>ˈmɛnju, ˈmenju</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8d/6a/8d6ab84ca2af9fccd4e4048694176ebf.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>菜单；菜，菜肴；
+
+</acceptation>
+
+<sent><orig>
+
+Declare your menu with MENU keyword.
+
+</orig>
+
+<trans>
+
+用MENU关键字声明你的菜单。
+
+</trans></sent>
+
+<sent><orig>
+
+The most common application menu is revealed by pressing the MENU key on the device.
+
+</orig>
+
+<trans>
+
+最通常的应用程序菜单是通过按下设备的MENU键显示。
+
+</trans></sent>
+
+<sent><orig>
+
+To begin the update, turn your camera on while holding down the MENU button.
+
+</orig>
+
+<trans>
+
+现在开始升级，开机的时候按住MENU键。
+
+</trans></sent>
+
+<sent><orig>
+
+Menu bar: Click on a menu item to display the menu and its commands.
+
+</orig>
+
+<trans>
+
+菜单栏：单击一个菜单名称后将会显示出整个菜单和它的命令。
+
+</trans></sent>
+
+<sent><orig>
+
+Define a popup menu with four menu items, the third one is a menu separator.
+
+</orig>
+
+<trans>
+
+定义了一个有四个菜单项的弹出式菜单，第三个菜单是分隔符。
+
+</trans></sent>
+
+</dict>

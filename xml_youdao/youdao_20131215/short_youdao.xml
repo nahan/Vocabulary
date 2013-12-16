@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[short]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[短]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 短；缺乏；短路；短裤]]></ex>
+
+                    <ex><![CDATA[adj. 短的；不足的；矮的，低的]]></ex>
+
+                    <ex><![CDATA[adv. 不足；突然；唐突地]]></ex>
+
+                    <ex><![CDATA[n. (Short)人名；(英)肖特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[short]]></key>
+
+            <value>
+
+                            <ex><![CDATA[短的]]></ex>
+
+                            <ex><![CDATA[矮的]]></ex>
+
+                            <ex><![CDATA[短路]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Short Message]]></key>
+
+            <value>
+
+                            <ex><![CDATA[短信传情]]></ex>
+
+                            <ex><![CDATA[短消息]]></ex>
+
+                            <ex><![CDATA[短信]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Short film]]></key>
+
+            <value>
+
+                            <ex><![CDATA[短片]]></ex>
+
+                            <ex><![CDATA[最佳动画短片]]></ex>
+
+                            <ex><![CDATA[最佳真人短片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[corn]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[玉米]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɔːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. （美）玉米；（英）谷物；[皮肤] 鸡眼]]></ex>
+
+                    <ex><![CDATA[vt. 腌；使成颗粒]]></ex>
+
+                    <ex><![CDATA[n. (Corn)人名；(英、法、瑞典)科恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[corn]]></key>
+
+            <value>
+
+                            <ex><![CDATA[玉米]]></ex>
+
+                            <ex><![CDATA[谷物]]></ex>
+
+                            <ex><![CDATA[玉米粒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[corn starch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[玉米淀粉]]></ex>
+
+                            <ex><![CDATA[玉米粉]]></ex>
+
+                            <ex><![CDATA[粟粉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Corn Oil]]></key>
+
+            <value>
+
+                            <ex><![CDATA[玉米油]]></ex>
+
+                            <ex><![CDATA[粟米油]]></ex>
+
+                            <ex><![CDATA[玉米胚芽油]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

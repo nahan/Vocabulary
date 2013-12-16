@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[responsible]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[负责任的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'spɒnsɪb(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 负责的，可靠的；有责任的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[responsible]]></key>
+
+            <value>
+
+                            <ex><![CDATA[负责的]]></ex>
+
+                            <ex><![CDATA[有责任的]]></ex>
+
+                            <ex><![CDATA[负责任的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Responsible Care]]></key>
+
+            <value>
+
+                            <ex><![CDATA[责任关怀]]></ex>
+
+                            <ex><![CDATA[责任照顾]]></ex>
+
+                            <ex><![CDATA[责任照顾制度]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[be responsible]]></key>
+
+            <value>
+
+                            <ex><![CDATA[负责]]></ex>
+
+                            <ex><![CDATA[要有责任感]]></ex>
+
+                            <ex><![CDATA[负责任]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

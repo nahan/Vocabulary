@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>application</key>
+
+<ps>ˌæplɪˈkeɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b4/dd/b4dd5ef71b7523809a955e9eaab03049.mp3</pron>
+
+<ps>ˌæplɪˈkeʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/36/76/3676d55f84497cbeadfc614c1b1b62fc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>适用，应用，运用；申请，请求，申请表格；勤勉，用功；敷用，敷用药；
+
+</acceptation>
+
+<sent><orig>
+
+You typically define a main file that contains the mx: Application &gt; tag.
+
+</orig>
+
+<trans>
+
+一般会定义一个主文件，里面包含了mx:Application&gt;标签。
+
+</trans></sent>
+
+<sent><orig>
+
+Some the application components are missing from the Application directory, Please reinstall the application.
+
+</orig>
+
+<trans>
+
+是应用程序组件的一些应用程序目录中丢失了，请重新安装该应用程序。
+
+</trans></sent>
+
+<sent><orig>
+
+Let's limit our attention to one application-any application-at any time.
+
+</orig>
+
+<trans>
+
+让的限制我们的注意，一个应用程序-任何应用在任何时间。
+
+</trans></sent>
+
+<sent><orig>
+
+This article introduces soy polymer chemistry, application technology, application benefits, and coating formulations.
+
+</orig>
+
+<trans>
+
+文中主要介绍了豆类聚合物的化学构成、应用、使用优点、涂料配方等。
+
+</trans></sent>
+
+<sent><orig>
+
+Application software is a software that is specific to the solution of an application problem.
+
+</orig>
+
+<trans>
+
+应用软件是一种专门于解决某一应用问题的软件。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[elderly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[老年人]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['eldəlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 上了年纪的；过了中年的；稍老的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[elderly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[老年人]]></ex>
+
+                            <ex><![CDATA[老人家]]></ex>
+
+                            <ex><![CDATA[老年]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Elderly patients]]></key>
+
+            <value>
+
+                            <ex><![CDATA[老年患者]]></ex>
+
+                            <ex><![CDATA[高龄患者]]></ex>
+
+                            <ex><![CDATA[老年人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[frail elderly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[体弱长者]]></ex>
+
+                            <ex><![CDATA[老年人]]></ex>
+
+                            <ex><![CDATA[己年迈体弱]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

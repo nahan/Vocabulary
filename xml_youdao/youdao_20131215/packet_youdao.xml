@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[packet]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[包]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pækɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 数据包，信息包；小包，小捆]]></ex>
+
+                    <ex><![CDATA[vt. 包装，打包]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Packet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[包]]></ex>
+
+                            <ex><![CDATA[数据包]]></ex>
+
+                            <ex><![CDATA[小包]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Packet radio]]></key>
+
+            <value>
+
+                            <ex><![CDATA[封包无线电]]></ex>
+
+                            <ex><![CDATA[小包无线电]]></ex>
+
+                            <ex><![CDATA[分组无线网]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[packet delay]]></key>
+
+            <value>
+
+                            <ex><![CDATA[包延迟]]></ex>
+
+                            <ex><![CDATA[封包延迟]]></ex>
+
+                            <ex><![CDATA[分组延迟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

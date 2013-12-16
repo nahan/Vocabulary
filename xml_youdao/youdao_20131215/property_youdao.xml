@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[property]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[财产]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prɒpətɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 性质，性能；财产；所有权]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Property]]></key>
+
+            <value>
+
+                            <ex><![CDATA[属性]]></ex>
+
+                            <ex><![CDATA[财产]]></ex>
+
+                            <ex><![CDATA[性质]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Property Management]]></key>
+
+            <value>
+
+                            <ex><![CDATA[物业管理]]></ex>
+
+                            <ex><![CDATA[资产管理]]></ex>
+
+                            <ex><![CDATA[物业]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Real property]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不动产]]></ex>
+
+                            <ex><![CDATA[房地产]]></ex>
+
+                            <ex><![CDATA[土地财产]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

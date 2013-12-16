@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bucket]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[桶]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bʌkɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 桶，水桶；铲斗；一桶的量]]></ex>
+
+                    <ex><![CDATA[v. 倾盆而下；颠簸着行进]]></ex>
+
+                    <ex><![CDATA[n. (Bucket)人名；(德)布克特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bucket]]></key>
+
+            <value>
+
+                            <ex><![CDATA[水桶]]></ex>
+
+                            <ex><![CDATA[铲斗]]></ex>
+
+                            <ex><![CDATA[吊桶]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bucket elevator]]></key>
+
+            <value>
+
+                            <ex><![CDATA[斗式提升机]]></ex>
+
+                            <ex><![CDATA[箕式升运机]]></ex>
+
+                            <ex><![CDATA[提斗机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bucket shop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[投机商号]]></ex>
+
+                            <ex><![CDATA[非法经纪公司]]></ex>
+
+                            <ex><![CDATA[投机商行]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

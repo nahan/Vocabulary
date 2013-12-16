@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bird]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[鸟]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɜːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 鸟；家伙；羽毛球]]></ex>
+
+                    <ex><![CDATA[vt. 向…喝倒彩；起哄]]></ex>
+
+                    <ex><![CDATA[vi. 猎鸟；观察研究野鸟]]></ex>
+
+                    <ex><![CDATA[n. (Bird)人名；(英、西)伯德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bird]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鸟]]></ex>
+
+                            <ex><![CDATA[鸟类]]></ex>
+
+                            <ex><![CDATA[小鸟]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Larry Bird]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拉里·伯德]]></ex>
+
+                            <ex><![CDATA[拉里]]></ex>
+
+                            <ex><![CDATA[拉里伯德]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Yellow Bird]]></key>
+
+            <value>
+
+                            <ex><![CDATA[黄鸟儿]]></ex>
+
+                            <ex><![CDATA[黄鸟]]></ex>
+
+                            <ex><![CDATA[黄色鸟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

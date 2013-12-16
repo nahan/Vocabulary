@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>license</key>
+
+<ps>'laɪsns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a6/b2/a6b2a865e0f451f2e78d3a97264bae53.mp3</pron>
+
+<ps>ˈlaɪsəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/71/87/718779752b851ac0dc6281a8c8d77e7e.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>许可证，执照；特许；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>同意；发许可证；
+
+</acceptation>
+
+<sent><orig>
+
+Secondly,it introduces XML Encryption,XML Signature,WS-Security and WS-License specifications.
+
+</orig>
+
+<trans>
+
+然后介绍XML Encryption和XML Signature技术，以及WS-Security和WS-License规范。
+
+</trans></sent>
+
+<sent><orig>
+
+License Expired The trial license on your device has expired.
+
+</orig>
+
+<trans>
+
+许可证过期您的网关设备的试用许可证已经过期。
+
+</trans></sent>
+
+<sent><orig>
+
+The alcoholic drink transport license is the one-off license.
+
+</orig>
+
+<trans>
+
+《酒类准运证》为一次性使用的许可证。
+
+</trans></sent>
+
+<sent><orig>
+
+Having custom declare certificate, forklift license or driving license will be much appreciated.
+
+</orig>
+
+<trans>
+
+具有报关员资格证，叉车证或驾照者优先。
+
+</trans></sent>
+
+<sent><orig>
+
+The license plate recognition system contains two main parts: license location and character recognition.
+
+</orig>
+
+<trans>
+
+车牌识别系统主要包括车牌定位和字符识别。
+
+</trans></sent>
+
+</dict>

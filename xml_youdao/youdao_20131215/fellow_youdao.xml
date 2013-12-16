@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fellow]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[研究员]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['feləʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 家伙；朋友；同事；会员]]></ex>
+
+                    <ex><![CDATA[adj. 同伴的，同事的；同道的]]></ex>
+
+                    <ex><![CDATA[vt. 使…与另一个对等；使…与另一个匹敌]]></ex>
+
+                    <ex><![CDATA[n. (Fellow)人名；(英)费洛]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fellow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[伙伴]]></ex>
+
+                            <ex><![CDATA[老乡]]></ex>
+
+                            <ex><![CDATA[人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[大发Fellow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[Daihatsu Fellow Max]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fellow sufferers]]></key>
+
+            <value>
+
+                            <ex><![CDATA[难兄难弟]]></ex>
+
+                            <ex><![CDATA[五牛重生]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

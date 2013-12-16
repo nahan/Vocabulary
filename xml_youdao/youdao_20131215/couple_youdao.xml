@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[couple]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[夫妇]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kʌp(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 对；夫妇；数个]]></ex>
+
+                    <ex><![CDATA[vt. 结合；连接；连合]]></ex>
+
+                    <ex><![CDATA[vi. 结合；成婚]]></ex>
+
+                    <ex><![CDATA[n. (Couple)人名；(法)库普勒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[couple]]></key>
+
+            <value>
+
+                            <ex><![CDATA[力偶]]></ex>
+
+                            <ex><![CDATA[夫妇]]></ex>
+
+                            <ex><![CDATA[夫妻]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[working couple]]></key>
+
+            <value>
+
+                            <ex><![CDATA[双职工]]></ex>
+
+                            <ex><![CDATA[指在一个家庭中]]></ex>
+
+                            <ex><![CDATA[双工]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fantasy Couple]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幻想情侣]]></ex>
+
+                            <ex><![CDATA[梦幻的情侣]]></ex>
+
+                            <ex><![CDATA[梦幻情侣]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

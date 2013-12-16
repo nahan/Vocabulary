@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[medicine]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[医学]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['meds(ə)n; 'medɪsɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 药；医学；内科；巫术]]></ex>
+
+                    <ex><![CDATA[vt. 用药物治疗；给…用药]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Medicine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[医学]]></ex>
+
+                            <ex><![CDATA[医药]]></ex>
+
+                            <ex><![CDATA[药品]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sports Medicine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[运动医学]]></ex>
+
+                            <ex><![CDATA[体育医学]]></ex>
+
+                            <ex><![CDATA[体育医疗]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hyperbaric medicine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高压氧治疗]]></ex>
+
+                            <ex><![CDATA[高比重药物]]></ex>
+
+                            <ex><![CDATA[高压医学]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

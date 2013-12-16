@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ball]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[球]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɔːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 球；舞会]]></ex>
+
+                    <ex><![CDATA[vt. 捏成球形]]></ex>
+
+                    <ex><![CDATA[vi. 成团块]]></ex>
+
+                    <ex><![CDATA[n. (Ball)人名；(土)巴勒；(英、西)鲍尔；(法、德、俄、罗、捷)巴尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Ball]]></key>
+
+            <value>
+
+                            <ex><![CDATA[球]]></ex>
+
+                            <ex><![CDATA[坏球]]></ex>
+
+                            <ex><![CDATA[球芯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ball bearing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[滚珠轴承]]></ex>
+
+                            <ex><![CDATA[球轴承]]></ex>
+
+                            <ex><![CDATA[滚球轴承]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hand ball]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手触球]]></ex>
+
+                            <ex><![CDATA[手球]]></ex>
+
+                            <ex><![CDATA[手球犯规]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

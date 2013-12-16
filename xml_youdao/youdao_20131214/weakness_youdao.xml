@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[weakness]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[弱点]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wiːknɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 弱点；软弱；嗜好]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Weakness]]></key>
+
+            <value>
+
+                            <ex><![CDATA[劣势]]></ex>
+
+                            <ex><![CDATA[弱点]]></ex>
+
+                            <ex><![CDATA[缺点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[material weakness]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实质性漏洞]]></ex>
+
+                            <ex><![CDATA[重大缺失]]></ex>
+
+                            <ex><![CDATA[重大弱点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[muscular weakness]]></key>
+
+            <value>
+
+                            <ex><![CDATA[肌无力]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

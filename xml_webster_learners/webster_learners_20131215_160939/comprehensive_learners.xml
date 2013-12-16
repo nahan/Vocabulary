@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="comprehensive[1]"> <hw highlight="yes" hindex="1">com*pre*hen*sive</hw> <sound><wav>compre08.wav</wav></sound> <pr>ˌkɑ:mprɪˈhɛnsɪv</pr> <fl>adjective</fl> <def><gram>more com*pre*hen*sive; most com*pre*hen*sive</gram> <sn>1</sn> <dt>:including many, most, or all things <vi>a <it>comprehensive</it> list</vi> <vi><it>comprehensive</it> insurance [=insurance that covers all kinds of risks]</vi> <vi>a <it>comprehensive</it> [=<it>thorough</it>] course of study</vi></dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:of or relating to a comprehensive school <vi><it>comprehensive</it> education</vi></dt></def> <uro><ure>com*pre*hen*sive*ly</ure> <sound><wav>compr01ld.wav</wav></sound> <pr>ˌkɑ:mprɪˈhɛnsɪvli</pr> <fl>adverb</fl> <utxt><vi>Each patient was <it>comprehensively</it> [=<it>completely, thoroughly</it>] evaluated.</vi> <vi>Trade was <it>comprehensively</it> regulated by the authorities.</vi> <vi>(<it>Brit</it>) The team was <it>comprehensively</it> [=<it>soundly</it>] beaten/defeated.</vi></utxt></uro> <uro><ure>com*pre*hen*sive*ness</ure> <fl>noun</fl></uro></entry>
+
+	<entry id="comprehensive[2]"> <hw hindex="2">comprehensive</hw> <altpr>ˌkɑ:mprɪˈhɛnsɪv</altpr> <fl>noun</fl> <in><il>plural</il> <if>comprehensives</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>comprehensive school</sx></dt></def></entry>
+
+	<entry id="comprehensive school"> <hw>comprehensive school</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ schools</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a school in Britain for children of all different levels of ability who are over the age of 11 <vi>Some of his friends attended the local <it>comprehensive school</it>.</vi></dt></def></entry>
+
+</entry_list>

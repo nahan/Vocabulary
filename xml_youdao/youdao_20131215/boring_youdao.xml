@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[boring]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[无聊的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɔːrɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 钻孔]]></ex>
+
+                    <ex><![CDATA[adj. 无聊的；令人厌烦的]]></ex>
+
+                    <ex><![CDATA[v. 钻孔；使厌烦；挖空（bore的ing形式）]]></ex>
+
+                    <ex><![CDATA[n. (Boring)人名；(英、瑞典)博林]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[boring]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无聊的]]></ex>
+
+                            <ex><![CDATA[真无聊]]></ex>
+
+                            <ex><![CDATA[钻孔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Boring heads]]></key>
+
+            <value>
+
+                            <ex><![CDATA[搪孔头]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[boring tool]]></key>
+
+            <value>
+
+                            <ex><![CDATA[镗刀]]></ex>
+
+                            <ex><![CDATA[钻具]]></ex>
+
+                            <ex><![CDATA[钻探工具]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

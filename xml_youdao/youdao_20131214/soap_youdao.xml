@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[soap]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[肥皂]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[səʊp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 肥皂]]></ex>
+
+                    <ex><![CDATA[vt. 将肥皂涂在……上；对……拍马屁（俚语）]]></ex>
+
+                    <ex><![CDATA[vi. 用肥皂擦洗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[SOAP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[简单对象访问协议(Simple Object Access Protocol)]]></ex>
+
+                            <ex><![CDATA[肥皂]]></ex>
+
+                            <ex><![CDATA[香皂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[laundry soap]]></key>
+
+            <value>
+
+                            <ex><![CDATA[洗衣皂]]></ex>
+
+                            <ex><![CDATA[洗衣肥皂]]></ex>
+
+                            <ex><![CDATA[家用皂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[soap stand]]></key>
+
+            <value>
+
+                            <ex><![CDATA[肥皂盒]]></ex>
+
+                            <ex><![CDATA[番笕盒]]></ex>
+
+                            <ex><![CDATA[胰子盒]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

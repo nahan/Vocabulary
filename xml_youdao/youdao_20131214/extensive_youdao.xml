@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[extensive]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[广泛的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk'stensɪv; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 广泛的；大量的；广阔的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[extensive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[广泛的]]></ex>
+
+                            <ex><![CDATA[广阔]]></ex>
+
+                            <ex><![CDATA[广大]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[extensive management]]></key>
+
+            <value>
+
+                            <ex><![CDATA[粗放式管理]]></ex>
+
+                            <ex><![CDATA[粗放经营]]></ex>
+
+                            <ex><![CDATA[粗放式治理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[extensive form]]></key>
+
+            <value>
+
+                            <ex><![CDATA[粗放型]]></ex>
+
+                            <ex><![CDATA[扩展形式]]></ex>
+
+                            <ex><![CDATA[集约型]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

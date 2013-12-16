@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[belt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[带]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[belt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 带；腰带；地带]]></ex>
+
+                    <ex><![CDATA[vt. 用带子系住；用皮带抽打]]></ex>
+
+                    <ex><![CDATA[vi. 猛击]]></ex>
+
+                    <ex><![CDATA[n. (Belt)人名；(英、法、德、西)贝尔特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Belt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[带]]></ex>
+
+                            <ex><![CDATA[皮带]]></ex>
+
+                            <ex><![CDATA[腰带]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Belt drive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[皮带传动]]></ex>
+
+                            <ex><![CDATA[带传动]]></ex>
+
+                            <ex><![CDATA[带式传动]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sun Belt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[太阳带]]></ex>
+
+                            <ex><![CDATA[阳光地带]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

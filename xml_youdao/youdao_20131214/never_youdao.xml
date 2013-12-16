@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[never]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[从来没有]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nevə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 从未；决不]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Never]]></key>
+
+            <value>
+
+                            <ex><![CDATA[从不]]></ex>
+
+                            <ex><![CDATA[从来不]]></ex>
+
+                            <ex><![CDATA[决不]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Never judges]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不间断]]></ex>
+
+                            <ex><![CDATA[从不瞎评论]]></ex>
+
+                            <ex><![CDATA[从不评价你]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[never gone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风云再起]]></ex>
+
+                            <ex><![CDATA[永不离去]]></ex>
+
+                            <ex><![CDATA[后街男孩]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

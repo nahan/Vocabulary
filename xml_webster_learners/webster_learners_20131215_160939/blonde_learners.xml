@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="blond[1]"> <hw highlight="yes" hindex="1">blond</hw> <vr><vl>or</vl> <va>blonde</va> <sound><wav>blond01w.wav</wav></sound> <pr>ˈblɑ:nd</pr></vr> <fl>adjective</fl> <in><if>blond*er</if></in> <in><if>blond*est</if></in> <def><sn>1</sn> <dt>:of a yellow or very light brown color <vi>long <it>blond</it> hair</vi> <vi><it>blonde</it> curls/locks/braids</vi> <vi>She has <it>blonde</it> highlights in her hair.</vi> <vi>His hair was dyed/bleached <it>blond</it>.</vi></dt> <sd>also</sd> <dt>:having blond hair <vi>a <it>blond</it> actor</vi> <vi>She was <it>blonde</it> as a child.</vi> <snote>When used to describe a boy or man, the word is spelled <it>blond</it>. When used for a girl or woman, the word is often spelled <it>blonde</it>.</snote> <snote>A person with <phrase>dirty blond</phrase> hair has very dark blond hair that is almost light brown in color.</snote> <dx>see also <dxt>platinum blonde</dxt> <dxt>strawberry blonde</dxt></dx></dt> <sn>2</sn> <dt>:of a very light color <vi>a table made of <it>blond</it> wood</vi></dt></def></entry>
+
+	<entry id="blond[2]"> <hw highlight="yes" hindex="2">blond</hw> <vr><vl>or</vl> <va>blonde</va> <altpr>ˈblɑ:nd</altpr></vr> <fl>noun</fl> <in><il>plural</il> <if>blondes</if></in> <def><gram>count</gram> <dt>:a person who has yellow or very light brown hair <snote>The word is spelled <it>blond</it> when used for a boy or man, and it is usually spelled <it>blonde</it> when used for a girl or woman. <vi>He's a tall, blue-eyed <it>blond</it>.</vi> <vi>She's a natural <it>blonde</it>. [=her hair has not been dyed blonde]</vi> <vi>a <phrase>bottle/bleached/peroxide blonde</phrase> [=someone whose hair has been made blond through the use of chemicals]</vi></snote> <dx>see also <dxt>platinum blonde</dxt> <dxt>strawberry blonde</dxt></dx></dt></def></entry>
+
+	<entry id="platinum blonde"> <hw>platinum blonde</hw> <vr><vl>or</vl> <va>platinum blond</va></vr> <fl>noun</fl> <in><il>plural</il> <if>⁓ blondes</if> <il>or</il> <if>⁓ blonds</if></in> <def><gram>count</gram> <dt>:a person who has very light blonde hair <vi>She dyed her hair and now she's a <it>platinum blonde</it>.</vi></dt></def> <uro><ure>platinum blonde</ure> <vr><vl>or</vl> <va>platinum blond</va></vr> <fl>adjective</fl> <utxt><vi><it>platinum blonde</it> supermodels</vi></utxt></uro></entry>
+
+	<entry id="strawberry blonde"> <hw>strawberry blonde</hw> <vr><vl>or</vl> <va>strawberry blond</va></vr> <fl>noun</fl> <in><il>plural</il> <if>⁓ blondes</if> <il>or</il> <if>⁓ blonds</if></in> <def><gram>count</gram> <dt>:a person who has reddish-blond hair</dt></def> <uro><ure>strawberry blonde</ure> <vr><vl>or</vl> <va>strawberry blond</va></vr> <fl>adjective</fl> <utxt><vi><it>strawberry blonde</it> hair</vi></utxt></uro></entry>
+
+	<entry id="ash-blond"> <hw>ash–blond</hw> <vr><vl>or</vl> <va>ash–blonde</va> <sound><wav>ashbl01w.wav</wav></sound> <pr>ˈæʃˈblɑ:nd</pr></vr> <fl>adjective</fl> <def><dt>:pale blond or grayish blond <vi><it>ash-blond</it> hair</vi></dt></def></entry>
+
+</entry_list>

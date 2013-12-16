@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>disk</key>
+
+<ps>dɪsk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/11/f5/11f5d7db464a49081225f152b58ac4b5.mp3</pron>
+
+<ps>dɪsk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/75/68/75688b0220ad16c4e02152b6c2b56424.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>磁盘；唱片；圆盘；光盘；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>把…录成唱片；使成圆盘状；用圆盘耕地；
+
+</acceptation>
+
+<sent><orig>
+
+Alternate spelling for disk.
+
+</orig>
+
+<trans>
+
+术语disk（磁盘）的另一种拼写形式。
+
+</trans></sent>
+
+<sent><orig>
+
+To create a startup disk, click Create Disk. You will need one floppy disk.
+
+</orig>
+
+<trans>
+
+要制作启动盘，请先准备空白软盘，然后单击“创建启动盘”。
+
+</trans></sent>
+
+<sent><orig>
+
+The effect of disk wobble and decent re on the scanning characteristic scanning disk was analyzed.
+
+</orig>
+
+<trans>
+
+分析了摆动与偏心对扫描特性的影响。
+
+</trans></sent>
+
+<sent><orig>
+
+The disk is not erasable. Please insert a different disk and try again.
+
+</orig>
+
+<trans>
+
+磁盘无法擦除。请另外插入一张磁盘，然后重试。
+
+</trans></sent>
+
+<sent><orig>
+
+Form factor The physical size (usually j just height) of a disk or floppy disk drive.
+
+</orig>
+
+<trans>
+
+形态系数硬盘或软盘驱动器的物理尺寸（通常仅指高度）。
+
+</trans></sent>
+
+</dict>

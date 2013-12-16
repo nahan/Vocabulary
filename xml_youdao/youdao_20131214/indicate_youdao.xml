@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[indicate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[表明]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪndɪkeɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 表明；指出；预示；象征]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[indicate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[指出]]></ex>
+
+                            <ex><![CDATA[指示]]></ex>
+
+                            <ex><![CDATA[表明]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[indicate left]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打左转向灯]]></ex>
+
+                            <ex><![CDATA[打左灯]]></ex>
+
+                            <ex><![CDATA[显示左]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[INDICATE RELATIONSHIP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[指示关系]]></ex>
+
+                            <ex><![CDATA[表明关系]]></ex>
+
+                            <ex><![CDATA[表示关系]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

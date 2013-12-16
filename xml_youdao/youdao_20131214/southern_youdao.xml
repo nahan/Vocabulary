@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[southern]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[南部]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sʌð(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 南方人]]></ex>
+
+                    <ex><![CDATA[adj. 南的；南方的]]></ex>
+
+                    <ex><![CDATA[n. (Southern)人名；(英)萨瑟恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[southern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[南方的]]></ex>
+
+                            <ex><![CDATA[南部的]]></ex>
+
+                            <ex><![CDATA[南区]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Southern District]]></key>
+
+            <value>
+
+                            <ex><![CDATA[南区]]></ex>
+
+                            <ex><![CDATA[南部区]]></ex>
+
+                            <ex><![CDATA[南方地区]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Southern Africa]]></key>
+
+            <value>
+
+                            <ex><![CDATA[南部非洲]]></ex>
+
+                            <ex><![CDATA[非洲南部]]></ex>
+
+                            <ex><![CDATA[南非洲]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

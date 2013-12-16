@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[total]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[总]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['təʊt(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 总数，合计]]></ex>
+
+                    <ex><![CDATA[adj. 全部的；完全的；整个的]]></ex>
+
+                    <ex><![CDATA[vt. 总数达]]></ex>
+
+                    <ex><![CDATA[vi. 合计]]></ex>
+
+                    <ex><![CDATA[n. (Total)人名；(法、德)托塔尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Total]]></key>
+
+            <value>
+
+                            <ex><![CDATA[道达尔]]></ex>
+
+                            <ex><![CDATA[总数]]></ex>
+
+                            <ex><![CDATA[合计]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[total football]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全攻全守足球战术]]></ex>
+
+                            <ex><![CDATA[全攻全守]]></ex>
+
+                            <ex><![CDATA[全攻全守足球]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Total power]]></key>
+
+            <value>
+
+                            <ex><![CDATA[总功率]]></ex>
+
+                            <ex><![CDATA[整机功率]]></ex>
+
+                            <ex><![CDATA[功率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

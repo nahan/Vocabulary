@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[customer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[客户]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kʌstəmə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 顾客；家伙]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Customer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[顾客]]></ex>
+
+                            <ex><![CDATA[客户]]></ex>
+
+                            <ex><![CDATA[消费者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Customer Message]]></key>
+
+            <value>
+
+                            <ex><![CDATA[客户留言]]></ex>
+
+                            <ex><![CDATA[联系我们]]></ex>
+
+                            <ex><![CDATA[顾客留言]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Customer Manager]]></key>
+
+            <value>
+
+                            <ex><![CDATA[客户经理]]></ex>
+
+                            <ex><![CDATA[何经理先生]]></ex>
+
+                            <ex><![CDATA[客户发展经理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

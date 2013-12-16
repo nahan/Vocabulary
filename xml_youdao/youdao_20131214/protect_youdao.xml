@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[protect]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[保护]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prə'tekt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 保护，防卫；警戒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[protect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[保护]]></ex>
+
+                            <ex><![CDATA[防护]]></ex>
+
+                            <ex><![CDATA[保卫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[PROGRAM PROTECT]]></key>
+
+            <value>
+
+                            <ex><![CDATA[程序记忆保护开关]]></ex>
+
+                            <ex><![CDATA[程序保护]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[protect ball]]></key>
+
+            <value>
+
+                            <ex><![CDATA[护球]]></ex>
+
+                            <ex><![CDATA[保护球]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

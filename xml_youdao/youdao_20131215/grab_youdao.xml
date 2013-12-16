@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[grab]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[抓住]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[græb]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 攫取；霸占；夺取之物]]></ex>
+
+                    <ex><![CDATA[vt. 攫取；霸占；将…深深吸引]]></ex>
+
+                    <ex><![CDATA[vi. 攫取；夺取]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[grab]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抓斗]]></ex>
+
+                            <ex><![CDATA[抓住]]></ex>
+
+                            <ex><![CDATA[抓取]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[grab crane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抓斗起重机]]></ex>
+
+                            <ex><![CDATA[抓斗吊车]]></ex>
+
+                            <ex><![CDATA[抓岩机吊车]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[boomerang grab]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自返式取样器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

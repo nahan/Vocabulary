@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="candy"> <hw highlight="yes">can*dy</hw> <sound><wav>candy001.wav</wav></sound> <pr>ˈkændi</pr> <fl>noun</fl> <in><il>plural</il> <if>can*dies</if></in> <def><sl>US</sl> <dt>:a sweet food made with sugar or chocolate <wsgram>noncount</wsgram> <vi>a box/bowl/piece of <it>candy</it></vi> <vi>The children are fond of <it>candy</it>. [=(<it>Brit</it>) <it>sweets</it>]</vi> <vi>The cough syrup tastes like <it>candy</it>.</vi> <wsgram>count</wsgram> <vi>chewy <it>candies</it></vi> <un>often used before another noun <vi>a <it>candy</it> bar</vi></un> <dx>see also <dxt>cotton candy</dxt> <dxt>rock candy</dxt></dx></dt></def></entry>
+
+	<entry id="candy apple"> <hw>candy apple</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ apples</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:an apple that is covered with a sugary mixture that becomes hard</dt></def></entry>
+
+	<entry id="candy cane"> <hw>candy cane</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ canes</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a stick of hard red and white candy with a curve at the top</dt></def></entry>
+
+	<entry id="candy floss"> <hw>candy floss</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>Brit</sl> <dt>:<sx>cotton candy</sx></dt></def></entry>
+
+	<entry id="candy-striped"> <hw>candy–striped</hw> <fl>adjective</fl> <def><dt>:having a pattern of colored stripes and white stripes that look like the stripes on some sticks of candy <vi>a <it>candy-striped</it> shirt</vi></dt></def></entry>
+
+	<entry id="candy striper"> <hw>candy strip*er</hw> <sound><wav>candy1s3.wav</wav></sound> <pr>-ˈstraɪpɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a usually female teenage volunteer who works at a hospital <snote>The word comes from the candy striper's striped uniform, which looks like the stripes on some sticks of candy. Candy stripers are not as common in hospitals today as they once were, and they are less likely to wear the striped uniform.</snote></dt></def></entry>
+
+	<entry id="cotton candy"> <hw>cotton candy</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>US</sl> <dt>:candy made from sugar that is boiled, spun into a soft material using a special machine, and then wound around a stick <ca>called also (<it>Brit</it>) <cat>candy floss</cat></ca></dt></def></entry>
+
+	<entry id="ear candy"> <hw>ear candy</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>US</sl> <sl>informal</sl> <dt>:music that is pleasing to listen to but is not serious or interesting</dt></def></entry>
+
+	<entry id="eye candy"> <hw>eye candy</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>informal</sl> <dt>:someone or something that is attractive but is not serious or interesting <vi>A lot of the material on their Web site is just <it>eye candy</it>.</vi></dt></def></entry>
+
+	<entry id="hard candy"> <hw>hard candy</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -dies</if></in> <def><gram>count, noncount</gram> <dt>:a small, hard piece of candy with a sweet and usually fruity flavor <ca>called also (<it>Brit</it>) <cat>boiled sweet</cat></ca></dt></def></entry>
+
+</entry_list>

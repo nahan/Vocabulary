@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>restrict</key>
+
+<ps>rɪ'strɪkt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/24/b4/24b44a2127627ceac78edd279bae5388.mp3</pron>
+
+<ps>rɪˈstrɪkt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/27/9d/279dd2ff4023b5b9c664543d4721a42f.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>限制，限定；约束，束缚；
+
+</acceptation>
+
+<sent><orig>
+
+And among other things, it can restrict the vehicle mph and restrict the car stereo's volume.
+
+</orig>
+
+<trans>
+
+在其他方面，它可以限制汽车的最大时速在MPH,并且限制汽车音响的声量。
+
+</trans></sent>
+
+<sent><orig>
+
+In this, you can restrict the movement types you work with to various fields.
+
+</orig>
+
+<trans>
+
+在这里，你可以使用几个字段作为条件来限定移动类型的范围。
+
+</trans></sent>
+
+<sent><orig>
+
+Tag line restrict swinging of load.
+
+</orig>
+
+<trans>
+
+可限制负荷摆动弧度的牵线。
+
+</trans></sent>
+
+<sent><orig>
+
+Record each user can restrict the IP number to prevent infinite growing database.
+
+</orig>
+
+<trans>
+
+可以限制每个用户记录的IP数，防止数据库无限增大。
+
+</trans></sent>
+
+<sent><orig>
+
+Restrict accesses to local hard disks, floppies, CD-ROMs, and removable disks.
+
+</orig>
+
+<trans>
+
+限制访问本地硬盘，软盘，光盘，和可移动磁盘。
+
+</trans></sent>
+
+</dict>

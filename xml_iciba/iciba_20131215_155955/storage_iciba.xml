@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>storage</key>
+
+<ps>ˈstɔ:rɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a5/45/a5453a6d729371297627fa2fd05d12aa.mp3</pron>
+
+<ps>ˈstɔrɪdʒ, ˈstor-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/dd/ec/ddecebdea58b5f264d27f1f7909bab74.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>贮存；贮藏；储藏处，仓库；贮存器，蓄电（瓶）；
+
+</acceptation>
+
+<sent><orig>
+
+A fast double-error-correction Reed-Solomon algorithm for mass-storage system is proposed.
+
+</orig>
+
+<trans>
+
+提出了一种适用于大容量(Mass-Storage)系统可纠双错的Reed-Solomon快速编、泽码算法，具有硬件实现代价小，运算速度快的优点。
+
+</trans></sent>
+
+<sent><orig>
+
+The holographic storage is one of the most promising optical storage technologies for high-density dada storage.
+
+</orig>
+
+<trans>
+
+体全息存储是一种适合高密度数据存储的光学存储技术，它同时具有存储密度高、数据传输率高、数据搜索时间短等优势。
+
+</trans></sent>
+
+<sent><orig>
+
+Storage dry and cool storage, avoid high temperature storage away from fire, avoid oxidant in transport.
+
+</orig>
+
+<trans>
+
+储运：宜存放阴凉处，避免高温，不可近火，勿与氧化剂共储运。
+
+</trans></sent>
+
+<sent><orig>
+
+Large storage tank includes oil storage tank and liquid chemical product storage tank.
+
+</orig>
+
+<trans>
+
+大型贮罐设计包括石油产品和液体化工产品贮罐设计。
+
+</trans></sent>
+
+<sent><orig>
+
+Discuss mass storage, enterprise storage systems, and mass storage devices.
+
+</orig>
+
+<trans>
+
+讨论海量存储，企业级存储系统，以及大容量存储设备。
+
+</trans></sent>
+
+</dict>

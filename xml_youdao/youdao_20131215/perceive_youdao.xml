@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[perceive]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[感知]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pə'siːv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 察觉，感觉；理解；认知]]></ex>
+
+                    <ex><![CDATA[vi. 感到，感知；认识到]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[perceive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[察觉]]></ex>
+
+                            <ex><![CDATA[感知]]></ex>
+
+                            <ex><![CDATA[知觉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[to perceive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[察觉]]></ex>
+
+                            <ex><![CDATA[感觉]]></ex>
+
+                            <ex><![CDATA[明察]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[perceive  notice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[感知]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

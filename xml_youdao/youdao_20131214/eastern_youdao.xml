@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[eastern]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[东部]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['iːst(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 东方人；（美国）东部地区的人]]></ex>
+
+                    <ex><![CDATA[adj. 东方的；朝东的；东洋的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[eastern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[东方的]]></ex>
+
+                            <ex><![CDATA[东区]]></ex>
+
+                            <ex><![CDATA[东方式]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Eastern Europe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[东欧]]></ex>
+
+                            <ex><![CDATA[东欧音乐]]></ex>
+
+                            <ex><![CDATA[主要出口市场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Eastern Visayas]]></key>
+
+            <value>
+
+                            <ex><![CDATA[东米沙鄢]]></ex>
+
+                            <ex><![CDATA[东未狮耶区]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

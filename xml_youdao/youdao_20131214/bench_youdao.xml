@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bench]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[板凳]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ben(t)ʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 长凳；工作台；替补队员]]></ex>
+
+                    <ex><![CDATA[vt. 给…以席位；为…设置条凳]]></ex>
+
+                    <ex><![CDATA[n. (Bench)人名；(英)本奇；(德)本希；(丹)本克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bench]]></key>
+
+            <value>
+
+                            <ex><![CDATA[长凳]]></ex>
+
+                            <ex><![CDATA[后备球员]]></ex>
+
+                            <ex><![CDATA[工作台]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bench holdfast]]></key>
+
+            <value>
+
+                            <ex><![CDATA[台夹]]></ex>
+
+                            <ex><![CDATA[固定夹]]></ex>
+
+                            <ex><![CDATA[坚固夹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[collegiate bench]]></key>
+
+            <value>
+
+                            <ex><![CDATA[合议庭]]></ex>
+
+                            <ex><![CDATA[合议席]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

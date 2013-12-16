@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[not]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nɒt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. “非”（计算机中逻辑运算的一种）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[not]]></key>
+
+            <value>
+
+                            <ex><![CDATA[逻辑非]]></ex>
+
+                            <ex><![CDATA[不是]]></ex>
+
+                            <ex><![CDATA[非(Nonliner Op Tical)]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[not only]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不仅仅]]></ex>
+
+                            <ex><![CDATA[不仅]]></ex>
+
+                            <ex><![CDATA[不只]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[NOT NULL]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非空]]></ex>
+
+                            <ex><![CDATA[非空约束]]></ex>
+
+                            <ex><![CDATA[不能为空]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

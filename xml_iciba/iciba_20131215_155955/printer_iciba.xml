@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>printer</key>
+
+<ps>ˈprɪntə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/14/24/14244c67fe4dcad83cac3f7536a9e584.mp3</pron>
+
+<ps>ˈprɪntɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a9/35/a9358f4ce02708d5b5a2a70818b2a6da.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>打印机；印刷机；印刷商，印刷厂；印刷业从业人员，印花工；
+
+</acceptation>
+
+<sent><orig>
+
+Sends printer output to the default Windows printer or to a specific Windows printer.
+
+</orig>
+
+<trans>
+
+发送打印文档到系统默认打印机或指定的打印机。
+
+</trans></sent>
+
+<sent><orig>
+
+Do not operate with the laser printer and the printer in pigment ink and CANNON printer.
+
+</orig>
+
+<trans>
+
+不要使用激光打印机和颜料墨的喷墨打印机操作。
+
+</trans></sent>
+
+<sent><orig>
+
+A default printer is not specified. You must specify a default printer before printing.
+
+</orig>
+
+<trans>
+
+未指定默认打印机。打印前必须指定默认打印机。
+
+</trans></sent>
+
+<sent><orig>
+
+It also can add the tape printer and finish the label printer at the same time.
+
+</orig>
+
+<trans>
+
+还可附加打印机，同步完成标签打印。
+
+</trans></sent>
+
+<sent><orig>
+
+System automatically reminds and shifts to the other printer when kitchen printer is out of order.
+
+</orig>
+
+<trans>
+
+厨房打印机故障时，系统自动提醒报警以及转移打印输出位置。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sense]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[感觉]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sens]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 感觉，官能；观念；道理；理智]]></ex>
+
+                    <ex><![CDATA[vt. 感觉到；检测]]></ex>
+
+                    <ex><![CDATA[n. (Sense)人名；(英)森斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sense]]></key>
+
+            <value>
+
+                            <ex><![CDATA[感官]]></ex>
+
+                            <ex><![CDATA[感觉]]></ex>
+
+                            <ex><![CDATA[意识]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[talk sense]]></key>
+
+            <value>
+
+                            <ex><![CDATA[讲得合情合理]]></ex>
+
+                            <ex><![CDATA[说正经话]]></ex>
+
+                            <ex><![CDATA[说话有道理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[visual sense]]></key>
+
+            <value>
+
+                            <ex><![CDATA[视觉]]></ex>
+
+                            <ex><![CDATA[视觉感]]></ex>
+
+                            <ex><![CDATA[视觉上]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

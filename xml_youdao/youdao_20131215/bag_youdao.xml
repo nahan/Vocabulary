@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bag]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[袋]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bæg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 袋；猎获物；（俚）一瓶啤酒]]></ex>
+
+                    <ex><![CDATA[vt. 猎获；把…装入袋中；占据，私吞；使膨大]]></ex>
+
+                    <ex><![CDATA[vi. 松垂]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bag]]></key>
+
+            <value>
+
+                            <ex><![CDATA[包包]]></ex>
+
+                            <ex><![CDATA[袋子]]></ex>
+
+                            <ex><![CDATA[书包]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sleeping bag]]></key>
+
+            <value>
+
+                            <ex><![CDATA[睡袋]]></ex>
+
+                            <ex><![CDATA[睡觉包]]></ex>
+
+                            <ex><![CDATA[寝袋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tea bag]]></key>
+
+            <value>
+
+                            <ex><![CDATA[茶包]]></ex>
+
+                            <ex><![CDATA[袋茶]]></ex>
+
+                            <ex><![CDATA[袋泡茶]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

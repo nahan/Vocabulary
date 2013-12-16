@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>active</key>
+
+<ps>ˈæktɪv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f3/00/f300b449644a672f5eea928b93710d14.mp3</pron>
+
+<ps>ˈæktɪv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c7/6a/c76a5e84e4bdee527e274ea30c680d79.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>积极的，活跃的，有生气的；迅速的，敏捷的；有效的，起作用的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>[语法]主动语态；积极分子，活跃的人；
+
+</acceptation>
+
+<sent><orig>
+
+The switchback operation returns the ACTIVE RCSs to the ACTIVE state on their primary AP.
+
+</orig>
+
+<trans>
+
+恢复切换操作将会使其主 AP 上的 ACTIVE RCS 回复为 ACTIVE 状态。
+
+</trans></sent>
+
+<sent><orig>
+
+EI reports this AP stateWhen the AP is ACTIVE &amp;Lead-Activeactively running AP platform software.
+
+</orig>
+
+<trans>
+
+EI 将报告此 AP 状态当 AP 处于 ACTIVE &amp;Lead-Active正在积极地运行 AP 平台软件。
+
+</trans></sent>
+
+<sent><orig>
+
+In response, the STANDBY LAN performs a switchover, thereby promoting it to an ACTIVE state.
+
+</orig>
+
+<trans>
+
+作为响应，STANDBY LAN 会执行切换，从而将其状态提升为 ACTIVE 状态。
+
+</trans></sent>
+
+<sent><orig>
+
+The ACTIVE state is the expected state for both APs in an AP pair.
+
+</orig>
+
+<trans>
+
+ACTIVE 状态是 AP 对中两个 AP 都期望的一种状态。
+
+</trans></sent>
+
+<sent><orig>
+
+The RCS moves from an ACTIVE state to an OOS state on both APs.
+
+</orig>
+
+<trans>
+
+在两个 AP 上，该 RCS 都会从 ACTIVE 状态变为 OOS 状态。
+
+</trans></sent>
+
+</dict>

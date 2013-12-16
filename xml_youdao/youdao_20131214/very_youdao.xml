@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[very]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[非常]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['verɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 非常，很；完全]]></ex>
+
+                    <ex><![CDATA[adj. 恰好是，正是；甚至；十足的；特有的]]></ex>
+
+                    <ex><![CDATA[n. (Very)人名；(英)维里]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Very]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非常]]></ex>
+
+                            <ex><![CDATA[十分]]></ex>
+
+                            <ex><![CDATA[很]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[very well]]></key>
+
+            <value>
+
+                            <ex><![CDATA[很好]]></ex>
+
+                            <ex><![CDATA[看起来气色很好]]></ex>
+
+                            <ex><![CDATA[非常好]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[VERY LIKELY]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非常有可能]]></ex>
+
+                            <ex><![CDATA[很有可能]]></ex>
+
+                            <ex><![CDATA[极有可能]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

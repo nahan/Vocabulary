@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fix]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[修复]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fɪks]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 困境；方位；贿赂]]></ex>
+
+                    <ex><![CDATA[vt. 使固定；修理；安装；准备]]></ex>
+
+                    <ex><![CDATA[vi. 固定；注视]]></ex>
+
+                    <ex><![CDATA[n. (Fix)人名；(英、法、德、瑞典)菲克斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fix]]></key>
+
+            <value>
+
+                            <ex><![CDATA[确定]]></ex>
+
+                            <ex><![CDATA[修理]]></ex>
+
+                            <ex><![CDATA[安装]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fix Permissions]]></key>
+
+            <value>
+
+                            <ex><![CDATA[修复权限]]></ex>
+
+                            <ex><![CDATA[固这权限]]></ex>
+
+                            <ex><![CDATA[不知道修复什么权限]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fix Image]]></key>
+
+            <value>
+
+                            <ex><![CDATA[限制图像]]></ex>
+
+                            <ex><![CDATA[制约图像]]></ex>
+
+                            <ex><![CDATA[限度图像]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

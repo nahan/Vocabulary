@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fun]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[有趣的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fʌn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 乐趣；玩笑；有趣的人或事]]></ex>
+
+                    <ex><![CDATA[adj. 供娱乐用的]]></ex>
+
+                    <ex><![CDATA[vi. 开玩笑]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Fun]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乐趣]]></ex>
+
+                            <ex><![CDATA[娱乐]]></ex>
+
+                            <ex><![CDATA[有趣的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[have fun]]></key>
+
+            <value>
+
+                            <ex><![CDATA[玩得开心]]></ex>
+
+                            <ex><![CDATA[玩得高兴]]></ex>
+
+                            <ex><![CDATA[玩的开心]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Horse Fun]]></key>
+
+            <value>
+
+                            <ex><![CDATA[套马]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

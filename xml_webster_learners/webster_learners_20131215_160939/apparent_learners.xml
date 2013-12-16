@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="apparent"> <hw highlight="yes">ap*par*ent</hw> <sound><wav>appare02.wav</wav></sound> <pr>əˈperənt</pr> <fl>adjective</fl> <def><sn>1</sn> <sgram>more ap*par*ent; most ap*par*ent</sgram> <dt>:easy to see or understand <vi>The other team's superiority was <it>apparent</it> [=<it>evident</it>] in the first half of the game.</vi> <vi>The truth is <it>apparent</it> to me. [=I can clearly see the truth]</vi> <vi>Her reasons for leaving were readily <it>apparent</it>. [=were obvious or easy to see]</vi> <vi>When we left, they were in no <it>apparent</it> danger. [=they did not appear to be in any danger]</vi> <vi>From the beginning, it was <it>apparent</it> that she was not an ordinary child.</vi> <vi>It soon/quickly became <it>apparent</it> (to us) that something was wrong.</vi> <vi>He started yelling and throwing things <phrase>for no apparent reason</phrase>.</vi></dt> <sn>2</sn> <slb>always used before a noun</slb> <dt>:seeming to be true but possibly not true <vi>We disagreed on the <it>apparent</it> meaning of the movie.</vi> <vi>He died of an <it>apparent</it> heart attack. [=it appears that a heart attack caused his death]</vi> <vi>What was the <it>apparent</it> cause of the accident?</vi></dt></def></entry>
+
+	<entry id="heir apparent"> <hw>heir apparent</hw> <fl>noun</fl> <in><il>plural</il> <if>heirs apparent</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:an heir whose right to receive money, property, or a title cannot be taken away <vi>The Prince of Wales is (the) <it>heir apparent</it> to the throne of England.</vi></dt> <sn>2</sn> <dt>:a person who is very likely to have a job or position after the person who has it now leaves <vi>The coach named her assistant as her <it>heir apparent</it>.</vi></dt></def></entry>
+
+</entry_list>

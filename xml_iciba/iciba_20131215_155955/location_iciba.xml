@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>location</key>
+
+<ps>ləʊˈkeɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b9/8b/b98bfbbf469c9df218aca40f835145d4.mp3</pron>
+
+<ps>loˈkeʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d5/18/d5189de027922f81005951e6efe0efd5.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>位置，场所；定位；外景（拍摄地）；
+
+</acceptation>
+
+<sent><orig>
+
+The committee members have conflicting opinions as to the best location of the new airport.
+
+</orig>
+
+<trans>
+
+委员会成员在新机场最佳选址(location)这一问题上持有不同意见。
+
+</trans></sent>
+
+<sent><orig>
+
+MOVE LOCATION Center location labeled location on units owned by player at location.
+
+</orig>
+
+<trans>
+
+修改特定区域里一定数量的玩家控制单位的护盾。
+
+</trans></sent>
+
+<sent><orig>
+
+There are two kinds of location path: relative location paths and absolute location paths.
+
+</orig>
+
+<trans>
+
+有两种定位路径：相对定位路径和绝对定位路径。
+
+</trans></sent>
+
+<sent><orig>
+
+Jim: It's all about location, location, location, isn't it?
+
+</orig>
+
+<trans>
+
+吉姆：总是在想着地段、地段、地段，不是吗？
+
+</trans></sent>
+
+<sent><orig>
+
+Location Services give users the ability to choose a location or have their location automatically detected.
+
+</orig>
+
+<trans>
+
+定位服务使用户能够选择一个位置或实现位置的自动检测。
+
+</trans></sent>
+
+</dict>

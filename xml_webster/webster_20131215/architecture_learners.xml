@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="architecture"> <hw>ar*chi*tec*ture</hw> <sound><wav>archit06.wav</wav></sound> <pr>ˈɑɚkəˌtɛktʃɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>ar*chi*tec*tures</if></in> <def><sn>1</sn> <sgram>noncount</sgram> <dt>:the art or science of designing and creating buildings <vi>In college, he studied <it>architecture</it>.</vi></dt> <sn>2</sn> <sgram>noncount</sgram> <dt>:a method or style of building <vi>The <it>architecture</it> of the building is modern.</vi></dt> <sn>3</sn> <sgram>count</sgram> <ssl>technical</ssl> <dt>:the way in which the parts of a computer are organized <vi>different program <it>architectures</it></vi></dt></def> <uro><ure>ar*chi*tec*tur*al</ure> <sound><wav>archit05.wav</wav></sound> <pr>ˌɑɚkəˈtɛktʃərəl</pr> <fl>adjective</fl> <utxt><vi><it>architectural</it> blueprints/designs/drawings/plans</vi> <vi>an <it>architectural</it> detail/element/feature/style</vi></utxt></uro> <uro><ure>ar*chi*tec*tur*al*ly</ure> <fl>adverb</fl> <utxt><vi><it>architecturally</it> wonderful buildings</vi></utxt></uro></entry>
+
+	<entry id="landscape architect"> <hw>landscape architect</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tects</if></in> <def><gram>count</gram> <dt>:a person whose job is to plan and create large outdoor spaces such as gardens, parks, etc.</dt></def> <uro><ure>landscape architecture</ure> <fl>noun</fl> <gram>noncount</gram></uro></entry>
+
+</entry_list>

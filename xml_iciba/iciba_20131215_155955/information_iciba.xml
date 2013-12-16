@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>information</key>
+
+<ps>ˌɪnfəˈmeɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/19/16/1916abd2164ccd7aa80ae7c51d595b32.mp3</pron>
+
+<ps>ˌɪnfɚˈmeʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/bb/3c/bb3ccd5881d651448ded1dac904054ac.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>信息，数据；通知；消息；知识；
+
+</acceptation>
+
+<sent><orig>
+
+Pointer to a PROCESS_INFORMATION structure that receives identification information about the new process.
+
+</orig>
+
+<trans>
+
+指向一个PROCESS_INFORMATION结构体的指针，用于接收新进程的标识信息。
+
+</trans></sent>
+
+<sent><orig>
+
+Pointer to a INFORMATION structure that receives identification information about the new process.
+
+</orig>
+
+<trans>
+
+指向一个INFORMATION结构体的指针，用于接收新进程的标识信息。
+
+</trans></sent>
+
+<sent><orig>
+
+The information resources of the e-government include decision-making information, service information, feedback information and intercommunication information.
+
+</orig>
+
+<trans>
+
+电子政府信息资源的内容主要包括政府决策信息、政府服务信息、政府反馈信息及政府交流信息。必须搞好我国电子政府信息的开发利用及其标准化建设，为我国电子政府建设创造有利条件。
+
+</trans></sent>
+
+<sent><orig>
+
+Focuses on its function: to add information, modify information, delete information and information.
+
+</orig>
+
+<trans>
+
+重点介绍其功能：信息添加、信息修改、信息的删除及信息查询。
+
+</trans></sent>
+
+<sent><orig>
+
+Browser industry information, exhibition information and other public information, access to detailed information.
+
+</orig>
+
+<trans>
+
+浏览行业资讯，展厅信息等公众信息，获取详细资料。
+
+</trans></sent>
+
+</dict>

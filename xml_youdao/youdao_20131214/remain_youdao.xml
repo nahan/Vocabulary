@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[remain]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[保持]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'meɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 遗迹；剩余物，残骸]]></ex>
+
+                    <ex><![CDATA[vi. 保持；依然；留下；剩余；逗留；残存]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[remain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[保持]]></ex>
+
+                            <ex><![CDATA[剩下]]></ex>
+
+                            <ex><![CDATA[停留]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[remain silent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[保持沉默]]></ex>
+
+                            <ex><![CDATA[三缄其口]]></ex>
+
+                            <ex><![CDATA[继续沉默]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[remain stationary]]></key>
+
+            <value>
+
+                            <ex><![CDATA[保持固定]]></ex>
+
+                            <ex><![CDATA[保持静止]]></ex>
+
+                            <ex><![CDATA[持停止]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

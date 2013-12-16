@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[variety]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[各种]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[və'raɪətɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 多样；种类；杂耍；变化，多样化]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Variety]]></key>
+
+            <value>
+
+                            <ex><![CDATA[品种]]></ex>
+
+                            <ex><![CDATA[变化]]></ex>
+
+                            <ex><![CDATA[种类]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[variety show]]></key>
+
+            <value>
+
+                            <ex><![CDATA[综艺节目]]></ex>
+
+                            <ex><![CDATA[杂耍]]></ex>
+
+                            <ex><![CDATA[综合节目]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Algebraic variety]]></key>
+
+            <value>
+
+                            <ex><![CDATA[代数簇]]></ex>
+
+                            <ex><![CDATA[代数族]]></ex>
+
+                            <ex><![CDATA[代数多样体]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

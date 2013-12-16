@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[approximate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[近似]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'prɒksɪmət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. [数] 近似的；大概的]]></ex>
+
+                    <ex><![CDATA[vt. 近似；使…接近；粗略估计]]></ex>
+
+                    <ex><![CDATA[vi. 接近于；近似于]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Approximate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[近似]]></ex>
+
+                            <ex><![CDATA[大约]]></ex>
+
+                            <ex><![CDATA[接近的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[approximate number]]></key>
+
+            <value>
+
+                            <ex><![CDATA[近似数]]></ex>
+
+                            <ex><![CDATA[概数]]></ex>
+
+                            <ex><![CDATA[近似值]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[approximate continuity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[近似连续]]></ex>
+
+                            <ex><![CDATA[近似连续性]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

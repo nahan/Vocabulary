@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[disabled]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[禁用]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪs'eɪbld]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 残废的，有缺陷的]]></ex>
+
+                    <ex><![CDATA[v. 使…失去能力（disable的过去分词）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Disabled]]></key>
+
+            <value>
+
+                            <ex><![CDATA[残疾人]]></ex>
+
+                            <ex><![CDATA[残疾的]]></ex>
+
+                            <ex><![CDATA[伤残的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Disabled Only]]></key>
+
+            <value>
+
+                            <ex><![CDATA[残疾人专用]]></ex>
+
+                            <ex><![CDATA[身心障碍专用电梯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[disabled people]]></key>
+
+            <value>
+
+                            <ex><![CDATA[残疾人]]></ex>
+
+                            <ex><![CDATA[残障人士]]></ex>
+
+                            <ex><![CDATA[伤残人]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

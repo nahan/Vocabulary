@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>output</key>
+
+<ps>'aʊtpʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/08/76/087688fcf118a0f4f7517935beebc36c.mp3</pron>
+
+<ps>ˈaʊtˌpʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/78/e6/78e6221f6393d1356681db398f14ce6d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>产量；输出；作品；[计]输出信号；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>输出；
+
+</acceptation>
+
+<sent><orig>
+
+OUTPUT -- Formats matrices into pages for printing.
+
+</orig>
+
+<trans>
+
+OUTPUT数据矩阵的页面格局化。
+
+</trans></sent>
+
+<sent><orig>
+
+Go to the'settings' menu, 'Data Input &amp; Output' screen.
+
+</orig>
+
+<trans>
+
+进入Settings子菜单里的DataInput&amp;Output页面。
+
+</trans></sent>
+
+<sent><orig>
+
+All you do is select the Link tab and then select the Output category.
+
+</orig>
+
+<trans>
+
+你只需要选定Link（链接）选项卡，再选定Output（输出）类别。
+
+</trans></sent>
+
+<sent><orig>
+
+Common output and input, output or another output to indicate the relationship between.
+
+</orig>
+
+<trans>
+
+常用输出量与输入量，或一个输出量与另一个输出量之间的关系来表示。
+
+</trans></sent>
+
+<sent><orig>
+
+Output type, state of input error, output zero and output full setting.
+
+</orig>
+
+<trans>
+
+输出类型、故障输出、输出零点和输出满度设置。
+
+</trans></sent>
+
+</dict>

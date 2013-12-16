@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>couple</key>
+
+<ps>'kʌpl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/ee/e6/eee612af7e05a4c5a5793cf1a8efd49e.mp3</pron>
+
+<ps>ˈkʌpəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/74/1f/741f4475f89448fa6e73828868fa5477.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>对，双；配偶，夫妻；&lt;口&gt;几个，两三个；
+
+</acceptation>
+
+<pos>vt.&amp;vi.</pos>
+
+<acceptation>连在一起，连接；成双，结婚；性交，交配；
+
+</acceptation>
+
+<sent><orig>
+
+Standard Couple image is decomposed and reconstructed with EZW and SPIHT at low bit rates.
+
+</orig>
+
+<trans>
+
+编制程序分别采用EZW和SPIHT算法，在低码率下对标准Couple图像进行了编码和重构。
+
+</trans></sent>
+
+<sent><orig>
+
+A couple consisting of only two vectors is called a simple couple.
+
+</orig>
+
+<trans>
+
+仅由两个矢量组成的力偶叫作简单力偶。
+
+</trans></sent>
+
+<sent><orig>
+
+During the journey, I happened to see a Chinese couple and a foreign couple.
+
+</orig>
+
+<trans>
+
+在途中，我见到一对年轻的中国夫妇和一对外国夫妇在吃饭。
+
+</trans></sent>
+
+<sent><orig>
+
+The couple-node set consists of the couple-nodes needed to remove all overflowed branches.
+
+</orig>
+
+<trans>
+
+排除全部线路越限所需的节点对共同构成节点对集。
+
+</trans></sent>
+
+<sent><orig>
+
+The torque of the couple is intimately associated with a couple.
+
+</orig>
+
+<trans>
+
+力偶矩与力偶密切相关。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[benefit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[好处]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['benɪfɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 利益，好处；救济金]]></ex>
+
+                    <ex><![CDATA[vt. 有益于，对…有益]]></ex>
+
+                    <ex><![CDATA[vi. 受益，得益]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Benefit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贝玲妃]]></ex>
+
+                            <ex><![CDATA[利益]]></ex>
+
+                            <ex><![CDATA[福利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Employee benefit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[员工福利]]></ex>
+
+                            <ex><![CDATA[雇员福利]]></ex>
+
+                            <ex><![CDATA[职工福利金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unemployment benefit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失业救济]]></ex>
+
+                            <ex><![CDATA[失业津贴]]></ex>
+
+                            <ex><![CDATA[失业救济金]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

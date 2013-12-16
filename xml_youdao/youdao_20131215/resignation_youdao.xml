@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[resignation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[辞职]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rezɪg'neɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 辞职；放弃；辞职书；顺从]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Resignation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[辞职]]></ex>
+
+                            <ex><![CDATA[放弃]]></ex>
+
+                            <ex><![CDATA[听从]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Resignation Letter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[辞职信]]></ex>
+
+                            <ex><![CDATA[辞职信函]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[predicting resignation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[预告登记]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

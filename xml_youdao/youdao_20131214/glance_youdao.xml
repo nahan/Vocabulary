@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[glance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[看]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[glɑːns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 一瞥；一滑；闪光]]></ex>
+
+                    <ex><![CDATA[vt. 扫视；瞥见；擦过]]></ex>
+
+                    <ex><![CDATA[vi. 扫视，匆匆一看；反光；瞥闪，瞥见]]></ex>
+
+                    <ex><![CDATA[n. (Glance)人名；(英)格兰斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[glance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一瞥]]></ex>
+
+                            <ex><![CDATA[扫视]]></ex>
+
+                            <ex><![CDATA[匆匆一看]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bismuth glance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[辉铋矿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[atfirst glance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乍看之下]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

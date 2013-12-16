@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>help</key>
+
+<ps>help</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4d/53/4d53fe900cb10b4d0c73db20c148d2aa.mp3</pron>
+
+<ps>hɛlp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/65/7f/657f8b8da628ef83cf69101b6817150a.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>帮助；有助于， 有利于；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>治疗；避免；招待（客人）；给…盛（饭、菜）；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>帮助；助手；补救办法；有用；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>（在餐桌旁）招待，侍应，作仆人（或店员、服务员等）；
+
+</acceptation>
+
+<pos>int.</pos>
+
+<acceptation>[呼救语]救命！；
+
+</acceptation>
+
+<sent><orig>
+
+Financial assistance is available for eligible students through the OS-HELP Scheme of Monash Abroad.
+
+</orig>
+
+<trans>
+
+符合有关条件的同学可以通过OS-HELP计划向蒙纳士留学办公室申请经济援助。
+
+</trans></sent>
+
+<sent><orig>
+
+Out of memory. Type HELP MEMORY for your options.
+
+</orig>
+
+<trans>
+
+内存不足。键入help内存，您的选择。
+
+</trans></sent>
+
+<sent><orig>
+
+People really need help but may attack youyou do help them. Help people anyway.
+
+</orig>
+
+<trans>
+
+别人急需帮忙，你帮了忙以后竟然被他们攻击。——不管怎样，还是要助人。
+
+</trans></sent>
+
+<sent><orig>
+
+Online help: Get help fast using the online help feature.
+
+</orig>
+
+<trans>
+
+在线帮助：快速获得帮助使用联机帮助功能。
+
+</trans></sent>
+
+<sent><orig>
+
+People really need help but may attack you ig you do help them. Help people anyway.
+
+</orig>
+
+<trans>
+
+人闪需要帮助，可当你向他们伸出援助之手时，可能会反被其伤，但是不管怎样，还是要帮助他们。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>sequence</key>
+
+<ps>'si:kwəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/48/eb/48eba9b1e4cfd5eedd1c7975330c59ed.mp3</pron>
+
+<ps>ˈsikwəns, -ˌkwɛns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/fa/1c/fa1c731ead93e333a9180e16f968c01e.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>[数]数列，序列；顺序；连续；片断插曲；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使按顺序排列，安排顺序；[生化]确定…的顺序，确定…的化学结构序列；
+
+</acceptation>
+
+<sent><orig>
+
+Content models (sequence, choice, all) . Analysis can, but do not support the corresponding constraint.
+
+</orig>
+
+<trans>
+
+内容模式(sequence,choice,all)，可以解析，但不支持对应的约束。
+
+</trans></sent>
+
+<sent><orig>
+
+For protein, DNA sequence alignment to support the dual-sequence or multiple sequence alignment right.
+
+</orig>
+
+<trans>
+
+用于蛋白质，DNA序列比对，支持双序列或多序列比对。
+
+</trans></sent>
+
+<sent><orig>
+
+It divides chaotic sequence into anterior sequence and latter sequence, and makes a criterion for them.
+
+</orig>
+
+<trans>
+
+将混沌序列按照敏感性划分为混沌敏感性前后期序列并给出界定原则。
+
+</trans></sent>
+
+<sent><orig>
+
+With the introduction of sequence fragments, sequence diagrams are much better.
+
+</orig>
+
+<trans>
+
+使用时间小片断可以很好的显示并行信息。
+
+</trans></sent>
+
+<sent><orig>
+
+It differs from traditional time-sequence analysis methods in which nonlinear chaotic time-sequence prediction is used.
+
+</orig>
+
+<trans>
+
+采用非线性混沌时间序列预报，不同于传统的时间序列分析方法。
+
+</trans></sent>
+
+</dict>

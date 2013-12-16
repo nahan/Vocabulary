@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>priority</key>
+
+<ps>praɪ'ɒrətɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b1/62/b1625efcce4f0705620fbc08cca53a0e.mp3</pron>
+
+<ps>praɪˈɔrɪti, -ˈɑr-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b9/88/b988295c268025b49dfb3df26171ddc3.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>优先，优先权；（时间，序上的）先，前；优先考虑的事；[数]优先次序；
+
+</acceptation>
+
+<sent><orig>
+
+The probability and the delay are analyzed for no priority, high priority and low priority services.
+
+</orig>
+
+<trans>
+
+采用无优先和优先两种控制策略，分别分析了无优先级、高优先级和低优先级三种业务信元的信元丢失率和时延。
+
+</trans></sent>
+
+<sent><orig>
+
+Computer trading three principles: the priority of time, price priority, the number of priority.
+
+</orig>
+
+<trans>
+
+电脑交易三原则：时间优先，价格优先，数量优先。
+
+</trans></sent>
+
+<sent><orig>
+
+A lower priority thread might be forced to wait while higher priority threads complete their tasks.
+
+</orig>
+
+<trans>
+
+在较高优先级的线程完成任务的时候，较低优先级的线程可能会被迫等待。
+
+</trans></sent>
+
+<sent><orig>
+
+Traffic Priority: Sets the priority for traffic matching these characteristics-High or Low.
+
+</orig>
+
+<trans>
+
+交通优先：设定优先的交通配套这些特点-高或低。
+
+</trans></sent>
+
+<sent><orig>
+
+Keyed signals appear higher priority keys and in front of lower priority keys, in a stack.
+
+</orig>
+
+<trans>
+
+在优先权栈中，键控信号在优先权高于它的键之后出现并在优先权低于它的键之前出现。
+
+</trans></sent>
+
+</dict>

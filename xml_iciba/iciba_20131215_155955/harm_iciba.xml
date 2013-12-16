@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>harm</key>
+
+<ps>hɑ:m</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/86/18/861854aaa5dba16dfb5b0be743a10ef8.mp3</pron>
+
+<ps>hɑrm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/86/18/861854aaa5dba16dfb5b0be743a10ef8.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>损害；伤害；危害；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>伤害；损害；危害；
+
+</acceptation>
+
+<sent><orig>
+
+A HARM avionics launcher interface computer allows the F-16 to launch the HARM missile.
+
+</orig>
+
+<trans>
+
+一台HARM导弹的航空电子发射接口计算机使得F-16可以发射HARM导弹。
+
+</trans></sent>
+
+<sent><orig>
+
+The F-16 can currently carry two HARMs, though four-HARM loads are being flight-tested at Eglin AFB.
+
+</orig>
+
+<trans>
+
+F-16一般情况下可以携带两枚HARM导弹，尽管在伊格林空军基地通过了携带四枚HARM导弹的外挂飞行测试。
+
+</trans></sent>
+
+<sent><orig>
+
+The HARM is usually combined with a targeting pod mounted on the right intake hardpoint.
+
+</orig>
+
+<trans>
+
+HARM导弹通常与一个安装在进气口右侧外挂点的瞄准吊舱一起使用。
+
+</trans></sent>
+
+<sent><orig>
+
+So I't cause any animals harm. That is the way to keep out of harm's way.
+
+</orig>
+
+<trans>
+
+所以我不伤害任何动物，那是避免我们被伤害的最好方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Harm set, harm get.
+
+</orig>
+
+<trans>
+
+害人害己。
+
+</trans></sent>
+
+</dict>

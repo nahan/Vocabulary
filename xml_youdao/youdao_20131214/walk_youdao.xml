@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[walk]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[走]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɔːk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 步行，走；散步]]></ex>
+
+                    <ex><![CDATA[vi. 走，步行；散步]]></ex>
+
+                    <ex><![CDATA[vt. 散步；走过]]></ex>
+
+                    <ex><![CDATA[n. (Walk)人名；(德、葡)瓦尔克；(英)沃克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[walk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[步行]]></ex>
+
+                            <ex><![CDATA[走路]]></ex>
+
+                            <ex><![CDATA[行走]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Random walk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[随机漫步]]></ex>
+
+                            <ex><![CDATA[随机游走]]></ex>
+
+                            <ex><![CDATA[无规行走]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Walk Away]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离去]]></ex>
+
+                            <ex><![CDATA[离开你]]></ex>
+
+                            <ex><![CDATA[转身离开]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

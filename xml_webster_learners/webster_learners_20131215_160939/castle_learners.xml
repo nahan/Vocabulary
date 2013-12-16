@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="castle"> <hw highlight="yes">cas*tle</hw> <sound><wav>castle01.wav</wav></sound> <pr>ˈkæsəl, <it>Brit</it> ˈkɑ:səl</pr> <fl>noun</fl> <in><il>plural</il> <if>cas*tles</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a large building usually with high, thick walls and towers that was built in the past to protect against attack</dt> <sn>2</sn> <ssl>informal</ssl> <dt>:a large expensive house <vi>Millionaires built their <it>castles</it> along the lake.</vi></dt> <sn>3</sn> <dt>:a piece in the game of chess that looks like a castle tower :<sx>rook</sx> <dx>see picture at <dxt>chess</dxt></dx></dt></def> <dro><dre>castle in the air</dre> <vr><vl>also</vl> <va>castle in Spain</va></vr> <def><dt>:a dream, plan, or idea that can never become real <un>usually plural <vi>He's just <phrase>building castles in the air</phrase> if he thinks he can open a restaurant without any money.</vi></un></dt></def></dro></entry>
+
+	<entry id="sand castle"> <hw>sand castle</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ castles</if></in> <def><gram>count</gram> <dt>:a small model of a castle or other building that is made with wet sand on a beach</dt></def></entry>
+
+</entry_list>

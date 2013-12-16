@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cycle]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[周期]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['saɪk(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 循环；周期；自行车；整套；一段时间]]></ex>
+
+                    <ex><![CDATA[vt. 使循环；使轮转]]></ex>
+
+                    <ex><![CDATA[vi. 循环；骑自行车；轮转]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[cycle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[循环]]></ex>
+
+                            <ex><![CDATA[周期]]></ex>
+
+                            <ex><![CDATA[套曲]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Urea cycle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尿素循环]]></ex>
+
+                            <ex><![CDATA[鸟氨酸循环]]></ex>
+
+                            <ex><![CDATA[代谢环]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Solar cycle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[太阳周期]]></ex>
+
+                            <ex><![CDATA[第2太阳周期]]></ex>
+
+                            <ex><![CDATA[第16太阳周期]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[people]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[人]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['piːp(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 人；人类；民族；公民]]></ex>
+
+                    <ex><![CDATA[vt. 居住于；使住满人]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[People]]></key>
+
+            <value>
+
+                            <ex><![CDATA[人民]]></ex>
+
+                            <ex><![CDATA[人们]]></ex>
+
+                            <ex><![CDATA[人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chinese people]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中国人]]></ex>
+
+                            <ex><![CDATA[华夏人]]></ex>
+
+                            <ex><![CDATA[中华儿女]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[White people]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白人]]></ex>
+
+                            <ex><![CDATA[你白种人]]></ex>
+
+                            <ex><![CDATA[你]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

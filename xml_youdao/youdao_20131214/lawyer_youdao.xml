@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lawyer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[律师]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lɔːjə; 'lɒɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 律师；法学家]]></ex>
+
+                    <ex><![CDATA[n. (Lawyer)人名；(英)劳耶]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Lawyer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[律师]]></ex>
+
+                            <ex><![CDATA[法学家]]></ex>
+
+                            <ex><![CDATA[理系统]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Lawyer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[律师]]></ex>
+
+                            <ex><![CDATA[律师的辩护]]></ex>
+
+                            <ex><![CDATA[午夜零时]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lawyer fee]]></key>
+
+            <value>
+
+                            <ex><![CDATA[律师费]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

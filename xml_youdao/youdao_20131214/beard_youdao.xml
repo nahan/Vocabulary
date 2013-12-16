@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[beard]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[胡子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪəd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 胡须；颌毛]]></ex>
+
+                    <ex><![CDATA[vt. 公然反对；抓…的胡须]]></ex>
+
+                    <ex><![CDATA[vi. 充当掩护；充当男随员]]></ex>
+
+                    <ex><![CDATA[n. (Beard)人名；(英)比尔德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Beard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胡须]]></ex>
+
+                            <ex><![CDATA[胡子]]></ex>
+
+                            <ex><![CDATA[络腮胡子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ralph Beard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拉尔夫·贝尔德]]></ex>
+
+                            <ex><![CDATA[贝尔德]]></ex>
+
+                            <ex><![CDATA[拉尔夫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Blue Beard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蓝胡子]]></ex>
+
+                            <ex><![CDATA[鬼怪]]></ex>
+
+                            <ex><![CDATA[凶残的丈夫]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

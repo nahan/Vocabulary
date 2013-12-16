@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="buyer"> <hw highlight="yes">buy*er</hw> <sound><wav>buy00003.wav</wav></sound> <pr>ˈbajɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>buy*ers</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:someone who buys something <vi>The <it>buyer</it> and seller must agree on a price for the property.</vi> <vi>He's trying to find a <it>buyer</it> for the restaurant.</vi></dt> <sn>2</sn> <dt>:someone whose job is to choose and buy the goods that a store will sell</dt></def></entry>
+
+	<entry id="farm[1]"> <hw highlight="yes" hindex="1">farm</hw> <sound><wav>farm0001.wav</wav></sound> <pr>ˈfɑɚm</pr> <fl>noun</fl> <in><il>plural</il> <if>farms</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a piece of land used for growing crops or raising animals <vi>She grew up on a dairy <it>farm</it>.</vi> <vi>Running a <it>farm</it> is hard work.</vi> <vi>a vegetable <it>farm</it></vi></dt> <sn>2</sn> <dt>:an area of water where fish, oysters, etc., are raised <vi>a fish <it>farm</it></vi> <vi>an oyster <it>farm</it></vi></dt></def> <dro><dre>buy the farm</dre> <dx>see <dxt>buy</dxt></dx></dro></entry>
+
+	<entry id="buyer's market"> <hw>buyer's market</hw> <fl>noun</fl> <def><gram>singular</gram> <dt>:a situation in which many things of the same kind are for sale, prices are low, and buyers have an advantage over sellers <dx>opposite <dxt>seller's market</dxt></dx></dt></def></entry>
+
+</entry_list>

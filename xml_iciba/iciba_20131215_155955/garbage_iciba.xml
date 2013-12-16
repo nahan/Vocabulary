@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>garbage</key>
+
+<ps>ˈgɑ:bɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f9/86/f986fb148859bf92fec3fa533a360fa6.mp3</pron>
+
+<ps>ˈɡɑrbɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c8/e8/c8e8df895c2cae166bad027fdf15335b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>垃圾；脏东西；丢弃的食物；无用的数据；
+
+</acceptation>
+
+<sent><orig>
+
+It expounds the essential earmark of garbage and the limitation of garbage function transformation: garbage classification.
+
+</orig>
+
+<trans>
+
+文章分析了垃圾的本质特征及垃圾功能转移的瓶颈——垃圾分类问题。
+
+</trans></sent>
+
+<sent><orig>
+
+In computer science, garbage is generally classified into two types: semantic garbage and syntactic garbage.
+
+</orig>
+
+<trans>
+
+计算机科学中，无用信息一般分为两类：语义无用信息和句法无用信息。
+
+</trans></sent>
+
+<sent><orig>
+
+GarBage in, garBage out.
+
+</orig>
+
+<trans>
+
+错误的输入必然导致错误的输出。
+
+</trans></sent>
+
+<sent><orig>
+
+Such projects as Gao'antun Garbage Burning Plant and Jiaojiapo Garbage Burying Ground will be completed.
+
+</orig>
+
+<trans>
+
+建成高安屯垃圾焚烧厂、焦家坡垃圾填埋厂等工程。
+
+</trans></sent>
+
+<sent><orig>
+
+Please dispose all garbage into the garbage bin which placed inside the pantry.
+
+</orig>
+
+<trans>
+
+请将垃圾弃置于茶水间垃圾桶内。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shoot]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[拍摄]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃuːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 射击；摄影；狩猎；急流]]></ex>
+
+                    <ex><![CDATA[vt. 射击，射中；拍摄；发芽；使爆炸；给…注射]]></ex>
+
+                    <ex><![CDATA[vi. 射击；发芽；拍电影]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shoot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[射门]]></ex>
+
+                            <ex><![CDATA[射击]]></ex>
+
+                            <ex><![CDATA[投篮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[to shoot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[射门]]></ex>
+
+                            <ex><![CDATA[拍摄]]></ex>
+
+                            <ex><![CDATA[踢向球门]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[leek shoot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[韭黄]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

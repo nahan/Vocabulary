@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[snow]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[雪]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[snəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 雪，积雪；下雪]]></ex>
+
+                    <ex><![CDATA[vt. 使纷纷落下；使变白]]></ex>
+
+                    <ex><![CDATA[vi. 降雪]]></ex>
+
+                    <ex><![CDATA[n. (Snow)人名；(英)斯诺]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Snow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雪]]></ex>
+
+                            <ex><![CDATA[静静的雪]]></ex>
+
+                            <ex><![CDATA[下雪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Light snow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小雪]]></ex>
+
+                            <ex><![CDATA[二十四节气]]></ex>
+
+                            <ex><![CDATA[微雪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Snow Patrol]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雪警]]></ex>
+
+                            <ex><![CDATA[雪地巡游者]]></ex>
+
+                            <ex><![CDATA[雪巡警]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

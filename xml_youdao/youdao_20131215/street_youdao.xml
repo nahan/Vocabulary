@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[street]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[街]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[striːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 街道]]></ex>
+
+                    <ex><![CDATA[adj. 街道的]]></ex>
+
+                    <ex><![CDATA[n. (Street)人名；(英、葡)斯特里特；(德)施特雷特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Street]]></key>
+
+            <value>
+
+                            <ex><![CDATA[街道]]></ex>
+
+                            <ex><![CDATA[街]]></ex>
+
+                            <ex><![CDATA[街道滑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Olvera Street]]></key>
+
+            <value>
+
+                            <ex><![CDATA[墨西哥街]]></ex>
+
+                            <ex><![CDATA[欧维拉街]]></ex>
+
+                            <ex><![CDATA[小墨西哥城]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Baker Street]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贝克街]]></ex>
+
+                            <ex><![CDATA[贝克街站]]></ex>
+
+                            <ex><![CDATA[贝克大街]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

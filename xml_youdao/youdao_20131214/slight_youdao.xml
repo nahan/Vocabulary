@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[slight]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[轻微的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[slaɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 怠慢；轻蔑]]></ex>
+
+                    <ex><![CDATA[adj. 轻微的，少量的；脆弱的；细长的；不重要的]]></ex>
+
+                    <ex><![CDATA[vt. 轻视，忽略；怠慢]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[slight]]></key>
+
+            <value>
+
+                            <ex><![CDATA[轻微的]]></ex>
+
+                            <ex><![CDATA[微微]]></ex>
+
+                            <ex><![CDATA[怠慢]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[slight illness]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不适]]></ex>
+
+                            <ex><![CDATA[因病而引起的痛苦]]></ex>
+
+                            <ex><![CDATA[小病]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[slight fever]]></key>
+
+            <value>
+
+                            <ex><![CDATA[微热]]></ex>
+
+                            <ex><![CDATA[低烧]]></ex>
+
+                            <ex><![CDATA[相爱时我们说的话]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

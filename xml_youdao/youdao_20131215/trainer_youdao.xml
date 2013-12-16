@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[trainer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[教练]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['treɪnə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 助理教练；训练员；驯马师；飞行练习器]]></ex>
+
+                    <ex><![CDATA[n. (Trainer)人名；(英、德)特雷纳]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[trainer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[球队训练员]]></ex>
+
+                            <ex><![CDATA[助理教练]]></ex>
+
+                            <ex><![CDATA[虎卫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[staff trainer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[员工培训教师]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Brain Trainer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[脑力锻炼]]></ex>
+
+                            <ex><![CDATA[脑力训练机]]></ex>
+
+                            <ex><![CDATA[脑力训练]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

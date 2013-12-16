@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>use</key>
+
+<ps>ju:s</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/5e/f7/5ef76d30bf9232902687324b5bfa0bd2.mp3</pron>
+
+<ps>ju:s</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5e/f7/5ef76d30bf9232902687324b5bfa0bd2.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>用途；使用能力；运用头脑（或身体）的能力；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>用，使用；行使，运用；耗费；对待；
+
+</acceptation>
+
+<sent><orig>
+
+GUI information goes into a companion artifact to the use case called a use-case storyboard.
+
+</orig>
+
+<trans>
+
+GUI信息可以放入到一个usecase的套件：用例示意板(use-casestoryboard)。
+
+</trans></sent>
+
+<sent><orig>
+
+Use a hard surface or counter top.
+
+</orig>
+
+<trans>
+
+Use在坚硬的表面或柜台上方的非常热铁。
+
+</trans></sent>
+
+<sent><orig>
+
+If you give it USE, it finds USENET, but if you give it NET, it doesn't.
+
+</orig>
+
+<trans>
+
+如果你给它USE,它将找到usenet,但是你给它NET,它就不会找到usenet了。
+
+</trans></sent>
+
+<sent><orig>
+
+Use, Consume, Expend, Employ, Utilize.
+
+</orig>
+
+<trans>
+
+Use(v.)“用”，“使用”。
+
+</trans></sent>
+
+<sent><orig>
+
+Prentice rangers use merchant arrows, expert rangers use custom ones, master rangers use homemade ones.
+
+</orig>
+
+<trans>
+
+学徒游侠用现成箭，专家游侠用订制箭，宗师游侠用自制箭。
+
+</trans></sent>
+
+</dict>

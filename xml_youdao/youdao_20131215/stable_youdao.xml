@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stable]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[稳定的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['steɪb(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 马厩；牛棚]]></ex>
+
+                    <ex><![CDATA[adj. 稳定的；牢固的；坚定的]]></ex>
+
+                    <ex><![CDATA[vt. 赶入马房]]></ex>
+
+                    <ex><![CDATA[vi. 被关在马厩]]></ex>
+
+                    <ex><![CDATA[n. (Stable)人名；(英)斯特布尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Stable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[稳定]]></ex>
+
+                            <ex><![CDATA[马棚]]></ex>
+
+                            <ex><![CDATA[安定]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stable isotope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[稳定同位素]]></ex>
+
+                            <ex><![CDATA[稳定性同位素]]></ex>
+
+                            <ex><![CDATA[定同位素]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stable distribution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[稳定分布]]></ex>
+
+                            <ex><![CDATA[稳态分布]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

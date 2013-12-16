@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[settle]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[解决]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['set(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 有背长椅]]></ex>
+
+                    <ex><![CDATA[vi. 解决；定居；沉淀；下陷]]></ex>
+
+                    <ex><![CDATA[vt. 解决；安排；使…定居]]></ex>
+
+                    <ex><![CDATA[n. (Settle)人名；(英)塞特尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[settle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[解决]]></ex>
+
+                            <ex><![CDATA[定居]]></ex>
+
+                            <ex><![CDATA[安家]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[settle for]]></key>
+
+            <value>
+
+                            <ex><![CDATA[满足于]]></ex>
+
+                            <ex><![CDATA[勉强同意]]></ex>
+
+                            <ex><![CDATA[勉强接受]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[settle to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[静下心来]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

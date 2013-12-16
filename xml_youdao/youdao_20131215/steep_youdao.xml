@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[steep]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[陡峭的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stiːp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 峭壁；浸渍]]></ex>
+
+                    <ex><![CDATA[adj. 陡峭的；不合理的；夸大的；急剧升降的]]></ex>
+
+                    <ex><![CDATA[vt. 泡；浸；使…充满]]></ex>
+
+                    <ex><![CDATA[vi. 泡；沉浸]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[steep]]></key>
+
+            <value>
+
+                            <ex><![CDATA[陡峭的]]></ex>
+
+                            <ex><![CDATA[险峰]]></ex>
+
+                            <ex><![CDATA[险峻的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Steep Grade]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爬坡车道]]></ex>
+
+                            <ex><![CDATA[急倾斜]]></ex>
+
+                            <ex><![CDATA[陡坡]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[steep ramp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[陡斜路陡坡道]]></ex>
+
+                            <ex><![CDATA[陡斜路]]></ex>
+
+                            <ex><![CDATA[陡坡道]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

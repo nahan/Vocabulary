@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[conclude]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[得出这样的结论]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'kluːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 推断；断定；决定]]></ex>
+
+                    <ex><![CDATA[vt. 推断；决定，作结论；结束]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[conclude]]></key>
+
+            <value>
+
+                            <ex><![CDATA[结束]]></ex>
+
+                            <ex><![CDATA[推断出]]></ex>
+
+                            <ex><![CDATA[结论]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[conclude from]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相信某事物]]></ex>
+
+                            <ex><![CDATA[由此得出结论]]></ex>
+
+                            <ex><![CDATA[从得出结论]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[conclude vi]]></key>
+
+            <value>
+
+                            <ex><![CDATA[总结]]></ex>
+
+                            <ex><![CDATA[结束]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

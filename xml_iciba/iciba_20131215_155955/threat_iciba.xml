@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>threat</key>
+
+<ps>θret</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f8/04/f80498cd647a4010e16d9b2c69df51a4.mp3</pron>
+
+<ps>θrɛt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/58/e9/58e95539b680d49a50ef898e56a5bbb0.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>威胁；恐吓；凶兆；
+
+</acceptation>
+
+<sent><orig>
+
+Holy Wrath-0.36 threat per hit (0.003 threat per second)
+
+</orig>
+
+<trans>
+
+神圣愤怒-0.36仇恨每击（0.003仇恨每秒）
+
+</trans></sent>
+
+<sent><orig>
+
+Juan Ignacio Chela: Never a threat to win; always a threat an upset.
+
+</orig>
+
+<trans>
+
+切拉：不可能赢得冠军，但是会是击败大种子选手的危险人物。
+
+</trans></sent>
+
+<sent><orig>
+
+Exorcism-0.81 threat per hit (0.05 threat per second)
+
+</orig>
+
+<trans>
+
+驱邪-0.81仇恨每击（0.05仇恨每秒）
+
+</trans></sent>
+
+<sent><orig>
+
+Seal of Vengeance-0.32 threat per tick (0.11 threat per second)
+
+</orig>
+
+<trans>
+
+复仇圣印-0.32仇恨每层（0.11仇恨每秒）
+
+</trans></sent>
+
+<sent><orig>
+
+Avenger's Shield-0.26 threat per hit (0.008 threat per second)
+
+</orig>
+
+<trans>
+
+飞盾-0.26仇恨每击（0.08仇恨每秒）
+
+</trans></sent>
+
+</dict>

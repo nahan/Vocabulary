@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>spirit</key>
+
+<ps>'spɪrɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/21/fc/21fc8f2f1dd4d4f354a9d76d343fc881.mp3</pron>
+
+<ps>ˈspɪrɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/07/86/07868a716d4712d7771f6414d2b8bf8a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>精神，心灵；潮流，风气；（文件等）精神；元气、志气；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>鼓舞；使振作；神秘地带走；使莫名其妙地出现；
+
+</acceptation>
+
+<sent><orig>
+
+Fundamentalists condemned Seymour for focusing on the Spirit rather than the Letter.
+
+</orig>
+
+<trans>
+
+正统派指斥西摩专注于圣灵(Spirit)，胜于经文(Letter)。
+
+</trans></sent>
+
+<sent><orig>
+
+Another parser named space_p is included in Spirit's repertoire of predefined parsers.
+
+</orig>
+
+<trans>
+
+在Spirit预定义的分析器中，包含一个名为space_p的分析器。
+
+</trans></sent>
+
+<sent><orig>
+
+This is part of the Spirit distribution.
+
+</orig>
+
+<trans>
+
+这是Spirit发布包的一部分。
+
+</trans></sent>
+
+<sent><orig>
+
+See parameters.cpp for a compilable example. This is part of the Spirit distribution.
+
+</orig>
+
+<trans>
+
+可编译例子见parameters.cpp.这是Spirit分发包的组成部分。
+
+</trans></sent>
+
+<sent><orig>
+
+Perhaps this class will be part of a future spirit release.
+
+</orig>
+
+<trans>
+
+也许这个类会是未来版本的spirit的一部分。
+
+</trans></sent>
+
+</dict>

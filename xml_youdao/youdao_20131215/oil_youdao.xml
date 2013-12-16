@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[oil]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[石油]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɒɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 油；石油；油画颜料]]></ex>
+
+                    <ex><![CDATA[vt. 加油；涂油；使融化]]></ex>
+
+                    <ex><![CDATA[vi. 融化；加燃油]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Oil]]></key>
+
+            <value>
+
+                            <ex><![CDATA[油]]></ex>
+
+                            <ex><![CDATA[加油]]></ex>
+
+                            <ex><![CDATA[石油]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sesame oil]]></key>
+
+            <value>
+
+                            <ex><![CDATA[芝麻油]]></ex>
+
+                            <ex><![CDATA[麻油]]></ex>
+
+                            <ex><![CDATA[香油]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Oil filter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[机油滤清器]]></ex>
+
+                            <ex><![CDATA[油过滤器]]></ex>
+
+                            <ex><![CDATA[滤油器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

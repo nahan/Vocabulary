@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mirror]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[镜子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɪrə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 镜子；真实的写照；榜样]]></ex>
+
+                    <ex><![CDATA[vt. 反射；反映]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Mirror]]></key>
+
+            <value>
+
+                            <ex><![CDATA[镜子]]></ex>
+
+                            <ex><![CDATA[镜像]]></ex>
+
+                            <ex><![CDATA[镜像物体]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mirror]]></key>
+
+            <value>
+
+                            <ex><![CDATA[镜]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mirror dory]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雨印鲷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

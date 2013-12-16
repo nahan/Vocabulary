@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[seal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[密封]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[siːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 密封；印章；海豹；封条；标志]]></ex>
+
+                    <ex><![CDATA[vt. 密封；盖章]]></ex>
+
+                    <ex><![CDATA[vi. 猎海豹]]></ex>
+
+                    <ex><![CDATA[n. (Seal)人名；(英)西尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[seal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[密封]]></ex>
+
+                            <ex><![CDATA[海豹]]></ex>
+
+                            <ex><![CDATA[海豹突击队]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Seal test]]></key>
+
+            <value>
+
+                            <ex><![CDATA[密封试验]]></ex>
+
+                            <ex><![CDATA[上密封实验]]></ex>
+
+                            <ex><![CDATA[弥缝实验]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Seal script]]></key>
+
+            <value>
+
+                            <ex><![CDATA[篆书]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[group]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[集团]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gruːp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 组；团体]]></ex>
+
+                    <ex><![CDATA[adj. 群的；团体的]]></ex>
+
+                    <ex><![CDATA[vt. 把…聚集；把…分组]]></ex>
+
+                    <ex><![CDATA[vi. 聚合]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Group]]></key>
+
+            <value>
+
+                            <ex><![CDATA[群组]]></ex>
+
+                            <ex><![CDATA[集团]]></ex>
+
+                            <ex><![CDATA[组]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Macquarie Group]]></key>
+
+            <value>
+
+                            <ex><![CDATA[麦格理银行]]></ex>
+
+                            <ex><![CDATA[麦格理集团]]></ex>
+
+                            <ex><![CDATA[麦格理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Virgin Group]]></key>
+
+            <value>
+
+                            <ex><![CDATA[维珍集团]]></ex>
+
+                            <ex><![CDATA[维京集团]]></ex>
+
+                            <ex><![CDATA[维珍团体]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

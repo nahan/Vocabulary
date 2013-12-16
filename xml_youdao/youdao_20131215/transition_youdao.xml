@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[transition]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[过渡]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[træn'zɪʃ(ə)n; trɑːn-; -'sɪʃ-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 过渡；转变；[分子生物] 转换；变调]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[transition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[过渡]]></ex>
+
+                            <ex><![CDATA[转变]]></ex>
+
+                            <ex><![CDATA[转换]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[transition point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[转变点]]></ex>
+
+                            <ex><![CDATA[转换点]]></ex>
+
+                            <ex><![CDATA[过渡点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[transition probability]]></key>
+
+            <value>
+
+                            <ex><![CDATA[转移概率]]></ex>
+
+                            <ex><![CDATA[跃迁概率]]></ex>
+
+                            <ex><![CDATA[跃迁几率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

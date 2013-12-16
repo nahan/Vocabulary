@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[joint]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[联合]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dʒɒɪnt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉]]></ex>
+
+                    <ex><![CDATA[adj. 共同的；连接的；联合的，合办的]]></ex>
+
+                    <ex><![CDATA[vt. 连接，贴合；接合；使有接头]]></ex>
+
+                    <ex><![CDATA[vi. 贴合；生节]]></ex>
+
+                    <ex><![CDATA[n. (Joint)人名；(法)茹安]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Joint]]></key>
+
+            <value>
+
+                            <ex><![CDATA[关节]]></ex>
+
+                            <ex><![CDATA[联合]]></ex>
+
+                            <ex><![CDATA[有骨的大块肉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Joint Venture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[合资企业]]></ex>
+
+                            <ex><![CDATA[合资公司]]></ex>
+
+                            <ex><![CDATA[合资]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[butt joint]]></key>
+
+            <value>
+
+                            <ex><![CDATA[对接]]></ex>
+
+                            <ex><![CDATA[对接接头]]></ex>
+
+                            <ex><![CDATA[平接]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

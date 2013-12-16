@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[entertainment]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[娱乐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[entə'teɪnm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 娱乐；消遣；款待]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Entertainment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[娱乐]]></ex>
+
+                            <ex><![CDATA[招待]]></ex>
+
+                            <ex><![CDATA[休闲娱乐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Blizzard Entertainment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[暴雪娱乐]]></ex>
+
+                            <ex><![CDATA[暴雪公司]]></ex>
+
+                            <ex><![CDATA[暴雪文娱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Entertainment Weekly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[娱乐周刊]]></ex>
+
+                            <ex><![CDATA[文娱周刊]]></ex>
+
+                            <ex><![CDATA[娱乐周报]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

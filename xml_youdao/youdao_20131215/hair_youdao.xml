@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hair]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[头发]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[heə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 头发；毛发；些微]]></ex>
+
+                    <ex><![CDATA[adj. 毛发的；护理毛发的；用毛发制成的]]></ex>
+
+                    <ex><![CDATA[vt. 除去…的毛发]]></ex>
+
+                    <ex><![CDATA[vi. 生长毛发；形成毛状纤维]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Hair]]></key>
+
+            <value>
+
+                            <ex><![CDATA[头发]]></ex>
+
+                            <ex><![CDATA[发]]></ex>
+
+                            <ex><![CDATA[毛发]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hair care]]></key>
+
+            <value>
+
+                            <ex><![CDATA[理发]]></ex>
+
+                            <ex><![CDATA[头发]]></ex>
+
+                            <ex><![CDATA[头发护理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hair spray]]></key>
+
+            <value>
+
+                            <ex><![CDATA[喷发胶]]></ex>
+
+                            <ex><![CDATA[发胶]]></ex>
+
+                            <ex><![CDATA[喷发剂]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fridge]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[冰箱]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[frɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 电冰箱]]></ex>
+
+                    <ex><![CDATA[n. (Fridge)人名；(英)弗里奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fridge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冰箱]]></ex>
+
+                            <ex><![CDATA[电冰箱]]></ex>
+
+                            <ex><![CDATA[冷冻机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fridge bookcase]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冰箱变书柜]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Teleport Fridge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电讯冰箱]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

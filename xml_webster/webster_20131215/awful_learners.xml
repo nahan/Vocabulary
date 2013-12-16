@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="awful[1]"> <hw highlight="yes" hindex="1">aw*ful</hw> <sound><wav>awful001.wav</wav></sound> <pr>ˈɑ:fəl</pr> <fl>adjective</fl> <def><gram>more aw*ful; most aw*ful</gram> <sn>1</sn> <dt>:extremely bad or unpleasant <vi>The music was <it>awful</it>.</vi> <vi>They heard the most <it>awful</it> sounds.</vi> <vi><it>Awful</it> things began to happen.</vi> <vi>The weather was <it>awful</it>.</vi> <vi>He has some <it>awful</it> disease.</vi> <vi>That joke is just/pretty/really/truly <it>awful</it>.</vi> <vi>He's an <it>awful</it> person.</vi> <vi>That's an <it>awful</it> thing to say.</vi> <vi>She has <it>awful</it> manners.</vi> <vi>Who painted the house that <it>awful</it> color?</vi> <vi>I don't know what's wrong with me but I feel <it>awful</it>. [=very sick]</vi> <vi>I feel <it>awful</it> [=very sorry] about what happened.</vi></dt> <sn>2</sn> <ssl>formal + old-fashioned</ssl> <dt>:causing feelings of fear and wonder :<sx>awesome</sx> <vi>The mountains have an <it>awful</it> majesty.</vi></dt></def> <dro><dre>an awful lot</dre> <def><sl>informal</sl> <sn>1</sn> <dt>:a large amount <vi>They lost <it>an awful lot</it> of money.</vi> <vi>She does <it>an awful lot</it> of talking.</vi></dt> <sn>2</sn> <dt>:very much <vi>I like him <it>an awful lot</it>. [=I like him a lot]</vi></dt></def></dro> <uro><ure>aw*ful*ness</ure> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>the sheer <it>awfulness</it> of it all</vi> <vi>the <it>awfulness</it> of the disease</vi></utxt></uro></entry>
+
+	<entry id="awful[2]"> <hw hindex="2">awful</hw> <altpr>ˈɑ:fəl</altpr> <fl>adverb</fl> <def><sl>chiefly US</sl> <sl>informal</sl> <dt>:very or extremely :<sx>awfully</sx> <vi>He was <it>awful</it> tired.</vi> <vi>We haven't heard from him in an <it>awful</it> long time.</vi> <vi>You've come an <it>awful</it> long way.</vi></dt></def></entry>
+
+	<entry id="god-awful"> <hw>god–aw*ful</hw> <sound><wav>godawf01.wav</wav></sound> <pr>gɑdˈɑ:fəl</pr> <fl>adjective</fl> <def><gram>more god–aw*ful; most god–aw*ful</gram> <sl>informal + sometimes offensive</sl> <dt>:very bad or unpleasant :<sx>awful</sx> <vi><it>god-awful</it> [=<it>terrible</it>] weather</vi> <vi>a <it>god-awful</it> [=<it>hideous</it>] hat</vi></dt></def></entry>
+
+</entry_list>

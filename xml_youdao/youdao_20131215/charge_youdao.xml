@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[charge]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[负责]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʃɑːdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 费用；电荷；掌管；控告；命令；负载]]></ex>
+
+                    <ex><![CDATA[vt. 使充电；使承担；指责；装载；对…索费；向…冲去]]></ex>
+
+                    <ex><![CDATA[vi. 充电；控告；索价；向前冲；记在账上]]></ex>
+
+                    <ex><![CDATA[n. (Charge)人名；(法)沙尔热；(英)查奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[charge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[收费]]></ex>
+
+                            <ex><![CDATA[充电]]></ex>
+
+                            <ex><![CDATA[主管]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[electric charge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电荷]]></ex>
+
+                            <ex><![CDATA[某些基本粒子的属性]]></ex>
+
+                            <ex><![CDATA[轻松一笑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Elementary charge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基本电荷]]></ex>
+
+                            <ex><![CDATA[元电荷]]></ex>
+
+                            <ex><![CDATA[电子电荷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

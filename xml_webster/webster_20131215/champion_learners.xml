@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="champion[1]"> <hw hindex="1">cham*pi*on</hw> <sound><wav>champi02.wav</wav></sound> <pr>ˈtʃæmpijən</pr> <fl>noun</fl> <in><il>plural</il> <if>cham*pi*ons</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:someone or something (such as a team or an animal) that has won a contest or competition especially in sports <vi>tennis <it>champions</it></vi> <vi>the heavyweight boxing <it>champion</it> of the world</vi> <vi>Our team will play the defending/reigning/current <it>champions</it> next week.</vi> <vi>the newly crowned national/world/Olympic <it>champions</it></vi> <un>often used before another noun <vi>a <it>champion</it> boxer/skier/swimmer</vi> <vi><it>champion</it> racehorses</vi></un></dt> <sn>2</sn> <dt>:someone who fights or speaks publicly in support of a person, belief, cause, etc. <vi>He was a <it>champion</it> for the working classes.</vi> <un>often + <it>of</it> <vi>She was a lawyer and a <it>champion of</it> children's rights.</vi></un></dt></def></entry>
+
+	<entry id="champion[2]"> <hw hindex="2">champion</hw> <altpr>ˈtʃæmpijən</altpr> <fl>verb</fl> <in><if>champions</if></in> <in><if>championed</if></in> <in><if>champion*ing</if></in> <def><gram>+ obj</gram> <dt>:to fight or speak publicly in support of (a person, belief, cause, etc.) <vi>She is a lawyer who <it>champions</it> children's rights.</vi> <vi>Our senator <it>championed</it> the idea of lowering taxes.</vi></dt></def></entry>
+
+</entry_list>

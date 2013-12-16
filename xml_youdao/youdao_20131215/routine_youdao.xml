@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[routine]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[例程]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ruː'tiːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [计] 程序；日常工作；例行公事]]></ex>
+
+                    <ex><![CDATA[adj. 日常的；例行的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[routine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[程序]]></ex>
+
+                            <ex><![CDATA[例行程序]]></ex>
+
+                            <ex><![CDATA[常规]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[executive routine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[执行程序]]></ex>
+
+                            <ex><![CDATA[管理程序]]></ex>
+
+                            <ex><![CDATA[管理例行程序]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[routine inspection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[常规检查]]></ex>
+
+                            <ex><![CDATA[例行视察]]></ex>
+
+                            <ex><![CDATA[日常检验]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

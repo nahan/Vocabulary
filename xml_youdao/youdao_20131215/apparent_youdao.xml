@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[apparent]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[明显的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'pær(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 显然的；表面上的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[apparent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[明显的]]></ex>
+
+                            <ex><![CDATA[显然的]]></ex>
+
+                            <ex><![CDATA[外观上的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[apparent power]]></key>
+
+            <value>
+
+                            <ex><![CDATA[视在功率]]></ex>
+
+                            <ex><![CDATA[表观功率]]></ex>
+
+                            <ex><![CDATA[视功率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[apparent viscosity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[表观粘度]]></ex>
+
+                            <ex><![CDATA[视粘度]]></ex>
+
+                            <ex><![CDATA[表观黏度]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

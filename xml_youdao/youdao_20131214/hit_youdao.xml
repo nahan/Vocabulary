@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[打击]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 打；打击；（演出等）成功；讽刺]]></ex>
+
+                    <ex><![CDATA[vt. 打击；袭击；碰撞；偶然发现；伤…的感情]]></ex>
+
+                    <ex><![CDATA[vi. 打；打击；碰撞；偶然碰上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Hit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[命中]]></ex>
+
+                            <ex><![CDATA[击中]]></ex>
+
+                            <ex><![CDATA[打击]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hit through]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抽杀成功]]></ex>
+
+                            <ex><![CDATA[挥棒余势]]></ex>
+
+                            <ex><![CDATA[抽杀胜利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hit Team]]></key>
+
+            <value>
+
+                            <ex><![CDATA[重装警察]]></ex>
+
+                            <ex><![CDATA[重装差人]]></ex>
+
+                            <ex><![CDATA[攻击队]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

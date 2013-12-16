@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>creature</key>
+
+<ps>ˈkri:tʃə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c4/fa/c4facf2da0d0d28f43711909c7a3d385.mp3</pron>
+
+<ps>ˈkritʃɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8a/52/8a52e7a8d3b4c955d6f7927c6ba3fe72.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>生物，动物；人；创造物；（他人的）工具；
+
+</acceptation>
+
+<sent><orig>
+
+Creature-ablation When you play this card, choose a non-ablation-elemental creature.
+
+</orig>
+
+<trans>
+
+生物侵蚀当你使用此牌时，选择一个侵蚀元素以外的生物。
+
+</trans></sent>
+
+<sent><orig>
+
+It was a strange creature with red eyes-almost as if the creature was watching them.
+
+</orig>
+
+<trans>
+
+它长着很奇怪的红眼睛，好像一直在盯着他们看。
+
+</trans></sent>
+
+<sent><orig>
+
+Inside every solitary living creature is a swarm of non-creature things.
+
+</orig>
+
+<trans>
+
+每一个单独的生物个体内都有一大群非生物的东西。
+
+</trans></sent>
+
+<sent><orig>
+
+A creature cannot use alternate form to take the form of a creature with a template.
+
+</orig>
+
+<trans>
+
+生物不能使用化形变成带模板的生物。
+
+</trans></sent>
+
+<sent><orig>
+
+If a creature holds the item, use the creature's Dexterity modifier in place of the-5 penalty.
+
+</orig>
+
+<trans>
+
+若有生物持用该物品，使用该生物的敏捷调整值代替上述-5减值。
+
+</trans></sent>
+
+</dict>

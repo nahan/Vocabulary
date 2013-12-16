@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>gate</key>
+
+<ps>ɡeɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/33/76/337618e721754ca3bc90251938a67e1f.mp3</pron>
+
+<ps>ɡet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/63/d7/63d721d24d2dde776e05e4b8c47f08a3.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>门；闸门；登机门；入场费；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>给…装大门；[电子学] 电波传送；
+
+</acceptation>
+
+<sent><orig>
+
+On TV, they see a news report about a shooting at The Gate.
+
+</orig>
+
+<trans>
+
+在电视节目中，新闻报道了在Gate公司的机枪扫射事件。
+
+</trans></sent>
+
+<sent><orig>
+
+Back at the Gate, Gretchen gets word that Self is captured.
+
+</orig>
+
+<trans>
+
+在Gate公司，格雷琴收到了赛尔夫已被抓住的消息。
+
+</trans></sent>
+
+<sent><orig>
+
+T-Bag leads Michael, Lincoln, Sucre and Bellickto the trap door at The Gate offices.
+
+</orig>
+
+<trans>
+
+西奥多领着迈可、林肯、苏克雷和巴利克进入了Gate公司办公室里的活门。
+
+</trans></sent>
+
+<sent><orig>
+
+Finally using GATE does information annotation on documents and extracts the metadata.
+
+</orig>
+
+<trans>
+
+最后利用GATE对文档进行信息标注，抽取出元数据。
+
+</trans></sent>
+
+<sent><orig>
+
+There are four gates named South Gate, West Gate, North Gate and East Gate respectively.
+
+</orig>
+
+<trans>
+
+天坛一共有4个门，依次为南门、西门、北门和东门。
+
+</trans></sent>
+
+</dict>

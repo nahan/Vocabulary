@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[record]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[记录]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['rekɔːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 档案，履历；唱片；最高纪录]]></ex>
+
+                    <ex><![CDATA[adj. 创纪录的]]></ex>
+
+                    <ex><![CDATA[vt. 记录，记载；标明；将...录音]]></ex>
+
+                    <ex><![CDATA[vi. 记录；录音]]></ex>
+
+                    <ex><![CDATA[n. (Record)人名；(法)勒科尔；(英)雷科德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Record]]></key>
+
+            <value>
+
+                            <ex><![CDATA[记录]]></ex>
+
+                            <ex><![CDATA[录音]]></ex>
+
+                            <ex><![CDATA[记载]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Criminal record]]></key>
+
+            <value>
+
+                            <ex><![CDATA[案底]]></ex>
+
+                            <ex><![CDATA[犯罪记录]]></ex>
+
+                            <ex><![CDATA[前科]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gramophone record]]></key>
+
+            <value>
+
+                            <ex><![CDATA[黑胶唱片]]></ex>
+
+                            <ex><![CDATA[唱碟]]></ex>
+
+                            <ex><![CDATA[唱片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

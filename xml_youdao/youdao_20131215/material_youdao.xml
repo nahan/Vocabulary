@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[material]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[材料]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mə'tɪərɪəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 材料，原料；物资；布料]]></ex>
+
+                    <ex><![CDATA[adj. 重要的；物质的，实质性的；肉体的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Material]]></key>
+
+            <value>
+
+                            <ex><![CDATA[材料]]></ex>
+
+                            <ex><![CDATA[材质]]></ex>
+
+                            <ex><![CDATA[物料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Superhard material]]></key>
+
+            <value>
+
+                            <ex><![CDATA[超硬材料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[material management]]></key>
+
+            <value>
+
+                            <ex><![CDATA[物料管理]]></ex>
+
+                            <ex><![CDATA[材料管理]]></ex>
+
+                            <ex><![CDATA[物资管理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

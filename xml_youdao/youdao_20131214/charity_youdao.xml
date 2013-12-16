@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[charity]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[慈善机构]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['tʃærɪtɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 慈善；施舍；慈善团体；宽容；施舍物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[charity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[慈善]]></ex>
+
+                            <ex><![CDATA[施舍]]></ex>
+
+                            <ex><![CDATA[慈善团体]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Charity shop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[古着]]></ex>
+
+                            <ex><![CDATA[慈善商店]]></ex>
+
+                            <ex><![CDATA[慈善店]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[charity event]]></key>
+
+            <value>
+
+                            <ex><![CDATA[慈善赛]]></ex>
+
+                            <ex><![CDATA[慈善活动]]></ex>
+
+                            <ex><![CDATA[慈善事件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

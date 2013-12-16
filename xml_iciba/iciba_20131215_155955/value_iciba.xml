@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>value</key>
+
+<ps>'vælju:</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6f/94/6f94f15e1f0187484aef05c820ede906.mp3</pron>
+
+<ps>ˈvælju</ps>
+
+<pron>http://res-tts.iciba.com/2/0/6/2063c1608d6e0baf80249c42e2be5804.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>价值，价格；意义，涵义；重要性；（邮票的）面值；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>评价；重视，看重；估价，给…定价；
+
+</acceptation>
+
+<sent><orig>
+
+Hash A unary function object type that acts a hash function for a Value.
+
+</orig>
+
+<trans>
+
+一元函数对象类型，用作Value的散列函数。
+
+</trans></sent>
+
+<sent><orig>
+
+Assign value to the variable if it is unset.
+
+</orig>
+
+<trans>
+
+将value赋给变量，如果变量未设置。
+
+</trans></sent>
+
+<sent><orig>
+
+What is the percentage value of each examination component?
+
+</orig>
+
+<trans>
+
+每一考试科目的百分比值(Value)为何？
+
+</trans></sent>
+
+<sent><orig>
+
+The VALUE column in both tables is unindexed.
+
+</orig>
+
+<trans>
+
+两表中的VALUE字段都未被索引。
+
+</trans></sent>
+
+<sent><orig>
+
+So big relics possess higher historical value and science research value, as well higher art value.
+
+</orig>
+
+<trans>
+
+所以大遗址具有较高的历史价值和科学研究价值，同时很多大遗址还具有较高的艺术价值。
+
+</trans></sent>
+
+</dict>

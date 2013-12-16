@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[march]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[3月]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mɑːtʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. （坚定地向某地）前进；行军，进军；游行示威；进展，进行]]></ex>
+
+                    <ex><![CDATA[n. 行进，前进；行军；游行示威；进行曲]]></ex>
+
+                    <ex><![CDATA[vt. 使前进；使行军]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[March]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进行曲]]></ex>
+
+                            <ex><![CDATA[三月]]></ex>
+
+                            <ex><![CDATA[年3月]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Long March]]></key>
+
+            <value>
+
+                            <ex><![CDATA[长征]]></ex>
+
+                            <ex><![CDATA[长征五号系列火箭]]></ex>
+
+                            <ex><![CDATA[长征一号运载火箭]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Radetzky March]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拉德茨基进行曲]]></ex>
+
+                            <ex><![CDATA[拉德斯基进行曲]]></ex>
+
+                            <ex><![CDATA[拉德茨基]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

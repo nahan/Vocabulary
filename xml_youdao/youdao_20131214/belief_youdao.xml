@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[belief]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[信仰]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪ'liːf]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 相信，信赖；信仰；教义]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Belief]]></key>
+
+            <value>
+
+                            <ex><![CDATA[信念]]></ex>
+
+                            <ex><![CDATA[信仰]]></ex>
+
+                            <ex><![CDATA[信任]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[belief systems]]></key>
+
+            <value>
+
+                            <ex><![CDATA[信仰体系]]></ex>
+
+                            <ex><![CDATA[信仰系统]]></ex>
+
+                            <ex><![CDATA[信念系统]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[primitive belief]]></key>
+
+            <value>
+
+                            <ex><![CDATA[原始信仰]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

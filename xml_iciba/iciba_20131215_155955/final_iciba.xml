@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>final</key>
+
+<ps>'faɪnl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/73/f7/73f73e0c0cfa91ccf43962b4dcf35d81.mp3</pron>
+
+<ps>ˈfaɪnəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/2a/15/2a1585a864d9e67627c6ae04c807a2c5.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>最后的，最终的；决定性的；不可更改的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>结局；决赛；期末考试；〈口〉（报纸的）末版；
+
+</acceptation>
+
+<sent><orig>
+
+Do not create non-final static fields on Managed Objects.
+
+</orig>
+
+<trans>
+
+不要在管理对象上创建non-final的静态域。
+
+</trans></sent>
+
+<sent><orig>
+
+They do not understand whether Brussels the final say, or the 27 capitals allthe final say?
+
+</orig>
+
+<trans>
+
+他们不明白，到底是布鲁塞尔说了算，还是27个首都说了算？
+
+</trans></sent>
+
+<sent><orig>
+
+How much will the final count in our final grades?
+
+</orig>
+
+<trans>
+
+期末考试占总分的多少啊？
+
+</trans></sent>
+
+<sent><orig>
+
+Make final revisions and issue final report.
+
+</orig>
+
+<trans>
+
+生成并发放最终报告。
+
+</trans></sent>
+
+<sent><orig>
+
+After having received the final payment, CERES submitsthe final result of the assessment.
+
+</orig>
+
+<trans>
+
+查报告和实验室分析的结果。认证决定和最终的发票将发送给制造商。
+
+</trans></sent>
+
+</dict>

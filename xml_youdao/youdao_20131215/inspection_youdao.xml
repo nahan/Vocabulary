@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[inspection]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[检查]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'spekʃn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 视察，检查]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[inspection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[检查]]></ex>
+
+                            <ex><![CDATA[检验]]></ex>
+
+                            <ex><![CDATA[视察]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[inspection record]]></key>
+
+            <value>
+
+                            <ex><![CDATA[检验记录]]></ex>
+
+                            <ex><![CDATA[检查记录]]></ex>
+
+                            <ex><![CDATA[验收记录]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[inspection tag]]></key>
+
+            <value>
+
+                            <ex><![CDATA[检查标签]]></ex>
+
+                            <ex><![CDATA[搜检标签]]></ex>
+
+                            <ex><![CDATA[查抄标签]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

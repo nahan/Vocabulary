@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[skirt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[裙子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skɜːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 裙子]]></ex>
+
+                    <ex><![CDATA[vt. 绕过，回避；位于…边缘]]></ex>
+
+                    <ex><![CDATA[vi. 沿边走，绕开；环绕]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Skirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[裙子]]></ex>
+
+                            <ex><![CDATA[裙装]]></ex>
+
+                            <ex><![CDATA[短裙]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pencil skirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[铅笔裙]]></ex>
+
+                            <ex><![CDATA[紧身窄裙]]></ex>
+
+                            <ex><![CDATA[一步裙]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[piston skirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活塞裙]]></ex>
+
+                            <ex><![CDATA[活塞裙部]]></ex>
+
+                            <ex><![CDATA[活塞围裙]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

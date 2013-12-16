@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[outside]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[外]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[aʊt'saɪd; 'aʊtsaɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 在…范围之外]]></ex>
+
+                    <ex><![CDATA[n. 外部；外观]]></ex>
+
+                    <ex><![CDATA[adj. 外面的，外部的；外来的]]></ex>
+
+                    <ex><![CDATA[adv. 在外面，向外面；在室外]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Outside]]></key>
+
+            <value>
+
+                            <ex><![CDATA[外面]]></ex>
+
+                            <ex><![CDATA[之外]]></ex>
+
+                            <ex><![CDATA[境外]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Outside Dimension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[外形尺寸]]></ex>
+
+                            <ex><![CDATA[外型尺寸]]></ex>
+
+                            <ex><![CDATA[外部尺寸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Outside Agency]]></key>
+
+            <value>
+
+                            <ex><![CDATA[局外者]]></ex>
+
+                            <ex><![CDATA[规则定义中说明]]></ex>
+
+                            <ex><![CDATA[局外人员]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

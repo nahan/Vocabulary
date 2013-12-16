@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[profile]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[配置文件]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prəʊfaɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 侧面；轮廓；外形；剖面；简况]]></ex>
+
+                    <ex><![CDATA[vt. 描…的轮廓；扼要描述]]></ex>
+
+                    <ex><![CDATA[vi. 给出轮廓]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[profile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[轮廓]]></ex>
+
+                            <ex><![CDATA[旺铺介绍]]></ex>
+
+                            <ex><![CDATA[属性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Valkyrie Profile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[女神侧身像]]></ex>
+
+                            <ex><![CDATA[北欧女神传]]></ex>
+
+                            <ex><![CDATA[北欧女神]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[General Profile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中心概况]]></ex>
+
+                            <ex><![CDATA[核心概况]]></ex>
+
+                            <ex><![CDATA[中央概况]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

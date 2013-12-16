@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[orange]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[橙色]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɒrɪn(d)ʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 橙；橙色；桔子]]></ex>
+
+                    <ex><![CDATA[adj. 橙色的；橘色的]]></ex>
+
+                    <ex><![CDATA[n. (Orange)人名；(英)奥林奇；(法)奥朗热]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Orange]]></key>
+
+            <value>
+
+                            <ex><![CDATA[橙色]]></ex>
+
+                            <ex><![CDATA[橙子]]></ex>
+
+                            <ex><![CDATA[橘黄色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bergamot orange]]></key>
+
+            <value>
+
+                            <ex><![CDATA[香柠檬]]></ex>
+
+                            <ex><![CDATA[巴甘檬]]></ex>
+
+                            <ex><![CDATA[香]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[International orange]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国际橘]]></ex>
+
+                            <ex><![CDATA[国际标准橘]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

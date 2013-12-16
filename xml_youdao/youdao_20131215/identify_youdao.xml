@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[identify]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[识别]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[aɪ'dentɪfaɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[identify]]></key>
+
+            <value>
+
+                            <ex><![CDATA[认出]]></ex>
+
+                            <ex><![CDATA[识别]]></ex>
+
+                            <ex><![CDATA[鉴定]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[identify pulse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[识别脉冲]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[identify code]]></key>
+
+            <value>
+
+                            <ex><![CDATA[识别码]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[curious]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[好奇的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kjʊərɪəs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 好奇的，有求知欲的；古怪的；爱挑剔的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Curious]]></key>
+
+            <value>
+
+                            <ex><![CDATA[好奇]]></ex>
+
+                            <ex><![CDATA[求知的]]></ex>
+
+                            <ex><![CDATA[稀奇的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Curious George]]></key>
+
+            <value>
+
+                            <ex><![CDATA[好奇的乔治]]></ex>
+
+                            <ex><![CDATA[好奇猴乔治]]></ex>
+
+                            <ex><![CDATA[好奇小猴乔治]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Curious psychology]]></key>
+
+            <value>
+
+                            <ex><![CDATA[好奇心理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>gene</key>
+
+<ps>dʒi:n</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b3/b6/b3b6dc7fcaafb86b7dd5bec27214ae17.mp3</pron>
+
+<ps>dʒin</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/59/71/5971264e9294c121bfb7627ef1edae33.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>&lt;生&gt;基因；遗传因子；
+
+</acceptation>
+
+<sent><orig>
+
+Results: Gene medication, gene diagnosis and gene therapy were clinical used.
+
+</orig>
+
+<trans>
+
+结果基因药物，基因诊断和治疗已在临床上取得一定应用。
+
+</trans></sent>
+
+<sent><orig>
+
+Combined with the human tyrosinase gene sequence, the gene tree was constructed using parsimony method.
+
+</orig>
+
+<trans>
+
+结合已发表人的序列，用简约法构建了基因树。
+
+</trans></sent>
+
+<sent><orig>
+
+They found that mice without the GRPR gene scratched less than normal mice with the gene.
+
+</orig>
+
+<trans>
+
+他们发现缺少GRPR基因的老鼠比正常带GRPR的老鼠挠抓的次数要少很多。
+
+</trans></sent>
+
+<sent><orig>
+
+The bcr-abl fusion gene is the characteristic gene of chronic myeloid leukemia (CML).
+
+</orig>
+
+<trans>
+
+慢性粒细胞白血病(Chronic myeloid leukemia,CML)具有特征性的bcr-abl融合基因。
+
+</trans></sent>
+
+<sent><orig>
+
+The affinity of T Ag to U2 gene is greater than that to Ul gene.
+
+</orig>
+
+<trans>
+
+SV40 T抗原与U_2基因的亲和力大于U_1基因。
+
+</trans></sent>
+
+</dict>

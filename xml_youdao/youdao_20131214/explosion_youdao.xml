@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[explosion]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[爆炸]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk'spləʊʒ(ə)n; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 爆炸；爆发；激增]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Explosion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爆炸]]></ex>
+
+                            <ex><![CDATA[迸发]]></ex>
+
+                            <ex><![CDATA[爆发]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cambrian explosion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[寒武纪大爆发]]></ex>
+
+                            <ex><![CDATA[寒武纪生命大爆发]]></ex>
+
+                            <ex><![CDATA[寒武纪爆发]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[combinatorial explosion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[组合爆炸]]></ex>
+
+                            <ex><![CDATA[组合]]></ex>
+
+                            <ex><![CDATA[餗啪礥]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

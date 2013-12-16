@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[low]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[低]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ləʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 低；低价；低点；牛叫声]]></ex>
+
+                    <ex><![CDATA[adj. 低的，浅的；卑贱的；粗俗的；消沉的]]></ex>
+
+                    <ex><![CDATA[adv. 低声地；谦卑地，低下地]]></ex>
+
+                    <ex><![CDATA[vi. 牛叫]]></ex>
+
+                    <ex><![CDATA[n. (Low)人名；(英、德)洛]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[low]]></key>
+
+            <value>
+
+                            <ex><![CDATA[低的]]></ex>
+
+                            <ex><![CDATA[低音电平控制]]></ex>
+
+                            <ex><![CDATA[低谷]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Low frequency]]></key>
+
+            <value>
+
+                            <ex><![CDATA[低频]]></ex>
+
+                            <ex><![CDATA[低频率]]></ex>
+
+                            <ex><![CDATA[甚低频]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Low Countries]]></key>
+
+            <value>
+
+                            <ex><![CDATA[低地国家]]></ex>
+
+                            <ex><![CDATA[低地国]]></ex>
+
+                            <ex><![CDATA[指荷兰]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

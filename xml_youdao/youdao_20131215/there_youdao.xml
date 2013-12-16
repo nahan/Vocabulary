@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[there]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[有]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ðeə; ðə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 那个地方]]></ex>
+
+                    <ex><![CDATA[adv. 在那里；在那边；在那点上]]></ex>
+
+                    <ex><![CDATA[int. 你瞧]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[There]]></key>
+
+            <value>
+
+                            <ex><![CDATA[那里]]></ex>
+
+                            <ex><![CDATA[有没有]]></ex>
+
+                            <ex><![CDATA[那儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[over there]]></key>
+
+            <value>
+
+                            <ex><![CDATA[在那边]]></ex>
+
+                            <ex><![CDATA[在那里]]></ex>
+
+                            <ex><![CDATA[那时那地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[get there]]></key>
+
+            <value>
+
+                            <ex><![CDATA[到达那里]]></ex>
+
+                            <ex><![CDATA[到那里]]></ex>
+
+                            <ex><![CDATA[到那儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

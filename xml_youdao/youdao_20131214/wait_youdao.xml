@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wait]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[等待]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[weɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 等待；等候]]></ex>
+
+                    <ex><![CDATA[vi. 等待；耽搁；伺候用餐]]></ex>
+
+                    <ex><![CDATA[vt. 等候；推迟；延缓]]></ex>
+
+                    <ex><![CDATA[n. (Wait)人名；(英)韦特；(捷)魏特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Wait]]></key>
+
+            <value>
+
+                            <ex><![CDATA[等待]]></ex>
+
+                            <ex><![CDATA[等候]]></ex>
+
+                            <ex><![CDATA[坐等]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[wait for]]></key>
+
+            <value>
+
+                            <ex><![CDATA[等候]]></ex>
+
+                            <ex><![CDATA[等待]]></ex>
+
+                            <ex><![CDATA[等待某人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[circular wait]]></key>
+
+            <value>
+
+                            <ex><![CDATA[循环等待]]></ex>
+
+                            <ex><![CDATA[循环式等候]]></ex>
+
+                            <ex><![CDATA[循环等待条件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

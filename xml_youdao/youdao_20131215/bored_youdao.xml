@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bored]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[无聊]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɔːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 使厌烦（bore的过去式）；烦扰]]></ex>
+
+                    <ex><![CDATA[adj. 无聊的；无趣的；烦人的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bored]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无聊]]></ex>
+
+                            <ex><![CDATA[乐此不疲]]></ex>
+
+                            <ex><![CDATA[厌烦的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[More bored]]></key>
+
+            <value>
+
+                            <ex><![CDATA[更无聊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Being Bored]]></key>
+
+            <value>
+
+                            <ex><![CDATA[表示厌烦]]></ex>
+
+                            <ex><![CDATA[我恨]]></ex>
+
+                            <ex><![CDATA[很讨人烦]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

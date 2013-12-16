@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[response]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[响应]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'spɒns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 响应；反应；回答]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Response]]></key>
+
+            <value>
+
+                            <ex><![CDATA[回应]]></ex>
+
+                            <ex><![CDATA[响应]]></ex>
+
+                            <ex><![CDATA[回答]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Frequency response]]></key>
+
+            <value>
+
+                            <ex><![CDATA[频率响应]]></ex>
+
+                            <ex><![CDATA[频率反应]]></ex>
+
+                            <ex><![CDATA[频次呼应]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Response Time]]></key>
+
+            <value>
+
+                            <ex><![CDATA[响应时间]]></ex>
+
+                            <ex><![CDATA[反应时间]]></ex>
+
+                            <ex><![CDATA[回应时间]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chemist"> <hw>chem*ist</hw> <sound><wav>chemis06.wav</wav></sound> <pr>ˈkɛmɪst</pr> <fl>noun</fl> <in><il>plural</il> <if>chem*ists</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who studies or does research in the science of chemistry</dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:<sx>pharmacist</sx></dt></def></entry>
+
+</entry_list>

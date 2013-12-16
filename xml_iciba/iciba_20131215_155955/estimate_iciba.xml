@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>estimate</key>
+
+<ps>'estɪmət</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a2/a9/a2a935e05d9d4005b6d481250d6456b9.mp3</pron>
+
+<ps>ˈɛstəˌmet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/94/e7/94e7e210543475d2dc1ee610e7b4af1d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>估计，预测；报价，预算书；评价，判断；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>估计，估算；评价，评论；估量，估价；
+
+</acceptation>
+
+<sent><orig>
+
+This paper proposes an estimate and analysis method, and gives a consistent estimate standard estimate frame.
+
+</orig>
+
+<trans>
+
+对我国港口船舶交通管理系统提出建设后评测和分析的方案，规范并统一评测标准。
+
+</trans></sent>
+
+<sent><orig>
+
+The purpose of predictive theorem is to estimate system model and estimate future system response.
+
+</orig>
+
+<trans>
+
+预估理论是以估测的系统模型，推估系统的未来反应。
+
+</trans></sent>
+
+<sent><orig>
+
+This is an outside estimate of the price, ie an estimate of the highest probable price.
+
+</orig>
+
+<trans>
+
+这是最高的估价。
+
+</trans></sent>
+
+<sent><orig>
+
+Cost estimate of maintenance manpower is the important part of military aircraft LCC cost estimate.
+
+</orig>
+
+<trans>
+
+维修人力费用估算是军用飞机寿命周期费用估算的重要组成部分。
+
+</trans></sent>
+
+<sent><orig>
+
+Each regression coefficient estimate is associated with a scale estimate.
+
+</orig>
+
+<trans>
+
+在给出回归类系数估计的同时，RCMD还提供了尺度参数的估计。
+
+</trans></sent>
+
+</dict>

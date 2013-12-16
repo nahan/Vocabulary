@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[apple]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[苹果]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['æp(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 苹果，苹果树，苹果似的东西；[美俚]炸弹，手榴弹，（棒球的）球；[美俚]人，家伙。]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Apple]]></key>
+
+            <value>
+
+                            <ex><![CDATA[苹果]]></ex>
+
+                            <ex><![CDATA[苹果公司]]></ex>
+
+                            <ex><![CDATA[苹果汁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Apple Computer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[苹果电脑]]></ex>
+
+                            <ex><![CDATA[苹果电脑公司]]></ex>
+
+                            <ex><![CDATA[苹果计算机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Big Apple]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大苹果]]></ex>
+
+                            <ex><![CDATA[纽约]]></ex>
+
+                            <ex><![CDATA[纽约的别称]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

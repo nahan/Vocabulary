@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>note</key>
+
+<ps>nəʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/aa/d6/aad653ca3ee669635f2938b73098b6d7.mp3</pron>
+
+<ps>not</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/aa/d6/aad653ca3ee669635f2938b73098b6d7.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>注意；笔记；注解；便条；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>注意；记录；对…加注释；指出；
+
+</acceptation>
+
+<sent><orig>
+
+C-Note walks to where Michael stood.
+
+</orig>
+
+<trans>
+
+C-Note走到刚才Michael所站的地方。
+
+</trans></sent>
+
+<sent><orig>
+
+NOTE: Payment is expected within 10 days of the auction closing.
+
+</orig>
+
+<trans>
+
+NOTE:付款方式是在10日的拍卖结束预期。
+
+</trans></sent>
+
+<sent><orig>
+
+NOTE: Shipping &amp; handling covers more than just the actual shipping costs.
+
+</orig>
+
+<trans>
+
+NOTE:运输和处理涉及的不仅仅是实际运费。
+
+</trans></sent>
+
+<sent><orig>
+
+Geary makes sure C-Note understands he wants cash.
+
+</orig>
+
+<trans>
+
+Geary向C-Note说明他要的是现金。
+
+</trans></sent>
+
+<sent><orig>
+
+C-Note pulls up his sweatshirt to reveal the wound.
+
+</orig>
+
+<trans>
+
+C-Note揭开了他的运动衫，现出了他的伤口。
+
+</trans></sent>
+
+</dict>

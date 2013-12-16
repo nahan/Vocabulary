@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[trick]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[技巧]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[trɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 诡计；恶作剧；窍门；花招；骗局；欺诈]]></ex>
+
+                    <ex><![CDATA[adj. 特技的；欺诈的；有决窍的]]></ex>
+
+                    <ex><![CDATA[vt. 欺骗；哄骗；装饰；打扮]]></ex>
+
+                    <ex><![CDATA[vi. 哄骗；戏弄]]></ex>
+
+                    <ex><![CDATA[n. (Trick)人名；(英)特里克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Trick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[天雷勾动地火]]></ex>
+
+                            <ex><![CDATA[诡计]]></ex>
+
+                            <ex><![CDATA[把戏]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sakura Trick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[樱Trick]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[dirty trick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鬼把戏]]></ex>
+
+                            <ex><![CDATA[卑鄙的行为]]></ex>
+
+                            <ex><![CDATA[以卑鄙的手段欺骗]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[chuck]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[查克]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʃʌk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [机] 卡盘；抚弄；赶走；咯咯声；恰克（人名）]]></ex>
+
+                    <ex><![CDATA[vt. 丢弃，抛掷；驱逐；轻拍]]></ex>
+
+                    <ex><![CDATA[vi. 咯咯叫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Chuck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[超市特工]]></ex>
+
+                            <ex><![CDATA[卡盘]]></ex>
+
+                            <ex><![CDATA[夹头]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chuck Berry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[查克·贝里]]></ex>
+
+                            <ex><![CDATA[查克贝瑞]]></ex>
+
+                            <ex><![CDATA[查克·贝瑞]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chuck Norris]]></key>
+
+            <value>
+
+                            <ex><![CDATA[查克·诺里斯]]></ex>
+
+                            <ex><![CDATA[查克·罗礼士]]></ex>
+
+                            <ex><![CDATA[罗礼士]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

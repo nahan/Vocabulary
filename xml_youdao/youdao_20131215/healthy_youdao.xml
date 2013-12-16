@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[healthy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[健康的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['helθɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 健康的，健全的；有益于健康的]]></ex>
+
+                    <ex><![CDATA[]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[healthy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[健康的]]></ex>
+
+                            <ex><![CDATA[健壮的]]></ex>
+
+                            <ex><![CDATA[强健的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Healthy diet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[均衡饮食]]></ex>
+
+                            <ex><![CDATA[健康饮食]]></ex>
+
+                            <ex><![CDATA[健康的饮食]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[healthy granulation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[健康肉芽形成]]></ex>
+
+                            <ex><![CDATA[健康肉芽]]></ex>
+
+                            <ex><![CDATA[康健肉芽形成]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

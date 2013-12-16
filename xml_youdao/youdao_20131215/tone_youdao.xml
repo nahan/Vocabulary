@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tone]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[语气]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[təʊn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 语气；色调；音调；音色]]></ex>
+
+                    <ex><![CDATA[vt. 增强；用某种调子说]]></ex>
+
+                    <ex><![CDATA[vi. 颜色调和；呈现悦目色调]]></ex>
+
+                    <ex><![CDATA[n. (Tone)人名；(罗、塞、乍)托内；(英)托恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[tone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[音调]]></ex>
+
+                            <ex><![CDATA[语气]]></ex>
+
+                            <ex><![CDATA[声调]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tone contour]]></key>
+
+            <value>
+
+                            <ex><![CDATA[声调轮廓]]></ex>
+
+                            <ex><![CDATA[语调轮廓]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tone River]]></key>
+
+            <value>
+
+                            <ex><![CDATA[利根川]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

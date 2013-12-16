@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[heater]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[加热器]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['hiːtə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 加热器；加热工]]></ex>
+
+                    <ex><![CDATA[n. (Heater)人名；(英)希特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[heater]]></key>
+
+            <value>
+
+                            <ex><![CDATA[加热器]]></ex>
+
+                            <ex><![CDATA[暖气]]></ex>
+
+                            <ex><![CDATA[暖风装置]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[electric heater]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电暖气]]></ex>
+
+                            <ex><![CDATA[电加热器]]></ex>
+
+                            <ex><![CDATA[电热器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ceramic heater]]></key>
+
+            <value>
+
+                            <ex><![CDATA[红外加热器]]></ex>
+
+                            <ex><![CDATA[陶瓷加热器]]></ex>
+
+                            <ex><![CDATA[陶瓷片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

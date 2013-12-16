@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>release</key>
+
+<ps>rɪ'li:s</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/29/16/2916a7a4d0b47ddc19e860e283416117.mp3</pron>
+
+<ps>rɪ'li:s</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/12/3f/123fead50246387983ee340507115ef4.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>释放；放开；发布；发行；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>释放，排放，解除；释放令；公映的新影片，发布的新闻[消息]；
+
+</acceptation>
+
+<sent><orig>
+
+What do the return values from the Release or AddRef methods mean?
+
+</orig>
+
+<trans>
+
+Release函数和AddRef函数的返回值是什么意思？
+
+</trans></sent>
+
+<sent><orig>
+
+Closure: Preparation for release, including final documentation, pre-release staged testing, and release.
+
+</orig>
+
+<trans>
+
+结束阶段：版本发布准备，包括准备最终文档、发行前的阶段性测试以及最终版本。
+
+</trans></sent>
+
+<sent><orig>
+
+Objective: Improving drug burst release and stagnant release of magnetic cisplatin microspheres and achieving controlled release.
+
+</orig>
+
+<trans>
+
+目的：改善磁性顺铂微球的药突释和滞释，实现控释。
+
+</trans></sent>
+
+<sent><orig>
+
+The two drug release systems, fast release and release.
+
+</orig>
+
+<trans>
+
+该缓释药条的释放分为速释和缓释两个阶段。
+
+</trans></sent>
+
+<sent><orig>
+
+Develop controlled release solid dosage formulations including matrix and-layered tablets for sustained release and zero-order release.
+
+</orig>
+
+<trans>
+
+开发控释固体制剂包括骨架片和双层片延迟释放和零级释放。
+
+</trans></sent>
+
+</dict>

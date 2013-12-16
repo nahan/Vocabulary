@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>submit</key>
+
+<ps>səb'mɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/45/74/4574754b4856d8614a55c5a893c5883e.mp3</pron>
+
+<ps>səbˈmɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c7/9b/c79bdf421714f5087fc34b7c538b6807.mp3</pron>
+
+<pos>vi.</pos>
+
+<acceptation>顺从，服从；甘受，忍受；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使服从，使顺从；提交，呈送；[法]主张，建议；
+
+</acceptation>
+
+<sent><orig>
+
+Submit Represents a submit button on an HTML form.
+
+</orig>
+
+<trans>
+
+代表HTML表单中的submit[提交]按钮。
+
+</trans></sent>
+
+<sent><orig>
+
+Again, see the condor_ submit manual page at section 9 for more details about this usage.
+
+</orig>
+
+<trans>
+
+仍然请参阅第9节的condor_submit手册页获取关于这个命令的更多细节。
+
+</trans></sent>
+
+<sent><orig>
+
+For each instance of an HTML tag on a form, a Submit object is created.
+
+</orig>
+
+<trans>
+
+它将为表单中的每个HTML标签实例创建一个submit[提交]对象。
+
+</trans></sent>
+
+<sent><orig>
+
+See the condor_ submit manual page at section 9 for more details about this command.
+
+</orig>
+
+<trans>
+
+请参阅第9节的condor_submit手册页获取关于这个命令的更多细节。
+
+</trans></sent>
+
+<sent><orig>
+
+Relative to the submit directory, if the submit command initialdir is not specified.
+
+</orig>
+
+<trans>
+
+与提交目录一致，如果提交命令initialdir并未被指定的话。
+
+</trans></sent>
+
+</dict>

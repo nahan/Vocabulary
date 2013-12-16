@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[prison]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[监狱]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prɪz(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 监狱；监禁；拘留所]]></ex>
+
+                    <ex><![CDATA[vt. 监禁，关押]]></ex>
+
+                    <ex><![CDATA[n. (Prison)人名；(德)普里松]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Prison]]></key>
+
+            <value>
+
+                            <ex><![CDATA[监狱]]></ex>
+
+                            <ex><![CDATA[监禁]]></ex>
+
+                            <ex><![CDATA[狱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Seodaemun Prison]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西大门刑务所]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mamertine Prison]]></key>
+
+            <value>
+
+                            <ex><![CDATA[马梅尔定监狱]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

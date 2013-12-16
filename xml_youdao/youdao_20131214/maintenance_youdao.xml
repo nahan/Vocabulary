@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[maintenance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[维护]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['meɪnt(ə)nəns; -tɪn-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 维护，维修；保持；生活费用]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Maintenance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[维护]]></ex>
+
+                            <ex><![CDATA[维修]]></ex>
+
+                            <ex><![CDATA[保养]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[maintenance man]]></key>
+
+            <value>
+
+                            <ex><![CDATA[维修工]]></ex>
+
+                            <ex><![CDATA[维修人员]]></ex>
+
+                            <ex><![CDATA[保全工]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Maintenance Mode]]></key>
+
+            <value>
+
+                            <ex><![CDATA[维护模式]]></ex>
+
+                            <ex><![CDATA[维修模式]]></ex>
+
+                            <ex><![CDATA[维护方式]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shed]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[流]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃed]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 小屋，棚；分水岭]]></ex>
+
+                    <ex><![CDATA[vt. 流出；摆脱；散发；倾吐]]></ex>
+
+                    <ex><![CDATA[vi. 流出；脱落；散布]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[脱落]]></ex>
+
+                            <ex><![CDATA[流出]]></ex>
+
+                            <ex><![CDATA[临时周转仓库]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[locomotive shed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[机车库]]></ex>
+
+                            <ex><![CDATA[机车棚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[contractor shed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[承建商屋棚]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[emerge]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[出现]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪ'mɜːdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 浮现；摆脱；暴露]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[emerge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出现]]></ex>
+
+                            <ex><![CDATA[浮现]]></ex>
+
+                            <ex><![CDATA[显现]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[emerge from]]></key>
+
+            <value>
+
+                            <ex><![CDATA[曾经一度遭到]]></ex>
+
+                            <ex><![CDATA[从]]></ex>
+
+                            <ex><![CDATA[浮现]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[suddenly emerge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[突然出现]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

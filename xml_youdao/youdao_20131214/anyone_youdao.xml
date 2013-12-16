@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[anyone]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[任何人]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['enɪwʌn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[pron. 任何人；任何一个]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Anyone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[任何人]]></ex>
+
+                            <ex><![CDATA[其之六]]></ex>
+
+                            <ex><![CDATA[任何一个]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Can anyone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[以什么为依据向贵司索赔]]></ex>
+
+                            <ex><![CDATA[还能有谁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[anyone whom]]></key>
+
+            <value>
+
+                            <ex><![CDATA[任何人]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

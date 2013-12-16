@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[gang]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[帮派]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gæŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 群；一伙；一组]]></ex>
+
+                    <ex><![CDATA[vt. 使成群结队；结伙伤害或恐吓某人]]></ex>
+
+                    <ex><![CDATA[vi. 成群结队]]></ex>
+
+                    <ex><![CDATA[n. (Gang)人名；(法)冈；(罗)甘格；(英)甘]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Gang]]></key>
+
+            <value>
+
+                            <ex><![CDATA[童党]]></ex>
+
+                            <ex><![CDATA[这帮]]></ex>
+
+                            <ex><![CDATA[一帮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gang Tian]]></key>
+
+            <value>
+
+                            <ex><![CDATA[田刚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[GANG BANG]]></key>
+
+            <value>
+
+                            <ex><![CDATA[重击]]></ex>
+
+                            <ex><![CDATA[暗夜枪声]]></ex>
+
+                            <ex><![CDATA[群交]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

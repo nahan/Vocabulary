@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>permission</key>
+
+<ps>pəˈmɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f3/ef/f3eff397fa323170726abb32a0a0a454.mp3</pron>
+
+<ps>pɚˈmɪʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/4b/65/4b65ca0f8b76e7181a12bf1fabc48532.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>允许；批准，正式认可，认可；
+
+</acceptation>
+
+<sent><orig>
+
+This constructor exists for use by the Policy object instantiate new Permission objects.
+
+</orig>
+
+<trans>
+
+存在该构造函数是因为Policy对象要用来实例化新的Permission对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Environmental Protection Administrative Permission Hearing Regulation (for Trial Implementation) prescribes the environmental administrative permission hearing system.
+
+</orig>
+
+<trans>
+
+《环境保护行政许可听证暂行办法》规定了环境行政许可听证制度。
+
+</trans></sent>
+
+<sent><orig>
+
+When I want sth, I'm sure I could get it without anyone's permission (permission).
+
+</orig>
+
+<trans>
+
+当我想要某些东西，我肯定不需要任何人同意，我都能得到。
+
+</trans></sent>
+
+<sent><orig>
+
+When importing an interop method, assert unmanaged code permission, and demand appropriate permission instead.
+
+</orig>
+
+<trans>
+
+当引入一个互操作方法时，要断言不可控代码操作允许，并且声明相应的允许权限。
+
+</trans></sent>
+
+<sent><orig>
+
+Permission for '|' is currently restricted. Files with restricted permission cannot be inserted into this workbook.
+
+</orig>
+
+<trans>
+
+“|”的权限当前被限制。带有限制权限的文件无法被插入到此工作簿。
+
+</trans></sent>
+
+</dict>

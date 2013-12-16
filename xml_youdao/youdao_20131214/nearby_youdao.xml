@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nearby]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[附近的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nɪəbaɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 在…附近]]></ex>
+
+                    <ex><![CDATA[adj. 附近的，邻近的]]></ex>
+
+                    <ex><![CDATA[adv. 在附近]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Nearby]]></key>
+
+            <value>
+
+                            <ex><![CDATA[附近]]></ex>
+
+                            <ex><![CDATA[就近]]></ex>
+
+                            <ex><![CDATA[近旁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nearby hospital]]></key>
+
+            <value>
+
+                            <ex><![CDATA[附近的医院]]></ex>
+
+                            <ex><![CDATA[邻近哒病院]]></ex>
+
+                            <ex><![CDATA[邻近滴病院]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nearby protection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[近体防护]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

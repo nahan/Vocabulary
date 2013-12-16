@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>map</key>
+
+<ps>mæp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/00/6f/006fd5b7edb94968401089bb2ad9892a.mp3</pron>
+
+<ps>mæp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/1d/78/1d78dc8ed51214e518b5114fe24490ae.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>地图，天体图；类似地图的事物；〈美俚〉脸，面孔；（染色体上基因排列的）遗传图；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>绘制（一地区等的）地图；勘查；详细规划；[遗传学]比对；
+
+</acceptation>
+
+<sent><orig>
+
+Map containing parameter names as keys and parameter values as map values.
+
+</orig>
+
+<trans>
+
+Map包含参数名称（关键字）和参数值（映射值）。
+
+</trans></sent>
+
+<sent><orig>
+
+A map cannot contain duplicate keys; each key can map to at most one value.
+
+</orig>
+
+<trans>
+
+一个map不能包含相同的要害字，每一个要害字至多映射到一个值。
+
+</trans></sent>
+
+<sent><orig>
+
+MAP storage could delay the decline of organic acids by inhibiting malic acid metabolism during storage.
+
+</orig>
+
+<trans>
+
+MAP保鲜主要是通过抑制苹果酸的代谢来减少有机酸在贮藏过程中的消耗。
+
+</trans></sent>
+
+<sent><orig>
+
+The Mobile Application Part (MAP) layer is a relatively new protocol used in cellular networks.
+
+</orig>
+
+<trans>
+
+移动通信应用部分(map)层是用于蜂窝网络的一个较新的协议。
+
+</trans></sent>
+
+<sent><orig>
+
+Under the MRF-MAP framework, the Iterated Conditional Modes (ICM) was used tosolve the cost function.
+
+</orig>
+
+<trans>
+
+介绍了在MRF-MAP框架下，采用条件迭代模式(ICM)求解值函数的方法。
+
+</trans></sent>
+
+</dict>

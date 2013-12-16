@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dish]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[菜]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 盘；餐具；一盘食物；外貌有吸引力的人]]></ex>
+
+                    <ex><![CDATA[vt. 盛于碟盘中；分发；使某人的希望破灭；说（某人）的闲话]]></ex>
+
+                    <ex><![CDATA[vi. 成碟状；闲谈]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[dish]]></key>
+
+            <value>
+
+                            <ex><![CDATA[碟子]]></ex>
+
+                            <ex><![CDATA[盘子]]></ex>
+
+                            <ex><![CDATA[盘]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cold dish]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冷菜]]></ex>
+
+                            <ex><![CDATA[冷盘]]></ex>
+
+                            <ex><![CDATA[镜盘]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Petri dish]]></key>
+
+            <value>
+
+                            <ex><![CDATA[培养皿]]></ex>
+
+                            <ex><![CDATA[有盖培养皿]]></ex>
+
+                            <ex><![CDATA[陪替氏培养皿]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

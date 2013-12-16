@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[annoy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[骚扰]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'nɒɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 烦恼（等于annoyance）]]></ex>
+
+                    <ex><![CDATA[vt. 骚扰；惹恼；打搅]]></ex>
+
+                    <ex><![CDATA[vi. 惹恼；令人讨厌；打搅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[annoy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[使恼怒]]></ex>
+
+                            <ex><![CDATA[使烦恼]]></ex>
+
+                            <ex><![CDATA[打搅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[annoy  irritate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[使生气]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[annoy  disturb]]></key>
+
+            <value>
+
+                            <ex><![CDATA[搅扰]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

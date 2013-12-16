@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[gear]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[齿轮]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 齿轮；装置，工具；传动装置]]></ex>
+
+                    <ex><![CDATA[adj. 好极了]]></ex>
+
+                    <ex><![CDATA[vt. 开动；搭上齿轮；使……适合；使……准备好]]></ex>
+
+                    <ex><![CDATA[vi. 适合；搭上齿轮；开始工作]]></ex>
+
+                    <ex><![CDATA[n. (Gear)人名；(英)吉尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Gear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[齿轮]]></ex>
+
+                            <ex><![CDATA[传动装置]]></ex>
+
+                            <ex><![CDATA[齿轮机构]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[gear rack]]></key>
+
+            <value>
+
+                            <ex><![CDATA[齿条]]></ex>
+
+                            <ex><![CDATA[天梯牙]]></ex>
+
+                            <ex><![CDATA[齿轮齿条]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bevel gear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[锥齿轮]]></ex>
+
+                            <ex><![CDATA[伞齿轮]]></ex>
+
+                            <ex><![CDATA[斜齿轮]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

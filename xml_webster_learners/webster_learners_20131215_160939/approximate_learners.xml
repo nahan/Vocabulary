@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="approximate[1]"> <hw highlight="yes" hindex="1">ap*prox*i*mate</hw> <sound><wav>approx01.wav</wav></sound> <pr>əˈprɑ:ksəmət</pr> <fl>adjective</fl> <def><dt>:almost correct or exact <vi>This is the <it>approximate</it> location of the ancient city.</vi> <vi>her <it>approximate</it> age</vi> :close in value or amount but not precise <vi>Can you give me the <it>approximate</it> cost of the repair?</vi></dt></def> <uro><ure>ap*prox*i*mate*ly</ure> <fl>adverb</fl> <utxt><vi>The repair should cost <it>approximately</it> [=<it>about, around, roughly</it>] $200.</vi></utxt></uro></entry>
+
+	<entry id="approximate[2]"> <hw highlight="yes" hindex="2">ap*prox*i*mate</hw> <sound><wav>approx02.wav</wav></sound> <pr>əˈprɑ:ksəˌmeɪt</pr> <fl>verb</fl> <in><if>ap*prox*i*mates</if></in> <in><if>ap*prox*i*mat*ed</if></in> <in><if>ap*prox*i*mat*ing</if></in> <def><sn>1 a</sn> <dt>:to be very similar to but not exactly like (something) <wsgram>+ obj</wsgram> <vi>I've finally found a vegetarian burger that <it>approximates</it> the taste of real beef.</vi> <vi>The colors in the pictures can only <it>approximate</it> the real thing.</vi> <wsgram>no obj</wsgram> (<it>chiefly Brit</it>) <un>+ <it>to</it> <vi>The colors in the pictures can only <it>approximate to</it> the real thing.</vi></un></dt> <sn>b</sn> <sgram>+ obj</sgram> <dt>:to do or make a thing that is very similar to but not exactly like (something) <vi>an Australian who can <it>approximate</it> a strong New York City accent</vi></dt> <sn>2</sn> <sgram>+ obj</sgram> <dt>:to calculate the almost exact value or position of (something) <vi>Students learned to <it>approximate</it> [=<it>estimate</it>] the distance between the Earth and the planets.</vi></dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[map]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[地图]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mæp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 地图；示意图；染色体图]]></ex>
+
+                    <ex><![CDATA[vt. 映射；计划；绘制地图；确定基因在染色体中的位置]]></ex>
+
+                    <ex><![CDATA[vi. 基因被安置]]></ex>
+
+                    <ex><![CDATA[n. (Map)人名；(法)马普]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Map]]></key>
+
+            <value>
+
+                            <ex><![CDATA[地图]]></ex>
+
+                            <ex><![CDATA[平均动脉压(Mean Arterial Pressure)]]></ex>
+
+                            <ex><![CDATA[电子地图]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Map projection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[地图投影]]></ex>
+
+                            <ex><![CDATA[地图投影法]]></ex>
+
+                            <ex><![CDATA[舆图投影]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Weather map]]></key>
+
+            <value>
+
+                            <ex><![CDATA[天气图]]></ex>
+
+                            <ex><![CDATA[气象图]]></ex>
+
+                            <ex><![CDATA[天气图气象图]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

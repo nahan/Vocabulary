@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[towel]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[毛巾]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['taʊəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 毛巾，手巾；[纸] 纸巾]]></ex>
+
+                    <ex><![CDATA[vi. 用毛巾擦干身体]]></ex>
+
+                    <ex><![CDATA[vt. 用毛巾擦]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Towel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[毛巾]]></ex>
+
+                            <ex><![CDATA[毛圈布]]></ex>
+
+                            <ex><![CDATA[手巾]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Towel Blanket]]></key>
+
+            <value>
+
+                            <ex><![CDATA[毛巾毯]]></ex>
+
+                            <ex><![CDATA[毛巾被]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[towel cloth]]></key>
+
+            <value>
+
+                            <ex><![CDATA[毛巾布]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

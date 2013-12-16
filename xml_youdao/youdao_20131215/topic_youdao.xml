@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[topic]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[主题]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['tɒpɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 主题（等于theme）；题目；一般规则；总论]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Topic]]></key>
+
+            <value>
+
+                            <ex><![CDATA[话题]]></ex>
+
+                            <ex><![CDATA[主题]]></ex>
+
+                            <ex><![CDATA[题目]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Topic Maps]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主题地图]]></ex>
+
+                            <ex><![CDATA[主题图]]></ex>
+
+                            <ex><![CDATA[基于主题地图技术]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Topic model]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主题模型]]></ex>
+
+                            <ex><![CDATA[话题模型]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

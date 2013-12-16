@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[comprehensive]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[全面的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɒmprɪ'hensɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 综合学校；专业综合测验]]></ex>
+
+                    <ex><![CDATA[adj. 综合的；广泛的；有理解力的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Comprehensive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全面]]></ex>
+
+                            <ex><![CDATA[广泛的]]></ex>
+
+                            <ex><![CDATA[全方位]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Comprehensive utilization]]></key>
+
+            <value>
+
+                            <ex><![CDATA[综合利用]]></ex>
+
+                            <ex><![CDATA[资源化]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[comprehensive income]]></key>
+
+            <value>
+
+                            <ex><![CDATA[综合收入]]></ex>
+
+                            <ex><![CDATA[综合收益]]></ex>
+
+                            <ex><![CDATA[全面收益]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

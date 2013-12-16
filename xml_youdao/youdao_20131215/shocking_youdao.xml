@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shocking]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[令人震惊的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʃɒkɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 令人震惊的；可怕的，令人厌恶的；糟糕的]]></ex>
+
+                    <ex><![CDATA[v. 感到震惊；震动；冲突（shock的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shocking]]></key>
+
+            <value>
+
+                            <ex><![CDATA[令人震惊的]]></ex>
+
+                            <ex><![CDATA[骇人听闻的]]></ex>
+
+                            <ex><![CDATA[震撼力]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[shocking red]]></key>
+
+            <value>
+
+                            <ex><![CDATA[憬红色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Shocking Blue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[震惊的蓝]]></ex>
+
+                            <ex><![CDATA[震颤的蓝]]></ex>
+
+                            <ex><![CDATA[令人震惊的蓝]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

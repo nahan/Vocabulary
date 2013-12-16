@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[condition]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[条件]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'dɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 条件；情况；环境；身份]]></ex>
+
+                    <ex><![CDATA[vt. 决定；使适应；使健康；以…为条件]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Condition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[条件]]></ex>
+
+                            <ex><![CDATA[状况]]></ex>
+
+                            <ex><![CDATA[状态]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[necessary condition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[必要条件]]></ex>
+
+                            <ex><![CDATA[必然条件]]></ex>
+
+                            <ex><![CDATA[必要前提]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Energy condition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[能量条件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[result]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[结果]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'zʌlt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 结果；成绩；答案；比赛结果]]></ex>
+
+                    <ex><![CDATA[vi. 结果；导致；产生]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Result]]></key>
+
+            <value>
+
+                            <ex><![CDATA[结果]]></ex>
+
+                            <ex><![CDATA[成绩]]></ex>
+
+                            <ex><![CDATA[成果]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[medical result]]></key>
+
+            <value>
+
+                            <ex><![CDATA[诊断结果]]></ex>
+
+                            <ex><![CDATA[诊断成果]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[result set]]></key>
+
+            <value>
+
+                            <ex><![CDATA[结果集]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

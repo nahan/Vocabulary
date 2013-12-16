@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>activity</key>
+
+<ps>æk'tɪvətɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/5f/2e/5f2edfcf19eeabb51ffbf824774a520b.mp3</pron>
+
+<ps>ækˈtɪvɪti</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/69/a2/69a256025f66e4ce5d15c9dd7225d357.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>活动；活跃，敏捷；活动力；教育活动；
+
+</acceptation>
+
+<sent><orig>
+
+To accomplish this, your Activity should start a Service in which the upload takes place.
+
+</orig>
+
+<trans>
+
+要做到这一点，Activity应该启动一个Service处理上传工作。
+
+</trans></sent>
+
+<sent><orig>
+
+This thesis is about the combination of customer value and activity-based management (ABM).
+
+</orig>
+
+<trans>
+
+本论文的论题是顾客价值与作业管理的结合，也即以顾客价值为导向，实施对企业的基础构成——作业(Activity)的管理。
+
+</trans></sent>
+
+<sent><orig>
+
+Through-vitro pharmacological activity tests, the sugar acid compound has PTP-1B inhibition activity and good anti-tumor activity.
+
+</orig>
+
+<trans>
+
+经体外药理活性测试，其具有PTP-1B抑制活性和很好的抗肿瘤活性。
+
+</trans></sent>
+
+<sent><orig>
+
+In the activity-on-arrow network, there are essential differences between positive activity and dummy activity.
+
+</orig>
+
+<trans>
+
+在双代号网络图中，虚工作和实工作有着本质的区别，其主要作用是传递工作之间的逻辑关系。
+
+</trans></sent>
+
+<sent><orig>
+
+The manifestation of translation activity is a cognitive activity, it's an activity of forming messages.
+
+</orig>
+
+<trans>
+
+翻译活动表现为一种认知活动，是通过认知来构建信息的活动。
+
+</trans></sent>
+
+</dict>

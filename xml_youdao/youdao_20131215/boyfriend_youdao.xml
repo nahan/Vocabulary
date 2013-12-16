@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[boyfriend]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[的男朋友]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɒɪfrend]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 男朋友，情郎]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Boyfriend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[男朋友]]></ex>
+
+                            <ex><![CDATA[男友]]></ex>
+
+                            <ex><![CDATA[挚爱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Absolute Boyfriend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绝对达令]]></ex>
+
+                            <ex><![CDATA[绝对彼氏]]></ex>
+
+                            <ex><![CDATA[绝对男友]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Boyfriend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一往情深]]></ex>
+
+                            <ex><![CDATA[交男朋友]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[court]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[法院]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 法院；球场；朝廷；奉承]]></ex>
+
+                    <ex><![CDATA[vt. 招致（失败、危险等）；向…献殷勤；设法获得]]></ex>
+
+                    <ex><![CDATA[vi. 求爱]]></ex>
+
+                    <ex><![CDATA[n. (Court)人名；(英)考特；(法)库尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Court]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法院]]></ex>
+
+                            <ex><![CDATA[球场]]></ex>
+
+                            <ex><![CDATA[法庭]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Grass court]]></key>
+
+            <value>
+
+                            <ex><![CDATA[草地球场]]></ex>
+
+                            <ex><![CDATA[草地网球场]]></ex>
+
+                            <ex><![CDATA[草场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Administrative court]]></key>
+
+            <value>
+
+                            <ex><![CDATA[行政法院]]></ex>
+
+                            <ex><![CDATA[行政法庭]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="complicated"> <hw highlight="yes">com*pli*cat*ed</hw> <sound><wav>compli07.wav</wav></sound> <pr>ˈkɑ:mpləˌkeɪtəd</pr> <fl>adjective</fl> <def><gram>more com*pli*cat*ed; most com*pli*cat*ed</gram> <dt>:hard to understand, explain, or deal with <vi>The game's rules are too <it>complicated</it>.</vi> <vi>a <it>complicated</it> situation</vi> <vi>a very <it>complicated</it> issue</vi> :having many parts or steps <vi>The machine has a <it>complicated</it> design.</vi> <vi>a <it>complicated</it> plan</vi> <vi>a <it>complicated</it> mathematical formula</vi></dt></def></entry>
+
+	<entry id="complicate"> <hw highlight="yes">com*pli*cate</hw> <sound><wav>compli05.wav</wav></sound> <pr>ˈkɑ:mpləˌkeɪt</pr> <fl>verb</fl> <in><if>com*pli*cates</if></in> <in><if>com*pli*cat*ed</if></in> <in><if>com*pli*cat*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to make (something) more difficult or less simple <vi>Changing jobs now would <it>complicate</it> her life.</vi> <vi>This <it>complicates</it> things. [=this makes the situation more difficult]</vi> <vi>To <it>complicate</it> matters further, his train is running late. [=his train is running late, which makes the situation even more complicated or difficult]</vi></dt> <sn>2</sn> <dt>:to cause (a medical problem) to become more dangerous or harder to treat <vi>a disease <it>complicated</it> by infection</vi></dt></def></entry>
+
+</entry_list>

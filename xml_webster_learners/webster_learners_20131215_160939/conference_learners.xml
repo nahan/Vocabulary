@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="conference"> <hw highlight="yes">con*fer*ence</hw> <sound><wav>confer07.wav</wav></sound> <pr>ˈkɑ:nfərəns</pr> <fl>noun</fl> <in><il>plural</il> <if>con*fer*encenc*es</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:a formal meeting in which many people gather in order to talk about ideas or problems related to a particular topic (such as medicine or business) usually for several days <vi>The organization held/hosted its annual <it>conference</it> in New York this year.</vi> <vi>national <it>conferences</it> on women's health</vi> <vi>an international peace <it>conference</it> [=a meeting in which leaders of many countries talk about peace]</vi> <vi>a <it>conference</it> of foreign ministers</vi> <un>sometimes used before another noun <vi>a <it>conference</it> center [=a large building where conferences are held]</vi></un></dt> <sn>2</sn> <dt>:a formal meeting in which a small number of people talk about something <wsgram>count</wsgram> <vi>Our boss called a <it>conference</it> to discuss the new changes.</vi> <wsgram>noncount</wsgram> <vi>He spent an hour <phrase>in conference</phrase> with the president.</vi> <un>often used before another noun <vi>a <it>conference</it> room/table</vi></un> <dx>see also <dxt>conference call</dxt> <dxt>news conference</dxt> <dxt>press conference</dxt></dx></dt> <sn>3</sn> <sgram>count</sgram> <ssl>US</ssl> <dt>:a group of sports teams that play against each other and that are part of a larger league of teams <vi>a football <it>conference</it></vi> <vi>the champions of the American Football <it>Conference</it></vi> <un>often used before another noun <vi>the <it>conference</it> champions/championship</vi></un></dt></def></entry>
+
+	<entry id="conference call"> <hw>conference call</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ calls</if></in> <def><gram>count</gram> <dt>:a telephone call in which someone talks to several people at the same time</dt></def></entry>
+
+	<entry id="news conference"> <hw>news conference</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ences</if></in> <def><gram>count</gram> <dt>:<sx>press conference</sx> <vi>The President will hold a <it>news conference</it> later today.</vi></dt></def></entry>
+
+	<entry id="press conference"> <hw>press conference</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ences</if></in> <def><gram>count</gram> <dt>:a meeting in which someone gives information to news reporters and answers questions <vi>The President will hold/give a <it>press conference</it> later today.</vi> <ca>called also <cat>news conference</cat></ca></dt></def></entry>
+
+</entry_list>

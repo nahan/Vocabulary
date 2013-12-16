@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>alarm</key>
+
+<ps>ə'lɑ:m</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/64/86/6486b4e98228b83d4b13d54febe5f170.mp3</pron>
+
+<ps>əˈlɑrm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/64/86/6486b4e98228b83d4b13d54febe5f170.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>惊恐；警报；闹铃；动员令；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使惊恐；警告；给（门等）安装警报器；
+
+</acceptation>
+
+<sent><orig>
+
+This includes system calls such as alarm, getitimer, and sleep.
+
+</orig>
+
+<trans>
+
+这包括诸如alarm,getitimer,和sleep等系统调用。
+
+</trans></sent>
+
+<sent><orig>
+
+Alarm function: an emergency alarm, alarm displacement, speed alarm, exceed alarm, low-battery alarm, anti-theft alarm.
+
+</orig>
+
+<trans>
+
+报警功能：紧急报警、位移报警、超速报警、越区报警、低电报警、防盗报警。
+
+</trans></sent>
+
+<sent><orig>
+
+DSC is intrusion alarm control panels, intrusion alarm detection devices and alarm communication products and services.
+
+</orig>
+
+<trans>
+
+DSC是侵扰警报控制表盘、侵扰警报探测装置和警报通讯产品和服务的代名词。
+
+</trans></sent>
+
+<sent><orig>
+
+BSL laboratories should have automatic fire alarm. Local alarm device preferredorder to give pre-alarm of fire.
+
+</orig>
+
+<trans>
+
+在生物安全实验室区域设置火灾自动报警装置。建议采用区域报警设备，对生物安全实验室进行火灾预警。
+
+</trans></sent>
+
+<sent><orig>
+
+Intelligent automatic alarm system: Including fire alarm control equipment, automatic fire alarm system, etc.
+
+</orig>
+
+<trans>
+
+智能型自动报警系统。含火灾报警控制装置、火灾自动报警系统等。
+
+</trans></sent>
+
+</dict>

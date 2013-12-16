@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[press]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[新闻]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pres]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 压；按；新闻；出版社；[印刷] 印刷机]]></ex>
+
+                    <ex><![CDATA[vt. 压；按；逼迫；紧抱]]></ex>
+
+                    <ex><![CDATA[vi. 压；逼；重压]]></ex>
+
+                    <ex><![CDATA[n. (Press)人名；(英、德、俄、西、瑞典)普雷斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[press]]></key>
+
+            <value>
+
+                            <ex><![CDATA[按]]></ex>
+
+                            <ex><![CDATA[出版社]]></ex>
+
+                            <ex><![CDATA[压]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[press conference]]></key>
+
+            <value>
+
+                            <ex><![CDATA[记者招待会]]></ex>
+
+                            <ex><![CDATA[新闻发布会]]></ex>
+
+                            <ex><![CDATA[记者会]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hydraulic press]]></key>
+
+            <value>
+
+                            <ex><![CDATA[液压机]]></ex>
+
+                            <ex><![CDATA[水压机]]></ex>
+
+                            <ex><![CDATA[液压式冲床]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

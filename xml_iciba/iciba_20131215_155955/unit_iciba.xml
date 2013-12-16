@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>unit</key>
+
+<ps>'ju:nɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/da/eb/daebced3d51baf6c805d30d1d550c272.mp3</pron>
+
+<ps>ˈjunɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/3e/34/3e34bdebd9bd5edda27e8728904a2552.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>单位，单元；装置；个体；[数]单位数；
+
+</acceptation>
+
+<sent><orig>
+
+The BSC includes receiving unit, processing unit, recording unit, and transmitting unit.
+
+</orig>
+
+<trans>
+
+该BSC包括接收单元、处理单元、记录单元和发送单元。
+
+</trans></sent>
+
+<sent><orig>
+
+The design of DCS in HF Alkylation unit, MTBE unit and Gas Separation unit is introduced.
+
+</orig>
+
+<trans>
+
+介绍了氢氟酸烷基化装置、甲基叔丁基醚(MTBE)装置及气分装置等的DCS的设计。
+
+</trans></sent>
+
+<sent><orig>
+
+The hardware mainly includes power supply, signal input unit, main control unit, signal output unit.
+
+</orig>
+
+<trans>
+
+硬件主要由电源部分、信号输入单元、主控单元和信号输出单元等组成。
+
+</trans></sent>
+
+<sent><orig>
+
+The rules made a corn unit equal to a gold unit equal to a Coca-Cola unit.
+
+</orig>
+
+<trans>
+
+这个原则对玉米的规定和黄金，可口可乐都是一样的，用单位来表示。
+
+</trans></sent>
+
+<sent><orig>
+
+Northeast Soybean, Moisture per Unit1% Price1%, Admixture per Unit1% Price1%, Oil Content per Unit1% Price1.5%.
+
+</orig>
+
+<trans>
+
+东北大豆。水分每增减1%合同价格减增1%杂质每增减1%合同价格减增1%含油量每增减1%合同价格增减1.5%。
+
+</trans></sent>
+
+</dict>

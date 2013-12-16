@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="army"> <hw highlight="yes">ar*my</hw> <sound><wav>army0001.wav</wav></sound> <pr>ˈɑɚmi</pr> <fl>noun</fl> <in><il>plural</il> <if>ar*mies</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:a large group of soldiers organized to fight battles on land <vi>the <it>armies</it> of Alexander the Great</vi> <vi>raise an <it>army</it></vi></dt> <sn>b</sn> <dt>:the part of a country's military forces that includes soldiers who are trained to fight on land <vi>He left home and joined the <it>army</it> after he graduated from high school.</vi> <un>usually capitalized when a specific army is being referred to <vi>the U.S. <it>Army</it>, Navy, Air Force, and Marines</vi> <vi>She's in the British <it>Army</it>.</vi></un> <un>often used before another noun <vi><it>army</it> officers/units/barracks</vi></un></dt> <sn>2</sn> <dt>:a large number of people or things that are involved in some activity together <vi>The company employs an <it>army</it> of lawyers to handle its legal affairs.</vi> <vi>They sent in a whole <it>army</it> of trained technicians.</vi> <vi>an <it>army</it> of ants</vi> <vi>The organization was founded by a dedicated <it>army</it> of volunteers.</vi> <dx>see also <dxt>salvation army</dxt></dx></dt></def></entry>
+
+	<entry id="Salvation Army"> <hw>Salvation Army</hw> <fl>noun</fl> <dro><dre>the Salvation Army</dre> <def><dt>:an international Christian group that helps poor people</dt></def></dro></entry>
+
+	<entry id="Territorial Army"> <hw>Territorial Army</hw> <fl>noun</fl> <dro><dre>the Territorial Army</dre> <def><dt>:a part of the military forces of Britain that is made up of people who are not professional soldiers but are given military training for a period of time each year <un>abbr. <it>TA</it></un></dt></def></dro></entry>
+
+</entry_list>

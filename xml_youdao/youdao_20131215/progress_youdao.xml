@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[progress]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[进步]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prəʊgres]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 进步，发展；前进]]></ex>
+
+                    <ex><![CDATA[vi. 前进，进步；进行]]></ex>
+
+                    <ex><![CDATA[n. (Progress)人名；(赞)普罗格雷斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Progress]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进步]]></ex>
+
+                            <ex><![CDATA[进展]]></ex>
+
+                            <ex><![CDATA[前进]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[progress bar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进度指示器]]></ex>
+
+                            <ex><![CDATA[进度条]]></ex>
+
+                            <ex><![CDATA[进程状态条]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Progress Station]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进度站]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

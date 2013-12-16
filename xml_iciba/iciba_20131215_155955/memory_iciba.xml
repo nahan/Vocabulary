@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>memory</key>
+
+<ps>'memərɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/21/54/2154411d803f8d695f516e0afe26dfd2.mp3</pron>
+
+<ps>ˈmɛməri</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/cd/69/cd69b4957f06cd818d7bf3d61980e291.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>记忆，记忆力；回忆，往事；[计]存储器，内存；
+
+</acceptation>
+
+<sent><orig>
+
+MAIN STORAGE:Term synonymous with MEMORY.
+
+</orig>
+
+<trans>
+
+主存储器：MEMORY的同义术语。
+
+</trans></sent>
+
+<sent><orig>
+
+Examples of 'other' memory are disk cache pages, memory allocated fixed (non-pageable) , and memory-mapped files.
+
+</orig>
+
+<trans>
+
+`其它'内存的例子是磁盘缓冲页、分配修复的内存（非分页）和内存映射文件。
+
+</trans></sent>
+
+<sent><orig>
+
+Memory just be memory. Memory has no power.
+
+</orig>
+
+<trans>
+
+回忆只是回忆，回忆没有任何力量。
+
+</trans></sent>
+
+<sent><orig>
+
+ThereAre two kinds of memory: the internal memory and the external Memory.
+
+</orig>
+
+<trans>
+
+电脑有两种存储器：内部存储器和外部存储器。
+
+</trans></sent>
+
+<sent><orig>
+
+The virtual memory addresses must be translated into actual memory addresses before main memory is referenced.
+
+</orig>
+
+<trans>
+
+在访问主存前，必须将虚拟存储器地址转换为实际存储器地址。
+
+</trans></sent>
+
+</dict>

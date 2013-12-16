@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="amazing"> <hw>amazing</hw> <altpr>əˈmeɪzɪŋ</altpr> <fl>adjective</fl> <def><gram>more amazing; most amazing</gram> <dt>:causing great surprise or wonder :causing amazement <vi>She gave an <it>amazing</it> [=<it>wonderful</it>] performance in her first film.</vi> <vi>It's <it>amazing</it> [=difficult to believe] how/that many adults in this country don't know how to read.</vi> <vi>He showed an <it>amazing</it> lack of concern for others.</vi> <vi>The <it>amazing</it> thing is that no one knows where it came from.</vi> <vi>He has an <it>amazing</it> ability to learn new languages.</vi> <vi>Her grandmother was really an <it>amazing</it> woman.</vi> <vi>He's created an <it>amazing</it> number [=a surprisingly large number] of new designs for the spring.</vi></dt></def> <uro><ure>amaz*ing*ly</ure> <fl>adverb</fl> <utxt><vi>an <it>amazingly</it> beautiful garden</vi> <vi><it>Amazingly</it> (enough), the dog swam all the way across the lake.</vi></utxt></uro></entry>
+
+	<entry id="amaze"> <hw highlight="yes">amaze</hw> <sound><wav>amaze001.wav</wav></sound> <pr>əˈmeɪz</pr> <fl>verb</fl> <in><if>amaz*es</if></in> <in><if>amazed</if></in> <in><if>amaz*ing</if></in> <def><dt>:to surprise and sometimes confuse (someone) very much :to fill (someone) with wonder <wsgram>+ obj</wsgram> <vi>He has <it>amazed</it> audiences around the world with his magic tricks.</vi> <vi>It <it>amazes</it> me that no one noticed the error.</vi> <vi>I am always <it>amazed</it> by her garden's beauty. = Her garden's beauty <phrase>never fails/ceases to amaze</phrase> me.</vi> <wsgram>no obj</wsgram> <vi>Her garden's beauty <it>never fails/ceases to amaze</it>.</vi></dt></def></entry>
+
+</entry_list>

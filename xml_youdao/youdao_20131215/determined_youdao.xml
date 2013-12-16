@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[determined]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[确定]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'tɜːmɪnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 决定；断定（determine的过去分词）]]></ex>
+
+                    <ex><![CDATA[adj. 决定了的；坚决的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[determined]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坚决的]]></ex>
+
+                            <ex><![CDATA[下定决心]]></ex>
+
+                            <ex><![CDATA[坚定的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[determined price]]></key>
+
+            <value>
+
+                            <ex><![CDATA[事先厘定的价格]]></ex>
+
+                            <ex><![CDATA[由市场决定的价格]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Technology Determined]]></key>
+
+            <value>
+
+                            <ex><![CDATA[技术决定论]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

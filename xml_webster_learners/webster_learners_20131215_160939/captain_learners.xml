@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="captain[1]"> <hw highlight="yes" hindex="1">cap*tain</hw> <sound><wav>captai01.wav</wav></sound> <pr>ˈkæptən</pr> <fl>noun</fl> <in><il>plural</il> <if>cap*tains</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who is in charge of a ship or an airplane <vi>The <it>captain</it> has turned off the “fasten seat belt” sign.</vi> <vi><it>Captain</it> Ahab</vi></dt> <sn>2</sn> <dt>:an officer of high rank in some branches of the military <vi>an army/navy <it>captain</it></vi></dt> <sn>3</sn> <ssl>chiefly US</ssl> <dt>:an officer of high rank in a police or fire department</dt> <sn>4</sn> <dt>:an athlete who is chosen to be the leader of a team <vi>She was the <it>captain</it> of our team. = She was our team <it>captain</it>.</vi></dt></def></entry>
+
+	<entry id="captain[2]"> <hw hindex="2">captain</hw> <altpr>ˈkæptən</altpr> <fl>verb</fl> <in><if>captains</if></in> <in><if>captained</if></in> <in><if>captain*ing</if></in> <def><gram>+ obj</gram> <dt>:to be the captain of (something): such as</dt> <sn>a</sn> <dt>:to be in charge of (a ship or airplane) <vi>The ship was <it>captained</it> by John Smith.</vi></dt> <sn>b</sn> <dt>:to lead (a team) <vi>She <it>captained</it> last year's team.</vi></dt></def></entry>
+
+	<entry id="captain of industry"> <hw>captain of industry</hw> <fl>noun</fl> <in><il>plural</il> <if>captains of industry</if></in> <def><gram>count</gram> <dt>:someone who owns or manages a large, successful business or company</dt></def></entry>
+
+	<entry id="sea captain"> <hw>sea captain</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tains</if></in> <def><gram>count</gram> <dt>:the captain of a ship that travels on the sea</dt></def></entry>
+
+</entry_list>

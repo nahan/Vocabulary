@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nail]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[指甲]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[neɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [解剖] 指甲；钉子]]></ex>
+
+                    <ex><![CDATA[vt. 钉；使固定；揭露]]></ex>
+
+                    <ex><![CDATA[n. (Nail)人名；(法)纳伊；(土、阿拉伯、罗)纳伊尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[nail]]></key>
+
+            <value>
+
+                            <ex><![CDATA[指甲]]></ex>
+
+                            <ex><![CDATA[钉子]]></ex>
+
+                            <ex><![CDATA[趾甲]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Nail enamel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[指甲油]]></ex>
+
+                            <ex><![CDATA[亮光指甲油]]></ex>
+
+                            <ex><![CDATA[撒哈拉限量指甲油]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nail punch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[钉冲]]></ex>
+
+                            <ex><![CDATA[钉形冲头]]></ex>
+
+                            <ex><![CDATA[冲钉机]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[reading]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[阅读]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['riːdɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 阅读，朗读；读物；读数]]></ex>
+
+                    <ex><![CDATA[v. 阅读（read的ing形式）]]></ex>
+
+                    <ex><![CDATA[adj. 阅读的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Reading]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阅读]]></ex>
+
+                            <ex><![CDATA[读书]]></ex>
+
+                            <ex><![CDATA[雷丁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Reading Comprehension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阅读理解]]></ex>
+
+                            <ex><![CDATA[第三部分阅读]]></ex>
+
+                            <ex><![CDATA[阅读测验]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Speed reading]]></key>
+
+            <value>
+
+                            <ex><![CDATA[速读]]></ex>
+
+                            <ex><![CDATA[快速阅读]]></ex>
+
+                            <ex><![CDATA[快读]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>expression</key>
+
+<ps>ɪk'spreʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/31/b4/31b4dfa830b14b495dbdbefad463a9e3.mp3</pron>
+
+<ps>ɪkˈsprɛʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/63/97/63973cd3ad7ccf2c8d5dce94b215f683.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>表现，表示，表达；表情，脸色，态度，腔调，声调；[数]式，符号；词句，语句，措辞，说法；
+
+</acceptation>
+
+<sent><orig>
+
+The expression rule recursively calls itself indirectly when it invokes the factor rule.
+
+</orig>
+
+<trans>
+
+expression规则在调用factor规则时，间接地调用自身。
+
+</trans></sent>
+
+<sent><orig>
+
+The expression of gastrin had no relationship with dukes stages, PCNA expression and p53 protein expression.
+
+</orig>
+
+<trans>
+
+胃泌求表达和Dukes分期、PCNA,p53蛋白的表达无相关性。
+
+</trans></sent>
+
+<sent><orig>
+
+COX-2 expression was positively correlated to both p-Stat3 expression and p-Stat5 expression in ESCC.
+
+</orig>
+
+<trans>
+
+COX-2、p-Stat3及p-Stat5三者的表达之间呈正相关。
+
+</trans></sent>
+
+<sent><orig>
+
+An expression followed by a semicolon. An expression statement causes the expression to be evaluated.
+
+</orig>
+
+<trans>
+
+一种语句，由后接分号的表达式构成。表达式语句用于表达式的求解。
+
+</trans></sent>
+
+<sent><orig>
+
+Newspaper reports about bank in a banking crisis in Russia use used that expression, they expression.
+
+</orig>
+
+<trans>
+
+报纸发表在俄罗斯银行危机使用了这个词汇。
+
+</trans></sent>
+
+</dict>

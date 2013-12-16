@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[root]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[根]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ruːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 根；根源；词根；祖先]]></ex>
+
+                    <ex><![CDATA[vt. 生根，固定；根源在于]]></ex>
+
+                    <ex><![CDATA[vi. 生根；根除]]></ex>
+
+                    <ex><![CDATA[n. (Root)人名；(英)鲁特；(德、瑞典)罗特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Root]]></key>
+
+            <value>
+
+                            <ex><![CDATA[根]]></ex>
+
+                            <ex><![CDATA[树根]]></ex>
+
+                            <ex><![CDATA[系统管理员的家目录]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[square root]]></key>
+
+            <value>
+
+                            <ex><![CDATA[平方根]]></ex>
+
+                            <ex><![CDATA[二次方根]]></ex>
+
+                            <ex><![CDATA[二次根]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cube root]]></key>
+
+            <value>
+
+                            <ex><![CDATA[立方根]]></ex>
+
+                            <ex><![CDATA[三次方根]]></ex>
+
+                            <ex><![CDATA[三次根]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

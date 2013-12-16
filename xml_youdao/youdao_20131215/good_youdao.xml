@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[good]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[好]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gʊd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 好处；善行；慷慨的行为]]></ex>
+
+                    <ex><![CDATA[adj. 好的；优良的；愉快的；虔诚的]]></ex>
+
+                    <ex><![CDATA[adv. 好]]></ex>
+
+                    <ex><![CDATA[n. (Good)人名；(英)古德；(瑞典)戈德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[good]]></key>
+
+            <value>
+
+                            <ex><![CDATA[好的]]></ex>
+
+                            <ex><![CDATA[良好]]></ex>
+
+                            <ex><![CDATA[善]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Public good]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公共物品]]></ex>
+
+                            <ex><![CDATA[公益事业]]></ex>
+
+                            <ex><![CDATA[公共财]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Good Health]]></key>
+
+            <value>
+
+                            <ex><![CDATA[好健康]]></ex>
+
+                            <ex><![CDATA[好健康牛初乳咀嚼片]]></ex>
+
+                            <ex><![CDATA[健康]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

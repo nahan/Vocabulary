@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sexual]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[性]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sekʃʊəl; -sjʊəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 性的；性别的；有性的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[sexual]]></key>
+
+            <value>
+
+                            <ex><![CDATA[性的]]></ex>
+
+                            <ex><![CDATA[性别歧视]]></ex>
+
+                            <ex><![CDATA[性别的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sexual dimorphism]]></key>
+
+            <value>
+
+                            <ex><![CDATA[两性异形]]></ex>
+
+                            <ex><![CDATA[雌雄异型]]></ex>
+
+                            <ex><![CDATA[二态性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sexual revolution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[性革命]]></ex>
+
+                            <ex><![CDATA[性爱革命]]></ex>
+
+                            <ex><![CDATA[性自由]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

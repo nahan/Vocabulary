@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>circuit</key>
+
+<ps>'sɜ:kɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/de/83/de83e9b3d38c7a88b21f6ee0ef1d3647.mp3</pron>
+
+<ps>ˈsɚkɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/de/83/de83e9b3d38c7a88b21f6ee0ef1d3647.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>电路，线路；巡回；唤醒，环形道；〔电〕电流；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>巡回，周游；
+
+</acceptation>
+
+<sent><orig>
+
+Circuit design by infra-red coding circuit, infrared decoder circuit and unlock the keyboard and display circuit.
+
+</orig>
+
+<trans>
+
+设计电路主要由红外线编码电路、红外线解码开锁电路和键盘及显示电路组成。
+
+</trans></sent>
+
+<sent><orig>
+
+It is consisted of control circuit, main circuit, detected circuit and DC-DC power supply circuit.
+
+</orig>
+
+<trans>
+
+整个系统由四个部分构成，主控制电路部分、主电路部分、检测电路部分、DC-DC电源部分。
+
+</trans></sent>
+
+<sent><orig>
+
+Voice amplification circuit design is composed of Pre-amplification circuit, Active filter circuit and power amplification circuit.
+
+</orig>
+
+<trans>
+
+语音放大电路由前置放大电路、有源滤波电路和功率放大电路三部分组成。
+
+</trans></sent>
+
+<sent><orig>
+
+The designed circuit includes amplifier-filter circuit, AGC circuit and floating threshold setting circuit mainly.
+
+</orig>
+
+<trans>
+
+设计的电路主要有放大-滤波电路、自动增益控制电路和浮动阈值电路。
+
+</trans></sent>
+
+<sent><orig>
+
+See Air Circuit Breaker, Main Breaker, Molded Case Circuit Breaker and Power Circuit Breaker.
+
+</orig>
+
+<trans>
+
+（见空气线路断路器、主开关、塑壳线路断路器等）。
+
+</trans></sent>
+
+</dict>

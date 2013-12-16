@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="brother"> <hw highlight="yes">broth*er</hw> <sound><wav>brothe03.wav</wav></sound> <pr>ˈbrʌðɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>broth*ers</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a boy or man who has one or both of the same parents as you <vi>my little/younger <it>brother</it></vi> <vi>her big/older <it>brother</it></vi> <vi>Her <it>brother</it> was adopted.</vi> <dx>compare <dxt>brother-in-law</dxt> <dxt>half brother</dxt> <dxt>stepbrother</dxt></dx></dt> <sn>2</sn> <dt>:a man who is from the same group or country as you <vi>his college fraternity <it>brothers</it></vi> <vi>We must support our <it>brothers</it> and sisters fighting overseas.</vi></dt> <sn>3</sn> <sin><il>plural</il> <if>broth*ers</if> <il>or</il> <if>breth*ren</if> <sound><wav>brethr01.wav</wav></sound> <pr>ˈbrɛðrən</pr></sin> <dt>:a male member of a religious group <vi>the <it>brothers</it> in a monastery</vi> <un>used especially as a title <vi><it>Brother</it> John</vi></un></dt> <sn>4</sn> <ssl>US</ssl> <ssl>informal</ssl> <dt>:a black man <un>used especially by African-Americans</un></dt> <sn>5</sn> <ssl>US</ssl> <ssl>informal</ssl> <dt><un>used when talking to a man <vi><it>Brother</it>, do you have an extra cigarette?</vi> <vi><it>Brother</it>, you have got to relax.</vi></un></dt> <sn>6</sn> <ssl>chiefly US</ssl> <ssl>informal</ssl> <dt><un>used as an interjection to express surprise or annoyance <vi><it>Brother</it> was I ever sick. [=I was very sick]</vi> <vi>Oh, <it>brother</it>!</vi></un></dt></def></entry>
+
+	<entry id="brethren"> <hw>breth*ren</hw> <sound><wav>brethr01.wav</wav></sound> <pr>ˈbrɛðrən</pr> <cx><cl>plural of</cl> <ct>brother</ct></cx> <def><dt><un>used especially to begin to talk in a formal way to a group of people or to refer to the members of a particular group <vi>Welcome, <it>brethren</it>.</vi> <vi>our church <it>brethren</it></vi></un></dt></def></entry>
+
+	<entry id="brother-in-law"> <hw>broth*er–in–law</hw> <sound><wav>brothe06.wav</wav></sound> <pr>ˈbrʌðɚrənˌlɑ:</pr> <fl>noun</fl> <in><il>plural</il> <if>broth*ers–in–law</if> <sound><wav>brothe07.wav</wav></sound> <pr>ˈbrʌðɚzənˌlɑ:</pr></in> <def><gram>count</gram> <sn>1</sn> <dt>:the brother of your husband or wife</dt> <sn>2</sn> <dt>:the husband of your sister</dt></def></entry>
+
+	<entry id="Big Brother"> <hw>Big Brother</hw> <fl>noun</fl> <def><gram>singular</gram> <dt>:a powerful government or organization that watches and controls what people say and do <vi>“You better be careful about what you say,” she warned, “<it>Big Brother</it> is listening!”</vi> <dx>see also <dxt>big <dxn>7</dxn></dxt></dx></dt></def></entry>
+
+	<entry id="blood brother"> <hw>blood brother</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a man or boy who has promised to be loyal to another man or boy usually in a ceremony in which they mix their blood <vi>He would never betray me—he's my <it>blood brother</it>.</vi></dt></def></entry>
+
+	<entry id="half brother"> <hw>half brother</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a brother with the same father but a different mother or the same mother but a different father <vi>George is my <it>half brother</it>.</vi></dt></def></entry>
+
+	<entry id="soul brother"> <hw>soul brother</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -thers</if></in> <def><gram>count</gram> <sl>US</sl> <sl>informal + old-fashioned</sl> <dt>:a black man or boy <ca>called also <cat>brother</cat></ca></dt></def></entry>
+
+</entry_list>

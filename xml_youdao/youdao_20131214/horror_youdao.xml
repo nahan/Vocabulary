@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[horror]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[恐怖]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['hɒrə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 惊骇；惨状；极端厌恶；令人恐怖的事物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Horror]]></key>
+
+            <value>
+
+                            <ex><![CDATA[恐怖]]></ex>
+
+                            <ex><![CDATA[惊栗]]></ex>
+
+                            <ex><![CDATA[恐惧]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Horror film]]></key>
+
+            <value>
+
+                            <ex><![CDATA[恐怖电影]]></ex>
+
+                            <ex><![CDATA[恐怖片]]></ex>
+
+                            <ex><![CDATA[惊悚片]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[horror movie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[恐怖片]]></ex>
+
+                            <ex><![CDATA[恐怖电影]]></ex>
+
+                            <ex><![CDATA[最爱电影]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

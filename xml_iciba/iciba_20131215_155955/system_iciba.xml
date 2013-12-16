@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>system</key>
+
+<ps>'sɪstəm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/e5/1f/e51f76fec520d3ea6ecd193c02af09e1.mp3</pron>
+
+<ps>ˈsɪstəm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/54/b5/54b53072540eeeb8f8e9343e71f28176.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>体系，系统；制度；身体；方法；
+
+</acceptation>
+
+<sent><orig>
+
+Automated Highway System (AHS) is the most difficulty sub system in Intelligent Transport System(ITS).
+
+</orig>
+
+<trans>
+
+自动公路系统(Automated Highway System,简称AHS)是智能运输系统(Intelligent Transport System,简称ITS)领域中技术难度最大的系统。
+
+</trans></sent>
+
+<sent><orig>
+
+FCS (Fieldbus Control System) is open system network, as well as a fully distributed control system.
+
+</orig>
+
+<trans>
+
+现场总线控制系统(System)是开放系统网络，又是全分布控制系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Unlike peripheral nervous system (PNS) axons, severed central nervous system (CNS) axons are unable to regenerate.
+
+</orig>
+
+<trans>
+
+与周围神经系统(peripheral nervous system,PNS)的再生和功能恢复不同，中枢神经系统(central nervous system,CNS)损伤后不能再生。
+
+</trans></sent>
+
+<sent><orig>
+
+APDS (Angina Pectoris Diagnosis System) is an expert consultant system developed for angina pectoris diagnosis.
+
+</orig>
+
+<trans>
+
+APDS(Angina Pectoris Diagnosis System)是我们开发的一个用于诊断以胸痛为主要症状的一类冠心病的专家咨询系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Multi-process jobs are not allowed. This includes system calls such as fork, exec, and system.
+
+</orig>
+
+<trans>
+
+不支持多进程任务。这包括诸如fork,exec,和system等系统调用。
+
+</trans></sent>
+
+</dict>

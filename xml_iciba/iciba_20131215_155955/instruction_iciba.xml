@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>instruction</key>
+
+<ps>ɪn'strʌkʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/dd/68/dd68173cdaa3f9f077ae046b13a7f3cb.mp3</pron>
+
+<ps>ɪnˈstrʌkʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/39/cc/39cc6efabe9ccc4829ada41bad10e3be.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>授课；教诲；传授的或获得的知识，课程；[计算机科学]指令；
+
+</acceptation>
+
+<sent><orig>
+
+Content-based instruction (CBI) is such an approach which integrates language instruction with subject matter instruction.
+
+</orig>
+
+<trans>
+
+以内容为中心的教学方法就是一种将语言指导和学科指导结合在一起的教学方法。
+
+</trans></sent>
+
+<sent><orig>
+
+The xsl: processing-instruction&gt; element writes a processing instruction to the output.
+
+</orig>
+
+<trans>
+
+元素的作用是：向输出文档中写入一个处理指令。
+
+</trans></sent>
+
+<sent><orig>
+
+The traditional instructive process achieve class communication by instruction design, then obtain instruction target.
+
+</orig>
+
+<trans>
+
+传统的教学是通过教学设计来实现课堂交互从而实现教学目标。
+
+</trans></sent>
+
+<sent><orig>
+
+CBE (computer-based education) includes two main fields-CAI(Computer-Assisted Instruction)and CMI(Computer Managed Instruction).
+
+</orig>
+
+<trans>
+
+探讨计算机辅助教育(CBE)技术（包含计算机辅助教学(CAI)和计算机管理教学(CMI)两个主要子域）的应用。
+
+</trans></sent>
+
+<sent><orig>
+
+To monitor the operator's performance to ensure they are following the quality instruction and work instruction.
+
+</orig>
+
+<trans>
+
+监督操作人员作业，确保其遵守质量规程及作业指导书中的规定。
+
+</trans></sent>
+
+</dict>

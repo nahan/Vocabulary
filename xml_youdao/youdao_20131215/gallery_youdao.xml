@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[gallery]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[画廊]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['gæl(ə)rɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 画廊；走廊；旁听席；地道]]></ex>
+
+                    <ex><![CDATA[vt. 在…修建走廊；在…挖地道]]></ex>
+
+                    <ex><![CDATA[vi. 挖地道]]></ex>
+
+                    <ex><![CDATA[n. (Gallery)人名；(英)加勒里]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[gallery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美术馆]]></ex>
+
+                            <ex><![CDATA[画廊]]></ex>
+
+                            <ex><![CDATA[长廊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[art gallery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[画廊]]></ex>
+
+                            <ex><![CDATA[美术馆]]></ex>
+
+                            <ex><![CDATA[艺术馆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tate Gallery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[泰特美术馆]]></ex>
+
+                            <ex><![CDATA[泰德艺廊]]></ex>
+
+                            <ex><![CDATA[泰特英国美术馆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

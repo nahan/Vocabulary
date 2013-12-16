@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[impression]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[印象]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪm'preʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 印象；效果，影响；压痕，印记；感想]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Impression]]></key>
+
+            <value>
+
+                            <ex><![CDATA[印象]]></ex>
+
+                            <ex><![CDATA[意念]]></ex>
+
+                            <ex><![CDATA[不太明确的感觉或想法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[artistic impression]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艺术印象]]></ex>
+
+                            <ex><![CDATA[艺术印象分]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[impression tray]]></key>
+
+            <value>
+
+                            <ex><![CDATA[印模托盘]]></ex>
+
+                            <ex><![CDATA[印模盘]]></ex>
+
+                            <ex><![CDATA[印模托]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

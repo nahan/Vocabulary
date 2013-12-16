@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>busy</key>
+
+<ps>'bɪzɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/fe/49/fe49d6b283859de0d0ae3f8d304bd3ec.mp3</pron>
+
+<ps>ˈbɪzi</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8b/c1/8bc1b2f84252c3df4edd53e4aad097a7.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>忙碌的；占线；繁华的；爱管闲事的；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>忙着做某事；使奔走；使经营；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>〈英俚〉侦探；包打听；
+
+</acceptation>
+
+<sent><orig>
+
+E_busy: (10400) Signifies that the request cannot be processed at the current time.
+
+</orig>
+
+<trans>
+
+E_busy: (10400) 表示当前无法处理该请求。
+
+</trans></sent>
+
+<sent><orig>
+
+The IF1 Registers are locked while the Busy bit is set.
+
+</orig>
+
+<trans>
+
+当Busy位置位时IF1寄存器锁定。
+
+</trans></sent>
+
+<sent><orig>
+
+The Busy bit indicates that the transmission is pending.
+
+</orig>
+
+<trans>
+
+Busy位指示发送状态。
+
+</trans></sent>
+
+<sent><orig>
+
+Brookie: I don't know! They always busy! Busy busy busy!
+
+</orig>
+
+<trans>
+
+我不知道。他们整天除了忙还是忙、忙、忙！
+
+</trans></sent>
+
+<sent><orig>
+
+B Oh, busy, busy. I had a very busy weekend.
+
+</orig>
+
+<trans>
+
+B噢，忙，忙。我度过了一个忙碌的周末。
+
+</trans></sent>
+
+</dict>

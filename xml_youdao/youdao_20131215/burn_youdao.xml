@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[burn]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[燃烧]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɜːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 灼伤，烧伤；烙印]]></ex>
+
+                    <ex><![CDATA[vt. 燃烧；烧毁，灼伤；激起…的愤怒]]></ex>
+
+                    <ex><![CDATA[vi. 燃烧；烧毁；发热]]></ex>
+
+                    <ex><![CDATA[n. (Burn)人名；(英)伯恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[burn]]></key>
+
+            <value>
+
+                            <ex><![CDATA[燃烧]]></ex>
+
+                            <ex><![CDATA[烧伤]]></ex>
+
+                            <ex><![CDATA[灼伤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[burn incense]]></key>
+
+            <value>
+
+                            <ex><![CDATA[焚香]]></ex>
+
+                            <ex><![CDATA[烧香]]></ex>
+
+                            <ex><![CDATA[拈香]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[burn off]]></key>
+
+            <value>
+
+                            <ex><![CDATA[燃尽]]></ex>
+
+                            <ex><![CDATA[烧掉]]></ex>
+
+                            <ex><![CDATA[烧尽]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>context</key>
+
+<ps>ˈkɒntekst</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/41/92/41922d26073b89b5a9aa12aab05e884b.mp3</pron>
+
+<ps>ˈkɑnˌtɛkst</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5c/18/5c18ef72771564b7f43c497dc507aeab.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>上下文；背景；环境；语境；
+
+</acceptation>
+
+<sent><orig>
+
+The first part(Context) is philosophy and history, to help provide foundation and motivation for what follows.
+
+</orig>
+
+<trans>
+
+第一部分(Context（来龙去脉）)包括philosophy（思想）和历史，描述了后续部分的基础和动机。
+
+</trans></sent>
+
+<sent><orig>
+
+This book is divided into four parts: Context, Design, Tools, and Community.
+
+</orig>
+
+<trans>
+
+这本书分四章：Context（来龙去脉）、设计、工具和社团。
+
+</trans></sent>
+
+<sent><orig>
+
+Context quantization is an efficient method to deal with this problem.
+
+</orig>
+
+<trans>
+
+Context量化是解决这个问题的有效方法 。
+
+</trans></sent>
+
+<sent><orig>
+
+Current research on context-aware mainly focus on context acquirement, context modeling, and context inference.
+
+</orig>
+
+<trans>
+
+现有的上下文感知的中间件主要集中在上下文的获取，上下文建模，以及上下文的推理等方面。
+
+</trans></sent>
+
+<sent><orig>
+
+Context can roughly be divided into two kinds: linguistic context and extralinguistic context.
+
+</orig>
+
+<trans>
+
+语境由“言辞语境”和“言辞外语境”组成。
+
+</trans></sent>
+
+</dict>

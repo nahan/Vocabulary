@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[racing]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[赛车]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['reɪsɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 赛马；竞赛]]></ex>
+
+                    <ex><![CDATA[adj. 比赛的]]></ex>
+
+                    <ex><![CDATA[vi. 赛马（race的ing形式）；竞赛]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Racing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[赛车]]></ex>
+
+                            <ex><![CDATA[竞速]]></ex>
+
+                            <ex><![CDATA[竞赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Horse racing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[赛马]]></ex>
+
+                            <ex><![CDATA[二胡赛马]]></ex>
+
+                            <ex><![CDATA[赛马场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Racing bicycle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公路自行车]]></ex>
+
+                            <ex><![CDATA[赛车]]></ex>
+
+                            <ex><![CDATA[跑车]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

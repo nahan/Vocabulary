@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>tone</key>
+
+<ps>təʊn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/f3/03/f303f9a15cddbe8ee0296511a8b04b30.mp3</pron>
+
+<ps>toʊn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f3/03/f303f9a15cddbe8ee0296511a8b04b30.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>[语]声调，语调；[画]色调，色泽，明暗；[乐]乐音，全音，全音程；[医]（正常的）健康状态；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使更健壮；定调；使变调子；[摄影术]给…上色；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>带有某种腔调；呈现某种色彩；（颜色）调和（与 with 连用）；
+
+</acceptation>
+
+<sent><orig>
+
+The input and output impedance of MRF18030 transistor are obtained by 2-tone load-pull method.
+
+</orig>
+
+<trans>
+
+采用2-tone负载牵引法得到了LDMOS晶体管MRF18030的输入和输出阻抗。
+
+</trans></sent>
+
+<sent><orig>
+
+There are four types of grammatical tone-variations: light tone-variation, soft tone-variation, narrow tone-variation and pronoun tone-variation.
+
+</orig>
+
+<trans>
+
+语法变调主要包括：轻声化、轻音化、仄声支配式首字变调和代词所有格变调。
+
+</trans></sent>
+
+<sent><orig>
+
+English has four basic types of intonation: the falling tone, the rising tone-rise tone-fall tone.
+
+</orig>
+
+<trans>
+
+英语中有四种基本语调：降调、升调、降升调、升降调。
+
+</trans></sent>
+
+<sent><orig>
+
+Neutral tone is much shorter tone and is identified by the absence of tone mark.
+
+</orig>
+
+<trans>
+
+轻声的音长比重读短得多，而且不标调号。
+
+</trans></sent>
+
+<sent><orig>
+
+There is only one Ru tone, though during tone sandhi, a sandhi tone 3 is produced.
+
+</orig>
+
+<trans>
+
+入声只有一个？但在变调时会产生一个变调3。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[big]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[大]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 大的；重要的；量大的]]></ex>
+
+                    <ex><![CDATA[adv. 大量地；顺利；夸大地]]></ex>
+
+                    <ex><![CDATA[n. (Big)人名；(土)比格]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[big]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大的]]></ex>
+
+                            <ex><![CDATA[大字体]]></ex>
+
+                            <ex><![CDATA[大牌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Big Ben]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大本钟]]></ex>
+
+                            <ex><![CDATA[大笨钟]]></ex>
+
+                            <ex><![CDATA[大鹏钟]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Big Sur]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大苏尔]]></ex>
+
+                            <ex><![CDATA[大瑟尔]]></ex>
+
+                            <ex><![CDATA[大索尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

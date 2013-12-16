@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[milk]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[牛奶]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mɪlk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 牛奶；乳状物]]></ex>
+
+                    <ex><![CDATA[vt. 榨取；挤…的奶]]></ex>
+
+                    <ex><![CDATA[vi. 挤奶]]></ex>
+
+                    <ex><![CDATA[n. (Milk)人名；(英)米尔克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Milk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[牛奶]]></ex>
+
+                            <ex><![CDATA[米尔克]]></ex>
+
+                            <ex><![CDATA[乳]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Soy milk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[豆浆]]></ex>
+
+                            <ex><![CDATA[豆奶]]></ex>
+
+                            <ex><![CDATA[豆乳]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Harvey Milk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[哈维·米尔克]]></ex>
+
+                            <ex><![CDATA[米尔克]]></ex>
+
+                            <ex><![CDATA[哈维米克]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

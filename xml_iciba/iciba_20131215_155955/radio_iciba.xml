@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>radio</key>
+
+<ps>'reɪdɪəʊ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d9/33/d9330b4abede54de81070f2580396848.mp3</pron>
+
+<ps>ˈredio</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a3/98/a398fb77df76e6153df57cd65fd0a7c5.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>无线电；收音机；无线电广播台；无线电收发报机；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>用无线电发送讯息；作无线电广播；用X射线拍照；
+
+</acceptation>
+
+<sent><orig>
+
+Radio Represents radio buttons on an HTML form.
+
+</orig>
+
+<trans>
+
+代表HTML表单中的radio按钮。
+
+</trans></sent>
+
+<sent><orig>
+
+For each instance of an HTML tag on a form, a Radio object is created.
+
+</orig>
+
+<trans>
+
+它将为表单中的每个HTML标签实例创建一个Radio对象。
+
+</trans></sent>
+
+<sent><orig>
+
+When did the word &quot;radio&quot; come into common use? 
+
+</orig>
+
+<trans>
+
+&quot;radio&quot;一词何时开始普遍使用的呢？
+
+</trans></sent>
+
+<sent><orig>
+
+Radio Interference Radio interference refers to the interference with radio reception caused by a generator set.
+
+</orig>
+
+<trans>
+
+无线电搅扰无线电搅扰是指发电机组对无线电旌旗灯号接纳形成的搅扰。
+
+</trans></sent>
+
+<sent><orig>
+
+SX1 has FM radio and MP3. Nokia 6600 has MP3, but not a radio.
+
+</orig>
+
+<trans>
+
+SX1有调频广播和MP3。胖6只有MP3，没有广播。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[application]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[应用程序]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ˌæplɪ'keɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 应用；申请；应用程序；敷用]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Application]]></key>
+
+            <value>
+
+                            <ex><![CDATA[应用]]></ex>
+
+                            <ex><![CDATA[申请]]></ex>
+
+                            <ex><![CDATA[应用程序]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[application fee]]></key>
+
+            <value>
+
+                            <ex><![CDATA[申请费]]></ex>
+
+                            <ex><![CDATA[报名费]]></ex>
+
+                            <ex><![CDATA[申请费用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Application Management]]></key>
+
+            <value>
+
+                            <ex><![CDATA[应用程序管理]]></ex>
+
+                            <ex><![CDATA[应用管理]]></ex>
+
+                            <ex><![CDATA[应用程式管理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

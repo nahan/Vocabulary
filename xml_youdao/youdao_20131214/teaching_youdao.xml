@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[teaching]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[教学]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['tiːtʃɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 教学；教义]]></ex>
+
+                    <ex><![CDATA[v. 教学；教导（teach的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Teaching]]></key>
+
+            <value>
+
+                            <ex><![CDATA[教学]]></ex>
+
+                            <ex><![CDATA[教导]]></ex>
+
+                            <ex><![CDATA[讲授]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[effective teaching]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有效教学]]></ex>
+
+                            <ex><![CDATA[有效性教学]]></ex>
+
+                            <ex><![CDATA[效果好的教学]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[classroom teaching]]></key>
+
+            <value>
+
+                            <ex><![CDATA[课堂教学]]></ex>
+
+                            <ex><![CDATA[课堂]]></ex>
+
+                            <ex><![CDATA[课堂教学模式]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

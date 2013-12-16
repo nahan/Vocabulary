@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[guide]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[指南]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gaɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 指南；向导；入门书]]></ex>
+
+                    <ex><![CDATA[vt. 引导；带领；操纵]]></ex>
+
+                    <ex><![CDATA[vi. 担任向导]]></ex>
+
+                    <ex><![CDATA[n. (Guide)人名；(法、葡)吉德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Guide]]></key>
+
+            <value>
+
+                            <ex><![CDATA[导游]]></ex>
+
+                            <ex><![CDATA[指导]]></ex>
+
+                            <ex><![CDATA[指南]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[guide post]]></key>
+
+            <value>
+
+                            <ex><![CDATA[路标]]></ex>
+
+                            <ex><![CDATA[引导柱]]></ex>
+
+                            <ex><![CDATA[导柱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Guide RNA]]></key>
+
+            <value>
+
+                            <ex><![CDATA[向导RNA]]></ex>
+
+                            <ex><![CDATA[指导RNA]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

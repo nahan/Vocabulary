@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="ad"> <hw>ad</hw> <sound><wav>ad000001.wav</wav></sound> <pr>ˈæd</pr> <fl>noun</fl> <in><il>plural</il> <if>ads</if></in> <def><gram>count</gram> <dt>:<sx>advertisement</sx> <vi>I saw your <it>ad</it> in the newspaper.</vi> <vi>radio/television <it>ads</it></vi> <vi>(<it>chiefly US</it>) She works for an <phrase>ad agency</phrase> [=<it>advertising agency</it>] in New York.</vi> <dx>see also <dxt>want ad</dxt></dx></dt></def></entry>
+
+	<entry id="AD"> <hw>AD</hw> <vr><vl>or chiefly US</vl> <va>A.D.</va></vr> <fl>abbreviation</fl> <def><dt><un>used to refer to the years since the birth of Christ <vi>550 <it>A.D. = A.D.</it> 550</vi> <vi>the first century <it>A.D.</it></vi> <vi>in the year 823 <it>A.D.</it></vi></un> <snote><it>A.D.</it> stands for the Latin phrase <it>anno Domini</it>, which means “in the year of the Lord.”</snote> <dx>compare <dxt>b.c.</dxt> <dxt>b.c.e.</dxt> <dxt>c.e.</dxt></dx></dt></def></entry>
+
+	<entry id="ad hoc"> <hw>ad hoc</hw> <sound><wav>adhoc01w.wav</wav><wav>adhoc02w.wav</wav></sound> <pr>ˈædˈhɑ:k</pr> <fl>adjective</fl> <def><sn>1</sn> <dt>:formed or used for a special purpose <vi>The mayor appointed an <phrase>ad hoc committee</phrase> to study the project.</vi></dt> <sn>2</sn> <dt>:made or done without planning because of an immediate need <vi>We had to make some <it>ad hoc</it> changes to the plans.</vi> <vi>We'll hire more staff on an <it>ad hoc</it> basis.</vi></dt></def> <uro><ure>ad hoc</ure> <fl>adverb</fl> <utxt><vi>The decisions were made <it>ad hoc</it>.</vi></utxt></uro></entry>
+
+	<entry id="ad infinitum"> <hw>ad in*fi*ni*tum</hw> <sound><wav>adinf01w.wav</wav></sound> <pr>ˌædˌɪnfəˈnaɪtəm</pr> <fl>adverb</fl> <def><dt>:without an end or limit :<sx>forever</sx> <vi>We don't have to debate the issue <it>ad infinitum</it>, do we?</vi> <snote><it>Ad infinitum</it> is a Latin phrase that means “to infinity.”</snote></dt></def></entry>
+
+	<entry id="ad nauseam"> <hw>ad nau*se*am</hw> <sound><wav>ad_nau01.wav</wav></sound> <pr>ædˈnɑ:zijəm</pr> <fl>adverb</fl> <def><dt><un>used to say that something happens or is done so many times or for such a long time that it makes people annoyed, disgusted, etc. <vi>We debated the issue <it>ad nauseam</it> without reaching an agreement.</vi></un> <snote><it>Ad nauseam</it> is a Latin phrase that means “to sickness.”</snote></dt></def></entry>
+
+	<entry id="ad-lib"> <hw>ad–lib</hw> <sound><wav>adlib011.wav</wav></sound> <sound><wav>adlib02m.wav</wav></sound> <pr>ˈædˈlɪb</pr> <fl>verb</fl> <in><if>ad–libs</if></in> <in><if>ad–libbed</if></in> <in><if>ad–lib*bing</if></in> <def><dt>:to make up words or music in a performance instead of saying or playing something that has been planned :<sx>improvise</sx> <wsgram>no obj</wsgram> <vi>The actor forgot his lines, so he <it>ad-libbed</it>.</vi> <vi>a comedian who is admired for his ability to <it>ad-lib</it></vi> <wsgram>+ obj</wsgram> <vi>The actor <it>ad-libbed</it> his lines.</vi> <vi>She <it>ad-libbed</it> the guitar solo.</vi> <vi><it>ad-lib</it> a joke</vi></dt></def> <uro><ure>ad–lib</ure> <fl>noun</fl> <in><il>plural</il> <if>ad–libs</if></in> <gram>count</gram> <utxt><vi>Some of the best jokes in the movie were <it>ad-libs</it>.</vi></utxt></uro> <uro><ure>ad–lib</ure> <fl>adjective</fl> <utxt><vi>an <it>ad-lib</it> joke</vi></utxt></uro> <uro><ure>ad–lib</ure> <fl>adverb</fl> <utxt><vi>did the whole dialogue <it>ad-lib</it></vi></utxt></uro></entry>
+
+	<entry id="personal ad"> <hw>personal ad</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ ads</if></in> <def><gram>count</gram> <dt>:a short message in a special section of a newspaper, magazine, etc., that is written by someone who is interested in forming a friendly or romantic relationship with someone else</dt></def></entry>
+
+	<entry id="small ad"> <hw>small ad</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ ads</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>classified</sx></dt></def></entry>
+
+	<entry id="want ad"> <hw>want ad</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ ads</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a notice in a newspaper, magazine, etc., that lets people know about something that you want to buy or sell, a job that is available, etc. <vi>She checked the <it>want ads</it> to find a new job.</vi> <dx>compare <dxt>classified</dxt></dx></dt></def></entry>
+
+</entry_list>

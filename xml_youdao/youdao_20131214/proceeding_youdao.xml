@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[proceeding]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[继续]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prəʊ'siːdɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 进行；程序；诉讼；事项]]></ex>
+
+                    <ex><![CDATA[v. 开始；继续做；行进（proceed的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[proceeding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[程序]]></ex>
+
+                            <ex><![CDATA[行动]]></ex>
+
+                            <ex><![CDATA[进行]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bankruptcy proceeding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[破产法律程序]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[divorce proceeding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离婚诉讼]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

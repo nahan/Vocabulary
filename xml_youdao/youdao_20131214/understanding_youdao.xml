@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[understanding]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[理解]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌndə'stændɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 谅解，理解；理解力；协议]]></ex>
+
+                    <ex><![CDATA[v. 理解；明白（understand的ing形式）]]></ex>
+
+                    <ex><![CDATA[adj. 了解的；聪明的；有理解力的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Understanding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[理解]]></ex>
+
+                            <ex><![CDATA[认识]]></ex>
+
+                            <ex><![CDATA[谅解]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Understanding Taiwan]]></key>
+
+            <value>
+
+                            <ex><![CDATA[认识台湾]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tacit understanding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[心照不宣]]></ex>
+
+                            <ex><![CDATA[心领神会]]></ex>
+
+                            <ex><![CDATA[默契]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

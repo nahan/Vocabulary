@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[link]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[链接]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lɪŋk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [计] 链环，环节；联系，关系]]></ex>
+
+                    <ex><![CDATA[vt. 连接，连结；联合，结合]]></ex>
+
+                    <ex><![CDATA[vi. 连接起来；联系在一起；将人或物连接或联系起来]]></ex>
+
+                    <ex><![CDATA[n. (Link)人名；(英、德、塞、捷、匈、瑞典)林克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[LINK]]></key>
+
+            <value>
+
+                            <ex><![CDATA[友情链接]]></ex>
+
+                            <ex><![CDATA[连接]]></ex>
+
+                            <ex><![CDATA[链接]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Link chair]]></key>
+
+            <value>
+
+                            <ex><![CDATA[写字板椅]]></ex>
+
+                            <ex><![CDATA[链接座椅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Link Constraint]]></key>
+
+            <value>
+
+                            <ex><![CDATA[链接约束]]></ex>
+
+                            <ex><![CDATA[连接约束]]></ex>
+
+                            <ex><![CDATA[连结约束]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

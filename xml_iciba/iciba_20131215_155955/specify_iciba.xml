@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>specify</key>
+
+<ps>ˈspesɪfaɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/92/e8/92e8869810cbfd5f952ee0fc5e4992c0.mp3</pron>
+
+<ps>ˈspɛsəˌfaɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/78/a3/78a3d5a28bb8da2d3e39c37f4c1099ca.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>指定；详述；提出…的条件；使具有特性；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>明确提出，详细说明；
+
+</acceptation>
+
+<sent><orig>
+
+Specify the source file column delimiter type. Specify comma, tab, semicolon, or another character.
+
+</orig>
+
+<trans>
+
+指定源文件列分隔符类型。指定逗号、制表符、分号或其它字符。
+
+</trans></sent>
+
+<sent><orig>
+
+To specify more than one response file in a compilation, specify multiple response file options.
+
+</orig>
+
+<trans>
+
+若要在一次编译中指定多个响应文件，请指定多个响应文件选项。
+
+</trans></sent>
+
+<sent><orig>
+
+The receipt shall specify the date of presentment for acceptance and shall be signed.
+
+</orig>
+
+<trans>
+
+回单上应当记明汇票提示承兑日期并签章。
+
+</trans></sent>
+
+<sent><orig>
+
+A constituent (element or compound) of an alloy, which may be used to specify its composition.
+
+</orig>
+
+<trans>
+
+合金的任一组成（可以是元素或化合物），可以被用于区分其构成成分。
+
+</trans></sent>
+
+<sent><orig>
+
+Specify alias and path for a new publishing point.
+
+</orig>
+
+<trans>
+
+为一个新的发布点指定别名和路径。
+
+</trans></sent>
+
+</dict>

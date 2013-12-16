@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[intention]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[意图]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'tenʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 意图；目的；意向；愈合]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[intention]]></key>
+
+            <value>
+
+                            <ex><![CDATA[意图]]></ex>
+
+                            <ex><![CDATA[意向]]></ex>
+
+                            <ex><![CDATA[意思表示]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[intention tremor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[意向性震颤]]></ex>
+
+                            <ex><![CDATA[意向震颤]]></ex>
+
+                            <ex><![CDATA[意向性颤抖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[purchase intention]]></key>
+
+            <value>
+
+                            <ex><![CDATA[购买意愿]]></ex>
+
+                            <ex><![CDATA[购买意图]]></ex>
+
+                            <ex><![CDATA[购买意向]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

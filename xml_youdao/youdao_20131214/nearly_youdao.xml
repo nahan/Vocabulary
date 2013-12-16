@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nearly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[近]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nɪəlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 差不多，几乎；密切地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[nearly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[几乎]]></ex>
+
+                            <ex><![CDATA[将近]]></ex>
+
+                            <ex><![CDATA[有近]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[not nearly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相差很远]]></ex>
+
+                            <ex><![CDATA[远非]]></ex>
+
+                            <ex><![CDATA[远不及]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nearly ad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[差不多]]></ex>
+
+                            <ex><![CDATA[密切地]]></ex>
+
+                            <ex><![CDATA[几乎]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

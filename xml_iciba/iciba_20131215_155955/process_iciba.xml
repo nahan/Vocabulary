@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>process</key>
+
+<ps>prə'ses</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/21/44/2144ee242b2cb9bd3043c255d46445ce.mp3</pron>
+
+<ps>ˈprɑsˌɛs, ˈproˌsɛs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/50/75/5075140835d0bc504791c76b04c33d2b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>过程；工序；做事方法；工艺流程；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>加工；处理；审阅；审核；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>列队行进；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>经过特殊加工（或处理）的；
+
+</acceptation>
+
+<sent><orig>
+
+TEP(Tennessee-Eastman Process) is used to produce the emulational data.
+
+</orig>
+
+<trans>
+
+用田纳西-伊斯曼过程TEP(Tennessee-Eastman Process)平台产生仿真数据，并利用Matlab软件建立故障检测与诊断模型。
+
+</trans></sent>
+
+<sent><orig>
+
+This type does not currently work for applications that run in-process, like mod_perl or mod_php.
+
+</orig>
+
+<trans>
+
+对于处在in-process状态的应用程序这种类型一般不工作。
+
+</trans></sent>
+
+<sent><orig>
+
+Technologies: Zinc process, electrolysis process, mechanical process and metallurgy process.
+
+</orig>
+
+<trans>
+
+生产工艺：湿法、火法冶炼回收、机械处理回收。
+
+</trans></sent>
+
+<sent><orig>
+
+This model consists of feedback analysis process, parameter adjusting process and optimization calculating process.
+
+</orig>
+
+<trans>
+
+该模型包括反馈分析过程、参数调整过程和优化计算过程。
+
+</trans></sent>
+
+<sent><orig>
+
+For food process, flour process, sugar process, chemical plant, plating plant, pesticide plant.
+
+</orig>
+
+<trans>
+
+用于食品工业、面粉、制糖、化肥厂、电镀、农药等工况的粉尘收集。
+
+</trans></sent>
+
+</dict>

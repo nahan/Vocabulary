@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[finance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[金融]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[faɪ'næns; fɪ-; 'faɪnæns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 财政，财政学；金融]]></ex>
+
+                    <ex><![CDATA[vt. 负担经费，供给…经费]]></ex>
+
+                    <ex><![CDATA[vi. 筹措资金]]></ex>
+
+                    <ex><![CDATA[n. (Finance)人名；(法)菲南斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Finance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[金融学]]></ex>
+
+                            <ex><![CDATA[金融]]></ex>
+
+                            <ex><![CDATA[财务]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Public finance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公共财政]]></ex>
+
+                            <ex><![CDATA[财政学]]></ex>
+
+                            <ex><![CDATA[财政]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Project finance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[项目融资]]></ex>
+
+                            <ex><![CDATA[专案融资]]></ex>
+
+                            <ex><![CDATA[项目贷款]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[force]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[力]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fɔːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 力量；武力；军队；魄力]]></ex>
+
+                    <ex><![CDATA[vt. 促使，推动；强迫；强加]]></ex>
+
+                    <ex><![CDATA[n. (Force)人名；(意)福尔切；(英、法)福斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Force]]></key>
+
+            <value>
+
+                            <ex><![CDATA[力量]]></ex>
+
+                            <ex><![CDATA[力]]></ex>
+
+                            <ex><![CDATA[强迫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Force majeure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不可抗力]]></ex>
+
+                            <ex><![CDATA[人力不可抗力]]></ex>
+
+                            <ex><![CDATA[不可抗力条款]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[by force]]></key>
+
+            <value>
+
+                            <ex><![CDATA[靠武力]]></ex>
+
+                            <ex><![CDATA[强迫地]]></ex>
+
+                            <ex><![CDATA[凭借暴力]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

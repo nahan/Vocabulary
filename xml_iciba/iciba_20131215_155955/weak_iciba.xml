@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>weak</key>
+
+<ps>wi:k</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/75/4b/754b0c0a590f0d42c016856d16584ba1.mp3</pron>
+
+<ps>wik</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/7e/cc/7ecc19e1a0be36ba2c6f05d06b5d3058.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>柔弱的，虚弱的；无力的，软弱的；不中用的，愚钝的；淡薄的；
+
+</acceptation>
+
+<sent><orig>
+
+He punned on the likeness of 'weak' and 'week'.
+
+</orig>
+
+<trans>
+
+他用同音词'weak'和'week'说了句双关语。
+
+</trans></sent>
+
+<sent><orig>
+
+Introduce the new concepts of weak domain, weak principal ideal ring and weak Euclidean ring.
+
+</orig>
+
+<trans>
+
+引进了弱整环、弱主理想环、弱欧氏环等概念，研究了环的直和保持的一些性质。
+
+</trans></sent>
+
+<sent><orig>
+
+The reaction of weak management to weak operations is often weak accounting.
+
+</orig>
+
+<trans>
+
+对于企业而言，糟糕的运作加上混乱的管理，结果常常是一笔糊涂帐。
+
+</trans></sent>
+
+<sent><orig>
+
+A computer algebra analysis method of weak controllability and weak observability for nonlinear systems is discussed.
+
+</orig>
+
+<trans>
+
+讨论非线性系统弱能控性与弱能观性计算机代数的分析方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Determining Method &quot;Weak Link&quot; and &quot;Key Link&quot; in Training Principle of &quot;Priority to the Weak &quot;
+
+</orig>
+
+<trans>
+
+“弱者优先”训练原则中“薄弱环节”与“关键环节”的判定方法。
+
+</trans></sent>
+
+</dict>

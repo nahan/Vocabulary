@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[emotional]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[情感]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪ'məʊʃ(ə)n(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 情绪的；易激动的；感动人的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Emotional]]></key>
+
+            <value>
+
+                            <ex><![CDATA[情绪化]]></ex>
+
+                            <ex><![CDATA[情绪的]]></ex>
+
+                            <ex><![CDATA[情感的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Emotional Quotient]]></key>
+
+            <value>
+
+                            <ex><![CDATA[情商]]></ex>
+
+                            <ex><![CDATA[情绪商数]]></ex>
+
+                            <ex><![CDATA[情绪智商]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[emotional appeals]]></key>
+
+            <value>
+
+                            <ex><![CDATA[情感诉求]]></ex>
+
+                            <ex><![CDATA[感性诉求]]></ex>
+
+                            <ex><![CDATA[感情诉求]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

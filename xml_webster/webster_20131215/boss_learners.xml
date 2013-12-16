@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="boss[1]"> <hw highlight="yes" hindex="1">boss</hw> <sound><wav>boss101w.wav</wav></sound> <pr>ˈbɑ:s</pr> <fl>noun</fl> <in><il>plural</il> <if>boss*es</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:the person whose job is to tell other workers what to do <vi>Why don't you ask your <it>boss</it> for a raise?</vi> <vi>Company policy says that vacation time must be cleared with your <it>boss</it>. [=<it>supervisor</it>]</vi> <vi>my former <it>boss</it></vi> <vi>Jane started her own business so that she could <phrase>be her own boss</phrase>. [=have no boss except for herself]</vi> <dx>see also <dxt>pit boss</dxt></dx></dt> <sn>2</sn> <dt>:a person who has a lot of power in an organization <vi>a union <it>boss</it></vi> <vi>mafia <it>bosses</it></vi> <vi>the movie studio <it>boss</it></vi> <vi>During the campaign, no one was willing to stand up to the <phrase>party boss</phrase>. [=the person with the most power in a political party or one branch of a political party]</vi></dt> <sn>3</sn> <dt>:the person who has more power or control in a relationship <vi>The two oldest children argued over who was <it>boss</it> for the entire hour their mother was out shopping.</vi> <vi>He wants to show them who's (the) <it>boss</it>. [=who's in charge]</vi></dt></def> <dxnl>compare <dxt>boss</dxt></dxnl></entry>
+
+	<entry id="boss[2]"> <hw highlight="yes" hindex="2">boss</hw> <altpr>ˈbɑ:s</altpr> <fl>verb</fl> <in><if>bosses</if></in> <in><if>bossed</if></in> <in><if>boss*ing</if></in> <def><gram>+ obj</gram> <dt>:to give orders to (someone) :to tell (someone) what to do <un>usually + <it>around</it> or (<it>Brit</it>) <it>about</it> <vi>I wish he wouldn't let his father <it>boss</it> him <it>around</it> like that.</vi> <vi>Don't <it>boss</it> me <it>around</it>!</vi></un></dt></def></entry>
+
+	<entry id="boss[3]"> <hw hindex="3">boss</hw> <altpr>ˈbɑ:s</altpr> <fl>adjective</fl> <def><sl>slang</sl> <dt>:great or excellent <vi>a <it>boss</it> new rock band</vi></dt></def></entry>
+
+	<entry id="boss[4]"> <hw hindex="4">boss</hw> <altpr>ˈbɑ:s</altpr> <fl>noun</fl> <in><il>plural</il> <if>bosses</if></in> <def><gram>count</gram> <dt>:a round raised decoration on a ceiling or shield</dt></def> <dxnl>compare <dxt>boss</dxt></dxnl></entry>
+
+	<entry id="pit boss"> <hw>pit boss</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bosses</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:a person whose job is to supervise the gambling that is done in a casino</dt></def></entry>
+
+</entry_list>

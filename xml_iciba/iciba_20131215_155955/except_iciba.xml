@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>except</key>
+
+<ps>ɪk'sept</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c3/e3/c3e38872f3ba8784c8fae6a2d0c7c42a.mp3</pron>
+
+<ps>ɪkˈsɛpt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d1/cc/d1cc652b86b9858fe78058511716e92f.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>把…除外；不计；
+
+</acceptation>
+
+<pos>prep.</pos>
+
+<acceptation>除…外；
+
+</acceptation>
+
+<pos>conj.</pos>
+
+<acceptation>[口语]要不是；除非；除…以外；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>反对，表示异议（与 to 或 against连用）；
+
+</acceptation>
+
+<sent><orig>
+
+A try statement may have more than one except clause, to specify handlers for different exceptions.
+
+</orig>
+
+<trans>
+
+一个try语句可能包含多个except子句，分别指定处理不同的异常。
+
+</trans></sent>
+
+<sent><orig>
+
+I know nothing about him except for the fact(except the fact) that he lives next door.
+
+</orig>
+
+<trans>
+
+只知道他住在隔壁，此外我对他一无所知。
+
+</trans></sent>
+
+<sent><orig>
+
+One said he could not see anything except the blue of the sky.
+
+</orig>
+
+<trans>
+
+其中一个说除了蓝色的天空，他不看到任何东西。
+
+</trans></sent>
+
+<sent><orig>
+
+She felt rather left out as everyone received an invitation except her.
+
+</orig>
+
+<trans>
+
+除了她之外别人都收到了请柬，为此她感到倍受冷落。
+
+</trans></sent>
+
+<sent><orig>
+
+I'm sorry, I have nothing to pay you except some big bills.
+
+</orig>
+
+<trans>
+
+对不起， 我只带着大面额的钞票，没有零钱付给你。
+
+</trans></sent>
+
+</dict>

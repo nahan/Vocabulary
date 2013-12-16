@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[extension]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[扩展]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk'stenʃ(ə)n; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 延长；延期；扩大；伸展；电话分机]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[extension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[分机]]></ex>
+
+                            <ex><![CDATA[延期]]></ex>
+
+                            <ex><![CDATA[延伸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Filename extension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[文件扩展名]]></ex>
+
+                            <ex><![CDATA[文件后缀名]]></ex>
+
+                            <ex><![CDATA[扩展名]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Group extension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[群扩张]]></ex>
+
+                            <ex><![CDATA[组扩展]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

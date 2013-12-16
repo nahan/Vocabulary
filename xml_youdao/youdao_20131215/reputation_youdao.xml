@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[reputation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[声誉]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[repjʊ'teɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 名声，名誉；声望]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[reputation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[名誉]]></ex>
+
+                            <ex><![CDATA[名声]]></ex>
+
+                            <ex><![CDATA[名气]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ruin reputation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[砸牌子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Corporate Reputation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[企业声誉]]></ex>
+
+                            <ex><![CDATA[企业信誉]]></ex>
+
+                            <ex><![CDATA[企业名誉]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

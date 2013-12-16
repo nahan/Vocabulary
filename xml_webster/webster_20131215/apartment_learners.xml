@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="apartment"> <hw highlight="yes">apart*ment</hw> <sound><wav>apartm01.wav</wav></sound> <pr>əˈpɑɚtmənt</pr> <fl>noun</fl> <in><il>plural</il> <if>apart*ments</if></in> <def><gram>count</gram> <sn>1</sn> <ssl>chiefly US</ssl> <dt>:a usually rented room or set of rooms that is part of a building and is used as a place to live <vi>We lived in an <it>apartment</it> for several years before buying a house.</vi> <dx>compare <dxt>condominium</dxt> <dxt>flat</dxt></dx></dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:a large and impressive room or set of rooms <un>usually plural <vi>the Royal <it>apartments</it></vi></un></dt></def></entry>
+
+	<entry id="apartment building"> <hw>apartment building</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ings</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a large building that has several or many apartments <vi>We lived in an <it>apartment building</it> for several years before buying a house.</vi> <ca>called also (<it>US</it>) <cat>apartment house</cat> (<it>Brit</it>) <cat>apartment block</cat> (<it>Brit</it>) <cat>block of flats</cat></ca></dt></def></entry>
+
+	<entry id="efficiency apartment"> <hw>efficiency apartment</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ments</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a small apartment that usually includes furniture and has a small and simple kitchen area</dt></def></entry>
+
+	<entry id="in-law apartment"> <hw>in–law apartment</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ments</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a small apartment that is part of or next to a house and that is used especially as a place for an older relative to live <ca>called also (<it>US</it>) <cat>mother-in-law apartment</cat> (<it>Brit</it>) <cat>granny flat</cat></ca></dt></def></entry>
+
+	<entry id="mother-in-law apartment"> <hw>mother–in–law apartment</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ments</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:<sx>in-law apartment</sx></dt></def></entry>
+
+	<entry id="studio apartment"> <hw>studio apartment</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ments</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a small apartment that has a main room, a very small kitchen, and a bathroom <ca>called also <cat>studio</cat> (<it>Brit</it>) <cat>studio flat</cat></ca></dt></def></entry>
+
+</entry_list>

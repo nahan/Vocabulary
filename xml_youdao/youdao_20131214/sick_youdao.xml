@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sick]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[生病的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 病人]]></ex>
+
+                    <ex><![CDATA[adj. 厌恶的；病态的；不舒服；渴望的；恶心的]]></ex>
+
+                    <ex><![CDATA[vt. 使狗去咬；呕吐；追击]]></ex>
+
+                    <ex><![CDATA[n. (Sick)人名；(德、西)西克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[SICK]]></key>
+
+            <value>
+
+                            <ex><![CDATA[德国施克]]></ex>
+
+                            <ex><![CDATA[病态]]></ex>
+
+                            <ex><![CDATA[有病的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sick note]]></key>
+
+            <value>
+
+                            <ex><![CDATA[病假条]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Love Sick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[恋爱恐慌症]]></ex>
+
+                            <ex><![CDATA[害相思病的]]></ex>
+
+                            <ex><![CDATA[相思病]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

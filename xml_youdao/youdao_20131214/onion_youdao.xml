@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[onion]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[洋葱]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʌnjən]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 洋葱；洋葱头]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Onion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[洋葱]]></ex>
+
+                            <ex><![CDATA[洋葱头]]></ex>
+
+                            <ex><![CDATA[大葱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[onion soup]]></key>
+
+            <value>
+
+                            <ex><![CDATA[洋葱汤]]></ex>
+
+                            <ex><![CDATA[葱头汤]]></ex>
+
+                            <ex><![CDATA[洋葱浓汤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[onion green]]></key>
+
+            <value>
+
+                            <ex><![CDATA[葱绿]]></ex>
+
+                            <ex><![CDATA[葱青]]></ex>
+
+                            <ex><![CDATA[翠绿]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

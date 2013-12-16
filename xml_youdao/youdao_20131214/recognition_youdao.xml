@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[recognition]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[识别]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rekəg'nɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 识别；承认，认出；重视；赞誉；公认]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Recognition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[承认]]></ex>
+
+                            <ex><![CDATA[认出]]></ex>
+
+                            <ex><![CDATA[识别]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pattern Recognition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[模式识别]]></ex>
+
+                            <ex><![CDATA[图象识别]]></ex>
+
+                            <ex><![CDATA[图形识别]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cell recognition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[细胞识别]]></ex>
+
+                            <ex><![CDATA[细胞间识别]]></ex>
+
+                            <ex><![CDATA[细胞辨认]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

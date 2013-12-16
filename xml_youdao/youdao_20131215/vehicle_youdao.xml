@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[vehicle]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[车辆]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['viːɪk(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[vehicle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交通工具]]></ex>
+
+                            <ex><![CDATA[车辆]]></ex>
+
+                            <ex><![CDATA[运载工具]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Commercial vehicle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[商用车辆]]></ex>
+
+                            <ex><![CDATA[商用车]]></ex>
+
+                            <ex><![CDATA[商务车]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Recreational vehicle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[露营车]]></ex>
+
+                            <ex><![CDATA[休闲车]]></ex>
+
+                            <ex><![CDATA[旅游居住拖车]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

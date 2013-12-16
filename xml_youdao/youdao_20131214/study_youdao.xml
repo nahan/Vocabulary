@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[study]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[研究]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['stʌdɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 学习，研究；课题；书房；学问]]></ex>
+
+                    <ex><![CDATA[vt. 学习；考虑；攻读；细察]]></ex>
+
+                    <ex><![CDATA[vi. 研究；用功]]></ex>
+
+                    <ex><![CDATA[n. (Study)人名；(英)斯塔迪]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Study]]></key>
+
+            <value>
+
+                            <ex><![CDATA[学习]]></ex>
+
+                            <ex><![CDATA[书房]]></ex>
+
+                            <ex><![CDATA[研究]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cohort study]]></key>
+
+            <value>
+
+                            <ex><![CDATA[队列研究]]></ex>
+
+                            <ex><![CDATA[世代研究]]></ex>
+
+                            <ex><![CDATA[定群研究]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Event study]]></key>
+
+            <value>
+
+                            <ex><![CDATA[事件研究法]]></ex>
+
+                            <ex><![CDATA[事件研究]]></ex>
+
+                            <ex><![CDATA[事件分析]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

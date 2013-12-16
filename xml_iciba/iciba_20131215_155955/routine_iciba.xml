@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>routine</key>
+
+<ps>ru:ˈti:n</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/3a/bd/3abd6e9c6f4abb4b327822b8b45a637f.mp3</pron>
+
+<ps>ruˈtin</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/31/ee/31eee68da12abc2d387096a6877a1b38.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>[计算机]程序；例行公事；日常工作；固定节目；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>例行的；常规的；日常的；普通的；
+
+</acceptation>
+
+<sent><orig>
+
+Routine ventilatory functions and F V curve configuration were determined with routine methods.
+
+</orig>
+
+<trans>
+
+常规肺通气功能和F－V曲线形状用常规法测定。
+
+</trans></sent>
+
+<sent><orig>
+
+Drivers for hardware interrupts will interrupt service routine (ISR) and a deferred procedure call (DPC) routine.
+
+</orig>
+
+<trans>
+
+用户在使用应用程序需将数据和程序调入计算机内存。
+
+</trans></sent>
+
+<sent><orig>
+
+Prison life consists of routine, and then mort routine.
+
+</orig>
+
+<trans>
+
+译文：监狱生活充满了一段又一段的例行公事。
+
+</trans></sent>
+
+<sent><orig>
+
+CAN understand routine information and articles, and general meaning of non-routine information within a familiar area.
+
+</orig>
+
+<trans>
+
+能阅读例行性的资讯与文章，亦能理解熟悉情境中非例行性的讯息。
+
+</trans></sent>
+
+<sent><orig>
+
+Break your routine-Going the same routine, day after day, can be monotonous and depressing.
+
+</orig>
+
+<trans>
+
+打破你的规律：每天都按照一个规律办事会让人觉得单调和沮丧。
+
+</trans></sent>
+
+</dict>

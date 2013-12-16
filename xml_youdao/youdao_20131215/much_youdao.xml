@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[much]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[多]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mʌtʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 许多，大量]]></ex>
+
+                    <ex><![CDATA[adj. 大量的]]></ex>
+
+                    <ex><![CDATA[adv. 非常，很]]></ex>
+
+                    <ex><![CDATA[pron. 许多，大量]]></ex>
+
+                    <ex><![CDATA[n. (Much)人名；(德)穆赫；(英)马奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[much]]></key>
+
+            <value>
+
+                            <ex><![CDATA[许多]]></ex>
+
+                            <ex><![CDATA[备受]]></ex>
+
+                            <ex><![CDATA[大为]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[How much]]></key>
+
+            <value>
+
+                            <ex><![CDATA[多少]]></ex>
+
+                            <ex><![CDATA[有多少]]></ex>
+
+                            <ex><![CDATA[多少钱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[much more]]></key>
+
+            <value>
+
+                            <ex><![CDATA[更加]]></ex>
+
+                            <ex><![CDATA[多得多]]></ex>
+
+                            <ex><![CDATA[要多得多]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>global</key>
+
+<ps>ˈɡləubəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/9c/70/9c70933aff6b2a6d08c687a6cbb6b765.mp3</pron>
+
+<ps>ˈɡlobəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9c/70/9c70933aff6b2a6d08c687a6cbb6b765.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>全球的，全球性的，有关全球大局的；全面的，整体的，全局的；球形的，球状的，球面的，球体的；[计]全程的；
+
+</acceptation>
+
+<sent><orig>
+
+Names bound by import statements may not occur in global statements in the same scope.
+
+</orig>
+
+<trans>
+
+由import语句约束的名字不能出现于同一范围的global语句中。
+
+</trans></sent>
+
+<sent><orig>
+
+Its businesses include Global Banking, Global Capital Markets, Global Transaction Services and Operations &amp; Technology.
+
+</orig>
+
+<trans>
+
+CMB的业务包括全球银行。全球资本市场、全球交易服务和交易技术等等。
+
+</trans></sent>
+
+<sent><orig>
+
+Global leaders are watching carefully what role China will play amid the global financial uncertainty.
+
+</orig>
+
+<trans>
+
+各国领导人正在密切观察中国值此全球金融动荡之际将扮演何种角色。
+
+</trans></sent>
+
+<sent><orig>
+
+Finally, there is the challenge of global reform, particularly reform of the global monetary system.
+
+</orig>
+
+<trans>
+
+最后，全球性改革也面临著挑战，尤其是全球货币体系改革。
+
+</trans></sent>
+
+<sent><orig>
+
+If it is not, global economy and global co-operation might yet founder.
+
+</orig>
+
+<trans>
+
+否则全球经济和全球合作可能仍会失足。
+
+</trans></sent>
+
+</dict>

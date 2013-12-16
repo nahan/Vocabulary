@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[involvement]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[参与]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'vɒlvm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 牵连；包含；混乱；财政困难]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[involvement]]></key>
+
+            <value>
+
+                            <ex><![CDATA[参与]]></ex>
+
+                            <ex><![CDATA[卷入]]></ex>
+
+                            <ex><![CDATA[相互缠绕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Employee Involvement]]></key>
+
+            <value>
+
+                            <ex><![CDATA[员工参与]]></ex>
+
+                            <ex><![CDATA[员工参加]]></ex>
+
+                            <ex><![CDATA[员工介入]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Worker involvement]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雇员参与计划]]></ex>
+
+                            <ex><![CDATA[雇员参与]]></ex>
+
+                            <ex><![CDATA[雇员介入计划]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

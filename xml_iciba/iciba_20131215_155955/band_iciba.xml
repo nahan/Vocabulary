@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>band</key>
+
+<ps>bænd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b9/12/b912284ebc3359542dd92123694993da.mp3</pron>
+
+<ps>bænd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/57/4f/574ff4699083ce51de0dabcfad5edc4c.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>带；乐队；衣带；价值；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>给…镶边；用带绑扎；（将价格、收入等）划分档次；把…联合起来；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>结合起来，伙同；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>聚集，联合（起来）（通常与together 连用）；
+
+</acceptation>
+
+<sent><orig>
+
+Select a desired band using BAND.
+
+</orig>
+
+<trans>
+
+用BAND选择器选择要听的波段。
+
+</trans></sent>
+
+<sent><orig>
+
+This paper develops a voice compress algorithm-SB-ADPCM (Sub Band-adaptive Differential Pulse Code Modulation).
+
+</orig>
+
+<trans>
+
+论述了计算机数字录音技术中的语音压缩算法—SB-ADPCM(Sub Band-Adaptive Differential Pulse Code Modulation)方法。
+
+</trans></sent>
+
+<sent><orig>
+
+In band structures, one band that is empty with electrons is termed conduction band.
+
+</orig>
+
+<trans>
+
+在能带结构中，未填充电子的带称为导带。
+
+</trans></sent>
+
+<sent><orig>
+
+In the band structure, one band that is completely filled with electrons is termed valence band.
+
+</orig>
+
+<trans>
+
+在能带结构中，完全填满电子的带被称为价带。
+
+</trans></sent>
+
+<sent><orig>
+
+Band Introduction: Founded in 1991, Band of Zhongguancun middle School now includes 120 band members.
+
+</orig>
+
+<trans>
+
+乐团简介：中关村中学管乐团成立于1991年，现有团员120人。
+
+</trans></sent>
+
+</dict>

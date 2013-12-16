@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ocean]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[海洋]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['əʊʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 海洋；大量；广阔]]></ex>
+
+                    <ex><![CDATA[n. (Ocean)人名；(罗)奥切安]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Ocean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[海洋]]></ex>
+
+                            <ex><![CDATA[洋]]></ex>
+
+                            <ex><![CDATA[大洋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Atlantic Ocean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大西洋]]></ex>
+
+                            <ex><![CDATA[大误]]></ex>
+
+                            <ex><![CDATA[来自亚特兰大海洋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ocean current]]></key>
+
+            <value>
+
+                            <ex><![CDATA[洋流]]></ex>
+
+                            <ex><![CDATA[海流]]></ex>
+
+                            <ex><![CDATA[海洋流]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

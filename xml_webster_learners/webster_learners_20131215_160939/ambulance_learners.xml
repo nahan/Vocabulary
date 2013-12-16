@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="ambulance"> <art><artref id="ambulance.tif"/><capt>ambulance</capt><dim>94,72.5</dim></art> <hw>am*bu*lance</hw> <sound><wav>ambula05.wav</wav></sound> <pr>ˈæmbjələns</pr> <fl>noun</fl> <in><il>plural</il> <if>am*bu*lanc*es</if></in> <def><gram>count</gram> <dt>:a vehicle used for taking hurt or sick people to the hospital especially in emergencies <vi>They called (for) an <it>ambulance</it>.</vi> <vi>She was taken <phrase>by ambulance</phrase> [=in an ambulance] to the hospital.</vi> <vi>(<it>disapproving</it>) She had a reputation for being an <phrase>ambulance chaser</phrase>. [=a lawyer who gets clients by convincing accident victims that they should file a lawsuit about the accident]</vi></dt></def></entry>
+
+</entry_list>

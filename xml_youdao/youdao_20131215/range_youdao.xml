@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[range]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[范围]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[reɪn(d)ʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 范围；幅度；排；山脉]]></ex>
+
+                    <ex><![CDATA[vt. 漫游；放牧；使并列；归类于；来回走动]]></ex>
+
+                    <ex><![CDATA[vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Range]]></key>
+
+            <value>
+
+                            <ex><![CDATA[范围]]></ex>
+
+                            <ex><![CDATA[值域]]></ex>
+
+                            <ex><![CDATA[极差]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dynamic range]]></key>
+
+            <value>
+
+                            <ex><![CDATA[动态范围]]></ex>
+
+                            <ex><![CDATA[动态规模]]></ex>
+
+                            <ex><![CDATA[灰黑比可调范围]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Interquartile range]]></key>
+
+            <value>
+
+                            <ex><![CDATA[四分差]]></ex>
+
+                            <ex><![CDATA[四分位距]]></ex>
+
+                            <ex><![CDATA[四分间距]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

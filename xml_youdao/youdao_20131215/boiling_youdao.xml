@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[boiling]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[沸腾]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɒɪlɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 沸腾；煮沸；起泡]]></ex>
+
+                    <ex><![CDATA[adj. 沸腾的；激昂的]]></ex>
+
+                    <ex><![CDATA[adv. 沸腾]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Boiling]]></key>
+
+            <value>
+
+                            <ex><![CDATA[沸腾]]></ex>
+
+                            <ex><![CDATA[煮沸]]></ex>
+
+                            <ex><![CDATA[砂涌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Boiling Points]]></key>
+
+            <value>
+
+                            <ex><![CDATA[MTV崩溃边缘]]></ex>
+
+                            <ex><![CDATA[沸点]]></ex>
+
+                            <ex><![CDATA[滚开点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Boiling water]]></key>
+
+            <value>
+
+                            <ex><![CDATA[沸水]]></ex>
+
+                            <ex><![CDATA[开水]]></ex>
+
+                            <ex><![CDATA[正在开的水]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[deeply]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[深深]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['diːplɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 深刻地；浓浓地；在深处]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Deeply]]></key>
+
+            <value>
+
+                            <ex><![CDATA[深感]]></ex>
+
+                            <ex><![CDATA[深深地]]></ex>
+
+                            <ex><![CDATA[在深处]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[involve deeply]]></key>
+
+            <value>
+
+                            <ex><![CDATA[深深卷入]]></ex>
+
+                            <ex><![CDATA[使全神贯注]]></ex>
+
+                            <ex><![CDATA[埋头于]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Deeply grateful]]></key>
+
+            <value>
+
+                            <ex><![CDATA[感恩戴德]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

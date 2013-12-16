@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[potato]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[土豆]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pə'teɪtəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [作物] 土豆，[作物] 马铃薯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Potato]]></key>
+
+            <value>
+
+                            <ex><![CDATA[马铃薯]]></ex>
+
+                            <ex><![CDATA[土豆]]></ex>
+
+                            <ex><![CDATA[薯仔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[small potato]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小人物]]></ex>
+
+                            <ex><![CDATA[小土豆]]></ex>
+
+                            <ex><![CDATA[小角色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[potato chips]]></key>
+
+            <value>
+
+                            <ex><![CDATA[薯片]]></ex>
+
+                            <ex><![CDATA[土豆片]]></ex>
+
+                            <ex><![CDATA[炸洋芋片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[experimental]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[实验]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk,sperɪ'ment(ə)l; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 实验的；根据实验的；试验性的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[experimental]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实验的]]></ex>
+
+                            <ex><![CDATA[试验]]></ex>
+
+                            <ex><![CDATA[试验音乐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Experimental aircraft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[试验机]]></ex>
+
+                            <ex><![CDATA[实验型飞机]]></ex>
+
+                            <ex><![CDATA[航空器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Experimental theatre]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实验剧场]]></ex>
+
+                            <ex><![CDATA[实验戏剧]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

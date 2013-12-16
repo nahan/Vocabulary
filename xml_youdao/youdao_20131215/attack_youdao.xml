@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[attack]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[攻击]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'tæk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 攻击；抨击；疾病发作]]></ex>
+
+                    <ex><![CDATA[vt. 攻击；抨击；动手干]]></ex>
+
+                    <ex><![CDATA[vi. 攻击；腐蚀]]></ex>
+
+                    <ex><![CDATA[n. (Attack)人名；(瑞典)阿塔克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[attack]]></key>
+
+            <value>
+
+                            <ex><![CDATA[攻击]]></ex>
+
+                            <ex><![CDATA[进攻]]></ex>
+
+                            <ex><![CDATA[物理攻击]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Time attack]]></key>
+
+            <value>
+
+                            <ex><![CDATA[真实时间竞速攻略]]></ex>
+
+                            <ex><![CDATA[时间模式]]></ex>
+
+                            <ex><![CDATA[计时赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Interpolation attack]]></key>
+
+            <value>
+
+                            <ex><![CDATA[插值攻击]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

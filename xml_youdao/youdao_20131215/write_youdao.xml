@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[write]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[写]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[raɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 写，写字；写作，作曲；写信]]></ex>
+
+                    <ex><![CDATA[vt. 写，书写；写信给；著述]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Write]]></key>
+
+            <value>
+
+                            <ex><![CDATA[写入]]></ex>
+
+                            <ex><![CDATA[写下]]></ex>
+
+                            <ex><![CDATA[写出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[write down]]></key>
+
+            <value>
+
+                            <ex><![CDATA[写下]]></ex>
+
+                            <ex><![CDATA[记下]]></ex>
+
+                            <ex><![CDATA[写下来]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[write off]]></key>
+
+            <value>
+
+                            <ex><![CDATA[取消]]></ex>
+
+                            <ex><![CDATA[报废]]></ex>
+
+                            <ex><![CDATA[注销]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

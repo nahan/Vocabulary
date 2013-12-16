@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[candy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[糖果]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kændɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品]]></ex>
+
+                    <ex><![CDATA[adj. 新潮的（服饰）；甜言蜜语的]]></ex>
+
+                    <ex><![CDATA[vt. 用糖煮；使结晶为砂糖；美化]]></ex>
+
+                    <ex><![CDATA[vi. 糖煮；成为结晶]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Candy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[糖果]]></ex>
+
+                            <ex><![CDATA[卢巧音]]></ex>
+
+                            <ex><![CDATA[坎蒂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Candy Rain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花吃了那女孩]]></ex>
+
+                            <ex><![CDATA[爱情糖果雨]]></ex>
+
+                            <ex><![CDATA[糖果雨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Candy Darling]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坎迪·达琳]]></ex>
+
+                            <ex><![CDATA[坎蒂·妲玲]]></ex>
+
+                            <ex><![CDATA[的故事不是外表美丽这么简单]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

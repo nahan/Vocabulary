@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>among</key>
+
+<ps>əˈmʌŋ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/fd/1c/fd1c9a125f61c2ffeea747521e3f5734.mp3</pron>
+
+<ps>əˈmʌŋ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/31/72/3172dbf2df5f1e31ff40efd8e4c62e65.mp3</pron>
+
+<pos>prep.</pos>
+
+<acceptation>（表示牵涉）经过；（表示位置）处在…中；（表示范围）在…之内；（表示所属）为…所特有；
+
+</acceptation>
+
+<sent><orig>
+
+The report found that sunburn prevalence among non-Hispanic whites among Hispanics among non-Hispanic blacks.
+
+</orig>
+
+<trans>
+
+研究发现，发生晒伤的流行病学分布如下：非西班牙白种人发病率为35.6%，西班牙人发病率为45.6%，非西班牙黑种人发病率为50.4%。
+
+</trans></sent>
+
+<sent><orig>
+
+Be tolerant among the intolerant, gentle among the violent and free from greed among the greedy.
+
+</orig>
+
+<trans>
+
+在急躁的人中要容忍，在凶暴的人中要温和，在贪婪的人中要慷慨。
+
+</trans></sent>
+
+<sent><orig>
+
+To improve load balance among streaming servers, a new schedule policy among streaming servers is proposed.
+
+</orig>
+
+<trans>
+
+针对大并发流时服务器间的负载不均问题，作者提出一种新的调度策略。
+
+</trans></sent>
+
+<sent><orig>
+
+A lion among sheep and a sheep among lions.
+
+</orig>
+
+<trans>
+
+见了老虎就烧香，见了兔子就开枪。
+
+</trans></sent>
+
+<sent><orig>
+
+Under the agile competition mode, the competition is not among enterprises rather than among supply chains.
+
+</orig>
+
+<trans>
+
+在敏捷竞争模式中，已不再是企业与企业之间的竞争，而是供应链与供应链之间的竞争。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="award[1]"> <hw highlight="yes" hindex="1">award</hw> <sound><wav>award001.wav</wav></sound> <pr>əˈwoɚd</pr> <fl>verb</fl> <in><if>awards</if></in> <in><if>award*ed</if></in> <in><if>award*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to give (a reward or prize) to someone or something <vi>The judges will <it>award</it> a prize to the best speaker.</vi> <vi>The winner was <it>awarded</it> a gold medal.</vi> <vi>A prize will be <it>awarded</it> to the student who sells the most tickets.</vi></dt> <sn>2</sn> <dt>:to officially decide that someone should get (something) <vi>The jury <it>awarded</it> damages to the defendant.</vi> <vi>The company is <it>awarding</it> the contract to the lowest bidder.</vi> <vi>He was <it>awarded</it> a patent for his invention.</vi></dt></def></entry>
+
+	<entry id="award[2]"> <hw highlight="yes" hindex="2">award</hw> <altpr>əˈwoɚd</altpr> <fl>noun</fl> <in><il>plural</il> <if>awards</if></in> <def><gram>count</gram> <dt>:something (such as a prize) that is given to someone or something for being excellent or for doing something that is admired <vi>Will the film win any <it>awards</it> at the festival?</vi> <vi>She has won numerous <it>awards</it> for her books.</vi> <vi>an <it>awards</it> ceremony [=a ceremony at which awards are given out]</vi> <vi>an <phrase>award-winning</phrase> film/writer = an <phrase>award-winner</phrase></vi></dt></def></entry>
+
+	<entry id="Academy Award"> <hw>Academy Award</hw> <fl>trademark</fl> <def><dt><un>used for an award given by part of the U.S. film industry to the best actors, directors, etc., of the year</un></dt></def></entry>
+
+</entry_list>

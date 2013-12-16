@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>argument</key>
+
+<ps>ˈɑ:gjumənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/fd/db/fddb0a0929abbf44dbded599709f73aa.mp3</pron>
+
+<ps>ˈɑrɡjəmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/03/cd/03cde060e90acdd58ff9f0a4d785d43b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>争论，争吵；论据；[数]幅角；主题，情节；
+
+</acceptation>
+
+<sent><orig>
+
+The compiler will automatically supply the default argument value for the omitted argument.
+
+</orig>
+
+<trans>
+
+编译器自动将默认实参的值提供给被忽略的实参。
+
+</trans></sent>
+
+<sent><orig>
+
+Anselm's ontological argument or William Rowe's complex version of a probabilistic argument from evil.
+
+</orig>
+
+<trans>
+
+的本体论进行论证，或是罗威廉(WilliamRowe)复杂版的有关邪恶的概率论证）。
+
+</trans></sent>
+
+<sent><orig>
+
+The second argument is not evaluated if the first argument already determines the value.
+
+</orig>
+
+<trans>
+
+如果第一个参数的值已经确定，则不需要考虑第二个参数的值。
+
+</trans></sent>
+
+<sent><orig>
+
+The first one takes an ID as argument, the second takes a Data struct as argument.
+
+</orig>
+
+<trans>
+
+第一个接收一个ID作为参数，第二个接收一个数据结构作为参数。
+
+</trans></sent>
+
+<sent><orig>
+
+In an ad hominem argument, the arguer attacks his or her opponent instead the opponent's argument.
+
+</orig>
+
+<trans>
+
+这种论证意在进行人身攻击而不是攻击对手的论证。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[negotiate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[谈判]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nɪ'gəʊʃɪeɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 谈判，交涉]]></ex>
+
+                    <ex><![CDATA[vt. 谈判，商议；转让；越过]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[negotiate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[谈判]]></ex>
+
+                            <ex><![CDATA[商议]]></ex>
+
+                            <ex><![CDATA[越过]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[negotiate purchase]]></key>
+
+            <value>
+
+                            <ex><![CDATA[议价]]></ex>
+
+                            <ex><![CDATA[净重]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[TPL negotiate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[第三方物流项目谈判]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

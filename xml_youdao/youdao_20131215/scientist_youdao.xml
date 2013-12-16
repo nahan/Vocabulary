@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[scientist]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[科学家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['saɪəntɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 科学家]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Scientist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[科学家]]></ex>
+
+                            <ex><![CDATA[研究员]]></ex>
+
+                            <ex><![CDATA[迷信家]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gentleman scientist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绅士科学家]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Agricultural scientist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[农业科学家]]></ex>
+
+                            <ex><![CDATA[农业学家]]></ex>
+
+                            <ex><![CDATA[农学家]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

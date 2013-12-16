@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[survey]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[调查]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sə'veɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 调查；测量；审视；纵览]]></ex>
+
+                    <ex><![CDATA[vt. 调查；勘测；俯瞰]]></ex>
+
+                    <ex><![CDATA[vi. 测量土地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Survey]]></key>
+
+            <value>
+
+                            <ex><![CDATA[信息反馈]]></ex>
+
+                            <ex><![CDATA[调查]]></ex>
+
+                            <ex><![CDATA[信息反馈等]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ordnance Survey]]></key>
+
+            <value>
+
+                            <ex><![CDATA[英国地形测量局]]></ex>
+
+                            <ex><![CDATA[军事测量]]></ex>
+
+                            <ex><![CDATA[地形测量]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Field survey]]></key>
+
+            <value>
+
+                            <ex><![CDATA[现场调查]]></ex>
+
+                            <ex><![CDATA[实地调查]]></ex>
+
+                            <ex><![CDATA[野外测量]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

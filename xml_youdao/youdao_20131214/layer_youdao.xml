@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[layer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[层]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['leɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 层，层次；膜；[植]压条；放置者，计划者]]></ex>
+
+                    <ex><![CDATA[vt. 把…分层堆放；借助压条法；生根繁殖；将（头发）剪成不同层次]]></ex>
+
+                    <ex><![CDATA[vi. 形成或分成层次；[植]通过压条法而生根]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Layer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[层]]></ex>
+
+                            <ex><![CDATA[图层]]></ex>
+
+                            <ex><![CDATA[层次]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[network layer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[网络层]]></ex>
+
+                            <ex><![CDATA[网路层]]></ex>
+
+                            <ex><![CDATA[收集层]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Layer Properties]]></key>
+
+            <value>
+
+                            <ex><![CDATA[图层属性]]></ex>
+
+                            <ex><![CDATA[层属性]]></ex>
+
+                            <ex><![CDATA[图层的属性]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

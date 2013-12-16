@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>not</key>
+
+<ps>nɒt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/d5/29/d529e941509eb9e9b9cfaeae1fe7ca23.mp3</pron>
+
+<ps>nɑt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d5/29/d529e941509eb9e9b9cfaeae1fe7ca23.mp3</pron>
+
+<pos>adv.</pos>
+
+<acceptation>不；[用以表示否定、否认、拒绝、禁止等]不是；几乎不；未必，没有[用于否定后面的词或短语]；
+
+</acceptation>
+
+<sent><orig>
+
+To find rows that do not match a value, use the NOT operator.
+
+</orig>
+
+<trans>
+
+若要查找与某值不匹配的行，可使用NOT运算符。
+
+</trans></sent>
+
+<sent><orig>
+
+In conversational English &quot;is not&quot; often contracts to &quot;isn't&quot;.
+
+</orig>
+
+<trans>
+
+口头英语中is not常缩写为isn‘t。
+
+</trans></sent>
+
+<sent><orig>
+
+You can apply AND, OR, or NOT to boolean values only.
+
+</orig>
+
+<trans>
+
+只可将AND,OR或NOT应用于布尔值。
+
+</trans></sent>
+
+<sent><orig>
+
+Bitmapped indexes are only useful equality queries, especially in combination with AND, OR, and NOT operators.
+
+</orig>
+
+<trans>
+
+位图索引仅对确定值的查询有效，尤其是拥有AND,OR和NOT逻辑运算符的组合。
+
+</trans></sent>
+
+<sent><orig>
+
+All the splendor in the world is not worth a good friend.
+
+</orig>
+
+<trans>
+
+人世间所有的荣华富贵不如一个好朋友。
+
+</trans></sent>
+
+</dict>

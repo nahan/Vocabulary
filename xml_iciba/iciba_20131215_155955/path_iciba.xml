@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>path</key>
+
+<ps>pɑ:θ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/d6/fe/d6fe1d0be6347b8ef2427fa629c04485.mp3</pron>
+
+<ps>pæθ, pɑθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d6/fe/d6fe1d0be6347b8ef2427fa629c04485.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>小路，路；路线，路程；〈比喻〉（人生的）道路；（思想，行为，生活的）途径；
+
+</acceptation>
+
+<sent><orig>
+
+PATH works with local partners to design and test new technologies.
+
+</orig>
+
+<trans>
+
+PATH与当地合作伙伴设计和试验新的技术。
+
+</trans></sent>
+
+<sent><orig>
+
+Multi-constrained path (MCP) selection is one of the great challenges that QoS routing (QoSR) faces.
+
+</orig>
+
+<trans>
+
+多约束路径(multi-constrained path,简称MCP)选择问题是QoS路由问题面临的重要挑战之一。
+
+</trans></sent>
+
+<sent><orig>
+
+Controls automatic generation of dll-path properties.
+
+</orig>
+
+<trans>
+
+控制dll-path属性的自动生成。
+
+</trans></sent>
+
+<sent><orig>
+
+The former includes forward path, backward path and human-computer interaction path.
+
+</orig>
+
+<trans>
+
+硬件部分包括前向通道、后向通道和人机通道。
+
+</trans></sent>
+
+<sent><orig>
+
+Before using dbcon. asp changes inside the database absolute path, point to the work path.
+
+</orig>
+
+<trans>
+
+使用前请修改dbcon.asp里面的数据库绝对路径，指向工作路径。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="concert"> <hw highlight="yes">con*cert</hw> <sound><wav>concer03.wav</wav></sound> <pr>ˈkɑ:nsɚt</pr> <fl>noun</fl> <in><il>plural</il> <if>con*certs</if></in> <def><gram>count</gram> <dt>:a public performance of music <vi>a rock <it>concert</it></vi> <vi>a classical <it>concert</it></vi> <vi>The orchestra will be giving/having/holding a free <it>concert</it>.</vi> <un>sometimes used before another noun <vi>a live <it>concert</it> performance</vi> <vi>a <it>concert</it> pianist</vi> <vi>a <it>concert</it> hall</vi></un></dt></def> <dro><dre>in concert</dre> <def><sn>1</sn> <ssl>formal</ssl> <dt>:<sx>together</sx> <vi>The FBI and the local police acted <it>in concert</it> to solve the murder.</vi> <un>often + <it>with</it> <vi>The FBI acted <it>in concert with</it> the local police to solve the murder.</vi></un></dt> <sn>2</sn> <dt>:performing at a concert <vi>I went to hear them <phrase>in concert</phrase>. [=in a public performance]</vi></dt></def></dro></entry>
+
+	<entry id="promenade concert"> <hw>promenade concert</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -certs</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a musical concert during which many people who are listening stand instead of sit</dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>fix</key>
+
+<ps>fɪks</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/9f/e0/9fe0db0460debc1814fe8647daeebb71.mp3</pron>
+
+<ps>fɪks</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8a/b8/8ab87d4fb3600cc53fc0c5c958a250b1.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>固定；准备；修理；使牢固；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>固着；变硬；安定；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>困境；定位于；受操纵的事；应急措施；
+
+</acceptation>
+
+<sent><orig>
+
+According to dynamic data exchange (DDE) technique, data communication between FIX and VC application is implemented.
+
+</orig>
+
+<trans>
+
+该方法利用FIX工控软件的动态数据交换 (DDE)技术 ，将FIX工控软件作为DDE服务器与VC + +应用程序进行数据交换。
+
+</trans></sent>
+
+<sent><orig>
+
+The automatic control of boiler's drum level and steam temperature is realized by applying FIX software.
+
+</orig>
+
+<trans>
+
+介绍应用FIX软件实现热电厂锅炉的温度、水位自动控制。
+
+</trans></sent>
+
+<sent><orig>
+
+FIX software provides the hardware system with upper supervision and data collection functions.
+
+</orig>
+
+<trans>
+
+FIX软件为硬件系统提供上位监控和数据采集功能。
+
+</trans></sent>
+
+<sent><orig>
+
+Fix-1 is up to the production demands and can be put into mass production.
+
+</orig>
+
+<trans>
+
+Fix－1符合生产要求，可大批量生产。
+
+</trans></sent>
+
+<sent><orig>
+
+Fix the mitochondria, and you might fix aging itself.
+
+</orig>
+
+<trans>
+
+修复线粒体，就有可能修复一个老化的你。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>log</key>
+
+<ps>lɒɡ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/dc/1d/dc1d71bbb5c4d2a5e936db79ef10c19f.mp3</pron>
+
+<ps>lɔɡ, lɑɡ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/dc/1d/dc1d71bbb5c4d2a5e936db79ef10c19f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>记录；航海[飞行]日志；原木，木材；补给品的发放，补给品发放的日子；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>砍伐，伐木；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…记入航海日志；航行（…距离），飞行（…小时）；向…提供补给品；
+
+</acceptation>
+
+<sent><orig>
+
+The referenced error log will be the sprestore. log file in the backup shared folder.
+
+</orig>
+
+<trans>
+
+参照的错误记录会是备份共用资料夹中的sprestore.log档案。
+
+</trans></sent>
+
+<sent><orig>
+
+Warning: ALL Log Paths must be set prior to running tests.
+
+</orig>
+
+<trans>
+
+警告：所有的Log存储路径必须在主菜单的“Option”里设置好。
+
+</trans></sent>
+
+<sent><orig>
+
+The fast and accurate evaluation of transcendental functions(e.g.exp,log,sin,tan)is very important in the field of scientific computing.
+
+</orig>
+
+<trans>
+
+科学计算中的许多领域都需要快速而精确地计算超越函数，即exp、log、sin、tan等此类函数。
+
+</trans></sent>
+
+<sent><orig>
+
+Always check recovery. log before posting your issues!
+
+</orig>
+
+<trans>
+
+前始终检查recovery.log发布您的问题！
+
+</trans></sent>
+
+<sent><orig>
+
+In order to improve LOG filter stereo vision, a four step pretreatment method was proposed.
+
+</orig>
+
+<trans>
+
+针对LOG滤波方法的不足，提出了一种新的四阶段预处理方法。
+
+</trans></sent>
+
+</dict>

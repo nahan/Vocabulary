@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chemistry"> <hw highlight="yes">chem*is*try</hw> <sound><wav>chemis07.wav</wav></sound> <pr>ˈkɛməstri</pr> <fl>noun</fl> <def><gram>noncount</gram> <sn>1</sn> <dt>:a science that deals with the structure and properties of substances and with the changes that they go through <vi>a professor of <it>chemistry</it></vi> <dx>see also <dxt>inorganic chemistry</dxt> <dxt>organic chemistry</dxt></dx></dt> <sn>2</sn> <dt>:the structure and properties of a substance :the way a substance changes and reacts with other substances <vi>studying the <it>chemistry</it> of gasoline/iron</vi> <vi>blood/body <it>chemistry</it></vi></dt> <sn>3 a</sn> <dt>:a strong attraction between people <vi>They tried dating, but there was no <it>chemistry</it> between them.</vi></dt> <sn>b</sn> <dt>:the way the people in a group work together and feel about each other <vi>the <it>chemistry</it> of the office</vi> <vi>The team lacks <it>chemistry</it>.</vi></dt></def></entry>
+
+	<entry id="chemistry set"> <hw>chemistry set</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ sets</if></in> <def><gram>count</gram> <dt>:a set of equipment that a child can use to learn about chemistry by doing simple experiments</dt></def></entry>
+
+	<entry id="inorganic chemistry"> <hw>inorganic chemistry</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a branch of chemistry concerned with substances that contain little or no carbon <dx>compare <dxt>organic chemistry</dxt></dx></dt></def></entry>
+
+	<entry id="organic chemistry"> <hw>organic chemistry</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a branch of chemistry that is concerned with carbon and especially carbon compounds which are found in living things <dx>compare <dxt>inorganic chemistry</dxt></dx></dt></def></entry>
+
+</entry_list>

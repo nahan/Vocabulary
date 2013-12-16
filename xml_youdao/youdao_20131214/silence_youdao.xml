@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[silence]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[沉默]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['saɪləns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 沉默；寂静；缄默；不谈；无声状态]]></ex>
+
+                    <ex><![CDATA[vt. 使沉默；使安静；压制；消除噪音]]></ex>
+
+                    <ex><![CDATA[int. 安静！；别作声！]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Silence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[汪苏泷]]></ex>
+
+                            <ex><![CDATA[沉默]]></ex>
+
+                            <ex><![CDATA[寂静]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[in silence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[在沉默中]]></ex>
+
+                            <ex><![CDATA[在缄默中]]></ex>
+
+                            <ex><![CDATA[寂静]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Keep Silence]]></key>
+
+            <value>
+
+                            <ex><![CDATA[保持安静]]></ex>
+
+                            <ex><![CDATA[保持沉默]]></ex>
+
+                            <ex><![CDATA[坚持宁静]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

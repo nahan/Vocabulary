@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[string]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[字符串]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[strɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 线，细绳；一串，一行]]></ex>
+
+                    <ex><![CDATA[vt. 扎，缚；使排成一列，串起；伸展，拉直]]></ex>
+
+                    <ex><![CDATA[vi. 连成一串；排成一列]]></ex>
+
+                    <ex><![CDATA[n. (String)人名；(德)施特林；(瑞典)斯特林]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[string]]></key>
+
+            <value>
+
+                            <ex><![CDATA[字符串]]></ex>
+
+                            <ex><![CDATA[绳子]]></ex>
+
+                            <ex><![CDATA[细绳]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[string quartet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弦乐四重奏]]></ex>
+
+                            <ex><![CDATA[弦乐四重奏曲]]></ex>
+
+                            <ex><![CDATA[四重奏]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[String instrument]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弦乐器]]></ex>
+
+                            <ex><![CDATA[拉弦乐器英文名一览]]></ex>
+
+                            <ex><![CDATA[琵琶]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

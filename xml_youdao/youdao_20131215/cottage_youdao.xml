@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cottage]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[小屋]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒtɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 小屋；村舍；（农舍式的）小别墅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[cottage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小屋]]></ex>
+
+                            <ex><![CDATA[平房]]></ex>
+
+                            <ex><![CDATA[村舍]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Craven Cottage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[卡云农舍球场]]></ex>
+
+                            <ex><![CDATA[克拉文农场]]></ex>
+
+                            <ex><![CDATA[克拉文别墅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cottage garden]]></key>
+
+            <value>
+
+                            <ex><![CDATA[村舍花园]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

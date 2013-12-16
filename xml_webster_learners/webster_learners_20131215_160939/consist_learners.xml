@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="consist"> <hw highlight="yes">con*sist</hw> <sound><wav>consis01.wav</wav></sound> <pr>kənˈsɪst</pr> <fl>verb</fl> <lb>not used in progressive tenses</lb> <in><if>con*sists</if></in> <in><if>con*sist*ed</if></in> <in><if>con*sist*ing</if></in> <dro><dre>consist in</dre> <gram>phrasal verb</gram> <def><phrasev><pva>consist in (something)</pva></phrasev> <ssl>formal</ssl> <dt>:to have (something) as an essential or main part <vi>Happiness <it>consists in</it> being satisfied with what you have.</vi></dt></def></dro> <dro><dre>consist of</dre> <gram>phrasal verb</gram> <def><phrasev><pva>consist of (something)</pva></phrasev> <dt>:to be formed or made up of (specified things or people) <vi>Breakfast <it>consisted of</it> cereal, fruit, and orange juice.</vi> <vi>Coal <it>consists</it> mostly <it>of</it> carbon.</vi> <vi>His wardrobe <it>consists</it> almost entirely <it>of</it> jeans and T-shirts.</vi> <vi>The crowd <it>consisted</it> mainly/largely <it>of</it> teenage girls.</vi> <vi>The job mainly <it>consists of</it> classifying evidence.</vi> <vi>a museum with a collection <it>consisting</it> entirely <it>of</it> portraits</vi></dt></def></dro></entry>
+
+</entry_list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cable[1]"> <hw hindex="1">ca*ble</hw> <sound><wav>cable001.wav</wav></sound> <pr>ˈkeɪbəl</pr> <fl>noun</fl> <in><il>plural</il> <if>ca*bles</if></in> <def><sn>1 a</sn> <dt>:a thick, strong rope made of wires that are twisted together <wsgram>count</wsgram> <vi>The bridge is held up by <it>cables</it>.</vi> <wsgram>noncount</wsgram> <vi>Their company supplied <it>cable</it> for the project.</vi></dt> <sn>b</sn> <sgram>count</sgram> <dt>:a wire that moves a part in a machine <vi>a brake <it>cable</it></vi></dt> <sn>2</sn> <dt>:a group of wires, glass fibers, etc., covered in plastic or rubber and used to carry electricity or electrical signals <wsgram>count</wsgram> <vi>battery <it>cables</it></vi> <vi>computer <it>cables</it></vi> <vi>a fiber-optic <it>cable</it></vi> <wsgram>noncount</wsgram> <vi>We need more <it>cable</it> to hook up the computers.</vi></dt> <sn>3</sn> <sgram>count</sgram> <dt>:a message sent by telegraph :<sx>telegram</sx></dt> <sn>4</sn> <sgram>noncount</sgram> <dt>:<sx>cable television</sx> <vi>Does our hotel room have <it>cable</it>?</vi> <vi>The game will be shown on <it>cable</it>.</vi> <vi><it>cable</it> news</vi> <vi>the big <it>cable</it> networks/companies</vi> <vi>a <phrase>cable box</phrase> [=a box that sends television signals from a cable into the television]</vi></dt></def></entry>
+
+	<entry id="cable[2]"> <hw hindex="2">cable</hw> <altpr>ˈkeɪbəl</altpr> <fl>verb</fl> <in><if>cables</if></in> <in><if>ca*bled</if></in> <in><if>ca*bling</if></in> <def><dt>:to send a message by telegraph :<sx>telegraph</sx> <wsgram>+ obj</wsgram> <vi>She <it>cabled</it> the news to the United States.</vi> <vi>She <it>cabled</it> her parents for money.</vi> <wsgram>no obj</wsgram> <vi>The soldiers <it>cabled</it> back to headquarters.</vi></dt></def></entry>
+
+	<entry id="cable car"> <hw>cable car</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cars</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a vehicle that hangs in the air from a cable that pulls it up and down mountains <vi>The skiers took a <it>cable car</it> to the top of the mountain.</vi></dt> <sn>2</sn> <dt>:a vehicle that is pulled along tracks by a cable <vi>Tourists packed the <it>cable cars</it> on the hilly streets of San Francisco.</vi></dt></def></entry>
+
+	<entry id="cable modem"> <hw>cable modem</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -dems</if></in> <def><gram>count</gram> <dt>:a device that connects a computer to a network (such as the Internet) through the same kind of cable used for cable television</dt></def></entry>
+
+	<entry id="cable television"> <hw>cable television</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a system in which television signals are sent through cables rather than through the air <ca>called also <cat>cable</cat> <cat>cable TV</cat></ca></dt></def></entry>
+
+	<entry id="coaxial cable"> <hw>co*ax*i*al cable</hw> <sound><wav>coaxi1s3.wav</wav></sound> <pr>koʊˈæksijəl-</pr> <fl>noun</fl> <in><il>plural</il> <if>⁓ cables</if></in> <def><gram>count</gram> <sl>technical</sl> <dt>:a type of electric cable that is used to send telegraph, telephone, and television signals</dt></def></entry>
+
+	<entry id="pay-cable"> <hw>pay–cable</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>chiefly US</sl> <dt>:pay-TV that is sent through a cable television system <un>often used before another noun <vi>a <it>pay-cable</it> channel/network</vi></un></dt></def></entry>
+
+</entry_list>

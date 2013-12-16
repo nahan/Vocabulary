@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[white]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[白色的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[waɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 白色；洁白；白种人]]></ex>
+
+                    <ex><![CDATA[adj. 白色的；白种的；纯洁的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[White]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白色]]></ex>
+
+                            <ex><![CDATA[纯白]]></ex>
+
+                            <ex><![CDATA[白的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[white]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[oyster white]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乳白色]]></ex>
+
+                            <ex><![CDATA[牡蛎白]]></ex>
+
+                            <ex><![CDATA[近于白色的浅灰]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

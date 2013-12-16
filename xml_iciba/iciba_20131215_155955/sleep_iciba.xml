@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>sleep</key>
+
+<ps>sli:p</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f0/41/f0412f976c888e472694c569e11fde82.mp3</pron>
+
+<ps>slip</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c9/fa/c9fab33e9458412c527c3fe8a13ee37d.mp3</pron>
+
+<pos>vi.&amp; link-v.</pos>
+
+<acceptation>睡，睡觉；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>睡，睡觉；睡眠状态；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>为…提供床位；提供住宿；以睡觉打发日子；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>睡眠；
+
+</acceptation>
+
+<sent><orig>
+
+Illusionist: Sleep-Mesmerize effect can now affect Epic targets.
+
+</orig>
+
+<trans>
+
+Illu:Sleep造成的催眠效果将能作用在Epic级目标上。
+
+</trans></sent>
+
+<sent><orig>
+
+This includes system calls such as alarm, getitimer, and sleep.
+
+</orig>
+
+<trans>
+
+这包括诸如alarm,getitimer,和sleep等系统调用。
+
+</trans></sent>
+
+<sent><orig>
+
+Just sleep and sleep and eat andand fuss and sleep again.
+
+</orig>
+
+<trans>
+
+大觉，只是饱食终日，无所用心，吃了睡，睡了吃。
+
+</trans></sent>
+
+<sent><orig>
+
+Just sleep and sleep, and eat and play and fuss and sleep again.
+
+</orig>
+
+<trans>
+
+我们却在睡大觉，只是饱食终日，无所用心，吃了睡，睡了吃。
+
+</trans></sent>
+
+<sent><orig>
+
+Ritanserincan?t restore to normal sleep except light sleep in sleep deprived rats pretreated with PCPA.
+
+</orig>
+
+<trans>
+
+对于PCPA化使 3种睡眠成分均明显减少 ，觉醒比例明显增加的大鼠 ，ritanserin仅使浅睡眠增加其它成分不变。
+
+</trans></sent>
+
+</dict>

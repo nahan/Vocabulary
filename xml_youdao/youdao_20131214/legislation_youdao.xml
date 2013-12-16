@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[legislation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[立法]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ledʒɪs'leɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 立法；法律]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[legislation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[立法]]></ex>
+
+                            <ex><![CDATA[法律]]></ex>
+
+                            <ex><![CDATA[法规]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Delegated legislation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[委任立法]]></ex>
+
+                            <ex><![CDATA[授权立法]]></ex>
+
+                            <ex><![CDATA[法律]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[National legislation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国内立法]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>analyses</key>
+
+<ps>ə'næləsi:z</ps>
+
+<ps>ə'næləsi:z</ps>
+
+<pos>n.</pos>
+
+<acceptation>分析（analysis的名词复数 ）；检验；解析；分解；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>分析，分解，解释（ analyse的第三人称单数 ）；
+
+</acceptation>
+
+<sent><orig>
+
+The analyses performed for optimizing transformations are all classified as data flow analyses, or flow analyses.
+
+</orig>
+
+<trans>
+
+在变换最优化中执行的这些分析都被划归为数据流分析或流分析。
+
+</trans></sent>
+
+<sent><orig>
+
+The formal analyses may be classified into two categories: static analyses and dynamic analyses.
+
+</orig>
+
+<trans>
+
+形式分析可以分为两类：静态分析和动态分析。
+
+</trans></sent>
+
+<sent><orig>
+
+There are relationships between absorption and proximate analyses, maceral analyses and ultimate analyses.
+
+</orig>
+
+<trans>
+
+煤的吸附量与煤层的工业分析、显微煤岩分析、元素分析之间有一定的关系。
+
+</trans></sent>
+
+<sent><orig>
+
+Dynamic mechanical analyses and Thermal gravity analyses indicated the storage modulus and heat resistance was improved.
+
+</orig>
+
+<trans>
+
+动态力学分析与热重分析表明由于MWNT的加入使得复合材料的储能模量和耐热性增加。
+
+</trans></sent>
+
+<sent><orig>
+
+This study combines qualitative analyses and quantitative analyses to analyze the selected test paper.
+
+</orig>
+
+<trans>
+
+本研究采用定性和定量相结合的方法，对试卷质量进行全面分析。
+
+</trans></sent>
+
+</dict>

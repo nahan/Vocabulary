@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[yeah]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[是啊]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[jeə; je]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 是]]></ex>
+
+                    <ex><![CDATA[int. 是]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[yeah]]></key>
+
+            <value>
+
+                            <ex><![CDATA[是的]]></ex>
+
+                            <ex><![CDATA[亚瑟小子]]></ex>
+
+                            <ex><![CDATA[是啊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Yeah yes]]></key>
+
+            <value>
+
+                            <ex><![CDATA[是的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[yeah baby]]></key>
+
+            <value>
+
+                            <ex><![CDATA[是的]]></ex>
+
+                            <ex><![CDATA[是的宝贝]]></ex>
+
+                            <ex><![CDATA[哎对婴儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

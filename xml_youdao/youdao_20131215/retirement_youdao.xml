@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[retirement]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[退休]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'taɪəm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 退休，退役]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Retirement]]></key>
+
+            <value>
+
+                            <ex><![CDATA[退休]]></ex>
+
+                            <ex><![CDATA[指令引退]]></ex>
+
+                            <ex><![CDATA[退修]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[retirement fund]]></key>
+
+            <value>
+
+                            <ex><![CDATA[退休基金]]></ex>
+
+                            <ex><![CDATA[退休养老基金]]></ex>
+
+                            <ex><![CDATA[资产换置基金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[retirement benefit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[退休福利]]></ex>
+
+                            <ex><![CDATA[退休金]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

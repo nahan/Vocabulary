@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cotton]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[棉花]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒt(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 棉花；棉布；棉线]]></ex>
+
+                    <ex><![CDATA[adj. 棉的；棉制的]]></ex>
+
+                    <ex><![CDATA[vi. 一致；理解；和谐；亲近]]></ex>
+
+                    <ex><![CDATA[n. (Cotton)人名；(英、西、葡)科顿；(法)戈登]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Cotton]]></key>
+
+            <value>
+
+                            <ex><![CDATA[棉花]]></ex>
+
+                            <ex><![CDATA[棉布]]></ex>
+
+                            <ex><![CDATA[棉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cotton candy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[棉花糖]]></ex>
+
+                            <ex><![CDATA[草棉糖]]></ex>
+
+                            <ex><![CDATA[粉色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cotton swab]]></key>
+
+            <value>
+
+                            <ex><![CDATA[棉花棒]]></ex>
+
+                            <ex><![CDATA[棉签]]></ex>
+
+                            <ex><![CDATA[棉纱拖把]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

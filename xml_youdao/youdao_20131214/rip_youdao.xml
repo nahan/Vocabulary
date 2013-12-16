@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rip]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[rip]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 裂口，裂缝]]></ex>
+
+                    <ex><![CDATA[vi. 裂开，被撕裂]]></ex>
+
+                    <ex><![CDATA[vt. 撕；锯]]></ex>
+
+                    <ex><![CDATA[n. (Rip)人名；(塞)里普]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[RIP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[路由信息协议(Routing Information Protocol)]]></ex>
+
+                            <ex><![CDATA[路由选择信息协议]]></ex>
+
+                            <ex><![CDATA[光栅图像处理器(Raster Image Processor)]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rip off]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宰人]]></ex>
+
+                            <ex><![CDATA[宰客]]></ex>
+
+                            <ex><![CDATA[裂开]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rip bit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可卸式钻头]]></ex>
+
+                            <ex><![CDATA[可卸钻头]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

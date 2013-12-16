@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[neck]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[脖子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nek]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 脖子；衣领；海峡]]></ex>
+
+                    <ex><![CDATA[vt. 使变细；与…搂著脖子亲吻]]></ex>
+
+                    <ex><![CDATA[vi. 搂著脖子亲吻；变狭窄]]></ex>
+
+                    <ex><![CDATA[n. (Neck)人名；(德、意、英)内克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Neck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[颈]]></ex>
+
+                            <ex><![CDATA[脖子]]></ex>
+
+                            <ex><![CDATA[颈部]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stiff neck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[落枕]]></ex>
+
+                            <ex><![CDATA[脖子发僵]]></ex>
+
+                            <ex><![CDATA[顽固之人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[goose neck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鹅颈管]]></ex>
+
+                            <ex><![CDATA[棒颈]]></ex>
+
+                            <ex><![CDATA[鹅颈形吊杆转动座]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

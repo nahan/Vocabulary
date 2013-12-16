@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>symbol</key>
+
+<ps>'sɪmbl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/69/ab/69abe1d666b6f90a44664c396e670216.mp3</pron>
+
+<ps>ˈsɪmbəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/97/bf/97bff26855a8bfa63e05d5477e794b24.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>象征；标志；符号；记号；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>用符号代表；
+
+</acceptation>
+
+<sent><orig>
+
+To discard all old symbol data instead, use the symbol-file command without any arguments.
+
+</orig>
+
+<trans>
+
+要丢弃所有旧的符号数据，使用不带参数的symbol-file命令。
+
+</trans></sent>
+
+<sent><orig>
+
+The symbol-file command causes GDB to forget the contents of some breakpoints and auto-display expressions.
+
+</orig>
+
+<trans>
+
+symbol-file命令让GDB忘记一些断点和auto-display表达式的内容。
+
+</trans></sent>
+
+<sent><orig>
+
+For domain-related symbol, this paper proposes a vector-based symbol model definition and a model-based symbol-matching algorithm.
+
+</orig>
+
+<trans>
+
+对于专用符号，本章提出一种专用符号的矢量模板定义方法和基于模板的符号匹配方法。
+
+</trans></sent>
+
+<sent><orig>
+
+For more information, see Find Symbol, Find and Replace Window and Find Symbol Results Window.
+
+</orig>
+
+<trans>
+
+有关更多信息，请参见“查找和替换”窗口-&gt;“查找符号”和“查找符号结果”窗口。
+
+</trans></sent>
+
+<sent><orig>
+
+You can define a symbol, but you cannot assign a value to a symbol.
+
+</orig>
+
+<trans>
+
+可以定义符号，但是无法对符号赋值。
+
+</trans></sent>
+
+</dict>

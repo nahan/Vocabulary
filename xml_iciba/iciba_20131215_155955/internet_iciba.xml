@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>internet</key>
+
+<ps>'intənet</ps>
+
+<pron>http://res-tts.iciba.com/c/3/5/c3581516868fb3b71746931cac66390e.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>互联网；
+
+</acceptation>
+
+<pos>abbr.</pos>
+
+<acceptation>interconnection network, internetwork 互联网；internetwork 互联网网；
+
+</acceptation>
+
+<sent><orig>
+
+Turning off the Internet Connection Firewall could expose your computer to unauthorized access over the Internet.
+
+</orig>
+
+<trans>
+
+关闭Internet连接防火墙可能会使您的计算机暴露给来自Internet的未经授权的访问。
+
+</trans></sent>
+
+<sent><orig>
+
+Turning off Internet Connection Firewall could expose your computer to unauthorized access over the Internet.
+
+</orig>
+
+<trans>
+
+关闭Internet连接防火墙将使您的计算机暴露给没有经过身份验证的Internet访问。
+
+</trans></sent>
+
+<sent><orig>
+
+With the spread of Internet, the applications based on Internet are developing fast.
+
+</orig>
+
+<trans>
+
+随着互联网的进一步普及，基于Internet的各种应用得到飞速发展。
+
+</trans></sent>
+
+<sent><orig>
+
+The Intranet manager center, net manager, Internet access, design for Intranet and Internet network are introduced.
+
+</orig>
+
+<trans>
+
+叙述了企业网网管中心建设方案的设计 ，以及网络管理、企业网络出口与内、外Internet网络设计等。
+
+</trans></sent>
+
+<sent><orig>
+
+Nowdays, we have many Internet search engines, such as Google, Yahoo, WebCrawler.
+
+</orig>
+
+<trans>
+
+现有的Internet搜索引擎如：Google,Yahoo,WebCrawler等，可以帮助人们搜索Internet上各种信息。
+
+</trans></sent>
+
+</dict>

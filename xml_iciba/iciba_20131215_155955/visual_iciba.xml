@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>visual</key>
+
+<ps>'vɪʒʊəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/3c/3d/3c3dfeee9c159a825924235cf1992604.mp3</pron>
+
+<ps>ˈvɪʒuəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/1d/fb/1dfb6b98aef3416e03d50fd2fb525600.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>视觉的，看得见的；光学的，视力的；形象化的；光学的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>画面，图象；
+
+</acceptation>
+
+<sent><orig>
+
+Better yet, many of these toolkits are Visual Basic add-ons.
+
+</orig>
+
+<trans>
+
+更喜人的是，其中很多工具箱是Visual Basic附加模块。
+
+</trans></sent>
+
+<sent><orig>
+
+Visual (visualization) : the use of graphical user interface (GUI) programming methods.
+
+</orig>
+
+<trans>
+
+Visual（可视化）：采用图形用户界面(GUI)的程序设计方法。
+
+</trans></sent>
+
+<sent><orig>
+
+On the basis of experimental data,a database for cushioning package design was developed with Visual FoxPro.
+
+</orig>
+
+<trans>
+
+介绍了以大量实验数据为基础，利用V isual FoxPro语言开发的缓冲包装设计数据库。
+
+</trans></sent>
+
+<sent><orig>
+
+The actual flame length is obtained in Visual C#.
+
+</orig>
+
+<trans>
+
+利用V isual C#编程技术，依据所提取的火焰边界和长度计算方法，得到火焰实际长度。
+
+</trans></sent>
+
+<sent><orig>
+
+The visual learning ability is composedvisual memory ability visual observation ability and visual judgment ability.
+
+</orig>
+
+<trans>
+
+在视觉学习能力中又分为记忆力、观察力和判断力的培养。
+
+</trans></sent>
+
+</dict>

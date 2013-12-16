@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[magic]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[魔法]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mædʒɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 巫术；魔法；戏法]]></ex>
+
+                    <ex><![CDATA[adj. 不可思议的；有魔力的；魔术的]]></ex>
+
+                    <ex><![CDATA[n. (Magic)人名；(英)马吉克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Magic]]></key>
+
+            <value>
+
+                            <ex><![CDATA[魔术]]></ex>
+
+                            <ex><![CDATA[魔力]]></ex>
+
+                            <ex><![CDATA[魔法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Magic point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[魔法值]]></ex>
+
+                            <ex><![CDATA[魔法力]]></ex>
+
+                            <ex><![CDATA[魔术点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[magic number]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幻数]]></ex>
+
+                            <ex><![CDATA[魔术数字]]></ex>
+
+                            <ex><![CDATA[魔法数]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[certificate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[证书]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sə'tɪfɪkət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 证书；执照，文凭]]></ex>
+
+                    <ex><![CDATA[vt. 发给证明书；以证书形式授权给…；用证书批准]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Certificate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[证书]]></ex>
+
+                            <ex><![CDATA[认证]]></ex>
+
+                            <ex><![CDATA[单据]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[health certificate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[卫生证书]]></ex>
+
+                            <ex><![CDATA[健康证书]]></ex>
+
+                            <ex><![CDATA[卫生证明书]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Birth certificate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出生证明书]]></ex>
+
+                            <ex><![CDATA[出生证明]]></ex>
+
+                            <ex><![CDATA[出生证]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

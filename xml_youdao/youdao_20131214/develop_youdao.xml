@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[develop]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[开发]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'veləp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 发育；生长；进化；显露]]></ex>
+
+                    <ex><![CDATA[vt. 开发；进步；使成长；使显影]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Develop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[开发]]></ex>
+
+                            <ex><![CDATA[发展]]></ex>
+
+                            <ex><![CDATA[养成]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[freely develop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自由生长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[develop software]]></key>
+
+            <value>
+
+                            <ex><![CDATA[开发软件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

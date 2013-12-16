@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[relieve]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[缓解]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'liːv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 解除，减轻；使不单调乏味；换…的班；解围；使放心]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[relieve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[减轻]]></ex>
+
+                            <ex><![CDATA[缓解]]></ex>
+
+                            <ex><![CDATA[救济]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stress relieve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[应力消除]]></ex>
+
+                            <ex><![CDATA[缓解压力]]></ex>
+
+                            <ex><![CDATA[压力缓解]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[relieve stress]]></key>
+
+            <value>
+
+                            <ex><![CDATA[缓解压力]]></ex>
+
+                            <ex><![CDATA[减轻负担]]></ex>
+
+                            <ex><![CDATA[减压]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

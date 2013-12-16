@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[altogether]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[完全]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɔːltə'geðə; ɒl-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 整个；裸体]]></ex>
+
+                    <ex><![CDATA[adv. 完全地；总共；总而言之]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Altogether]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一共]]></ex>
+
+                            <ex><![CDATA[总共]]></ex>
+
+                            <ex><![CDATA[完全]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[altogether coal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[原煤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Altogether worthy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全然配受赞美]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

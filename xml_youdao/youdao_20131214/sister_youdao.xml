@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sister]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[妹妹]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɪstə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 姐妹；（称志同道合者）姐妹；修女；护士]]></ex>
+
+                    <ex><![CDATA[adj. 姐妹般的；同类型的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sister]]></key>
+
+            <value>
+
+                            <ex><![CDATA[姐]]></ex>
+
+                            <ex><![CDATA[妹妹]]></ex>
+
+                            <ex><![CDATA[姐妹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[WATCH SISTER]]></key>
+
+            <value>
+
+                            <ex><![CDATA[表妹]]></ex>
+
+                            <ex><![CDATA[表姐]]></ex>
+
+                            <ex><![CDATA[表姊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Older Sister]]></key>
+
+            <value>
+
+                            <ex><![CDATA[长姊]]></ex>
+
+                            <ex><![CDATA[姐姐]]></ex>
+
+                            <ex><![CDATA[姊姊]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

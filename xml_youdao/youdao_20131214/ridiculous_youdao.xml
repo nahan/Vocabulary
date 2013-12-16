@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ridiculous]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[荒谬的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'dɪkjʊləs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 可笑的；荒谬的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[ridiculous]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可笑的]]></ex>
+
+                            <ex><![CDATA[荒谬的]]></ex>
+
+                            <ex><![CDATA[荒唐的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ridiculous Thoughts]]></key>
+
+            <value>
+
+                            <ex><![CDATA[天马行空]]></ex>
+
+                            <ex><![CDATA[胡思乱想]]></ex>
+
+                            <ex><![CDATA[荒谬的想法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ridiculous movie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一部大蠢片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

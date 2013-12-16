@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[organize]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[组织]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɔ:ɡənaiz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 组织起来；成立组织]]></ex>
+
+                    <ex><![CDATA[vt. 组织；使有系统化；给予生机；组织成立工会等]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[organize]]></key>
+
+            <value>
+
+                            <ex><![CDATA[组织]]></ex>
+
+                            <ex><![CDATA[编组]]></ex>
+
+                            <ex><![CDATA[整理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[organize vt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[组织]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Organize societies]]></key>
+
+            <value>
+
+                            <ex><![CDATA[组织社团]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

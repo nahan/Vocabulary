@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cut]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[减少]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kʌt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 伤口；切口；削减；（服装等的）式样；削球；切入]]></ex>
+
+                    <ex><![CDATA[adj. 割下的；雕过的；缩减的]]></ex>
+
+                    <ex><![CDATA[vt. [机] 切割；削减；缩短；刺痛]]></ex>
+
+                    <ex><![CDATA[vi. [机] 切割；相交；切牌；停拍；不出席]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[cut]]></key>
+
+            <value>
+
+                            <ex><![CDATA[剪切]]></ex>
+
+                            <ex><![CDATA[切工]]></ex>
+
+                            <ex><![CDATA[切割]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cut back]]></key>
+
+            <value>
+
+                            <ex><![CDATA[削减]]></ex>
+
+                            <ex><![CDATA[急忙返回]]></ex>
+
+                            <ex><![CDATA[缩减]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cut out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[删除]]></ex>
+
+                            <ex><![CDATA[删掉]]></ex>
+
+                            <ex><![CDATA[割去]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

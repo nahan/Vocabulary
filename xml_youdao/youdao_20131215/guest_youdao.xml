@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[guest]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[客人]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gest]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 客人，宾客；顾客]]></ex>
+
+                    <ex><![CDATA[adj. 客人的；特邀的，客座的]]></ex>
+
+                    <ex><![CDATA[vt. 款待，招待]]></ex>
+
+                    <ex><![CDATA[vi. 作客，寄宿]]></ex>
+
+                    <ex><![CDATA[n. (Guest)人名；(英)格斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Guest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[客人]]></ex>
+
+                            <ex><![CDATA[旅客]]></ex>
+
+                            <ex><![CDATA[来宾]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[guest house]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宾馆]]></ex>
+
+                            <ex><![CDATA[招待所]]></ex>
+
+                            <ex><![CDATA[迎宾馆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[guest student]]></key>
+
+            <value>
+
+                            <ex><![CDATA[旁听生]]></ex>
+
+                            <ex><![CDATA[旁听生英]]></ex>
+
+                            <ex><![CDATA[使开业]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

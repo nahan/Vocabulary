@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wear]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[穿]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[weə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 穿著；磨损；耐久性]]></ex>
+
+                    <ex><![CDATA[v. 穿著；用旧；耗损；面露]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[wear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[磨损]]></ex>
+
+                            <ex><![CDATA[穿着]]></ex>
+
+                            <ex><![CDATA[穿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[LEISURE WEAR]]></key>
+
+            <value>
+
+                            <ex><![CDATA[休闲服]]></ex>
+
+                            <ex><![CDATA[休闲装]]></ex>
+
+                            <ex><![CDATA[便装]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Wear rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[磨损率]]></ex>
+
+                            <ex><![CDATA[磨耗率]]></ex>
+
+                            <ex><![CDATA[磨损速率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

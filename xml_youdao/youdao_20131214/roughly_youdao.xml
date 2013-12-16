@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[roughly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[约]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['rʌflɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 粗糙地；概略地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Roughly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大致]]></ex>
+
+                            <ex><![CDATA[粗略地]]></ex>
+
+                            <ex><![CDATA[概略地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[roughly equal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大约平等]]></ex>
+
+                            <ex><![CDATA[约等于]]></ex>
+
+                            <ex><![CDATA[大致相等]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[treating roughly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[粗暴对待的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

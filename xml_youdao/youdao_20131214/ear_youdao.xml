@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ear]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[耳朵]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 耳朵；穗；听觉；倾听]]></ex>
+
+                    <ex><![CDATA[vi. （美俚）听见；抽穗]]></ex>
+
+                    <ex><![CDATA[n. (Ear)人名；(柬)伊]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Ear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[耳朵]]></ex>
+
+                            <ex><![CDATA[耳]]></ex>
+
+                            <ex><![CDATA[听力]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Middle ear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中耳]]></ex>
+
+                            <ex><![CDATA[鼓室]]></ex>
+
+                            <ex><![CDATA[第二节]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ear lobe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[耳垂]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shop]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[商店]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃɒp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 商店；店铺]]></ex>
+
+                    <ex><![CDATA[vt. 购物]]></ex>
+
+                    <ex><![CDATA[vi. 购物；买东西]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[商店]]></ex>
+
+                            <ex><![CDATA[店铺]]></ex>
+
+                            <ex><![CDATA[网店系统]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[coffee shop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[咖啡馆]]></ex>
+
+                            <ex><![CDATA[咖啡店]]></ex>
+
+                            <ex><![CDATA[咖啡厅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Furniture Shop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[家具店]]></ex>
+
+                            <ex><![CDATA[家俬铺]]></ex>
+
+                            <ex><![CDATA[野具店]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

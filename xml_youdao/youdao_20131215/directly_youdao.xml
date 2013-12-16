@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[directly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[直接]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'rektlɪ; daɪ-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 一…就]]></ex>
+
+                    <ex><![CDATA[adv. 直接地；立即；马上；正好地；坦率地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[directly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[直接地]]></ex>
+
+                            <ex><![CDATA[直选]]></ex>
+
+                            <ex><![CDATA[径直]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Not directly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不直接]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[directly address]]></key>
+
+            <value>
+
+                            <ex><![CDATA[直接寻址]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

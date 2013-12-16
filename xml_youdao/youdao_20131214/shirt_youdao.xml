@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shirt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[衬衫]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃɜːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 衬衫；汗衫，内衣]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Shirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[衬衫]]></ex>
+
+                            <ex><![CDATA[衬衣]]></ex>
+
+                            <ex><![CDATA[男衬衫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Polo shirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[Polo衫]]></ex>
+
+                            <ex><![CDATA[球衣]]></ex>
+
+                            <ex><![CDATA[马球衫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Woolen Shirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[毛衬衫]]></ex>
+
+                            <ex><![CDATA[毛料衬衫]]></ex>
+
+                            <ex><![CDATA[毛料上衣]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

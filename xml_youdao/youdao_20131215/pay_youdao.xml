@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pay]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[支付]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[peɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 工资，薪水；付款；报答]]></ex>
+
+                    <ex><![CDATA[vt. 支付，付；偿还，补偿；给予]]></ex>
+
+                    <ex><![CDATA[vi. 付款；偿还]]></ex>
+
+                    <ex><![CDATA[adj. 收费的；需付费的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pay]]></key>
+
+            <value>
+
+                            <ex><![CDATA[支付]]></ex>
+
+                            <ex><![CDATA[付款]]></ex>
+
+                            <ex><![CDATA[付出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pay up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全部付清]]></ex>
+
+                            <ex><![CDATA[付款]]></ex>
+
+                            <ex><![CDATA[偿还]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[severance pay]]></key>
+
+            <value>
+
+                            <ex><![CDATA[解雇费]]></ex>
+
+                            <ex><![CDATA[离职金]]></ex>
+
+                            <ex><![CDATA[遣散费]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

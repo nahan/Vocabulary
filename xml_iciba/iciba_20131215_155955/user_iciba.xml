@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>user</key>
+
+<ps>ˈju:zə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/54/63/54635c38facc84591e295a8891283ed7.mp3</pron>
+
+<ps>ˈjuzɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ee/11/ee11cbb19052e40b07aac0ca060c23ee.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>用户，使用者；吸毒成瘾者；
+
+</acceptation>
+
+<sent><orig>
+
+Please check your NIS or YP configuration (if used) and the USER and LOGNAME environment variables.
+
+</orig>
+
+<trans>
+
+请检查nis或YP配置（如果使用），检查USER和LOGNAME环境变量。
+
+</trans></sent>
+
+<sent><orig>
+
+With function or meaning specified by a user; ( a user-defined key, a user-defined macro) .
+
+</orig>
+
+<trans>
+
+用于修饰或说明由用户指定的功能或意义（如用户定义键、用户定义宏指令等）。
+
+</trans></sent>
+
+<sent><orig>
+
+Click to combine information for a user with two user accounts into one user account.
+
+</orig>
+
+<trans>
+
+对于拥有两个帐户的用户，单击此处可将用户信息合并到一个用户帐户中。
+
+</trans></sent>
+
+<sent><orig>
+
+Change the username, user ID, group ID, user comment, and home directory for the new user.
+
+</orig>
+
+<trans>
+
+改变使用者名称，使用者身份证、组身份证，使用者注解，和家庭的新使用者的目录。
+
+</trans></sent>
+
+<sent><orig>
+
+Use the DROP USER statement to remove a database user and optionally remove the user's objects.
+
+</orig>
+
+<trans>
+
+使用dropuser语句可以移除一个数据库的用户，同时也可以移除这个用户的所有对象。
+
+</trans></sent>
+
+</dict>

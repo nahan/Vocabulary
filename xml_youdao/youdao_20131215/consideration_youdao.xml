@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[consideration]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[考虑]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kənsɪdə'reɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 考虑；原因；关心；报酬]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Consideration]]></key>
+
+            <value>
+
+                            <ex><![CDATA[对价]]></ex>
+
+                            <ex><![CDATA[考虑]]></ex>
+
+                            <ex><![CDATA[体贴]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pecuniary consideration]]></key>
+
+            <value>
+
+                            <ex><![CDATA[金钱代价]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Past consideration]]></key>
+
+            <value>
+
+                            <ex><![CDATA[去的对价]]></ex>
+
+                            <ex><![CDATA[前合同约因]]></ex>
+
+                            <ex><![CDATA[已过时约因]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

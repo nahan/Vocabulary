@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[suck]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[吸]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sʌk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 吮吸]]></ex>
+
+                    <ex><![CDATA[vt. 吸吮；吸取]]></ex>
+
+                    <ex><![CDATA[vi. 吸吮；糟糕；巴结]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[suck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[恶心]]></ex>
+
+                            <ex><![CDATA[吸]]></ex>
+
+                            <ex><![CDATA[讨厌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Vampires Suck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吸血鬼了没]]></ex>
+
+                            <ex><![CDATA[暮色大电影]]></ex>
+
+                            <ex><![CDATA[搞乜鬼吸啜大制作]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[suck down]]></key>
+
+            <value>
+
+                            <ex><![CDATA[往下吸]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

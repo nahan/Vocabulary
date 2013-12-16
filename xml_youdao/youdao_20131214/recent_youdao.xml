@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[recent]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[最近]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['riːs(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 最近的；近代的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[recent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[最近的]]></ex>
+
+                            <ex><![CDATA[近期]]></ex>
+
+                            <ex><![CDATA[近来的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[recent call]]></key>
+
+            <value>
+
+                            <ex><![CDATA[近来的呼叫]]></ex>
+
+                            <ex><![CDATA[迩来的呼叫]]></ex>
+
+                            <ex><![CDATA[近来的呼唤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Recent Commands]]></key>
+
+            <value>
+
+                            <ex><![CDATA[当前命令]]></ex>
+
+                            <ex><![CDATA[最近使用过的命令]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

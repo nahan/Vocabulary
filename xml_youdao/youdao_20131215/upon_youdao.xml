@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[upon]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[在]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'pɒn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 根据；接近；在…之上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[upon]]></key>
+
+            <value>
+
+                            <ex><![CDATA[改进]]></ex>
+
+                            <ex><![CDATA[基于]]></ex>
+
+                            <ex><![CDATA[号召]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[agreed upon]]></key>
+
+            <value>
+
+                            <ex><![CDATA[同意]]></ex>
+
+                            <ex><![CDATA[商定]]></ex>
+
+                            <ex><![CDATA[约定的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[be upon]]></key>
+
+            <value>
+
+                            <ex><![CDATA[临近]]></ex>
+
+                            <ex><![CDATA[逼近]]></ex>
+
+                            <ex><![CDATA[迫近]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

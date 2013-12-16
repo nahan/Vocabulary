@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[precise]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[精确的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prɪ'saɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 精确的；明确的；严格的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[precise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精确的]]></ex>
+
+                            <ex><![CDATA[一丝不苟的]]></ex>
+
+                            <ex><![CDATA[精密]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[precise leveling]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精密水准测量]]></ex>
+
+                            <ex><![CDATA[精密校平]]></ex>
+
+                            <ex><![CDATA[精密水隼测量]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[precise ephemeris]]></key>
+
+            <value>
+
+                            <ex><![CDATA[精密星历]]></ex>
+
+                            <ex><![CDATA[精确星历表]]></ex>
+
+                            <ex><![CDATA[精密星历表]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

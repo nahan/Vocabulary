@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>task</key>
+
+<ps>tɑ:sk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/47/8f/478f3a4c51824ad23cb50c1c60670c0f.mp3</pron>
+
+<ps>tæsk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/47/8f/478f3a4c51824ad23cb50c1c60670c0f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>工作，任务；作业；苦差事；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>交给某人（任务）；使过于劳累；
+
+</acceptation>
+
+<sent><orig>
+
+ACE_Task object is not tied to the lifetime of any threads activated in that object.
+
+</orig>
+
+<trans>
+
+Task对象和对象中的活动线程的生命周期不是捆绑在一起的。
+
+</trans></sent>
+
+<sent><orig>
+
+It further explains the definition of task, task classifications and task cycles.
+
+</orig>
+
+<trans>
+
+进一步分析了任务的定义，任务的类型，任务环，任务型教学设计原则。
+
+</trans></sent>
+
+<sent><orig>
+
+The task instance lifecycle is straightforward: After creation, task instances can optionally be started.
+
+</orig>
+
+<trans>
+
+任务实例生命周期是简单的：创建之后，任务实例可以随意地开始。
+
+</trans></sent>
+
+<sent><orig>
+
+As a result, task-switching leads to time lost as the brain determines which task to perform.
+
+</orig>
+
+<trans>
+
+所以，多任务转换直接导致了大脑浪费很多时间去决定回应那一个。
+
+</trans></sent>
+
+<sent><orig>
+
+She's set herself a difficult task/set a difficult task for herself.
+
+</orig>
+
+<trans>
+
+她给自己提出一个艰巨的任务。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[contribute]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[贡献]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kən'trɪbjuːt; 'kɒntrɪbjuːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 贡献，出力；投稿；捐献]]></ex>
+
+                    <ex><![CDATA[vi. 贡献，出力；投稿；捐献]]></ex>
+
+                    <ex><![CDATA[[ 过去式 contributed 过去分词 contributed 现在分词 contributing ]]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Contribute]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有助于]]></ex>
+
+                            <ex><![CDATA[贡献]]></ex>
+
+                            <ex><![CDATA[捐献]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Contribute capital]]></key>
+
+            <value>
+
+                            <ex><![CDATA[捐赠资本]]></ex>
+
+                            <ex><![CDATA[缴入资本]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[contribute using]]></key>
+
+            <value>
+
+                            <ex><![CDATA[促进使用]]></ex>
+
+                            <ex><![CDATA[有助于使用]]></ex>
+
+                            <ex><![CDATA[正在翻译]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

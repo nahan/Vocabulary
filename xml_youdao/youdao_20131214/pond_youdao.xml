@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pond]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[池塘]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɒnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 池塘]]></ex>
+
+                    <ex><![CDATA[vt. 筑成池塘]]></ex>
+
+                    <ex><![CDATA[vi. 筑成池塘]]></ex>
+
+                    <ex><![CDATA[n. (Pond)人名；(英、法)庞德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[池塘]]></ex>
+
+                            <ex><![CDATA[水塘]]></ex>
+
+                            <ex><![CDATA[水池]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pond bat]]></key>
+
+            <value>
+
+                            <ex><![CDATA[沼鼠耳蝠]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Crooked Pond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弯弯的池塘]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

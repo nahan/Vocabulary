@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[core]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[核心]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 核心；要点；果心；[计] 磁心]]></ex>
+
+                    <ex><![CDATA[vt. 挖...的核]]></ex>
+
+                    <ex><![CDATA[n. (Core)人名；(英)科尔；(西、意)科雷]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Core]]></key>
+
+            <value>
+
+                            <ex><![CDATA[核心]]></ex>
+
+                            <ex><![CDATA[果心]]></ex>
+
+                            <ex><![CDATA[地核]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dublin Core]]></key>
+
+            <value>
+
+                            <ex><![CDATA[都柏林核心]]></ex>
+
+                            <ex><![CDATA[都柏林核心集]]></ex>
+
+                            <ex><![CDATA[都柏林核心元数据]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Core values]]></key>
+
+            <value>
+
+                            <ex><![CDATA[核心价值观]]></ex>
+
+                            <ex><![CDATA[核心价值]]></ex>
+
+                            <ex><![CDATA[价值观]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

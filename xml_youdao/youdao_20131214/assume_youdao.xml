@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[assume]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[假设]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'sjuːm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 装腔作势；多管闲事]]></ex>
+
+                    <ex><![CDATA[vt. 承担；假定；采取；呈现]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[assume]]></key>
+
+            <value>
+
+                            <ex><![CDATA[假定]]></ex>
+
+                            <ex><![CDATA[承担]]></ex>
+
+                            <ex><![CDATA[假设]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[assume responsibility]]></key>
+
+            <value>
+
+                            <ex><![CDATA[承担责任]]></ex>
+
+                            <ex><![CDATA[负责]]></ex>
+
+                            <ex><![CDATA[负责任]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[assume command]]></key>
+
+            <value>
+
+                            <ex><![CDATA[担任指挥]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

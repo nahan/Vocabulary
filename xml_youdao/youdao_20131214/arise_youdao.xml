@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[arise]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[出现]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'raɪz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 出现；上升；起立]]></ex>
+
+                    <ex><![CDATA[n. (Arise)人名；(西)阿里塞；(日)在濑(姓)]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[arise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出现]]></ex>
+
+                            <ex><![CDATA[产生]]></ex>
+
+                            <ex><![CDATA[起身]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Blessings Arise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[福就生]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[arise together]]></key>
+
+            <value>
+
+                            <ex><![CDATA[并起]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

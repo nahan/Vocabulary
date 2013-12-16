@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rich]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[丰富的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪtʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 富有的；肥沃的；昂贵的]]></ex>
+
+                    <ex><![CDATA[n. (Rich)人名；(丹)里克；(捷)里赫；(英、西)里奇；(葡、法)里什；]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[rich]]></key>
+
+            <value>
+
+                            <ex><![CDATA[富有的]]></ex>
+
+                            <ex><![CDATA[丰富]]></ex>
+
+                            <ex><![CDATA[有钱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rich media]]></key>
+
+            <value>
+
+                            <ex><![CDATA[富媒体]]></ex>
+
+                            <ex><![CDATA[丰富媒体]]></ex>
+
+                            <ex><![CDATA[富媒体广告]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rich Cho]]></key>
+
+            <value>
+
+                            <ex><![CDATA[邱瑞克]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

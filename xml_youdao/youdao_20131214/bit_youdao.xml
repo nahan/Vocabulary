@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[位]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [计] 比特（二进位制信息单位）；少量；马嚼子；辅币；老一套]]></ex>
+
+                    <ex><![CDATA[adj. 很小的；微不足道的]]></ex>
+
+                    <ex><![CDATA[v. 咬（bite的过去式和过去分词）]]></ex>
+
+                    <ex><![CDATA[vt. 控制]]></ex>
+
+                    <ex><![CDATA[adv. 有点儿；相当]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[位元]]></ex>
+
+                            <ex><![CDATA[显存位宽]]></ex>
+
+                            <ex><![CDATA[一点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bit rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[比特率]]></ex>
+
+                            <ex><![CDATA[位速率]]></ex>
+
+                            <ex><![CDATA[位元率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[a bit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一点儿]]></ex>
+
+                            <ex><![CDATA[一点]]></ex>
+
+                            <ex><![CDATA[有点儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

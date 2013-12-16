@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[seed]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[种子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[siːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 种子；根据；精液；萌芽；子孙；原由]]></ex>
+
+                    <ex><![CDATA[vt. 播种；结实；成熟；去…籽]]></ex>
+
+                    <ex><![CDATA[vi. 播种；（植物）结实]]></ex>
+
+                    <ex><![CDATA[n. (Seed)人名；(英)锡德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Seed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[种子]]></ex>
+
+                            <ex><![CDATA[种子选手]]></ex>
+
+                            <ex><![CDATA[高达]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sunflower seed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[葵花籽]]></ex>
+
+                            <ex><![CDATA[香瓜子]]></ex>
+
+                            <ex><![CDATA[葵花子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Grape Seed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[葡萄籽]]></ex>
+
+                            <ex><![CDATA[葡萄籽油]]></ex>
+
+                            <ex><![CDATA[葡萄子]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

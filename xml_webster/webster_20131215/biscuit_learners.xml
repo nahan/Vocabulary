@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="biscuit"> <hw>bis*cuit</hw> <sound><wav>biscui01.wav</wav></sound> <pr>ˈbɪskət</pr> <fl>noun</fl> <in><il>plural</il> <if>bis*cuits</if></in> <def><gram>count</gram> <sn>1</sn> <ssl>US</ssl> <dt>:a small, light roll that is eaten as part of a meal</dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:<sx>cookie</sx></dt></def> <dro><dre>take the biscuit</dre> <def><sl>Brit</sl> <sl>informal</sl> <dt>:to win the prize <un>used to describe something that is extremely surprising, annoying, etc. <vi>I've heard some silly excuses in my time, but this one really <it>takes the biscuit</it>! [=(<it>US</it>) <it>takes the cake</it>]</vi></un></dt></def></dro></entry>
+
+	<entry id="dog biscuit"> <hw>dog biscuit</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cuits</if></in> <def><gram>count</gram> <dt>:a hard, dry cracker for dogs</dt></def></entry>
+
+</entry_list>

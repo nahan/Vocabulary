@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[focus]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[焦点]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fəʊkəs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 焦点；中心；清晰；焦距]]></ex>
+
+                    <ex><![CDATA[vt. 使集中；使聚焦]]></ex>
+
+                    <ex><![CDATA[vi. 集中；聚焦；调节焦距]]></ex>
+
+                    <ex><![CDATA[n. (Focus)人名；(瑞典)福库斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Focus]]></key>
+
+            <value>
+
+                            <ex><![CDATA[焦点]]></ex>
+
+                            <ex><![CDATA[聚焦]]></ex>
+
+                            <ex><![CDATA[福克斯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[focus on]]></key>
+
+            <value>
+
+                            <ex><![CDATA[集中考试大论坛]]></ex>
+
+                            <ex><![CDATA[集中]]></ex>
+
+                            <ex><![CDATA[集中测验大论坛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Focus group]]></key>
+
+            <value>
+
+                            <ex><![CDATA[焦点小组]]></ex>
+
+                            <ex><![CDATA[焦点团体]]></ex>
+
+                            <ex><![CDATA[小组座谈会]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

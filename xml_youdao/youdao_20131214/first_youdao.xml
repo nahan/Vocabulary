@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[first]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[第一个]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fɜːst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[num. 第一]]></ex>
+
+                    <ex><![CDATA[n. 第一；开始；冠军]]></ex>
+
+                    <ex><![CDATA[adj. 第一的；基本的；最早的]]></ex>
+
+                    <ex><![CDATA[adv. 第一；首先；优先；宁愿]]></ex>
+
+                    <ex><![CDATA[n. (First)人名；(英)弗斯特；(捷)菲尔斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[first]]></key>
+
+            <value>
+
+                            <ex><![CDATA[第一]]></ex>
+
+                            <ex><![CDATA[首先]]></ex>
+
+                            <ex><![CDATA[第一次]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[first class]]></key>
+
+            <value>
+
+                            <ex><![CDATA[头等舱]]></ex>
+
+                            <ex><![CDATA[一等地]]></ex>
+
+                            <ex><![CDATA[头等]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[First Half]]></key>
+
+            <value>
+
+                            <ex><![CDATA[上半场]]></ex>
+
+                            <ex><![CDATA[上半时]]></ex>
+
+                            <ex><![CDATA[上半]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

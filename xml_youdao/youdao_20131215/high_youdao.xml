@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[high]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[高]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[haɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 高水平；天空；由麻醉品引起的快感；高压地带]]></ex>
+
+                    <ex><![CDATA[adj. 高的；高级的；崇高的；高音调的]]></ex>
+
+                    <ex><![CDATA[adv. 高；奢侈地]]></ex>
+
+                    <ex><![CDATA[n. (High)人名；(英)海伊]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[high]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高的]]></ex>
+
+                            <ex><![CDATA[筒高]]></ex>
+
+                            <ex><![CDATA[高位]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[high frequency]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高频]]></ex>
+
+                            <ex><![CDATA[短波]]></ex>
+
+                            <ex><![CDATA[高频率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[High fidelity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高保真]]></ex>
+
+                            <ex><![CDATA[失恋排行榜]]></ex>
+
+                            <ex><![CDATA[高度忠诚]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

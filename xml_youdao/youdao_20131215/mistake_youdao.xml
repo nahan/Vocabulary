@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mistake]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[错误]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mɪ'steɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 错误；误会；过失]]></ex>
+
+                    <ex><![CDATA[vt. 弄错；误解]]></ex>
+
+                    <ex><![CDATA[vi. 弄错；误解]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[mistake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[错误]]></ex>
+
+                            <ex><![CDATA[弄错]]></ex>
+
+                            <ex><![CDATA[过失]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Beautiful Mistake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美丽的误会]]></ex>
+
+                            <ex><![CDATA[美丽的遗憾]]></ex>
+
+                            <ex><![CDATA[美丽的错误]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Big mistake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[铸成大错]]></ex>
+
+                            <ex><![CDATA[大错误]]></ex>
+
+                            <ex><![CDATA[大错特错]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

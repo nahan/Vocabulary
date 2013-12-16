@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[official]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[官方]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'fɪʃ(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 官员；公务员]]></ex>
+
+                    <ex><![CDATA[adj. 官方的；正式的；公务的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[official]]></key>
+
+            <value>
+
+                            <ex><![CDATA[官方的]]></ex>
+
+                            <ex><![CDATA[官员]]></ex>
+
+                            <ex><![CDATA[公务员]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[government official]]></key>
+
+            <value>
+
+                            <ex><![CDATA[政府官员]]></ex>
+
+                            <ex><![CDATA[公务员]]></ex>
+
+                            <ex><![CDATA[官员]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Official Reserves]]></key>
+
+            <value>
+
+                            <ex><![CDATA[官方储备]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

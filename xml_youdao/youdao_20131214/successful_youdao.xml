@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[successful]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[成功的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sək'sesfʊl; -f(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 成功的；一帆风顺的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[successful]]></key>
+
+            <value>
+
+                            <ex><![CDATA[成功的]]></ex>
+
+                            <ex><![CDATA[飞黄腾达的]]></ex>
+
+                            <ex><![CDATA[成功者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Successful case]]></key>
+
+            <value>
+
+                            <ex><![CDATA[成功案例]]></ex>
+
+                            <ex><![CDATA[联系我们]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[successful tenderer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中标者]]></ex>
+
+                            <ex><![CDATA[成功的投标者]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

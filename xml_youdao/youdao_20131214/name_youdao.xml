@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[name]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[的名字]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[neɪm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 名称，名字；姓名；名誉]]></ex>
+
+                    <ex><![CDATA[adj. 姓名的；据以取名的]]></ex>
+
+                    <ex><![CDATA[vt. 命名，任命；指定；称呼；提名；叫出]]></ex>
+
+                    <ex><![CDATA[n. (Name)人名；(日)滑(姓)；(英)内姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Name]]></key>
+
+            <value>
+
+                            <ex><![CDATA[名称]]></ex>
+
+                            <ex><![CDATA[姓名]]></ex>
+
+                            <ex><![CDATA[名字]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[First Name]]></key>
+
+            <value>
+
+                            <ex><![CDATA[名字]]></ex>
+
+                            <ex><![CDATA[用汉语拼音表示]]></ex>
+
+                            <ex><![CDATA[你的名]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chinese Name]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中文名]]></ex>
+
+                            <ex><![CDATA[中国人名]]></ex>
+
+                            <ex><![CDATA[中文姓名]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

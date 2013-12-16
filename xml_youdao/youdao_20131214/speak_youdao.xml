@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[speak]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[说话]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[spiːk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 说话；演讲；表明；陈述]]></ex>
+
+                    <ex><![CDATA[vt. 讲话；发言；讲演]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Speak]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可言]]></ex>
+
+                            <ex><![CDATA[说话]]></ex>
+
+                            <ex><![CDATA[说]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Speak Now]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爱的告白]]></ex>
+
+                            <ex><![CDATA[爱的告白专辑]]></ex>
+
+                            <ex><![CDATA[现在说]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[speak about]]></key>
+
+            <value>
+
+                            <ex><![CDATA[谈及]]></ex>
+
+                            <ex><![CDATA[聊及]]></ex>
+
+                            <ex><![CDATA[谈起]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

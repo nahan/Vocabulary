@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[meeting]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[会议]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['miːtɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 会议；会见；集会；汇合点]]></ex>
+
+                    <ex><![CDATA[v. 会面；会合（meet的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Meeting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[会议]]></ex>
+
+                            <ex><![CDATA[开会]]></ex>
+
+                            <ex><![CDATA[会面]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[orientation meeting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[指学校综合情况]]></ex>
+
+                            <ex><![CDATA[介绍会]]></ex>
+
+                            <ex><![CDATA[情况说明会]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Annual Meeting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[年会]]></ex>
+
+                            <ex><![CDATA[国际年会]]></ex>
+
+                            <ex><![CDATA[公司年会]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

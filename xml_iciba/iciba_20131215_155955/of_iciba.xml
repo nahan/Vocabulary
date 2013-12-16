@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>of</key>
+
+<ps>əv</ps>
+
+<pron>http://res-tts.iciba.com/8/b/f/8bf8854bebe108183caeb845c7676ae4.mp3</pron>
+
+<ps>ʌv, ɑv,əv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8b/f8/8bf8854bebe108183caeb845c7676ae4.mp3</pron>
+
+<pos>prep.</pos>
+
+<acceptation>关于；属于…的；由…制成；
+
+</acceptation>
+
+<pos>aux.</pos>
+
+<acceptation>助动词  [非标准用语、方言] =have [主用于虚拟语气]；
+
+</acceptation>
+
+<sent><orig>
+
+The OUT-OF-SERVICE-MANUAL state results from a manual removal of an AP from service.
+
+</orig>
+
+<trans>
+
+OUT-OF-SERVICE-MANUAL 状态是由手工使某个 AP 退出服务引起的。
+
+</trans></sent>
+
+<sent><orig>
+
+Restoring an AP moves the AP from the OUT-OF-SERVICE (OOS) state to the ACTIVE state.
+
+</orig>
+
+<trans>
+
+恢复 AP 会使 AP 从 OUT-OF-SERVICE (OOS) 状态变为 ACTIVE 状态。
+
+</trans></sent>
+
+<sent><orig>
+
+The words'in','from','out' and 'of are prepositions.
+
+</orig>
+
+<trans>
+
+in,from, out,以及of都是介词。
+
+</trans></sent>
+
+<sent><orig>
+
+A good example is of, which is supposed to translate as de in Portuguese.
+
+</orig>
+
+<trans>
+
+“of”就是一个很好的例子，在葡萄牙语里，它应该被翻译为“de”。
+
+</trans></sent>
+
+<sent><orig>
+
+Paul F. found that this system produced a payment rate of 89 per cent.
+
+</orig>
+
+<trans>
+
+保罗oF发现，这个机制可以实现89%的付款率。
+
+</trans></sent>
+
+</dict>

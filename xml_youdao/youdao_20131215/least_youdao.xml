@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[least]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[至少]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[liːst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 最小；最少]]></ex>
+
+                    <ex><![CDATA[adj. 最小的；最少的（little的最高级）]]></ex>
+
+                    <ex><![CDATA[adv. 最小；最少]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Least]]></key>
+
+            <value>
+
+                            <ex><![CDATA[最小]]></ex>
+
+                            <ex><![CDATA[最少]]></ex>
+
+                            <ex><![CDATA[最少量]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Least Concern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无危物种]]></ex>
+
+                            <ex><![CDATA[和需予关注]]></ex>
+
+                            <ex><![CDATA[最唔使理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Least chub]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阴河鱼]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

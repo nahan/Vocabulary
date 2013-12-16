@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>request</key>
+
+<ps>rɪ'kwest</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/28/68/2868c9afe8b0620d199863ba49b9c20e.mp3</pron>
+
+<ps>rɪˈkwɛst</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/10/57/10573b873d2fa5a365d558a45e328e47.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>要求；需要；所请求的事物；申请书；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>（下级对上级的）请求；请求得到；索取；邀请[常接不定式或从句]；
+
+</acceptation>
+
+<sent><orig>
+
+In order to update this service request, please respond service request reference intact.
+
+</orig>
+
+<trans>
+
+为了更新服务要求，回覆时请保留原文。
+
+</trans></sent>
+
+<sent><orig>
+
+Mr. Wang felt by deception, and then refund request but request denied.
+
+</orig>
+
+<trans>
+
+王先生感觉受到欺骗，随后要求退钱，但遭拒绝。
+
+</trans></sent>
+
+<sent><orig>
+
+Make your request, I can, upon request, to carry out non-standard design.
+
+</orig>
+
+<trans>
+
+提出您的要求，我可根据要求进行非标设计制作。
+
+</trans></sent>
+
+<sent><orig>
+
+Travel service provider should make use request (SSR) messages to request for ticket deadline extension.
+
+</orig>
+
+<trans>
+
+代理人应使用SSR信息与航空公司联系延长出票时限。
+
+</trans></sent>
+
+<sent><orig>
+
+You already have a Payment request in audit, you can only request one at the time.
+
+</orig>
+
+<trans>
+
+你在审计中已经有一付款请求，那时候你只能请求一次。
+
+</trans></sent>
+
+</dict>

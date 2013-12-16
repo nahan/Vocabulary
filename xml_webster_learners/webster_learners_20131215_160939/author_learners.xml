@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="author[1]"> <hw highlight="yes" hindex="1">au*thor</hw> <sound><wav>author01.wav</wav></sound> <pr>ˈɑ:θɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>au*thors</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who has written something <vi>The <it>author</it> of the article didn't check his facts.</vi></dt> <sd>especially</sd> <dt>:a person who has written a book or who writes many books <vi>I enjoyed the book, but I can't remember the name of the/its <it>author</it>.</vi> <vi>a best-selling <it>author</it> [=<it>writer</it>]</vi></dt> <sn>2</sn> <dt>:a person who starts or creates something (such as a plan or idea) <vi>She is the <it>author</it> of a plan for reforming the school system.</vi></dt></def></entry>
+
+	<entry id="author[2]"> <hw hindex="2">author</hw> <altpr>ˈɑ:θɚ</altpr> <fl>verb</fl> <in><if>authors</if></in> <in><if>authored</if></in> <in><if>author*ing</if></in> <def><gram>+ obj</gram> <dt>:to be the author of (something, such as a book) <vi>He has <it>authored</it> [=<it>written</it>] several best-selling novels.</vi> <vi>She <it>authored</it> [=<it>wrote</it>] several articles for the magazine.</vi></dt></def></entry>
+
+</entry_list>

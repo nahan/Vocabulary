@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>attach</key>
+
+<ps>ə'tætʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/1c/ac/1cac79c8b5ee9fdc3a056ca928ab93b3.mp3</pron>
+
+<ps>əˈtætʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/91/5e/915e375d95d78bf040a2e054caadfb56.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>贴上，系；附上；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>（有时不受欢迎或未受邀请而）参加；把…固定；把…归因于；（使）与…有联系；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>从属；附着；伴随而来；联在一起(to, upon)；
+
+</acceptation>
+
+<sent><orig>
+
+DLL_THREAD_ATTACH The DLL receives this value when the process creates a new thread.
+
+</orig>
+
+<trans>
+
+DLL_THEAD_ATTACH当进程创建一个新线程时，dll接收到这个值。
+
+</trans></sent>
+
+<sent><orig>
+
+In the Attach to Process dialog box, click Attach.
+
+</orig>
+
+<trans>
+
+在“附加到进程”对话框中，单击“附加”。
+
+</trans></sent>
+
+<sent><orig>
+
+On the hinge-not difficult of each page to attach a deviation value experience.
+
+</orig>
+
+<trans>
+
+对折页不紧的情况可在每页上附加一个经验值来进行纠偏。
+
+</trans></sent>
+
+<sent><orig>
+
+Regarded as an important ruling instrument the feudal rulers attach great importance to the criminal law.
+
+</orig>
+
+<trans>
+
+法律，尤其是刑法，作为统治阶级维护其统治秩序的重要工具，为历代封建王朝的统治者所重视。
+
+</trans></sent>
+
+<sent><orig>
+
+Please attach your up-to-date job description. How well did you achieve last year's goals?
+
+</orig>
+
+<trans>
+
+附上对现任工作岗位的描述：对于去年制定的目标，你实现了多少？
+
+</trans></sent>
+
+</dict>

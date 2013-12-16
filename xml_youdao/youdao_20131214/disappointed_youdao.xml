@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[disappointed]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[失望]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪsə'pɒɪntɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 失望的，沮丧的；受挫折的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Disappointed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失望]]></ex>
+
+                            <ex><![CDATA[令人失望]]></ex>
+
+                            <ex><![CDATA[沮丧的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[greatly disappointed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大失所望]]></ex>
+
+                            <ex><![CDATA[大失所看]]></ex>
+
+                            <ex><![CDATA[大喜过望]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bitterly disappointed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[透心凉]]></ex>
+
+                            <ex><![CDATA[心寒]]></ex>
+
+                            <ex><![CDATA[深感失望]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

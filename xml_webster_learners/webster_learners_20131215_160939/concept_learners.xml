@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="concept[1]"> <hw highlight="yes" hindex="1">con*cept</hw> <sound><wav>concep01.wav</wav></sound> <pr>ˈkɑ:nˌsɛpt</pr> <fl>noun</fl> <in><il>plural</il> <if>con*cepts</if></in> <def><gram>count</gram> <dt>:an idea of what something is or how it works <vi>She is familiar with basic <it>concepts</it> of psychology.</vi> <vi>not a new <it>concept</it></vi> <vi>a <it>concept</it> borrowed from computer programming</vi> <vi>She seems to be a little <phrase>unclear on the concept</phrase> of good manners. [=she seems not to understand what good manners are]</vi></dt></def></entry>
+
+	<entry id="concept[2]"> <hw hindex="2">concept</hw> <altpr>ˈkɑ:nˌsɛpt</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><sn>1</sn> <dt>:organized around a main idea or theme <vi>a <phrase>concept album</phrase> [=a collection of songs about a specific theme or story]</vi></dt> <sn>2</sn> <dt>:created to show an idea <vi>a <phrase>concept car</phrase> [=a car built to test or show a new design]</vi></dt></def></entry>
+
+	<entry id="self-concept"> <hw>self–con*cept</hw> <sound><wav>selfco11.wav</wav></sound> <pr>ˈsɛlfˈkɑ:nˌsɛpt</pr> <fl>noun</fl> <in><il>plural</il> <if>self–con*cepts</if></in> <def><gram>count</gram> <ssl>formal</ssl> <dt>:the idea that you have about the kind of person you are <vi>Children need to develop a positive <it>self-concept</it>.</vi></dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="artificial"> <hw highlight="yes">ar*ti*fi*cial</hw> <sound><wav>artifi04.wav</wav></sound> <pr>ˌɑɚtəˈfɪʃl̟</pr> <fl>adjective</fl> <def><sn>1</sn> <dt>:not natural or real :made, produced, or done to seem like something natural <vi><it>artificial</it> lighting/plants</vi> <vi>the world's first <it>artificial</it> heart</vi> <vi>This product contains no <it>artificial</it> colors/flavors/sweeteners—only natural substances are used.</vi></dt> <sn>2</sn> <dt>:not happening or existing naturally :created or caused by people <vi><it>artificial</it> price inflation</vi> <vi>The country's borders are <it>artificial</it>, and were set with no consideration for the various ethnic groups in the region.</vi></dt> <sn>3</sn> <sgram>more ar*ti*fi*cial; most ar*ti*fi*cial</sgram> <dt>:not sincere <vi>an <it>artificial</it> smile</vi> <vi>Her concern seemed a bit <it>artificial</it>. [=<it>forced</it>]</vi></dt></def> <uro><ure>ar*ti*fi*ci*al*i*ty</ure> <sound><wav>artifi05.wav</wav></sound> <pr>ˌɑɚtəˌfɪʃiˈæləti</pr> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>the <it>artificiality</it> of his manner/smile</vi></utxt></uro> <uro><ure>ar*ti*fi*cial*ly</ure> <fl>adverb</fl> <utxt><vi><it>artificially</it> flavored/colored</vi> <vi>The building is <it>artificially</it> lit.</vi></utxt></uro></entry>
+
+	<entry id="artificial insemination"> <hw>artificial insemination</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>medical</sl> <dt>:a medical process in which semen is used to make a woman or female animal pregnant without sexual intercourse <vi>children conceived through <it>artificial insemination</it></vi></dt></def></entry>
+
+	<entry id="artificial intelligence"> <hw>artificial intelligence</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>computers</sl> <sn>1</sn> <dt>:an area of computer science that deals with giving machines the ability to seem like they have human intelligence</dt> <sn>2</sn> <dt>:the power of a machine to copy intelligent human behavior <vi>a robot with <it>artificial intelligence</it></vi> <un>abbr. <it>AI</it></un></dt></def></entry>
+
+	<entry id="artificial respiration"> <hw>artificial respiration</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>medical</sl> <dt>:a process in which air is forced into and out of the lungs of a person who has stopped breathing <snote>Artificial respiration can be done by pressing on the person's chest, by blowing into the person's mouth, or by using a special machine.</snote> <dx>see also <dxt>mouth-to-mouth resuscitation</dxt></dx></dt></def></entry>
+
+</entry_list>

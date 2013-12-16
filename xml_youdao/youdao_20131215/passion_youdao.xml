@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[passion]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[激情]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pæʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 激情；热情；酷爱；盛怒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[passion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[激情]]></ex>
+
+                            <ex><![CDATA[热情]]></ex>
+
+                            <ex><![CDATA[激]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Passion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[热情]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Passion Fruit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[百香果]]></ex>
+
+                            <ex><![CDATA[西番莲]]></ex>
+
+                            <ex><![CDATA[西番莲果]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

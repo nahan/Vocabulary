@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>publication</key>
+
+<ps>ˌpʌblɪˈkeɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/47/06/470615d5100983d0ec6a57bfbe386cda.mp3</pron>
+
+<ps>ˌpʌblɪˈkeʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e1/67/e16704d9e243b23b4f4e557748d6eef6.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>出版；出版物；公布；发表；
+
+</acceptation>
+
+<sent><orig>
+
+Cannot publish table '%s' for both merge publication and queued updating publication.
+
+</orig>
+
+<trans>
+
+不能既为合并发布、又为排队更新发布而发布表''%1！''。
+
+</trans></sent>
+
+<sent><orig>
+
+This login must be included in the publication access list for this publication.
+
+</orig>
+
+<trans>
+
+该登录必须包含在此发布内容的发布内容访问列表中。
+
+</trans></sent>
+
+<sent><orig>
+
+Replication custom procedures will not be scripted because the specified publication '%s' is a snapshot publication.
+
+</orig>
+
+<trans>
+
+无法编写复制自定义过程的脚本，因为指定发布'%1！'是一个快照发布。
+
+</trans></sent>
+
+<sent><orig>
+
+Applicants for a special publication at the request of the media shoulder of publication costs.
+
+</orig>
+
+<trans>
+
+申请人对发布媒体有特别要求时，应承担一部分发布费用。
+
+</trans></sent>
+
+<sent><orig>
+
+To personalize parts of the publication, make changes in the publication previewed here.
+
+</orig>
+
+<trans>
+
+若要对部分出版物进行个性化设置，请对此处预览的出版物进行修改。
+
+</trans></sent>
+
+</dict>

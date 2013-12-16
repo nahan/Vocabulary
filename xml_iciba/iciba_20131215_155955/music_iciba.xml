@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>music</key>
+
+<ps>'mju:zɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a1/9c/a19c38894b234f6bdea8a97b51c27302.mp3</pron>
+
+<ps>ˈmjuzɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/18/d6/18d6769919266cd0bd6cd78aa405d5d0.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>音乐；乐曲；乐谱；乐队；
+
+</acceptation>
+
+<sent><orig>
+
+Separately on the beam element domain and the domain MUSIC algorithm comparison.
+
+</orig>
+
+<trans>
+
+分别对波束域和阵元域MUSIC算法进行比较。
+
+</trans></sent>
+
+<sent><orig>
+
+Extended-order cross-correlation matrix based MUSIC method and its performance in non-Gaussian and color noise are discussed.
+
+</orig>
+
+<trans>
+
+讨论了一种基于正弦信号扩阶互相关矩阵的MUSIC算法及其在非高斯有色噪声下的性能。
+
+</trans></sent>
+
+<sent><orig>
+
+The voice mode is surely a low frequency rolloff, so use the lowest number music mode.
+
+</orig>
+
+<trans>
+
+“Voice”模式是一个完全的低频滚降，所以用最小级数的“Music”模式。
+
+</trans></sent>
+
+<sent><orig>
+
+The mathematics model of MUSIC at subarray level was proposed and simplified array manifolds were adopted.
+
+</orig>
+
+<trans>
+
+提出了子阵级MUSIC的数学模型并应用了简化的阵列流形。
+
+</trans></sent>
+
+<sent><orig>
+
+Computer simulation experiments with MUSIC algorithm demonstrate the above conclusion is corrective.
+
+</orig>
+
+<trans>
+
+结合MUSIC算法完成了方位信息的提取并进行了计算机仿真实验，证明了结论的正确性。
+
+</trans></sent>
+
+</dict>

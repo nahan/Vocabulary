@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>speech</key>
+
+<ps>spi:tʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6e/c6/6ec613c49433e537898c3e37b71fa6fb.mp3</pron>
+
+<ps>spitʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9b/4a/9b4a8a31b4caf3cc5c6205f74950ac14.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>演说，演讲，发言；说话，谈话，说话能力或方式；（乐器的）音，音色；方言，民族语言；
+
+</acceptation>
+
+<sent><orig>
+
+Traditional research in speech-based technology is concentrated on speech recognition, speech synthesis and natural language understanding.
+
+</orig>
+
+<trans>
+
+传统的语音技术方面的研究主要集中在语音识别、文本／语音转换和自然语言理解上。
+
+</trans></sent>
+
+<sent><orig>
+
+The method of speech synthesize can improve naturalness of speech basing on the database of speech.
+
+</orig>
+
+<trans>
+
+基于语音数据库的语音合成方法有望进一步提高语音合成的自然度。
+
+</trans></sent>
+
+<sent><orig>
+
+Speech audiometry adopts special testing speech tables to measure patients speech discrimination score.
+
+</orig>
+
+<trans>
+
+言语测听法采用专门编制的测听词表来检查患耳的言语识别率。
+
+</trans></sent>
+
+<sent><orig>
+
+Medi Speech, the speech recognition and digital dictation system from G2 Speech.
+
+</orig>
+
+<trans>
+
+中介语音的Medi语音，语音识别和数字听写系统从G2的讲话。
+
+</trans></sent>
+
+<sent><orig>
+
+Speech act include direct speech act and indirect speech act.
+
+</orig>
+
+<trans>
+
+言语行为又分为直接言语行为和间接言语行为。
+
+</trans></sent>
+
+</dict>

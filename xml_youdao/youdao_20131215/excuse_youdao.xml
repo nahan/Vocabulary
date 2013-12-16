@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[excuse]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[借口]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk'skjuːz; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 借口；理由]]></ex>
+
+                    <ex><![CDATA[vt. 原谅；为…申辩；给…免去]]></ex>
+
+                    <ex><![CDATA[vi. 作为借口；请求宽恕；表示宽恕]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[excuse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[借口]]></ex>
+
+                            <ex><![CDATA[原谅]]></ex>
+
+                            <ex><![CDATA[宽恕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[excuse from]]></key>
+
+            <value>
+
+                            <ex><![CDATA[使免除责任]]></ex>
+
+                            <ex><![CDATA[请求免除]]></ex>
+
+                            <ex><![CDATA[得到解脱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Excuse CAFE]]></key>
+
+            <value>
+
+                            <ex><![CDATA[逸滋咖啡]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

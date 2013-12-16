@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="committee"> <hw highlight="yes">com*mit*tee</hw> <sound><wav>commit05.wav</wav></sound> <pr>kəˈmɪti</pr> <fl>noun</fl> <in><il>plural</il> <if>com*mit*tees</if></in> <def><dt>:a group of people who are chosen to do a particular job or to make decisions about something <wsgram>count</wsgram> <vi>the Senate Judiciary <it>Committee</it></vi> <vi>the Olympic <it>Committee</it></vi> <vi>We're waiting for recommendations from the advisory/ethics <it>committee</it>.</vi> <vi>a planning/congressional/legislative <it>committee</it></vi> <wsgram>noncount</wsgram> <vi>management by <it>committee</it></vi> <vi>The bill has been referred back to <it>committee</it>.</vi> <dx>see also <dxt>school committee</dxt> <dxt>subcommittee</dxt></dx></dt></def></entry>
+
+	<entry id="political action committee"> <hw>political action committee</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tees</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a group that is formed to give money to the political campaigns of people who are likely to make decisions that would benefit the group's interests <vi>The governor received over $3 million in campaign contributions from <it>political action committees</it>.</vi> <ca>called also <cat>PAC</cat></ca></dt></def></entry>
+
+	<entry id="steering committee"> <hw>steering committee</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tees</if></in> <def><gram>count</gram> <dt>:a group of people who are in charge of managing or directing something <vi>The CEO consulted with the project's <it>steering committee</it> and asked for a status report.</vi> <ca>called also (<it>chiefly Brit</it>) <cat>steering group</cat></ca></dt></def></entry>
+
+</entry_list>

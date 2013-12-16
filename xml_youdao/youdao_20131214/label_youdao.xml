@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[label]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[标签]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['leɪb(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 标签；商标；签条]]></ex>
+
+                    <ex><![CDATA[vt. 标注；贴标签于]]></ex>
+
+                    <ex><![CDATA[n. (Label)人名；(法)拉贝尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[label]]></key>
+
+            <value>
+
+                            <ex><![CDATA[标签]]></ex>
+
+                            <ex><![CDATA[标记]]></ex>
+
+                            <ex><![CDATA[标签控件]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[SIZE LABEL]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尺码唛]]></ex>
+
+                            <ex><![CDATA[西士唛]]></ex>
+
+                            <ex><![CDATA[尺码标签]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Private label]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自有品牌]]></ex>
+
+                            <ex><![CDATA[私家品牌]]></ex>
+
+                            <ex><![CDATA[私有品牌]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

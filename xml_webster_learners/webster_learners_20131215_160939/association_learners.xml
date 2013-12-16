@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="association"> <hw>as*so*ci*a*tion</hw> <sound><wav>associ05.wav</wav></sound> <pr>əˌsoʊsiˈeɪʃən</pr> <fl>noun</fl> <in><il>plural</il> <if>as*so*ci*a*tions</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:an organized group of people who have the same interest, job, etc. <vi>an athletic <it>association</it> [=<it>league</it>]</vi> <vi>a baseball players' <it>association</it> [=<it>union</it>]</vi> <vi>an <it>association</it> of local business leaders</vi> <dx>see also <dxt>parent-teacher association</dxt> <dxt>savings and loan association</dxt></dx></dt> <sn>2</sn> <dt>:a connection or relationship between things or people <wsgram>count</wsgram> <vi>They denied having any <it>association</it> with terrorists.</vi> <vi>They have a long <it>association</it> with the school and have donated millions of dollars to it.</vi> <vi>a study examining the <it>association</it> [=<it>link</it>] between obesity and heart disease</vi> <wsgram>noncount</wsgram> <vi>The book was produced by the publisher <phrase>in association with</phrase> the museum that sponsored the exhibit. [=the publisher and the museum were both involved in making the book]</vi></dt> <sn>3</sn> <sgram>count</sgram> <dt>:a feeling, memory, or thought that is connected to a person, place, or thing <un>usually plural <vi>Chicago has pleasant <it>associations</it> for me because of the happy times I spent there.</vi> <vi>His former school has only bad/negative <it>associations</it> for him. [=he has only unhappy memories of his former school]</vi></un></dt></def></entry>
+
+	<entry id="Association football"> <hw>Association football</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>Brit</sl> <sl>formal</sl> <dt>:<sx>soccer</sx></dt></def></entry>
+
+	<entry id="Parent-Teacher Association"> <hw>Parent–Teacher Association</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tions</if></in> <def><gram>count</gram> <dt>:a local organization of teachers and parents who work together to improve schools and to help students <un>abbr. <it>PTA</it></un></dt></def></entry>
+
+	<entry id="savings and loan association"> <hw>savings and loan association</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tions</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a business that is like a bank and that holds and invests the money saved by its members and makes loans to home buyers <ca>called also <cat>savings and loan</cat> <cat>S&amp;L</cat></ca></dt></def></entry>
+
+</entry_list>

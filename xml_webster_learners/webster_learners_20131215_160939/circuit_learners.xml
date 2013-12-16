@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="circuit"> <hw>cir*cuit</hw> <sound><wav>circui01.wav</wav></sound> <pr>ˈsɚkət</pr> <fl>noun</fl> <in><il>plural</il> <if>cir*cuits</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a series of performances, sports events, lectures, etc., that are held or done at many different places <un>usually singular <vi>She will be on a lecture <it>circuit</it> [=she will be traveling from place to place giving lectures] promoting her new book.</vi> <vi>He is one of the most popular drivers on the (racing) <it>circuit</it>.</vi> <vi>the women's tennis <it>circuit</it></vi></un></dt> <sn>2</sn> <dt>:a path or trip around something <vi>It takes a year for the Earth to make one <it>circuit</it> around the sun.</vi> <un>often + <it>of</it> <vi>She made a <it>circuit of</it> the museum.</vi></un></dt> <sn>3</sn> <dt>:the complete path that an electric current travels along <vi>electric/electronic <it>circuits</it></vi> <vi>a 120-volt <it>circuit</it></vi> <dx>see also <dxt>closed-circuit</dxt> <dxt>integrated circuit</dxt> <dxt>printed circuit</dxt> <dxt>short circuit</dxt></dx></dt> <sn>4</sn> <ssl>US</ssl> <ssl>law</ssl> <sn>a</sn> <svr><vl>or</vl> <va>Circuit</va></svr> <dt>:a legal district that is established within a state or within the federal judicial system <vi>She was appointed chief judge for the <it>circuit</it>.</vi> <vi>The case will be heard by a court in the Third <it>Circuit</it>.</vi></dt> <sn>b</sn> <bnote>Circuit</bnote> <dt>:a court of appeals for a particular circuit in the federal judicial system <vi>The Second <it>Circuit</it> ruled today against the plaintiff.</vi></dt></def></entry>
+
+	<entry id="circuit board"> <hw>circuit board</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ boards</if></in> <def><gram>count</gram> <dt>:a board that has many electrical circuits and that is used in a piece of electronic equipment (such as a computer)</dt></def></entry>
+
+	<entry id="circuit breaker"> <hw>circuit breaker</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a switch that automatically stops the flow of electricity to a place or device if the current becomes too strong or another dangerous problem occurs</dt></def></entry>
+
+	<entry id="circuit court"> <hw>circuit court</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ courts</if></in> <def><gram>count</gram> <sl>US</sl> <sl>law</sl> <dt>:a court of law that meets at two or more places within a particular area</dt></def></entry>
+
+	<entry id="circuit judge"> <hw>circuit judge</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ judges</if></in> <def><gram>count</gram> <sl>US</sl> <sl>law</sl> <dt>:a judge who hears and tries cases in a circuit court</dt></def></entry>
+
+	<entry id="closed-circuit"> <hw>closed–cir*cuit</hw> <sound><wav>closed03.wav</wav></sound> <pr>ˈkloʊzdˈsɚkət</pr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><dt><un>used to describe a television system that sends its signal through wires to a limited number of televisions <vi>The store uses <it>closed-circuit</it> television to monitor the activities of shoppers.</vi></un></dt></def></entry>
+
+	<entry id="integrated circuit"> <hw>integrated circuit</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cuits</if></in> <def><gram>count</gram> <sl>computers</sl> <dt>:<sx>microchip</sx></dt></def></entry>
+
+	<entry id="printed circuit"> <hw>printed circuit</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cuits</if></in> <def><gram>count</gram> <sl>technical</sl> <dt>:a circuit that uses thin strips of metal on a thin board to carry electricity</dt></def></entry>
+
+	<entry id="short circuit"> <hw>short circuit</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ circuits</if></in> <def><gram>count</gram> <dt>:the failure of electricity to flow properly in a circuit because the wires or connections in the circuit are damaged or not connected properly <vi>The fire was caused by a <it>short circuit</it>.</vi></dt></def></entry>
+
+	<entry id="short-circuit"> <hw>short–circuit</hw> <fl>verb</fl> <in><if>short–circuits</if></in> <in><if>short–circuited</if></in> <in><if>short–circuiting</if></in> <def><sn>1 a</sn> <sgram>+ obj</sgram> <dt>:to cause (something) to have a short circuit <vi>The lightning <it>short-circuited</it> the TV.</vi></dt> <sn>b</sn> <sgram>no obj</sgram> <dt>:to stop working because of a short circuit <vi>The lamp must have <it>short-circuited</it>.</vi></dt> <sn>2</sn> <sgram>+ obj</sgram> <dt>:to avoid doing (something) <vi>The owners <it>short-circuited</it> [=<it>bypassed, circumvented</it>] the required inspection.</vi></dt> <sn>3</sn> <sgram>+ obj</sgram> <dt>:to stop (efforts, plans, etc.) from succeeding <vi>The lawyers <it>short-circuited</it> [=<it>frustrated, impeded</it>] any attempt to sue the company.</vi></dt></def></entry>
+
+</entry_list>

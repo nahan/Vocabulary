@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[decide]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[决定]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'saɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 决定，下决心]]></ex>
+
+                    <ex><![CDATA[vt. 决定；解决；判决]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[decide]]></key>
+
+            <value>
+
+                            <ex><![CDATA[决定]]></ex>
+
+                            <ex><![CDATA[下决心]]></ex>
+
+                            <ex><![CDATA[解决]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[decide internally]]></key>
+
+            <value>
+
+                            <ex><![CDATA[内定]]></ex>
+
+                            <ex><![CDATA[新词新译内定]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[settle decide]]></key>
+
+            <value>
+
+                            <ex><![CDATA[决定]]></ex>
+
+                            <ex><![CDATA[解决]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

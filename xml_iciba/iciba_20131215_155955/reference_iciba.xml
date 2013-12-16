@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>reference</key>
+
+<ps>'refrəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/1d/9f/1d9f8e7098c91d7a7a60771ab2a7d7d2.mp3</pron>
+
+<ps>ˈrɛfərəns, ˈrɛfrəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b8/af/b8af13ea9c8fe890c9979a1fa8dbde22.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>参考；参考书；提及，涉及；证明人，介绍人；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>引用；参照；
+
+</acceptation>
+
+<sent><orig>
+
+Unboxing conversion converts values of reference type to corresponding values of primitive type.
+
+</orig>
+
+<trans>
+
+拆箱转换转换reference类型到相应的原生类型的值。
+
+</trans></sent>
+
+<sent><orig>
+
+The return value will be the current reference count of the object.
+
+</orig>
+
+<trans>
+
+返回值是当前对象的reference数量。
+
+</trans></sent>
+
+<sent><orig>
+
+Operands come from reference data, which is typically published by the target service operator.
+
+</orig>
+
+<trans>
+
+操作数来自引用(reference)数据，它典型情况下是被目标服务发布。
+
+</trans></sent>
+
+<sent><orig>
+
+Both: Modifies both surfaces, meaning there is no Reference surface.
+
+</orig>
+
+<trans>
+
+修改所有的面，这意味着没有reference面。
+
+</trans></sent>
+
+<sent><orig>
+
+To create a-reference any built-in heading, on the Insert menu point to Reference, and then click-reference.
+
+</orig>
+
+<trans>
+
+如果要建立到内置标题的交叉引用，请指向“插入”菜单上的“引用”，然后单击“交叉引用”。
+
+</trans></sent>
+
+</dict>

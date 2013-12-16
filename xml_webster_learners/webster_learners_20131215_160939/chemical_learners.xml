@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chemical[1]"> <hw highlight="yes" hindex="1">chem*i*cal</hw> <sound><wav>chemic02.wav</wav></sound> <pr>ˈkɛmɪkəl</pr> <fl>adjective</fl> <def><sn>1</sn> <dt>:of or relating to chemistry <vi>a <it>chemical</it> analysis</vi> <vi><it>chemical</it> elements/bonds</vi> <vi>They studied the compound's <it>chemical</it> structure/composition/properties.</vi> <vi>a <it>chemical</it> laboratory</vi></dt> <sn>2</sn> <dt>:working by means of chemicals <vi><it>chemical</it> pesticides/weapons/agents</vi> <dx>see also <dxt>chemical warfare</dxt></dx></dt></def> <uro><ure>chem*i*cal*ly</ure> <sound><wav>chemic03.wav</wav></sound> <pr>ˈkɛmɪkli</pr> <fl>adverb</fl> <utxt><vi>The wood is <it>chemically</it> treated.</vi> <vi>drugs that are <it>chemically</it> related</vi></utxt></uro></entry>
+
+	<entry id="chemical[2]"> <hw highlight="yes" hindex="2">chemical</hw> <altpr>ˈkɛmɪkəl</altpr> <fl>noun</fl> <in><il>plural</il> <if>chemicals</if></in> <def><gram>count</gram> <dt>:a substance (such as an element or compound) that is made by a chemical process <vi>toxic/hazardous/industrial <it>chemicals</it></vi></dt></def></entry>
+
+	<entry id="chemical engineering"> <hw>chemical engineering</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of engineering that deals with the use of chemistry in industry</dt></def> <uro><ure>chemical engineer</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -neers</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="chemical reaction"> <hw>chemical reaction</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tions</if></in> <def><gram>count</gram> <dt>:<sx>reaction <sxn>5a</sxn></sx></dt></def></entry>
+
+	<entry id="chemical warfare"> <hw>chemical warfare</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:the use of chemical substances (such as poisonous gases) as weapons in a war</dt></def></entry>
+
+</entry_list>

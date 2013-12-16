@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[joke]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[笑话]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dʒəʊk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 玩笑，笑话；笑柄]]></ex>
+
+                    <ex><![CDATA[vt. 开…的玩笑]]></ex>
+
+                    <ex><![CDATA[vi. 开玩笑]]></ex>
+
+                    <ex><![CDATA[n. (Joke)人名；(英)乔克；(塞)约凯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Joke]]></key>
+
+            <value>
+
+                            <ex><![CDATA[笑话]]></ex>
+
+                            <ex><![CDATA[玩笑]]></ex>
+
+                            <ex><![CDATA[开玩笑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[just joke]]></key>
+
+            <value>
+
+                            <ex><![CDATA[哈哈哈]]></ex>
+
+                            <ex><![CDATA[只是开个玩笑]]></ex>
+
+                            <ex><![CDATA[只是玩笑而已]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Joke life]]></key>
+
+            <value>
+
+                            <ex><![CDATA[赳客生活]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

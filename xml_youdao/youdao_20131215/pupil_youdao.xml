@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pupil]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[学生]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pjuːpɪl; -p(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 学生；[解剖] 瞳孔；未成年人]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pupil]]></key>
+
+            <value>
+
+                            <ex><![CDATA[瞳孔]]></ex>
+
+                            <ex><![CDATA[小学生]]></ex>
+
+                            <ex><![CDATA[学生]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pupil function]]></key>
+
+            <value>
+
+                            <ex><![CDATA[瞳函数]]></ex>
+
+                            <ex><![CDATA[瞳孔函数]]></ex>
+
+                            <ex><![CDATA[光瞳函数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[emergent pupil]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出射光瞳]]></ex>
+
+                            <ex><![CDATA[出射瞳]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

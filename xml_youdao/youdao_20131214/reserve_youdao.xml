@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[reserve]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[储备]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'zɜːv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 储备，储存；自然保护区；预备队；[金融] 储备金]]></ex>
+
+                    <ex><![CDATA[vt. 储备；保留；预约]]></ex>
+
+                    <ex><![CDATA[vi. 预订]]></ex>
+
+                    <ex><![CDATA[n. (Reserve)人名；(法)勒塞尔夫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[reserve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[储备]]></ex>
+
+                            <ex><![CDATA[保留]]></ex>
+
+                            <ex><![CDATA[备用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[No Reserve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巾帼枭雄之谍血长天]]></ex>
+
+                            <ex><![CDATA[兰蔻水晶亮泽炫魅唇彩]]></ex>
+
+                            <ex><![CDATA[没有保留价]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Niassa Reserve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尼亚萨保护区]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[religious]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[宗教]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'lɪdʒəs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 修道士；尼姑]]></ex>
+
+                    <ex><![CDATA[adj. 宗教的；虔诚的；严谨的；修道的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[religious]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宗教的]]></ex>
+
+                            <ex><![CDATA[虔诚的]]></ex>
+
+                            <ex><![CDATA[宗教上的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Religious denomination]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宗派]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Religious philosophy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宗教信仰哲学]]></ex>
+
+                            <ex><![CDATA[宗教哲学]]></ex>
+
+                            <ex><![CDATA[宗教的哲学]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="consent[1]"> <hw highlight="yes" hindex="1">con*sent</hw> <sound><wav>consen03.wav</wav></sound> <pr>kənˈsɛnt</pr> <fl>verb</fl> <in><if>con*sents</if></in> <in><if>con*sent*ed</if></in> <in><if>con*sent*ing</if></in> <def><gram>no obj</gram> <sl>formal</sl> <dt>:to agree to do or allow something :to give permission for something to happen or be done <vi>He was reluctant at first but finally <it>consented</it>.</vi> <un>often + <it>to</it> <vi>He <it>consented to</it> the plan.</vi> <vi>Her father <it>consented to</it> the marriage.</vi> <vi>She <it>consented to</it> a meeting.</vi></un> <un>sometimes followed by <it>to + verb</it> <vi>The builder <it>consented to do</it> the repairs at no additional charge.</vi></un></dt></def></entry>
+
+	<entry id="consent[2]"> <hw highlight="yes" hindex="2">consent</hw> <altpr>kənˈsɛnt</altpr> <fl>noun</fl> <def><gram>noncount</gram> <sl>somewhat formal</sl> <sn>1</sn> <dt>:permission for something to happen or be done <vi>He did not give his <it>consent</it> for the use of his name in the advertisement.</vi> <vi>No one may use the vehicle without the <it>consent</it> of the owner.</vi> <vi>Students must have the <it>consent</it> of their parents to go on the trip. = Students must have <phrase>parental consent</phrase> to go on the trip.</vi> <vi>We need <phrase>written consent</phrase> [=a document giving permission] before we can publish the photograph.</vi> <snote>A <phrase>consent form</phrase> is a document that you sign in order to officially give your permission for something to happen or be done. <vi>Patients must sign a <it>consent form</it> before having surgery.</vi></snote> <dx>see also <dxt>age of consent</dxt> <dxt>informed consent</dxt></dx></dt> <sn>2</sn> <dt>:agreement about an opinion or about something that will happen or be done <vi>This restaurant is, <phrase>by common consent</phrase>, the best in the city. [=people agree that this restaurant is the best in the city]</vi> <vi>The contract was canceled last month <phrase>by mutual consent</phrase>. [=the people involved agreed to cancel the contract]</vi></dt></def></entry>
+
+	<entry id="age of consent"> <hw>age of consent</hw> <fl>noun</fl> <dro><dre>the age of consent</dre> <def><dt>:the age at which a person is considered old enough to agree to have sex or to get married</dt></def></dro></entry>
+
+	<entry id="informed consent"> <hw>informed consent</hw> <fl>noun</fl> <def><gram>singular</gram> <sl>medical</sl> <dt>:a formal agreement that a patient signs to give permission for a medical procedure (such as surgery) after having been told about the risks, benefits, etc.</dt></def></entry>
+
+</entry_list>

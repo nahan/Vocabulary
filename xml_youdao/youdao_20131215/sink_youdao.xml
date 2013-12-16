@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sink]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[水槽]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɪŋk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 水槽；洗涤槽；污水坑]]></ex>
+
+                    <ex><![CDATA[vi. 下沉；消沉；渗透]]></ex>
+
+                    <ex><![CDATA[vt. 使下沉；挖掘；使低落]]></ex>
+
+                    <ex><![CDATA[n. (Sink)人名；(英、瑞典)辛克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[sink]]></key>
+
+            <value>
+
+                            <ex><![CDATA[下沉]]></ex>
+
+                            <ex><![CDATA[洗涤槽]]></ex>
+
+                            <ex><![CDATA[洗碗池]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sink in]]></key>
+
+            <value>
+
+                            <ex><![CDATA[被了解]]></ex>
+
+                            <ex><![CDATA[完全理解]]></ex>
+
+                            <ex><![CDATA[渗进去]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[advise sink]]></key>
+
+            <value>
+
+                            <ex><![CDATA[通知接收]]></ex>
+
+                            <ex><![CDATA[告诉接受]]></ex>
+
+                            <ex><![CDATA[表示已连接的通知接收]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

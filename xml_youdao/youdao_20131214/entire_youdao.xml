@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[entire]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[整个]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'taɪə; en-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 全部的，整个的；全体的]]></ex>
+
+                    <ex><![CDATA[n. (Entire)人名；(英)恩泰尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[entire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全部的]]></ex>
+
+                            <ex><![CDATA[整个的]]></ex>
+
+                            <ex><![CDATA[完全的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Entire Postcard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实寄片]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[entire life]]></key>
+
+            <value>
+
+                            <ex><![CDATA[总寿命]]></ex>
+
+                            <ex><![CDATA[一生一世]]></ex>
+
+                            <ex><![CDATA[整个生命]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

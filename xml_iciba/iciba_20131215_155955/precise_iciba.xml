@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>precise</key>
+
+<ps>prɪ'saɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/0b/ae/0baeda7fe9baa6bf0883f4933a276b26.mp3</pron>
+
+<ps>prɪˈsaɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d1/3f/d13f6bb08e4138e4cb5fe099b36bc69b.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>清晰的；精确的；正规的；精密；
+
+</acceptation>
+
+<sent><orig>
+
+Using the precise ephemeris and the precise satellite clock correction can realize precise point positioning (PPP).
+
+</orig>
+
+<trans>
+
+精密单点定位的实质就是利用精密星历和精密卫星钟改正来实现定位。
+
+</trans></sent>
+
+<sent><orig>
+
+Then, utilizing the precise orbit model, the precise windows are computed are only ~several minutes.
+
+</orig>
+
+<trans>
+
+然后，利用精确的探测器轨道动力学模型，计算精窗口，每天为数分钟。
+
+</trans></sent>
+
+<sent><orig>
+
+Precise:high-precision microprocessor temperature controller makes temperature control precise and reliable.
+
+</orig>
+
+<trans>
+
+精确：高精度微电脑温控仪，控温精确、可靠。
+
+</trans></sent>
+
+<sent><orig>
+
+Precise bearing and linear slide rail of work table ensure high precise feeding.
+
+</orig>
+
+<trans>
+
+载台使用精密螺杆、精密直线导轨实现高精度进给。
+
+</trans></sent>
+
+<sent><orig>
+
+A precise measurement precise instrument.
+
+</orig>
+
+<trans>
+
+精密仪器；精确测量。
+
+</trans></sent>
+
+</dict>

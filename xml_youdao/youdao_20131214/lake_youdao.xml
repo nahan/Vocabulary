@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lake]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[湖]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[leɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 湖；深红色颜料；胭脂红]]></ex>
+
+                    <ex><![CDATA[vt. （使）血球溶解]]></ex>
+
+                    <ex><![CDATA[vi. （使）血球溶解]]></ex>
+
+                    <ex><![CDATA[n. (Lake)人名；(德、塞、瑞典)拉克；(英)莱克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Lake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[湖泊]]></ex>
+
+                            <ex><![CDATA[胭脂红]]></ex>
+
+                            <ex><![CDATA[湖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lake Louise]]></key>
+
+            <value>
+
+                            <ex><![CDATA[路易斯湖]]></ex>
+
+                            <ex><![CDATA[露易丝湖]]></ex>
+
+                            <ex><![CDATA[露易斯湖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[West Lake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西湖]]></ex>
+
+                            <ex><![CDATA[杭州西湖]]></ex>
+
+                            <ex><![CDATA[情牵西子]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

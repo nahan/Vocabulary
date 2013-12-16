@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>define</key>
+
+<ps>dɪ'faɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b6/b1/b6b1e1b3633f8a7b1eadf0cb614344ff.mp3</pron>
+
+<ps>dɪˈfaɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f1/ed/f1edc500eb1136f10c17eeffb9eecbc5.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>规定；使明确；精确地解释；画出…的线条；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>（给词、短语等）下定义，构成释义；
+
+</acceptation>
+
+<sent><orig>
+
+In DPPX, to create a profile for a resource with the DEFINE command.
+
+</orig>
+
+<trans>
+
+在分布处理编程执行(DPPX)中，用DEFINE命令建立对某一资源的需求。
+
+</trans></sent>
+
+<sent><orig>
+
+In DPPX, to a profile for a resource with the DEFINE command.
+
+</orig>
+
+<trans>
+
+在分布处理编程执行(DPPX)中，用define命令建立对某一资源的需求。
+
+</trans></sent>
+
+<sent><orig>
+
+For each goal that you define, you can also define a funnel.
+
+</orig>
+
+<trans>
+
+对于每一个目标，你确定，你也可以定义渠道。
+
+</trans></sent>
+
+<sent><orig>
+
+In Define phase, the major objectives are to define the customer value and project validation.
+
+</orig>
+
+<trans>
+
+在“定义”这一阶段，最主要的目标是去定义客户所界定的价值以及对项目的进一步证实。
+
+</trans></sent>
+
+<sent><orig>
+
+E. Bridges define broadcast domain while switches define collision domains.
+
+</orig>
+
+<trans>
+
+桥定义广播域而交换机定义冲突域。
+
+</trans></sent>
+
+</dict>

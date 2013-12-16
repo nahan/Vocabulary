@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[command]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[命令]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kə'mɑːnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 指挥，控制；命令；司令部]]></ex>
+
+                    <ex><![CDATA[vt. 命令，指挥；控制；远望]]></ex>
+
+                    <ex><![CDATA[vi. 命令，指挥；控制]]></ex>
+
+                    <ex><![CDATA[n. (Command)人名；(法)科芒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Command]]></key>
+
+            <value>
+
+                            <ex><![CDATA[命令]]></ex>
+
+                            <ex><![CDATA[指令]]></ex>
+
+                            <ex><![CDATA[指挥]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Command pattern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[命令模式]]></ex>
+
+                            <ex><![CDATA[令形式]]></ex>
+
+                            <ex><![CDATA[号令模式]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Command Center]]></key>
+
+            <value>
+
+                            <ex><![CDATA[指挥中心]]></ex>
+
+                            <ex><![CDATA[命令中心]]></ex>
+
+                            <ex><![CDATA[主基地]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

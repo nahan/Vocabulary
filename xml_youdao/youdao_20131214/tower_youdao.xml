@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tower]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[塔]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['taʊə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 塔；高楼；堡垒]]></ex>
+
+                    <ex><![CDATA[vi. 高耸；超越]]></ex>
+
+                    <ex><![CDATA[n. (Tower)人名；(英)托尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tower]]></key>
+
+            <value>
+
+                            <ex><![CDATA[塔式建筑]]></ex>
+
+                            <ex><![CDATA[塔]]></ex>
+
+                            <ex><![CDATA[塔楼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Eiffel Tower]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艾菲尔铁塔]]></ex>
+
+                            <ex><![CDATA[埃菲尔铁塔]]></ex>
+
+                            <ex><![CDATA[巴黎铁塔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cooling tower]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冷却塔]]></ex>
+
+                            <ex><![CDATA[冷却水塔]]></ex>
+
+                            <ex><![CDATA[凉水塔]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

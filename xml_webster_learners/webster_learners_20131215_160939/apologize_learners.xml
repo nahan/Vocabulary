@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="apologize"> <hw highlight="yes">apol*o*gize</hw> <vr><vl>also Brit</vl> <va>apol*o*gise</va> <sound><wav>apolog06.wav</wav></sound> <pr>əˈpɑ:ləˌʤaɪz</pr></vr> <fl>verb</fl> <in><if>apol*o*giz*es</if></in> <in><if>apol*o*gized</if></in> <in><if>apol*o*giz*ing</if></in> <def><gram>no obj</gram> <dt>:to express regret for doing or saying something wrong :to give or make an apology <vi>He <it>apologized</it> to his wife and children for losing his temper.</vi> <vi>I want to <it>apologize</it> (to you) for what I said. I didn't mean it, and I'm sorry if it hurt your feelings.</vi> <vi>We <it>apologize</it> for the mistake and promise that it won't happen again.</vi> <vi>She <phrase>doesn't apologize for</phrase> her lifestyle. [=she does not believe that her lifestyle is wrong]</vi></dt></def></entry>
+
+</entry_list>

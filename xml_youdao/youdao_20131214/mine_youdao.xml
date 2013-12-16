@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mine]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[我的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[maɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 矿，矿藏；矿山，矿井；地雷，水雷]]></ex>
+
+                    <ex><![CDATA[vt. 开采，采掘；在…布雷]]></ex>
+
+                    <ex><![CDATA[pron. 我的]]></ex>
+
+                    <ex><![CDATA[vi. 开矿，采矿；埋设地雷]]></ex>
+
+                    <ex><![CDATA[n. (Mine)人名；(德、塞、土、毛里塔)米内]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[mine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[我的]]></ex>
+
+                            <ex><![CDATA[地雷]]></ex>
+
+                            <ex><![CDATA[矿山]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[coal mine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[煤矿]]></ex>
+
+                            <ex><![CDATA[煤矿矿井]]></ex>
+
+                            <ex><![CDATA[煤矿井下]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[mine surveying]]></key>
+
+            <value>
+
+                            <ex><![CDATA[矿山测量学]]></ex>
+
+                            <ex><![CDATA[矿山测量]]></ex>
+
+                            <ex><![CDATA[矿山勘测]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

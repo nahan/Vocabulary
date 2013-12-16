@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[camp]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[营]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kæmp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 露营]]></ex>
+
+                    <ex><![CDATA[vt. 扎营；使扎营]]></ex>
+
+                    <ex><![CDATA[vi. 露营；扎营]]></ex>
+
+                    <ex><![CDATA[n. (Camp)人名；(英)坎普；(瑞典)坎普；(法)康]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[CAMP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环磷酸腺苷]]></ex>
+
+                            <ex><![CDATA[坎普]]></ex>
+
+                            <ex><![CDATA[营地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Day camp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[日营]]></ex>
+
+                            <ex><![CDATA[夏令营]]></ex>
+
+                            <ex><![CDATA[日归营]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Happy Camp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[快乐大本营]]></ex>
+
+                            <ex><![CDATA[逍遥派]]></ex>
+
+                            <ex><![CDATA[快乐大本营的外文名是]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

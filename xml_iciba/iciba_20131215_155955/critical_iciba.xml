@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>critical</key>
+
+<ps>ˈkrɪtɪkl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/09/44/09440aac88ae31e801bcf63240e120fe.mp3</pron>
+
+<ps>ˈkrɪtɪkəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/7e/85/7e85bcb66fb9a809d5ab4f62a8b8bea8.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>批评的，爱挑剔的；危险的，危急的；决定性的；[物]临界的；
+
+</acceptation>
+
+<sent><orig>
+
+The critical thinking consists the critical thinking spirit and the critical thinking skills.
+
+</orig>
+
+<trans>
+
+批判性思维包括批判性思维精神和批判性思维技能。
+
+</trans></sent>
+
+<sent><orig>
+
+Basic project planning, critical path, critical chain, or PERT analysis may mitigate such failings.
+
+</orig>
+
+<trans>
+
+基本的项目计划、关键路程、重要链子，和计划评审技术分析也许会减低失败的几率。
+
+</trans></sent>
+
+<sent><orig>
+
+The three tenets of this model are transparent code, security-safe-critical code, and security-critical code.
+
+</orig>
+
+<trans>
+
+此模型的三个原则是透明代码、安全可靠关键代码和安全关键代码。
+
+</trans></sent>
+
+<sent><orig>
+
+It can be described as praxis, critical pedagogy, or critical action research.
+
+</orig>
+
+<trans>
+
+可以把它称为“批判性教学法”，“批判性行动研究”，或（哲学意义上的）“实践”。
+
+</trans></sent>
+
+<sent><orig>
+
+To use a critical section, you must first declare CRITICAL_SECTION structure.
+
+</orig>
+
+<trans>
+
+在使用临界区以前你必须先声明CRITICAL_SECTION结构体。
+
+</trans></sent>
+
+</dict>

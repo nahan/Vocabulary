@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[insect]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[昆虫]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪnsekt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 昆虫；卑鄙的人]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Insect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[昆虫]]></ex>
+
+                            <ex><![CDATA[虫子]]></ex>
+
+                            <ex><![CDATA[虫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Insect repellent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[防蚊液]]></ex>
+
+                            <ex><![CDATA[杀虫剂]]></ex>
+
+                            <ex><![CDATA[驱虫剂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[insect bite]]></key>
+
+            <value>
+
+                            <ex><![CDATA[昆虫咬伤]]></ex>
+
+                            <ex><![CDATA[被虫咬伤]]></ex>
+
+                            <ex><![CDATA[蚊虫叮咬]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

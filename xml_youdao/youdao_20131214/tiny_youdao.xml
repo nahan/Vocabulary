@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tiny]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[小]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['taɪnɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 微小的；很少的]]></ex>
+
+                    <ex><![CDATA[n. (Tiny)人名；(葡、印)蒂尼]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tiny]]></key>
+
+            <value>
+
+                            <ex><![CDATA[山岭巨人]]></ex>
+
+                            <ex><![CDATA[微小的]]></ex>
+
+                            <ex><![CDATA[极小的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tiny Worlds]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小小世界]]></ex>
+
+                            <ex><![CDATA[汉化版]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tiny Dancer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞燕舞者]]></ex>
+
+                            <ex><![CDATA[小巧的舞伴]]></ex>
+
+                            <ex><![CDATA[小舞者]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

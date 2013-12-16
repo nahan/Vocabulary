@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stop]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[停止]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stɒp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 停止；车站；障碍；逗留]]></ex>
+
+                    <ex><![CDATA[vi. 停止；中止；逗留；被塞住]]></ex>
+
+                    <ex><![CDATA[vt. 停止；堵塞；断绝]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[STOP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[停止]]></ex>
+
+                            <ex><![CDATA[关闭]]></ex>
+
+                            <ex><![CDATA[停车站]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bus stop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巴士站]]></ex>
+
+                            <ex><![CDATA[公共汽车站]]></ex>
+
+                            <ex><![CDATA[公交车站]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Stop words]]></key>
+
+            <value>
+
+                            <ex><![CDATA[停用词]]></ex>
+
+                            <ex><![CDATA[禁用词]]></ex>
+
+                            <ex><![CDATA[停止词]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

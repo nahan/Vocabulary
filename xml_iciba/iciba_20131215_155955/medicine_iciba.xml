@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>medicine</key>
+
+<ps>ˈmedsn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/73/56/73566cc2f83b3a6752595dd4f89f45ee.mp3</pron>
+
+<ps>ˈmɛdɪsɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d9/e5/d9e5d212320e7d96e921831554be696d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>医学，医术，内科（治疗）；医药，（尤指）内服药；有功效的东西，良药；〈美俚〉情报；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>用药物治疗；给…用药；使…吃药；下药；
+
+</acceptation>
+
+<sent><orig>
+
+Evidence-based medicine(EBM) is emphasized by modern medicine,based on the experience medicine.
+
+</orig>
+
+<trans>
+
+现代医学模式是在经验医学的基础上强调循证医学(evidence-based medicine,EBM)。
+
+</trans></sent>
+
+<sent><orig>
+
+Evidence-based medicine (EBM) was the progress of traditional clinical trial model.
+
+</orig>
+
+<trans>
+
+以证据医学(evidence-based medicine)为基础的临床研究并不是取代所有的传统临床研究模式，但它将是21世纪临床研究的发展方向。
+
+</trans></sent>
+
+<sent><orig>
+
+Medicine: Dan Ariely for demonstrating that expensive fake medicine is more effective than cheap fake medicine.
+
+</orig>
+
+<trans>
+
+医学奖：丹·亚雷利，证明昂贵的假药比便宜的假药更有效。
+
+</trans></sent>
+
+<sent><orig>
+
+Auto-pharmacy is the logistic system to implement the automation of medicine input, medicine-store and medicine-output.
+
+</orig>
+
+<trans>
+
+自动化药房是实现上药、储药和出药自动化的物流系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Zuotang medicine is for patients in medicine stores Zhenmo doctor of Chinese medicine doctor.
+
+</orig>
+
+<trans>
+
+坐堂医是在中药店中为患者诊脉看病的中医大夫。
+
+</trans></sent>
+
+</dict>

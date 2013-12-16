@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[traffic]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[交通]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['træfɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 交通；运输；贸易；[通信] 通信量]]></ex>
+
+                    <ex><![CDATA[vt. 用…作交换；在…通行]]></ex>
+
+                    <ex><![CDATA[vi. 交易，买卖]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Traffic]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交通]]></ex>
+
+                            <ex><![CDATA[网站流量]]></ex>
+
+                            <ex><![CDATA[流量]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[traffic jam]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交通堵塞]]></ex>
+
+                            <ex><![CDATA[交通拥挤]]></ex>
+
+                            <ex><![CDATA[交通阻塞]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[traffic lights]]></key>
+
+            <value>
+
+                            <ex><![CDATA[红绿灯]]></ex>
+
+                            <ex><![CDATA[交通灯]]></ex>
+
+                            <ex><![CDATA[交通信号灯]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

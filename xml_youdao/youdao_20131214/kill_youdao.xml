@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[kill]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[杀了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 杀戮；屠杀]]></ex>
+
+                    <ex><![CDATA[vt. 杀死；扼杀；使终止；抵消]]></ex>
+
+                    <ex><![CDATA[adj. 致命的；致死的]]></ex>
+
+                    <ex><![CDATA[vi. 杀死]]></ex>
+
+                    <ex><![CDATA[n. (Kill)人名；(德)基尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Kill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[杀死]]></ex>
+
+                            <ex><![CDATA[杀球]]></ex>
+
+                            <ex><![CDATA[自杀]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[kill time]]></key>
+
+            <value>
+
+                            <ex><![CDATA[消磨时间]]></ex>
+
+                            <ex><![CDATA[浪费时间]]></ex>
+
+                            <ex><![CDATA[鬼混]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Righteous Kill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正当杀人]]></ex>
+
+                            <ex><![CDATA[正义杀戮]]></ex>
+
+                            <ex><![CDATA[世纪交锋]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

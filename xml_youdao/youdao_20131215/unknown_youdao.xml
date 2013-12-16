@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[unknown]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[未知的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌn'nəʊn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 未知数；未知的事物，默默无闻的人]]></ex>
+
+                    <ex><![CDATA[adj. 未知的；陌生的，默默无闻的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Unknown]]></key>
+
+            <value>
+
+                            <ex><![CDATA[未知]]></ex>
+
+                            <ex><![CDATA[文件来源]]></ex>
+
+                            <ex><![CDATA[场景类型]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Unknown God]]></key>
+
+            <value>
+
+                            <ex><![CDATA[未识之神]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Unknown Pleasures]]></key>
+
+            <value>
+
+                            <ex><![CDATA[任逍遥]]></ex>
+
+                            <ex><![CDATA[兴奋莫名]]></ex>
+
+                            <ex><![CDATA[橡皮人]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>select</key>
+
+<ps>sɪ'lekt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b5/70/b570db31b5e54b0577d6a63f1419e933.mp3</pron>
+
+<ps>sɪˈlɛkt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/99/93/99938282f04071859941e18f16efcf42.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>选择；挑选；选拔；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>精选的；挑选出来的；苛择的；〈口〉爱挑三拣四的，挑剔的；
+
+</acceptation>
+
+<sent><orig>
+
+The SELECT statement is used to select data from a database.
+
+</orig>
+
+<trans>
+
+选择语句[SELECT]是用来从一个数据库中选取数据的。
+
+</trans></sent>
+
+<sent><orig>
+
+Select the listing by number, then press select to open it.
+
+</orig>
+
+<trans>
+
+通过号码来选定列表，然后按Select打开它。
+
+</trans></sent>
+
+<sent><orig>
+
+For each instance of an HTML tag on a form, a Select object is created.
+
+</orig>
+
+<trans>
+
+它将为表单中的每个HTML标签实例创建一个select对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Select some files or directories, and then create the ISO based on these files. 10.
+
+</orig>
+
+<trans>
+
+select一些文件或目录，然后创建国际标准化组织的基础上这些文件。
+
+</trans></sent>
+
+<sent><orig>
+
+When you finish enter one line, press select to save and exit that line.
+
+</orig>
+
+<trans>
+
+输完一行后，按Select保存并退出该行。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[busy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[忙]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɪzɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 忙碌的；热闹的；正被占用的]]></ex>
+
+                    <ex><![CDATA[vt. 使忙于]]></ex>
+
+                    <ex><![CDATA[n. (Busy)人名；(匈)布希；(法)比西]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[busy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[忙碌的]]></ex>
+
+                            <ex><![CDATA[忙的]]></ex>
+
+                            <ex><![CDATA[繁忙的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[busy hour]]></key>
+
+            <value>
+
+                            <ex><![CDATA[忙时]]></ex>
+
+                            <ex><![CDATA[最大负荷小时]]></ex>
+
+                            <ex><![CDATA[高峰时段]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Too busy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[太忙]]></ex>
+
+                            <ex><![CDATA[没有空闲]]></ex>
+
+                            <ex><![CDATA[真热闹啊]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[scream]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[尖叫]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skriːm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 尖叫声；尖锐刺耳的声音；极其滑稽可笑的人]]></ex>
+
+                    <ex><![CDATA[vi. 尖叫；呼啸；发出尖锐刺耳的声音；令人触目惊心]]></ex>
+
+                    <ex><![CDATA[vt. 尖声喊叫；大叫大嚷着要求]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[scream]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尖叫]]></ex>
+
+                            <ex><![CDATA[惊声尖叫]]></ex>
+
+                            <ex><![CDATA[最佳舞蹈]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Scream 2]]></key>
+
+            <value>
+
+                            <ex><![CDATA[惊声尖叫]]></ex>
+
+                            <ex><![CDATA[夺命狂呼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Death Scream]]></key>
+
+            <value>
+
+                            <ex><![CDATA[死神尖啸]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

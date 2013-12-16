@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[disturb]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[打扰]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'stɜːb]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 打扰；妨碍；使不安；弄乱；使恼怒]]></ex>
+
+                    <ex><![CDATA[vi. 打扰；妨碍]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[disturb]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打扰]]></ex>
+
+                            <ex><![CDATA[扰乱]]></ex>
+
+                            <ex><![CDATA[打搅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Program Disturb]]></key>
+
+            <value>
+
+                            <ex><![CDATA[编程干扰]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Disturb her]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打扰她]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

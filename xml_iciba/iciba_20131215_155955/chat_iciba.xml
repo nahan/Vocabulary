@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>chat</key>
+
+<ps>tʃæt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/9f/d3/9fd3ebffc497f44b7155037498eede75.mp3</pron>
+
+<ps>tʃæt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/aa/8a/aa8af3ebe14831a7cd1b6d1383a03755.mp3</pron>
+
+<pos>vi.</pos>
+
+<acceptation>聊天；闲谈；参加网络闲聊；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>（尤指非正式的）谈话；鸣禽；[植] 柔荑花序（如柳絮）；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>与…攀谈；与…搭讪（或调情）；
+
+</acceptation>
+
+<sent><orig>
+
+The cri-du-chat syndrome (CDC, MIM123450), first described by Lejeune, is caused by deletions in 5p.
+
+</orig>
+
+<trans>
+
+猫叫综合征(cri-du-chat,CDC,MIM123450)由Lejeune等最早报道，由一条5号染色体短臂发生缺失引起。
+
+</trans></sent>
+
+<sent><orig>
+
+Simple network chat, you can send message, receive message and displays the contents of Record chat.
+
+</orig>
+
+<trans>
+
+简单的网络聊天功能，可以发送消息，接收消息，并显示聊天的的内容记录。
+
+</trans></sent>
+
+<sent><orig>
+
+TCP chat server system, using a simple TCP chat can refer to the study.
+
+</orig>
+
+<trans>
+
+TCP聊天服务器系统，实现用TCP进行简单的聊天，可以参考学习。
+
+</trans></sent>
+
+<sent><orig>
+
+In a chat room, you can select friends to chat with.
+
+</orig>
+
+<trans>
+
+在聊天室，你可以选择聊天对象，和他们谈话。
+
+</trans></sent>
+
+<sent><orig>
+
+MSN chat software chat monitoring software and complete code examples.
+
+</orig>
+
+<trans>
+
+MSN聊天软件聊天记录监控软件，完整的实例代码。
+
+</trans></sent>
+
+</dict>

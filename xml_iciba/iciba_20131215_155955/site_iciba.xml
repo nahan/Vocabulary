@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>site</key>
+
+<ps>saɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/79/fe/79fe7d6437bdc81855907d9247f52e62.mp3</pron>
+
+<ps>saɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/98/de/98defd6ee70dfb1dea416cecdf391f58.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>地点，位置，场所；[计算机]网站；遗址；地皮；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使坐落在；安放，设置；给…造址；为…提供场所；
+
+</acceptation>
+
+<sent><orig>
+
+To organize HSE site service: Safety strategy, site safety supervision, health control, security of site office.
+
+</orig>
+
+<trans>
+
+负责提供安全策略，现场安全监督，现场健康控制，以及现场办公室安全。
+
+</trans></sent>
+
+<sent><orig>
+
+Site Map Strategy: Text-based site map site contains all the sections, sub-section.
+
+</orig>
+
+<trans>
+
+网站地图策略：基于文本的网站地图内含网站所有栏目、子栏目。
+
+</trans></sent>
+
+<sent><orig>
+
+Private cross-site group (cross-site group properties are only visible to the owner of the cross-site group)
+
+</orig>
+
+<trans>
+
+专用跨网站用户组（只有跨网站用户组的所有者可以看见跨网站用户组属性）
+
+</trans></sent>
+
+<sent><orig>
+
+Cell Site-cell site number for neighbor cell site.
+
+</orig>
+
+<trans>
+
+Cellsite--相邻小区基站的小区基站号。
+
+</trans></sent>
+
+<sent><orig>
+
+Your free site, site ranking, site classification navigation, keyword search function.
+
+</orig>
+
+<trans>
+
+提供免费网站收录，网站排名，网址分类导航，关键字搜索功能。
+
+</trans></sent>
+
+</dict>

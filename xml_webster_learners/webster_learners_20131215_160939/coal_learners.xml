@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="coal"> <hw highlight="yes">coal</hw> <sound><wav>coal0001.wav</wav></sound> <pr>ˈkoʊl</pr> <fl>noun</fl> <in><il>plural</il> <if>coals</if></in> <def><sn>1</sn> <sgram>noncount</sgram> <dt>:a black or brownish-black hard substance within the earth that is used as a fuel <vi>a bin of <it>coal</it></vi> <vi>The furnace burns <it>coal</it>.</vi> <vi>a lump of <it>coal</it></vi> <un>often used before another noun <vi>a <it>coal</it> bin/mine/bed/stove</vi> <vi>the <it>coal</it> industry</vi></un></dt> <sn>2</sn> <sgram>count</sgram> <sn>a</sn> <dt>:a piece of coal or charcoal especially when burning <vi>When the <it>coals</it> are red, they are very hot.</vi></dt> <sn>b</sn> <ssl>US</ssl> <dt>:a glowing piece of wood from a fire :<sx>ember</sx> <vi>I toasted one last marshmallow over the <it>coals</it> of the campfire.</vi></dt></def> <dro><dre>carry/take coals to Newcastle</dre> <def><sl>Brit</sl> <dt>:to take something to a place where it is not needed because a large amount of it is already there</dt></def></dro> <dro><dre>haul/rake (someone) over the coals</dre> <def><sl>informal</sl> <dt>:to criticize (someone) very severely <vi>I arrived late for the meeting and was immediately <it>hauled over the coals</it> by my boss.</vi></dt></def></dro></entry>
+
+	<entry id="coal tar"> <hw>coal tar</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a black, sticky liquid made from coal that is used as a fuel and to make various products (such as soap)</dt></def></entry>
+
+	<entry id="barley"> <hw>bar*ley</hw> <sound><wav>barley01.wav</wav></sound> <pr>ˈbɑɚli</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a kind of grain used for food and to make beer and whiskey</dt> <sd>also</sd> <dt>:the plant on which this grain grows</dt></def></entry>
+
+	<entry id="buckwheat"> <hw>buck*wheat</hw> <sound><wav>buckwh01.wav</wav></sound> <pr>ˈbʌkˌwi:t</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a plant with dark seeds that are used to make grain and flour</dt> <sd>also</sd> <dt>:grain or flour made from the seeds of the buckwheat plant</dt></def></entry>
+
+</entry_list>

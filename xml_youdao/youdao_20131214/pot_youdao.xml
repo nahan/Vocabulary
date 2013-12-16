@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pot]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[锅]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɒt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 壶；盆；罐]]></ex>
+
+                    <ex><![CDATA[vt. 把…装罐；射击；节略]]></ex>
+
+                    <ex><![CDATA[vi. 随手射击]]></ex>
+
+                    <ex><![CDATA[n. (Pot)人名；(柬)布特；(捷)波特；(法)波]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[入袋]]></ex>
+
+                            <ex><![CDATA[壶]]></ex>
+
+                            <ex><![CDATA[锅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hot pot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[火锅]]></ex>
+
+                            <ex><![CDATA[暖锅]]></ex>
+
+                            <ex><![CDATA[热锅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pot Black]]></key>
+
+            <value>
+
+                            <ex><![CDATA[斯诺克黑球挑战赛]]></ex>
+
+                            <ex><![CDATA[黑球挑战赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

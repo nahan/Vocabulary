@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="adult[1]"> <hw highlight="yes" hindex="1">adult</hw> <sound><wav>adult002.wav</wav><wav>adult001.wav</wav></sound> <pr>əˈdʌlt, ˈæˌdʌlt</pr> <fl>noun</fl> <in><il>plural</il> <if>adults</if></in> <def><gram>count</gram> <dt>:a fully grown person or animal <vi>Her books appeal both to children and to <it>adults</it>.</vi> <vi>Children must be accompanied by an <it>adult</it> in the museum.</vi> <vi>Only <it>adults</it> can purchase alcohol.</vi> <vi>This film is for <it>adults</it> only. Minors are not admitted.</vi> <vi>People who are close friends as children aren't always friends as <it>adults</it>.</vi> <vi>studying interactions between young birds and <it>adults</it></vi></dt></def></entry>
+
+	<entry id="adult[2]"> <hw highlight="yes" hindex="2">adult</hw> <altpr>əˈdʌlt, ˈæˌdʌlt</altpr> <fl>adjective</fl> <lb>always used before a noun except in sense 2</lb> <def><sn>1</sn> <dt>:fully grown and developed <vi>an <it>adult</it> student/learner</vi> <vi><it>adult</it> birds</vi> <vi>I've worked here all of my <phrase>adult life</phrase>. [=I've worked here since I became an adult]</vi> <vi>preparing children for <it>adult life</it></vi></dt> <sn>2</sn> <sgram>more adult; most adult</sgram> <dt>:mature and sensible :not childish <vi>We need to approach this in an <it>adult</it> way.</vi> <vi>an <it>adult</it> decision/choice/responsibility</vi></dt> <sn>3</sn> <dt>:of or intended for adults <vi><it>adult</it> literacy</vi> <vi><it>adult</it> learning</vi></dt> <sn>4</sn> <dt>:dealing with sexual material <vi><it>adult</it> bookstores/movies</vi></dt></def> <uro><ure>adult*hood</ure> <sound><wav>adult003.wav</wav></sound> <pr>əˈdʌltˌhʊd</pr> <fl>noun</fl> <in><il>plural</il> <if>adult*hoods</if></in> <utxt><wsgram>noncount</wsgram> <vi>preparing children for <it>adulthood</it></vi> <wsgram>count</wsgram> <vi>preparing children for their <it>adulthoods</it></vi></utxt></uro></entry>
+
+	<entry id="adult education"> <hw>adult education</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a course of study for adults :<sx>continuing education</sx> <vi>The university offers a popular program of <it>adult education</it>.</vi></dt></def></entry>
+
+	<entry id="consenting adult"> <hw>consenting adult</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ adults</if></in> <def><gram>count</gram> <sl>law</sl> <dt>:a person who is legally considered old enough to decide to have sex :an adult who has consented to have sex</dt></def></entry>
+
+</entry_list>

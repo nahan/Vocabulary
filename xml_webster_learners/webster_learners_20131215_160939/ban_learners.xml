@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="ban[1]"> <hw hindex="1">ban</hw> <sound><wav>ban00001.wav</wav></sound> <pr>ˈbæn</pr> <fl>verb</fl> <in><if>bans</if></in> <in><if>banned</if></in> <in><if>ban*ning</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to forbid people from using (something) :to say that something cannot be used or done <vi>The school <it>banned</it> that book for many years.</vi> <vi>The city has <it>banned</it> smoking in all public buildings.</vi> <vi>The drug was <it>banned</it> a decade ago.</vi> <vi>The use of cell phones is <it>banned</it> in the restaurant.</vi></dt> <sn>2</sn> <dt>:to forbid (someone) from doing or being part of something <un>usually + <it>from</it> <vi>They <it>banned</it> [=<it>barred</it>] him <it>from</it> entering the building. = He was <it>banned from</it> entering the building.</vi> <vi>She was <it>banned from</it> the team because of drug use.</vi></un></dt></def></entry>
+
+	<entry id="ban[2]"> <hw hindex="2">ban</hw> <altpr>ˈbæn</altpr> <fl>noun</fl> <in><il>plural</il> <if>bans</if></in> <def><gram>count</gram> <dt>:an official rule saying that people are not allowed to use or do something <vi>The city has imposed a smoking <it>ban</it> in all public buildings.</vi> <un>often + <it>on</it> <vi>She challenged the <it>ban on</it> smoking.</vi> <vi>They lifted the <it>ban on</it> the drug.</vi></un></dt></def></entry>
+
+	<entry id="test ban"> <hw>test ban</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bans</if></in> <def><gram>count</gram> <dt>:an official agreement between countries with nuclear weapons to not test those weapons <vi>a nuclear <it>test ban</it> treaty</vi></dt></def></entry>
+
+</entry_list>

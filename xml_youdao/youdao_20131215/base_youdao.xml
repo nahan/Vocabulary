@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[base]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[基地]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[beɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 基础；底部；垒]]></ex>
+
+                    <ex><![CDATA[adj. 卑鄙的；低劣的]]></ex>
+
+                    <ex><![CDATA[vt. 以…作基础]]></ex>
+
+                    <ex><![CDATA[n. (Base)人名；(日)马濑(姓)]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Base]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基地]]></ex>
+
+                            <ex><![CDATA[基础]]></ex>
+
+                            <ex><![CDATA[底座]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Knowledge base]]></key>
+
+            <value>
+
+                            <ex><![CDATA[知识库]]></ex>
+
+                            <ex><![CDATA[知识基础]]></ex>
+
+                            <ex><![CDATA[知识基]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[base material]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基材]]></ex>
+
+                            <ex><![CDATA[基础材质]]></ex>
+
+                            <ex><![CDATA[基本材质]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

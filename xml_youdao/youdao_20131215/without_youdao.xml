@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[without]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[没有]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɪð'aʊt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 没有；超过；在…外面]]></ex>
+
+                    <ex><![CDATA[n. 外部；外面]]></ex>
+
+                    <ex><![CDATA[adv. 户外；在外面；没有或不显示某事物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[without]]></key>
+
+            <value>
+
+                            <ex><![CDATA[没有]]></ex>
+
+                            <ex><![CDATA[不战而屈人之兵]]></ex>
+
+                            <ex><![CDATA[无]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[do without]]></key>
+
+            <value>
+
+                            <ex><![CDATA[用不着]]></ex>
+
+                            <ex><![CDATA[没有]]></ex>
+
+                            <ex><![CDATA[将就]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[without recourse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无追索权]]></ex>
+
+                            <ex><![CDATA[不受追索]]></ex>
+
+                            <ex><![CDATA[无偿还义务]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

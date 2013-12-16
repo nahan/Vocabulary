@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[goal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[目标]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[gəʊl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 目标；球门，得分数；终点]]></ex>
+
+                    <ex><![CDATA[vi. 攻门，射门得分]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Goal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[目标]]></ex>
+
+                            <ex><![CDATA[球门]]></ex>
+
+                            <ex><![CDATA[哥尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[goal area]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小禁区]]></ex>
+
+                            <ex><![CDATA[球门区]]></ex>
+
+                            <ex><![CDATA[足球门区]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[own goal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乌龙球]]></ex>
+
+                            <ex><![CDATA[误中本队球门]]></ex>
+
+                            <ex><![CDATA[踢入本方球门]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

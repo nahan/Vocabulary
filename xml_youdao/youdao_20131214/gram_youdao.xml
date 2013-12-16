@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[gram]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[克]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɡræm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 克；鹰嘴豆（用作饲料）]]></ex>
+
+                    <ex><![CDATA[n. (Gram)人名；(英、法、德、丹、挪、瑞典)格拉姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Gram]]></key>
+
+            <value>
+
+                            <ex><![CDATA[克]]></ex>
+
+                            <ex><![CDATA[格兰]]></ex>
+
+                            <ex><![CDATA[谷物]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Horse gram]]></key>
+
+            <value>
+
+                            <ex><![CDATA[硬皮豆]]></ex>
+
+                            <ex><![CDATA[马克]]></ex>
+
+                            <ex><![CDATA[双花扁豆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gram stain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[革兰氏染色]]></ex>
+
+                            <ex><![CDATA[革兰氏染色法]]></ex>
+
+                            <ex><![CDATA[革兰染色]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

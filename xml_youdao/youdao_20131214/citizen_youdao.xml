@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[citizen]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[公民]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɪtɪz(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 公民；市民；老百姓]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[CITIZEN]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西铁城]]></ex>
+
+                            <ex><![CDATA[公民]]></ex>
+
+                            <ex><![CDATA[市民]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Citizen AA]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公民足球队]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[net citizen]]></key>
+
+            <value>
+
+                            <ex><![CDATA[网民]]></ex>
+
+                            <ex><![CDATA[属于精彩用词]]></ex>
+
+                            <ex><![CDATA[网平易近]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

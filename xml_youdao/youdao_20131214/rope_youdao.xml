@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rope]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[绳子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rəʊp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 绳，绳索]]></ex>
+
+                    <ex><![CDATA[vt. 捆，绑]]></ex>
+
+                    <ex><![CDATA[vi. 拧成绳状]]></ex>
+
+                    <ex><![CDATA[n. (Rope)人名；(英)罗普；(芬)罗佩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Rope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绳]]></ex>
+
+                            <ex><![CDATA[绳索]]></ex>
+
+                            <ex><![CDATA[夺魂索]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Jump rope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跳绳]]></ex>
+
+                            <ex><![CDATA[跨越横线]]></ex>
+
+                            <ex><![CDATA[跳绳游戏]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Kernmantle rope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有打卷了的多股内芯和外织层的特别尼龙绳]]></ex>
+
+                            <ex><![CDATA[编织绳]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dirt]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[污垢]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɜːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 污垢，泥土；灰尘，尘土；下流话]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[dirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[污垢]]></ex>
+
+                            <ex><![CDATA[污物]]></ex>
+
+                            <ex><![CDATA[尘埃]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dirt Bike]]></key>
+
+            <value>
+
+                            <ex><![CDATA[越野车]]></ex>
+
+                            <ex><![CDATA[特技机车]]></ex>
+
+                            <ex><![CDATA[惊险车技]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[dirt retention]]></key>
+
+            <value>
+
+                            <ex><![CDATA[积尘]]></ex>
+
+                            <ex><![CDATA[积垢]]></ex>
+
+                            <ex><![CDATA[积尘性]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

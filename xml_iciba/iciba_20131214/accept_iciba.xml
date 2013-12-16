@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>accept</key>
+
+<ps>ək'sept</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/58/b9/58b9bacd68c90bad8aefe307412dda7a.mp3</pron>
+
+<ps>ækˈsɛpt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/4a/be/4abe77c201ff11663ccdf52fd6ecea86.mp3</pron>
+
+<pos>vi.</pos>
+
+<acceptation>承认；同意；承兑；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>接受；承认；承担；承兑；
+
+</acceptation>
+
+<sent><orig>
+
+After reading the agreement, accept it by activating the [Accept] button below the text area.
+
+</orig>
+
+<trans>
+
+当你读了协议后，如果你同意，则按[Accept]按钮。
+
+</trans></sent>
+
+<sent><orig>
+
+I cannot accept the dogma of this church; accept an argument.
+
+</orig>
+
+<trans>
+
+我不同意这个教堂的教条；同意这个论点。
+
+</trans></sent>
+
+<sent><orig>
+
+A person will accept money only because of the belief that others will also accept it.
+
+</orig>
+
+<trans>
+
+当一个人接受货币是因为他相信别人也会接受这种货币。
+
+</trans></sent>
+
+<sent><orig>
+
+Accept all (inactive) -the phone will accept all incoming SMS messages.
+
+</orig>
+
+<trans>
+
+接受所有（已停播）-电话将接受所有传入短信。
+
+</trans></sent>
+
+<sent><orig>
+
+If we accept this kind of tinkering, can't we accept cloning?
+
+</orig>
+
+<trans>
+
+如果我们接受这种修补，那么我们为什么不能接受克隆呢？
+
+</trans></sent>
+
+</dict>

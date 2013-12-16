@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[starve]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[饿死]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stɑːv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 饿死；挨饿；渴望]]></ex>
+
+                    <ex><![CDATA[vt. 使饿死；使挨饿]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[starve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[渴望]]></ex>
+
+                            <ex><![CDATA[使饿死]]></ex>
+
+                            <ex><![CDATA[挨饿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dont Starve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[饥荒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[surfeit starve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[过度]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

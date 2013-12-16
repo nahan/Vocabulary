@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>direction</key>
+
+<ps>də'rekʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/5e/51/5e51edb5e3f050b085b89d16672dfbb9.mp3</pron>
+
+<ps>dɪˈrɛkʃən, daɪ-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ef/72/ef72c37be9d1b9e6e5bbd6ef09448abe.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>方向，指南；指挥，指导，管理；用法说明，指示，命令，吩咐；导演，（乐队）指挥；
+
+</acceptation>
+
+<sent><orig>
+
+North-South direction of the yellow light, red light east-west direction, counter time 5 seconds.
+
+</orig>
+
+<trans>
+
+南北方向黄灯亮、东西方向红灯亮，计数器计时5秒。
+
+</trans></sent>
+
+<sent><orig>
+
+Two-way linked list, first in one direction, find another direction, is connected.
+
+</orig>
+
+<trans>
+
+双向链表，首先是在一个方向，找到另一个方向，是连接。
+
+</trans></sent>
+
+<sent><orig>
+
+The structure and traits of direction moving mechanism and direction moving mechanism with rotation were introduced.
+
+</orig>
+
+<trans>
+
+详细叙述了双向移动和单向移动加转向步履机构的结构和特点。
+
+</trans></sent>
+
+<sent><orig>
+
+The acceleration record of the pricipai axis direction is controled by fault failure direction.
+
+</orig>
+
+<trans>
+
+对于断裂带附近的记录，其主轴方向受断层破裂方向的控制。
+
+</trans></sent>
+
+<sent><orig>
+
+The rotation direction of impeller is based on the direction indicated by rotation arrow.
+
+</orig>
+
+<trans>
+
+叶轮旋转方向，以转向箭头所示方向为准。
+
+</trans></sent>
+
+</dict>

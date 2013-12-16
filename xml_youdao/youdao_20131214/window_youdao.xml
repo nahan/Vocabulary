@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[window]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[窗口]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wɪndəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 窗；窗口；窗户]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Window]]></key>
+
+            <value>
+
+                            <ex><![CDATA[窗口]]></ex>
+
+                            <ex><![CDATA[窗户]]></ex>
+
+                            <ex><![CDATA[视窗]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Window tax]]></key>
+
+            <value>
+
+                            <ex><![CDATA[窗税]]></ex>
+
+                            <ex><![CDATA[窗户税]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[discount window]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贴现窗口]]></ex>
+
+                            <ex><![CDATA[贴现窗]]></ex>
+
+                            <ex><![CDATA[上调银行贴现率]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>lazy</key>
+
+<ps>'leɪzɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f4/73/f473644b996bf1ead6dc35350688e33d.mp3</pron>
+
+<ps>ˈlezi</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/0f/fe/0ffe34b4e04c2b282c5a388b1ad8aa7a.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>懒惰的；没精打采的；慢吞吞的；
+
+</acceptation>
+
+<sent><orig>
+
+In the Hibernate mapping file, by Configure the lazy attribute to determine the search strategy.
+
+</orig>
+
+<trans>
+
+在Hibernate映射文件中，通过在上配置lazy属性来确定检索策略。
+
+</trans></sent>
+
+<sent><orig>
+
+If you lazy in your emails be lazy in your business dealings, too?
+
+</orig>
+
+<trans>
+
+如果你连写电子邮件都懒惰，那么，你做生意怎么会敬业呢？
+
+</trans></sent>
+
+<sent><orig>
+
+I can readily believe that she is lazy at home-she is very lazy at school.
+
+</orig>
+
+<trans>
+
+我不难相信她在家很懒，她在学校就很懒。
+
+</trans></sent>
+
+<sent><orig>
+
+A lazy sheep think its wool heavy.
+
+</orig>
+
+<trans>
+
+懒羊自觉羊毛重。
+
+</trans></sent>
+
+<sent><orig>
+
+I like this feeling so be lazy!
+
+</orig>
+
+<trans>
+
+我如此喜欢这种懒洋洋的感觉！
+
+</trans></sent>
+
+</dict>

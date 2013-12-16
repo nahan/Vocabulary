@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="beard"> <art><artref id="beard_rev.eps"/><capt/><dim>191,108.8</dim></art> <hw highlight="yes">beard</hw> <sound><wav>beard001.wav</wav></sound> <pr>ˈbiɚd</pr> <fl>noun</fl> <in><il>plural</il> <if>beards</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:the hair that grows on a man's cheeks and chin <vi>He grew a <it>beard</it> and mustache.</vi></dt> <sn>2</sn> <dt>:the long hair that grows on the chin of some animals <vi>the <it>beard</it> of a goat</vi></dt></def> <uro><ure>beard*ed</ure> <sound><wav>beard002.wav</wav></sound> <pr>ˈbiɚdəd</pr> <fl>adjective</fl> <utxt><vi>a <it>bearded</it> college professor</vi></utxt></uro></entry>
+
+</entry_list>

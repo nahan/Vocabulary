@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bill]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[比尔]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [法] 法案；广告；账单；[金融] 票据；钞票；清单]]></ex>
+
+                    <ex><![CDATA[vt. 宣布；开账单；用海报宣传]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[比尔]]></ex>
+
+                            <ex><![CDATA[钞票]]></ex>
+
+                            <ex><![CDATA[账单]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bill Clinton]]></key>
+
+            <value>
+
+                            <ex><![CDATA[克林顿]]></ex>
+
+                            <ex><![CDATA[比尔·克林顿]]></ex>
+
+                            <ex><![CDATA[柯林顿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[clean bill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[光票]]></ex>
+
+                            <ex><![CDATA[清洁]]></ex>
+
+                            <ex><![CDATA[清洁汇票]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

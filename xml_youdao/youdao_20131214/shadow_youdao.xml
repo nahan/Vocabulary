@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shadow]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[影子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʃædəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 阴影；影子；幽灵；庇护；隐蔽处]]></ex>
+
+                    <ex><![CDATA[adj. 影子内阁的]]></ex>
+
+                    <ex><![CDATA[vt. 遮蔽；使朦胧；尾随；预示]]></ex>
+
+                    <ex><![CDATA[vi. 渐变；变阴暗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Shadow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[影子]]></ex>
+
+                            <ex><![CDATA[阴影]]></ex>
+
+                            <ex><![CDATA[蝶影]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Eye shadow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[眼影]]></ex>
+
+                            <ex><![CDATA[眼影刷]]></ex>
+
+                            <ex><![CDATA[眼影膏]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Moonlight Shadow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[月光下的影子]]></ex>
+
+                            <ex><![CDATA[月光下的影]]></ex>
+
+                            <ex><![CDATA[月光下的祈祷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

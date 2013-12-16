@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[grandpa]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[爷爷]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['græn(d)pɑː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 爷爷；外公]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Grandpa]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爷爷]]></ex>
+
+                            <ex><![CDATA[外公]]></ex>
+
+                            <ex><![CDATA[祖父]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sleepy Grandpa]]></key>
+
+            <value>
+
+                            <ex><![CDATA[唤醒老爷爷]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Grandpa Gohan]]></key>
+
+            <value>
+
+                            <ex><![CDATA[悟饭爷爷]]></ex>
+
+                            <ex><![CDATA[孙悟饭爷爷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

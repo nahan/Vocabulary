@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[enthusiasm]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[热情]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'θjuːzɪæz(ə)m; en-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 热心，热忱，热情]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Enthusiasm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[热情]]></ex>
+
+                            <ex><![CDATA[热心]]></ex>
+
+                            <ex><![CDATA[狂热]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[enthusiasm about]]></key>
+
+            <value>
+
+                            <ex><![CDATA[热情]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Awaken Enthusiasm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[唤醒热忱]]></ex>
+
+                            <ex><![CDATA[切的心]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

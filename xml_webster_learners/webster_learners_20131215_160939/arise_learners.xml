@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="arise"> <hw>arise</hw> <sound><wav>arise001.wav</wav></sound> <pr>əˈraɪz</pr> <fl>verb</fl> <in><if>aris*es</if></in> <in><if>arose</if> <sound><wav>arise002.wav</wav></sound> <pr>əˈroʊz</pr></in> <in><if>aris*en</if> <sound><wav>arise003.wav</wav></sound> <pr>əˈrɪzn̩</pr></in> <in><if>aris*ing</if></in> <def><gram>no obj</gram> <sn>1 a</sn> <dt>:to begin to occur or to exist <vi>These problems <it>arise</it> when people try to avoid responsibility.</vi> <vi>Questions have <it>arisen</it> concerning/about the company's financial records.</vi> <vi>The sport <it>arose</it> in the 19th century.</vi> <vi>The opportunity <it>arose</it> for a new position to be created.</vi> <vi>A conflict <it>arose</it> because of a misunderstanding.</vi> <vi>Jobs will be created <phrase>as/when the need arises</phrase>. [=jobs will be created when they are needed]</vi> <vi><phrase>Should the need arise</phrase>, he can defend himself. [=he can defend himself if it is necessary to do so]</vi></dt> <sn>b</sn> <dt>:to begin at a source <vi>Tumors <it>arose</it> in different areas of the skin.</vi> <un>usually + <it>from</it> <vi>arteries that <it>arise from</it> the aorta</vi> <vi>small roots <it>arising from</it> the stems</vi> <vi>The disease probably <it>arose from</it> a virus.</vi> <vi>The river <it>arises from</it> two main sources.</vi></un></dt> <sn>2 a</sn> <dt>:to get up from sleep or after lying down <vi>He <it>arose</it> [=(more commonly) <it>rose</it>] refreshed after a good night's sleep.</vi></dt> <sn>b</sn> <dt>:to stand up <vi>He <it>arose</it> [=(more commonly) <it>rose</it>] from his chair.</vi></dt> <sn>3</sn> <dt>:to move upward <vi>Mist <it>arose</it> [=(more commonly) <it>rose</it>] from the valley.</vi></dt></def></entry>
+
+	<entry id="arose"> <hw>arose</hw> <cx><cl>past tense of</cl> <ct>arise</ct></cx></entry>
+
+</entry_list>

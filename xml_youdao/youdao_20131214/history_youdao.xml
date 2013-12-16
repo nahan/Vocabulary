@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[history]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[历史]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['hɪst(ə)rɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 历史，历史学；历史记录；来历]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[History]]></key>
+
+            <value>
+
+                            <ex><![CDATA[历史]]></ex>
+
+                            <ex><![CDATA[历史学]]></ex>
+
+                            <ex><![CDATA[历史记录]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Art History]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艺术史]]></ex>
+
+                            <ex><![CDATA[美术史]]></ex>
+
+                            <ex><![CDATA[艺术历史]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Oral history]]></key>
+
+            <value>
+
+                            <ex><![CDATA[口述历史]]></ex>
+
+                            <ex><![CDATA[口述史]]></ex>
+
+                            <ex><![CDATA[口述史学]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

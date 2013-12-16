@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[attach]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[附加]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'tætʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 附加；附属；伴随]]></ex>
+
+                    <ex><![CDATA[vt. 使依附；贴上；系上；使依恋]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[attach]]></key>
+
+            <value>
+
+                            <ex><![CDATA[系]]></ex>
+
+                            <ex><![CDATA[附加]]></ex>
+
+                            <ex><![CDATA[附上]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ATTACH COLLAR]]></key>
+
+            <value>
+
+                            <ex><![CDATA[上领]]></ex>
+
+                            <ex><![CDATA[绱领]]></ex>
+
+                            <ex><![CDATA[领尖长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Attach Surfaces]]></key>
+
+            <value>
+
+                            <ex><![CDATA[曲面结合]]></ex>
+
+                            <ex><![CDATA[合并曲面]]></ex>
+
+                            <ex><![CDATA[结合曲面]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

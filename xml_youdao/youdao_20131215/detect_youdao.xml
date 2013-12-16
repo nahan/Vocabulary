@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[detect]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[检测]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'tekt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 察觉；发现；探测]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[detect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[检测]]></ex>
+
+                            <ex><![CDATA[发现]]></ex>
+
+                            <ex><![CDATA[侦查]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Detect Invisibility]]></key>
+
+            <value>
+
+                            <ex><![CDATA[侦测隐形]]></ex>
+
+                            <ex><![CDATA[侦测隐形术]]></ex>
+
+                            <ex><![CDATA[魔法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[MOTION DETECT]]></key>
+
+            <value>
+
+                            <ex><![CDATA[移动侦测]]></ex>
+
+                            <ex><![CDATA[动态侦测]]></ex>
+
+                            <ex><![CDATA[运动侦测]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

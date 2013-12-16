@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="behave"> <hw highlight="yes">be*have</hw> <sound><wav>behave01.wav</wav></sound> <pr>bɪˈheɪv</pr> <fl>verb</fl> <in><if>be*haves</if></in> <in><if>be*haved</if></in> <in><if>be*hav*ing</if></in> <def><sn>1</sn> <dt>:to act in an acceptable way :to act properly <wsgram>no obj</wsgram> <vi>If you can't <it>behave</it> in the store we'll have to leave.</vi> <wsgram>+ obj</wsgram> <vi>If you can't <phrase>behave yourself</phrase> in the store we'll have to leave.</vi> <vi>I wish those children would <it>behave themselves</it>.</vi> <dx>opposite <dxt>misbehave</dxt></dx></dt> <sn>2</sn> <sgram>no obj</sgram> <dt>:to act in a particular way <vi>He <it>behaves</it> like a child!</vi> <vi><it>behave</it> well/generously</vi></dt> <sn>3</sn> <sgram>no obj</sgram> <ssl>of a thing</ssl> <dt>:to function, react, or move in a particular way <vi>The experiment tested how various metals <it>behave</it> under heat and pressure.</vi></dt></def></entry>
+
+</entry_list>

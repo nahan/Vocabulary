@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cigarette]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[香烟]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɪgə'ret]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 香烟；纸烟]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Cigarette]]></key>
+
+            <value>
+
+                            <ex><![CDATA[香烟]]></ex>
+
+                            <ex><![CDATA[纸烟]]></ex>
+
+                            <ex><![CDATA[卷烟]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cigarette pack]]></key>
+
+            <value>
+
+                            <ex><![CDATA[烟标]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cigarette holder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[烟斗]]></ex>
+
+                            <ex><![CDATA[烟嘴]]></ex>
+
+                            <ex><![CDATA[品牌烟嘴]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

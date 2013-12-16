@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[halfway]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[一半]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɑːf'weɪ; 'hɑːfweɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 中途的；不彻底的]]></ex>
+
+                    <ex><![CDATA[adv. 到一半；在中途]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[halfway]]></key>
+
+            <value>
+
+                            <ex><![CDATA[半路]]></ex>
+
+                            <ex><![CDATA[中途客栈]]></ex>
+
+                            <ex><![CDATA[前路漫漫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[halfway path]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中庸之道]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Halfway pressing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[半按]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

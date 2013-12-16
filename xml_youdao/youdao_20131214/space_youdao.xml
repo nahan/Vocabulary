@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[space]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[空间]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[speɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 空间；太空；距离]]></ex>
+
+                    <ex><![CDATA[vt. 隔开]]></ex>
+
+                    <ex><![CDATA[vi. 留间隔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Space]]></key>
+
+            <value>
+
+                            <ex><![CDATA[空间]]></ex>
+
+                            <ex><![CDATA[空格键]]></ex>
+
+                            <ex><![CDATA[空格]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[outer space]]></key>
+
+            <value>
+
+                            <ex><![CDATA[外层空间]]></ex>
+
+                            <ex><![CDATA[外太空]]></ex>
+
+                            <ex><![CDATA[太空]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Space suit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[航天服]]></ex>
+
+                            <ex><![CDATA[宇航服]]></ex>
+
+                            <ex><![CDATA[太空衣]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

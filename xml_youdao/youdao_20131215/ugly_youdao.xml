@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ugly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[丑陋的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʌglɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 丑陋的；邪恶的；令人厌恶的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[ugly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[丑陋的]]></ex>
+
+                            <ex><![CDATA[难看的]]></ex>
+
+                            <ex><![CDATA[丑的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ugly Betty]]></key>
+
+            <value>
+
+                            <ex><![CDATA[丑女贝蒂]]></ex>
+
+                            <ex><![CDATA[丑女也有出头天]]></ex>
+
+                            <ex><![CDATA[俏Betty]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pretty Ugly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[原来我不帅]]></ex>
+
+                            <ex><![CDATA[相当丑陋]]></ex>
+
+                            <ex><![CDATA[唱片名]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>envelope</key>
+
+<ps>ˈenvələup</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/29/9a/299a866d8c08b377de29454b49d2817a.mp3</pron>
+
+<ps>ˈɛnvəˌlop, ˈɑn-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/29/9a/299a866d8c08b377de29454b49d2817a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>信封，封皮；壳层，外壳；包裹物；[生物学]膜，包袋；
+
+</acceptation>
+
+<sent><orig>
+
+VersionMismatch: An invalid namespace reference for the SOAP envelope element was passed.
+
+</orig>
+
+<trans>
+
+VersionMismatch: 传递的消息中包含一个对SOAP信封(envelope)元素的无效命名空间引用。
+
+</trans></sent>
+
+<sent><orig>
+
+A required Envelope element that identifies the XML document as a SOAP message.
+
+</orig>
+
+<trans>
+
+必需的把XML文件定义为SOAP信息的封套(Envelope)元素。
+
+</trans></sent>
+
+<sent><orig>
+
+New Doc makes only an envelope or starts a new document with the envelope.
+
+</orig>
+
+<trans>
+
+新文档只制作一个信封或开始一个带信封的新文档。
+
+</trans></sent>
+
+<sent><orig>
+
+We pay casual worker2 an hour for stuffing envelope or for envelope stuffing.
+
+</orig>
+
+<trans>
+
+我们付装信封的临时工一小时2英镑。
+
+</trans></sent>
+
+<sent><orig>
+
+To personalize the envelope this recipient receives, make changes in the envelope previewed here.
+
+</orig>
+
+<trans>
+
+若要对此收件人接收的信封进行个性化设置，请对此处预览的信封进行修改。
+
+</trans></sent>
+
+</dict>

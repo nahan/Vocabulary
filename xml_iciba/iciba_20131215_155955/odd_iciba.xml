@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>odd</key>
+
+<ps>ɒd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/a2/b6/a2b6f2a6066ed8700d83335fc50a2b8e.mp3</pron>
+
+<ps>ɑd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a2/b6/a2b6f2a6066ed8700d83335fc50a2b8e.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>古怪的；奇数的；剩余的；临时的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>奇特的事物；怪人；[高尔夫球]多于对方的一次击球；
+
+</acceptation>
+
+<sent><orig>
+
+A new combinatorial dispatching rule, RAN(FCFS,ODD), and a heuristic method are designed.
+
+</orig>
+
+<trans>
+
+设计了一种组合式调度规则RAN(FCFS,ODD),并提出了基于规则的启发式算法以及该类动态Job shop调度问题的算例生成方法。
+
+</trans></sent>
+
+<sent><orig>
+
+We arrange its elements in ascending order, they are odd, even, odd, even, odd.
+
+</orig>
+
+<trans>
+
+我们按其上升的顺序排列为奇、偶、奇、偶、奇。
+
+</trans></sent>
+
+<sent><orig>
+
+Odd even analysis: Over the past 10 odd-even for the trend: The odd-evenparity.
+
+</orig>
+
+<trans>
+
+奇偶分析：近10期奇偶走势为：奇偶偶偶偶偶偶奇偶偶。
+
+</trans></sent>
+
+<sent><orig>
+
+Abstract: An odd number plus another odd number equals an even number.
+
+</orig>
+
+<trans>
+
+文摘：双奇数相加等于一个偶数。
+
+</trans></sent>
+
+<sent><orig>
+
+Odd-numbered buildings or buildings with odd numbers are on the south side of the street.
+
+</orig>
+
+<trans>
+
+单号建筑在街南边。
+
+</trans></sent>
+
+</dict>

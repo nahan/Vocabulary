@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[male]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[男性]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[meɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 男人；雄性动物]]></ex>
+
+                    <ex><![CDATA[adj. 男性的；雄性的；有力的]]></ex>
+
+                    <ex><![CDATA[n. (Male)人名；(柬)马尔；(意、西、塞)马莱；(英)梅尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[male]]></key>
+
+            <value>
+
+                            <ex><![CDATA[男性]]></ex>
+
+                            <ex><![CDATA[雄性]]></ex>
+
+                            <ex><![CDATA[性别]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[male die]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公模]]></ex>
+
+                            <ex><![CDATA[阳模]]></ex>
+
+                            <ex><![CDATA[凸模]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Male prostitution]]></key>
+
+            <value>
+
+                            <ex><![CDATA[男妓]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

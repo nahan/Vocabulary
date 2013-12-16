@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="anxiety"> <hw highlight="yes">anx*i*ety</hw> <sound><wav>anxiet01.wav</wav></sound> <pr>æŋˈzajəti</pr> <fl>noun</fl> <in><il>plural</il> <if>anx*i*et*ies</if></in> <def><sn>1</sn> <dt>:fear or nervousness about what might happen <wsgram>noncount</wsgram> <vi>feelings of anger and <it>anxiety</it></vi> <vi>She suffers from chronic/acute <it>anxiety</it>.</vi> <vi>He suffers from test <it>anxiety</it>. [=excessive fear about taking tests]</vi> <vi>He's been feeling a lot of <it>anxiety</it> about/over his new job.</vi> <wsgram>count</wsgram> <un>usually plural <vi>modern <it>anxieties</it> about terrorism</vi> <vi>She discussed her <it>anxieties</it> with her sister.</vi></un></dt> <sn>2</sn> <sgram>singular</sgram> <dt>:a feeling of wanting <it>to do</it> something very much <vi>She has always had an <it>anxiety to succeed</it>. [=she has always been anxious to succeed]</vi></dt></def></entry>
+
+	<entry id="separation anxiety"> <hw>separation anxiety</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a feeling of strong fear and anxiety that is experienced by a young child when the child is separated from a parent</dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>mouse</key>
+
+<ps>maʊs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/36/a1/36a1ffc542a9e2be20041eb867822e26.mp3</pron>
+
+<ps>maʊs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/40/20/40203abe6e81ed98cbc97cdd6ec4f144.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>老鼠；鼠标；羞怯[胆小]的人；[非正式用语] 眼部青肿；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>捕鼠；窥探，偷偷地寻找；
+
+</acceptation>
+
+<sent><orig>
+
+The RID_DEVICE_INFO_MOUSE structure defines the raw input data coming from the specified mouse.
+
+</orig>
+
+<trans>
+
+MOUSE结构定义了来自指定鼠标的原始输入数据。
+
+</trans></sent>
+
+<sent><orig>
+
+The noun &quot;mouse&quot; is the singular form of &quot;mice&quot;.
+
+</orig>
+
+<trans>
+
+名词mouse是mice的单数形式。
+
+</trans></sent>
+
+<sent><orig>
+
+The singular of &quot;mice&quot; is &quot;mouse&quot;.
+
+</orig>
+
+<trans>
+
+&quot;mice&quot;的单数形是&quot;mouse&quot;。
+
+</trans></sent>
+
+<sent><orig>
+
+The letter &quot;e&quot; in &quot;mouse&quot; is mute.
+
+</orig>
+
+<trans>
+
+&quot;mouse&quot;中的字母&quot;e&quot;不发音。
+
+</trans></sent>
+
+<sent><orig>
+
+Not any mouse can be found(PS2 mouse and USB mouse are supported),sleep 2 seconds.
+
+</orig>
+
+<trans>
+
+不断重复上两行信息。难道安装程序只支持PS2与USB鼠标，串口鼠标不支持了？
+
+</trans></sent>
+
+</dict>

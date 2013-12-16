@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="artist"> <hw highlight="yes">art*ist</hw> <sound><wav>artist01.wav</wav></sound> <pr>ˈɑɚtɪst</pr> <fl>noun</fl> <in><il>plural</il> <if>art*ists</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who creates art <vi>the great <it>artists</it> of the Renaissance</vi> <vi>a graphic <it>artist</it></vi> :a person who is skilled at drawing, painting, etc. <vi>I can't draw at all, but both of my children are very talented <it>artists</it>. [=they draw very well]</vi></dt> <sn>2</sn> <dt>:a skilled performer <vi>a jazz <it>artist</it></vi> <vi>a trapeze <it>artist</it></vi> <vi>famous <phrase>recording artists</phrase> [=singers and musicians who record their music]</vi></dt> <sn>3</sn> <dt>:a person who is very good at something <vi>She's an <it>artist</it> in her field. [=she's very good at her job]</vi> <vi>a scam <it>artist</it></vi> <dx>see also <dxt>rip-off artist</dxt></dx></dt></def></entry>
+
+	<entry id="con artist"> <hw>con artist</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tists</if></in> <def><gram>count</gram> <dt>:a person who tricks other people in order to get their money <vi>The couple lost their savings to a <it>con artist</it> who told them he was an investment broker.</vi> <ca>called also <cat>con man</cat> (<it>US</it>) <cat>confidence man</cat></ca></dt></def></entry>
+
+	<entry id="escape artist"> <hw>escape artist</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ists</if></in> <def><gram>count</gram> <dt>:a person (such as an entertainer) who is good at escaping <vi>Harry Houdini became famous as an <it>escape artist</it>.</vi></dt></def></entry>
+
+	<entry id="martial art"> <hw>martial art</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ arts</if></in> <def><gram>count</gram> <dt>:any one of several forms of fighting and self-defense (such as karate and judo) that are widely practiced as sports <vi>He was trained in the <it>martial arts</it>.</vi></dt></def> <uro><ure>martial artist</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ists</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="performance art"> <hw>performance art</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of art that is created in front of or presented to an audience by the artist</dt></def> <uro><ure>performance artist</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ists</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="pop art"> <hw>pop art</hw> <vr><vl>or</vl> <va>Pop Art</va></vr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:art in which common objects (such as road signs, hamburgers, comic strips, or soup cans) are used or shown</dt></def> <uro><ure>pop artist</ure> <vr><vl>or</vl> <va>Pop artist</va></vr> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ists</if></in> <gram>count</gram></uro></entry>
+
+</entry_list>

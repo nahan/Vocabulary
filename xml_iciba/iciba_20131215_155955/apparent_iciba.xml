@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>apparent</key>
+
+<ps>ə'pærənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f5/2a/f52a9c9e9b1a91816ecee3c2e0f69cbe.mp3</pron>
+
+<ps>əˈpærənt, əˈpɛr-</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/22/15/2215c6b995cebd1eef65a2d52df7dc99.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>易看见的，可看见的；显然的，明明白白的；貌似的，表面的；显见；
+
+</acceptation>
+
+<sent><orig>
+
+There were significant correlations between the dimensionless apparent slip velocity, apparent solids holdup and slip factor.
+
+</orig>
+
+<trans>
+
+滑移因子、截面平均颗粒浓度与无量纲滑移速度之间存在显著相关性。
+
+</trans></sent>
+
+<sent><orig>
+
+Furthermore, the total apparent power should be the scalar sum of apparent power of every phase.
+
+</orig>
+
+<trans>
+
+而且，总视在功率应为各相视在功率的标量和。
+
+</trans></sent>
+
+<sent><orig>
+
+Apparent Power Apparent power is the product of current and voltage, expressed as kVA.
+
+</orig>
+
+<trans>
+
+视在功率视在功率是电流和电压共同作用的产物，用kVA表示。
+
+</trans></sent>
+
+<sent><orig>
+
+The differential curve of apparent resistivity has a higher resolution than apparent resistivity itself.
+
+</orig>
+
+<trans>
+
+视电阻率差分曲线具有比视电阻率曲线更高的分辨率。
+
+</trans></sent>
+
+<sent><orig>
+
+The amount of apparent sliding, known as 'creep', is dependent upon the tractive effort.
+
+</orig>
+
+<trans>
+
+被称为“爬行”的表观滑动的大小取决于牵引力。
+
+</trans></sent>
+
+</dict>

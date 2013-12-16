@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tough]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[艰难的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʌf]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 恶棍]]></ex>
+
+                    <ex><![CDATA[adj. 艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的]]></ex>
+
+                    <ex><![CDATA[vt. 坚持；忍受，忍耐]]></ex>
+
+                    <ex><![CDATA[adv. 强硬地，顽强地]]></ex>
+
+                    <ex><![CDATA[n. (Tough)人名；(英)图赫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[tough]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吃苦耐劳]]></ex>
+
+                            <ex><![CDATA[强硬]]></ex>
+
+                            <ex><![CDATA[坚韧]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tough bronze]]></key>
+
+            <value>
+
+                            <ex><![CDATA[韧铜]]></ex>
+
+                            <ex><![CDATA[韧青铜]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tough Choices]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艰难的抉择卡莉·菲奥莉娜]]></ex>
+
+                            <ex><![CDATA[勇敢抉择]]></ex>
+
+                            <ex><![CDATA[艰难抉择]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

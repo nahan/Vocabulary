@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>actor</key>
+
+<ps>'æktə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/80/ff/80ff00515b696f25830732d5f86edd2d.mp3</pron>
+
+<ps>ˈæktɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8e/62/8e62561c3ac6d3fb0016e9a34a2caa5d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>演员（尤指男演员）；行动者；参与者；
+
+</acceptation>
+
+<sent><orig>
+
+When actor acts, the use case begin.
+
+</orig>
+
+<trans>
+
+当Actor有所行动时，此用例随即开始。
+
+</trans></sent>
+
+<sent><orig>
+
+AOC calculus is asynchronous pi-calculus which is enriched with actor mechanisim and reinterpreted.
+
+</orig>
+
+<trans>
+
+AOC演算是扩充了Actor机制并且被重新解释了的异步Pi演算。
+
+</trans></sent>
+
+<sent><orig>
+
+An actor who mouths his speeches is a poor actor.
+
+</orig>
+
+<trans>
+
+念台词装腔作势的演员是拙劣的演员。
+
+</trans></sent>
+
+<sent><orig>
+
+An actor who mouths his words is a poor actor.
+
+</orig>
+
+<trans>
+
+装腔作势背诵台词的演员不是好演员。
+
+</trans></sent>
+
+<sent><orig>
+
+I'm an actor, and any actor worth his saIt can cry on cue.
+
+</orig>
+
+<trans>
+
+你要知道，我是个专业演员所有演员都能在自我暗示下哭起来。
+
+</trans></sent>
+
+</dict>

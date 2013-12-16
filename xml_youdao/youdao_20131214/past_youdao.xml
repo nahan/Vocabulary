@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[past]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[过去的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɑːst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 过去；往事]]></ex>
+
+                    <ex><![CDATA[prep. 越过；晚于]]></ex>
+
+                    <ex><![CDATA[adj. 过去的；结束的]]></ex>
+
+                    <ex><![CDATA[adv. 过；经过]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Past]]></key>
+
+            <value>
+
+                            <ex><![CDATA[过去]]></ex>
+
+                            <ex><![CDATA[喂]]></ex>
+
+                            <ex><![CDATA[往事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Past]]></key>
+
+            <value>
+
+                            <ex><![CDATA[过去]]></ex>
+
+                            <ex><![CDATA[往昔]]></ex>
+
+                            <ex><![CDATA[过去的事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Past Perfect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[过去完成时]]></ex>
+
+                            <ex><![CDATA[过去完成进行时]]></ex>
+
+                            <ex><![CDATA[超魔鬼毁灭者]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

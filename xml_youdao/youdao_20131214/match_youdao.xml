@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[match]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[匹配]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mætʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 比赛，竞赛；匹配；对手；火柴]]></ex>
+
+                    <ex><![CDATA[vi. 比赛；匹配；相配，相称；相比]]></ex>
+
+                    <ex><![CDATA[vt. 使比赛；使相配；敌得过，比得上；相配；与…竞争]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Match]]></key>
+
+            <value>
+
+                            <ex><![CDATA[火柴]]></ex>
+
+                            <ex><![CDATA[比赛]]></ex>
+
+                            <ex><![CDATA[匹配]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Match Point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[赛末点]]></ex>
+
+                            <ex><![CDATA[迷失决胜分]]></ex>
+
+                            <ex><![CDATA[赛点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Match play]]></key>
+
+            <value>
+
+                            <ex><![CDATA[比洞赛]]></ex>
+
+                            <ex><![CDATA[对抗赛]]></ex>
+
+                            <ex><![CDATA[以各个洞位为单位]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

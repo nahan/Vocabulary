@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>sir</key>
+
+<ps>sɜ:(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f2/39/f23977a6a80f1dfe32c9e3c8a8f7a157.mp3</pron>
+
+<ps>sɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/dc/ff/dcff57c9a964f83fbf81cc75ec2e413a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>先生；（用于姓名前）爵士；（中小学生对男教师的称呼）先生；老师；
+
+</acceptation>
+
+<sent><orig>
+
+Meanfield theory and largescale numerical simulations are employed to analyze the threshold of the SIR model.
+
+</orig>
+
+<trans>
+
+利用平均场理论和大量的数值仿真分析SIR模型的传染临界值。
+
+</trans></sent>
+
+<sent><orig>
+
+Here we designed a miniature coaxial-cavity using stepped impedance resonator (SIR) as resonator element.
+
+</orig>
+
+<trans>
+
+作者利用阶跃阻抗谐振器(SIR)作为谐振单元设计了一款小型化腔体梳状滤波器。
+
+</trans></sent>
+
+<sent><orig>
+
+A new Capacitive-Gap-Coupled (CGC) band-pass filter based on SIR (Stepped Impedance Resonators) is presented.
+
+</orig>
+
+<trans>
+
+本文提出了一种新的基于SIR谐振器的微带电容间隙耦合(Capacitive-Gap-Coupled,CGC)带通滤波器结构。
+
+</trans></sent>
+
+<sent><orig>
+
+Pulse Vaccination in the SIR epidemic model with vertical transmission is studied in this paper.
+
+</orig>
+
+<trans>
+
+研究了脉冲接种作用下的具有垂直传染的SIR传染病模型，得到了无病周期解的全局稳定性和基本再生数。
+
+</trans></sent>
+
+<sent><orig>
+
+In second chapter, research the dynamics of a SIR model with diffusion terms.
+
+</orig>
+
+<trans>
+
+第二章中研究了具有扩散项的SIR模型的动力学。
+
+</trans></sent>
+
+</dict>

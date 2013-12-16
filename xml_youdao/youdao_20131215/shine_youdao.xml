@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shine]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[发光]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃaɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 照射，擦亮；把…的光投向；（口）通过擦拭使…变得有光泽或光]]></ex>
+
+                    <ex><![CDATA[vi. 发出光；反射光，闪耀；出类拔萃，表现突出；露出；照耀；显露；出众]]></ex>
+
+                    <ex><![CDATA[n. 光亮，光泽；好天气；擦亮；晴天；擦皮鞋；鬼把戏或诡计]]></ex>
+
+                    <ex><![CDATA[n. （英）夏因（人名）；（日）新荣（人名）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[照耀]]></ex>
+
+                            <ex><![CDATA[闪亮的风采]]></ex>
+
+                            <ex><![CDATA[亮班]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[to shine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[照耀]]></ex>
+
+                            <ex><![CDATA[发光]]></ex>
+
+                            <ex><![CDATA[要照亮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[SHINE ON]]></key>
+
+            <value>
+
+                            <ex><![CDATA[增添光泽感]]></ex>
+
+                            <ex><![CDATA[闪耀你的光采]]></ex>
+
+                            <ex><![CDATA[搁在一旁]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

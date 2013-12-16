@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>try</key>
+
+<ps>traɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/ae/8f/ae8f6f6fcd791e53cbff0b6f0ea7aec5.mp3</pron>
+
+<ps>traɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/08/0f/080f651e3fcca17df3a47c2cecfcb880.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>试图，努力；实验；审判；考验；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>尝试，实验；[橄]触球，（因触球获得的）向球门踢球的权利；
+
+</acceptation>
+
+<sent><orig>
+
+A try statement may have more than one except clause, to specify handlers for different exceptions.
+
+</orig>
+
+<trans>
+
+一个try语句可能包含多个except子句，分别指定处理不同的异常。
+
+</trans></sent>
+
+<sent><orig>
+
+Winners try and fail and try again – losers don't try!
+
+</orig>
+
+<trans>
+
+成功的球员尝试、失败、再尝试；失败者就是没有去尝试。
+
+</trans></sent>
+
+<sent><orig>
+
+If at first you don't succeed, try, try, and try again.
+
+</orig>
+
+<trans>
+
+如果开始不成功，那就一试再试下去。
+
+</trans></sent>
+
+<sent><orig>
+
+If you don't succeed at first, try, try, try again.
+
+</orig>
+
+<trans>
+
+起初不成功，再三尝试。
+
+</trans></sent>
+
+<sent><orig>
+
+If at first you don't succeed try, try, try again is a familiar precept.
+
+</orig>
+
+<trans>
+
+如你最初不成功，再试试看''是一句教诲。
+
+</trans></sent>
+
+</dict>

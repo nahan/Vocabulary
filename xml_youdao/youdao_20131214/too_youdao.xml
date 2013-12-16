@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[too]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[太]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 太；也；很；还；非常；过度]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Too]]></key>
+
+            <value>
+
+                            <ex><![CDATA[太强]]></ex>
+
+                            <ex><![CDATA[太]]></ex>
+
+                            <ex><![CDATA[太深]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[too much]]></key>
+
+            <value>
+
+                            <ex><![CDATA[太多]]></ex>
+
+                            <ex><![CDATA[无法承受的爱]]></ex>
+
+                            <ex><![CDATA[爱得过火]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Too Late]]></key>
+
+            <value>
+
+                            <ex><![CDATA[晚来的爱情]]></ex>
+
+                            <ex><![CDATA[来不及]]></ex>
+
+                            <ex><![CDATA[太迟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

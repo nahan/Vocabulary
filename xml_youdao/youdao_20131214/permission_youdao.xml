@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[permission]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[许可]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pə'mɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 允许，许可]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[permission]]></key>
+
+            <value>
+
+                            <ex><![CDATA[许可]]></ex>
+
+                            <ex><![CDATA[允许]]></ex>
+
+                            <ex><![CDATA[权限]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Permission denied]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拒绝访问]]></ex>
+
+                            <ex><![CDATA[没有权限]]></ex>
+
+                            <ex><![CDATA[权限被拒绝]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Permission System]]></key>
+
+            <value>
+
+                            <ex><![CDATA[权限系统]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

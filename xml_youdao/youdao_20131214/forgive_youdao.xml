@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[forgive]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[原谅]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fə'gɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 原谅；免除（债务、义务等）]]></ex>
+
+                    <ex><![CDATA[vi. 表示原谅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[forgive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[原谅]]></ex>
+
+                            <ex><![CDATA[宽恕]]></ex>
+
+                            <ex><![CDATA[饶恕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[forgive someone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[原谅某人]]></ex>
+
+                            <ex><![CDATA[原谅他人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Please forgive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[请原谅]]></ex>
+
+                            <ex><![CDATA[请宽恕]]></ex>
+
+                            <ex><![CDATA[求你原谅]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

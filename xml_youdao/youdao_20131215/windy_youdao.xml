@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[windy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[多风的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wɪndɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 多风的，有风的；腹胀的；吹牛的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[windy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有风的]]></ex>
+
+                            <ex><![CDATA[多风的]]></ex>
+
+                            <ex><![CDATA[刮风的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Windy City]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风城]]></ex>
+
+                            <ex><![CDATA[风之城]]></ex>
+
+                            <ex><![CDATA[多风城]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Windy Zero]]></key>
+
+            <value>
+
+                            <ex><![CDATA[零风园]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

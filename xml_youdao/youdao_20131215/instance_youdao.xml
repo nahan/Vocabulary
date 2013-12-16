@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[instance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[实例]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪnst(ə)ns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 实例；情况；建议]]></ex>
+
+                    <ex><![CDATA[vt. 举...为例]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Instance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实例]]></ex>
+
+                            <ex><![CDATA[例子]]></ex>
+
+                            <ex><![CDATA[实体]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[for instance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[例如]]></ex>
+
+                            <ex><![CDATA[比如]]></ex>
+
+                            <ex><![CDATA[举例来说]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Instance activity]]></key>
+
+            <value>
+
+                            <ex><![CDATA[实例活动]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[extra]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[额外的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ekstrə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 临时演员；号外；额外的事物；上等产品]]></ex>
+
+                    <ex><![CDATA[adj. 额外的，另外收费的；特大的]]></ex>
+
+                    <ex><![CDATA[adv. 特别地，非常；另外]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[extra]]></key>
+
+            <value>
+
+                            <ex><![CDATA[额外的]]></ex>
+
+                            <ex><![CDATA[号外]]></ex>
+
+                            <ex><![CDATA[特级]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[extra time]]></key>
+
+            <value>
+
+                            <ex><![CDATA[加时赛]]></ex>
+
+                            <ex><![CDATA[加时]]></ex>
+
+                            <ex><![CDATA[额外时间]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[EXTRA VIRGIN]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特级初榨]]></ex>
+
+                            <ex><![CDATA[特级初榨橄榄油]]></ex>
+
+                            <ex><![CDATA[特级橄榄油]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

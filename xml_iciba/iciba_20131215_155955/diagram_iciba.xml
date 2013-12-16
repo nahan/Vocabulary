@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>diagram</key>
+
+<ps>'daɪəɡræm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/81/5e/815efe344bbdcead2e7dc454c2770f97.mp3</pron>
+
+<ps>ˈdaɪəˌɡræm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d0/8c/d08cc3195cba7dd812ab0652a68bdeda.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>图表；图解；示意图；[数]线图；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>用图表示；图解；
+
+</acceptation>
+
+<sent><orig>
+
+The failure assessment diagram (FAD) method is very effective to the EGA of the pipelines.
+
+</orig>
+
+<trans>
+
+失效评定图(Failure Assessment Diagram,FAD)方法是进行管道ECA评估非常有效的方法，该方法是英国中央电力局(CEGB)首先提出的。
+
+</trans></sent>
+
+<sent><orig>
+
+Please provide an elementary diagram(installation diagram, arrangement diagram, wiring diagram).
+
+</orig>
+
+<trans>
+
+80请提供原理图（安装图，布置图，接线图）。
+
+</trans></sent>
+
+<sent><orig>
+
+The construction of this device is described in kinematic diagram ofmechanism, diagram and diagram respectively.
+
+</orig>
+
+<trans>
+
+以机构运动简图、拓扑图和装配图描述了该装置的结构。
+
+</trans></sent>
+
+<sent><orig>
+
+Draw zero, parts diagram with total assemble diagram, write a design calculation manual.
+
+</orig>
+
+<trans>
+
+绘制零、部件图和总装配图，编写设计计算说明书。
+
+</trans></sent>
+
+<sent><orig>
+
+Data Flow Diagram. A formalized diagram that shows how data moves through a program.
+
+</orig>
+
+<trans>
+
+数据流程图》——一个描述数据在程序之间流动的正式图表。
+
+</trans></sent>
+
+</dict>

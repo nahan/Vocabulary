@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[substantial]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[实质性的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[səb'stænʃ(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 本质；重要材料]]></ex>
+
+                    <ex><![CDATA[adj. 大量的；实质的；内容充实的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[substantial]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坚固的]]></ex>
+
+                            <ex><![CDATA[实质的]]></ex>
+
+                            <ex><![CDATA[大量的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[substantial connection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[密切关系]]></ex>
+
+                            <ex><![CDATA[实质联系]]></ex>
+
+                            <ex><![CDATA[香港有实质联系]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[substantial savings]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巨额储蓄]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[department]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[部门]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'pɑːtm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 部；部门；系；科；局]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Department]]></key>
+
+            <value>
+
+                            <ex><![CDATA[部门]]></ex>
+
+                            <ex><![CDATA[部]]></ex>
+
+                            <ex><![CDATA[系]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[department stores]]></key>
+
+            <value>
+
+                            <ex><![CDATA[百货公司]]></ex>
+
+                            <ex><![CDATA[百货商店]]></ex>
+
+                            <ex><![CDATA[百货店]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[production department]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生产部门]]></ex>
+
+                            <ex><![CDATA[生产部]]></ex>
+
+                            <ex><![CDATA[生产车间]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

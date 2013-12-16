@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pilot]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[飞行员]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['paɪlət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 飞行员；领航员]]></ex>
+
+                    <ex><![CDATA[adj. 试点的]]></ex>
+
+                    <ex><![CDATA[v. 驾驶；领航；试用]]></ex>
+
+                    <ex><![CDATA[n. (Pilot)人名；(意、印)皮洛特；(法)皮洛]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pilot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞行员]]></ex>
+
+                            <ex><![CDATA[驾驶员]]></ex>
+
+                            <ex><![CDATA[百乐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pilot whale]]></key>
+
+            <value>
+
+                            <ex><![CDATA[领航鲸]]></ex>
+
+                            <ex><![CDATA[巨头鲸]]></ex>
+
+                            <ex><![CDATA[导航鲸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pilot Ladder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[引航员软梯]]></ex>
+
+                            <ex><![CDATA[引水梯]]></ex>
+
+                            <ex><![CDATA[领航员梯]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[account]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[账户]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'kaʊnt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 账户；解释；账目，账单；理由]]></ex>
+
+                    <ex><![CDATA[vt. 认为；把…视为]]></ex>
+
+                    <ex><![CDATA[vi. 解释；导致；报账]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Account]]></key>
+
+            <value>
+
+                            <ex><![CDATA[帐户]]></ex>
+
+                            <ex><![CDATA[账户]]></ex>
+
+                            <ex><![CDATA[帐目]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[account number]]></key>
+
+            <value>
+
+                            <ex><![CDATA[帐目编号]]></ex>
+
+                            <ex><![CDATA[帐号]]></ex>
+
+                            <ex><![CDATA[会员帐号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Account Executive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[客户主任]]></ex>
+
+                            <ex><![CDATA[客户经理]]></ex>
+
+                            <ex><![CDATA[客户执行]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

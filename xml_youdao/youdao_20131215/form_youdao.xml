@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[form]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[形式]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fɔːm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 形式，形状；形态，外形；方式；表格]]></ex>
+
+                    <ex><![CDATA[vt. 构成，组成；排列，组织；产生，塑造]]></ex>
+
+                    <ex><![CDATA[vi. 形成，构成；排列]]></ex>
+
+                    <ex><![CDATA[n. (Form)人名；(英)福姆；(法、德)福尔姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Form]]></key>
+
+            <value>
+
+                            <ex><![CDATA[形式]]></ex>
+
+                            <ex><![CDATA[窗体]]></ex>
+
+                            <ex><![CDATA[表格]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sonata form]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奏鸣曲式]]></ex>
+
+                            <ex><![CDATA[奏鸣曲形式]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Differential form]]></key>
+
+            <value>
+
+                            <ex><![CDATA[微分形式]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

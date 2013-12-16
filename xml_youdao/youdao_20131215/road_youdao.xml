@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[road]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[路]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rəʊd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 公路，马路；道路；手段]]></ex>
+
+                    <ex><![CDATA[adj. （美）巡回的]]></ex>
+
+                    <ex><![CDATA[vt. （狗）沿臭迹追逐（猎物）]]></ex>
+
+                    <ex><![CDATA[n. (Road)人名；(英)罗德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Road]]></key>
+
+            <value>
+
+                            <ex><![CDATA[道路]]></ex>
+
+                            <ex><![CDATA[路]]></ex>
+
+                            <ex><![CDATA[公路]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Albany Road]]></key>
+
+            <value>
+
+                            <ex><![CDATA[雅宾利道]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cross road]]></key>
+
+            <value>
+
+                            <ex><![CDATA[十字路]]></ex>
+
+                            <ex><![CDATA[超越十年精选辑]]></ex>
+
+                            <ex><![CDATA[十字路口]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

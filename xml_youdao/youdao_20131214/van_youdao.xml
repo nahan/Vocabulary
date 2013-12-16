@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[van]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[范]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[væn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 先锋；厢式货车；增值网]]></ex>
+
+                    <ex><![CDATA[vt. 用车搬运]]></ex>
+
+                    <ex><![CDATA[n. (Van)人名；(老、泰、柬、缅)万]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Van]]></key>
+
+            <value>
+
+                            <ex><![CDATA[厢型车]]></ex>
+
+                            <ex><![CDATA[空]]></ex>
+
+                            <ex><![CDATA[增值网(Value Added Network)]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Van Helsing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[范海辛]]></ex>
+
+                            <ex><![CDATA[凡赫辛]]></ex>
+
+                            <ex><![CDATA[范·海辛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Van Halen]]></key>
+
+            <value>
+
+                            <ex><![CDATA[范·海伦]]></ex>
+
+                            <ex><![CDATA[范海伦]]></ex>
+
+                            <ex><![CDATA[范·海伦乐队]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[autumn]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[秋天]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɔːtəm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 秋天；成熟期；渐衰期，凋落期]]></ex>
+
+                    <ex><![CDATA[adj. 秋天的，秋季的]]></ex>
+
+                    <ex><![CDATA[n. (Autumn)人名；(英)奥特姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Autumn]]></key>
+
+            <value>
+
+                            <ex><![CDATA[秋季]]></ex>
+
+                            <ex><![CDATA[秋天]]></ex>
+
+                            <ex><![CDATA[秋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Late Autumn]]></key>
+
+            <value>
+
+                            <ex><![CDATA[晚秋]]></ex>
+
+                            <ex><![CDATA[深秋]]></ex>
+
+                            <ex><![CDATA[秋日和]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Autumn breeze]]></key>
+
+            <value>
+
+                            <ex><![CDATA[起风前的相遇]]></ex>
+
+                            <ex><![CDATA[秋风]]></ex>
+
+                            <ex><![CDATA[秋风吹过]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

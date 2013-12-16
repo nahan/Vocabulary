@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="church"> <hw highlight="yes">church</hw> <sound><wav>church01.wav</wav></sound> <pr>ˈtʃɚtʃ</pr> <fl>noun</fl> <in><il>plural</il> <if>church*es</if></in> <def><sn>1 a</sn> <sgram>count</sgram> <dt>:a building that is used for Christian religious services <vi>This is the oldest <it>church</it> in town.</vi> <vi>They would like to be married in a <it>church</it>.</vi> <un>often used before another noun <vi><it>church</it> bells/weddings/services</vi></un></dt> <sn>b</sn> <sgram>noncount</sgram> <dt>:religious services held in a church <vi>They <phrase>go to church</phrase> [=attend church services] every Sunday.</vi> <vi>I didn't see you <phrase>at/in church</phrase> last Sunday.</vi></dt> <sn>2</sn> <svr><vl>or</vl> <va>Church</va></svr> <sgram>count</sgram> <dt>:a particular Christian group <vi>He is a member of the Catholic/Baptist/Anglican <it>Church</it>.</vi> <vi>What <it>church</it> do you belong to?</vi></dt> <sn>3</sn> <sgram>noncount</sgram> <dt>:the Christian religion seen as an organization :the institution of the Christian religion <vi>the <it>church's</it> attitude toward divorce</vi> <vi>the separation of <it>church</it> and state</vi></dt></def></entry>
+
+	<entry id="Church of England"> <hw>Church of England</hw> <fl>noun</fl> <dro><dre>the Church of England</dre> <def><dt>:the official state church in England</dt></def></dro></entry>
+
+	<entry id="Orthodox Church"> <hw>Orthodox Church</hw> <fl>noun</fl> <dro><dre>the Orthodox Church</dre> <def><dt>:a branch of the Christian church that has members mainly in the area from eastern Europe to eastern Africa <vi><it>the</it> Eastern <it>Orthodox Church</it></vi> <vi><it>the</it> Russian/Greek/Ethiopian <it>Orthodox Church</it></vi></dt></def></dro></entry>
+
+</entry_list>

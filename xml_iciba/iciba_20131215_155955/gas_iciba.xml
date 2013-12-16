@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>gas</key>
+
+<ps>ɡæs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d9/08/d90805cf79fb638e7ca1de2b2cc54dad.mp3</pron>
+
+<ps>ɡæs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/fe/e7/fee74eac0728a1bb5ff7d4666f8c4a88.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>气体；[矿业] 瓦斯；汽油；毒气；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>加油；毒（死）；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>加油；放出气体；空谈；
+
+</acceptation>
+
+<pos>int.</pos>
+
+<acceptation>该死！（令人气愤的人应即被送毒气室处死）；
+
+</acceptation>
+
+<sent><orig>
+
+Papain as module enzyme was microencapsulated with ethocel in supercritical carbon dioxide gas anti-solvent (GAS) process.
+
+</orig>
+
+<trans>
+
+研究了以木瓜蛋白酶为芯材，乙基纤维素为膜材的超临界流体抗溶剂(GAS)法制备酶微胶囊过程。
+
+</trans></sent>
+
+<sent><orig>
+
+GAS is an open-source assembler on Linux.
+
+</orig>
+
+<trans>
+
+GAS 是 Linux 环境下开放源码的汇编器。
+
+</trans></sent>
+
+<sent><orig>
+
+GAS will produce the desired response in finite time receiving the client request.
+
+</orig>
+
+<trans>
+
+GAS对于用户任一请求操作发生后的有限时间内总有对应的响应发生。
+
+</trans></sent>
+
+<sent><orig>
+
+Special thanks to RAY, GAS, LHY and the teams help.
+
+</orig>
+
+<trans>
+
+另外特别鸣谢RAY,GAS,LHY和他们的团队鼎力支持帮忙。
+
+</trans></sent>
+
+<sent><orig>
+
+GAS possesses robust consistency.
+
+</orig>
+
+<trans>
+
+GAS具有鲁棒一致性。
+
+</trans></sent>
+
+</dict>

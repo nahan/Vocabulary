@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[yourself]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[你自己]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[jɔː'self; jʊə-; jə-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[pron. 你自己]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[yourself]]></key>
+
+            <value>
+
+                            <ex><![CDATA[你自己]]></ex>
+
+                            <ex><![CDATA[自我]]></ex>
+
+                            <ex><![CDATA[自杀]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lose Yourself]]></key>
+
+            <value>
+
+                            <ex><![CDATA[迷失自我]]></ex>
+
+                            <ex><![CDATA[豁出去]]></ex>
+
+                            <ex><![CDATA[迷失你自己]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[by yourself]]></key>
+
+            <value>
+
+                            <ex><![CDATA[你独自地]]></ex>
+
+                            <ex><![CDATA[你自己]]></ex>
+
+                            <ex><![CDATA[靠你自己]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

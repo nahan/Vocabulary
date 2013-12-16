@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hot]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[热]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɒt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 热的；辣的；热情的；激动的；紧迫的]]></ex>
+
+                    <ex><![CDATA[vt. 增加；给…加温]]></ex>
+
+                    <ex><![CDATA[adv. 热；紧迫地]]></ex>
+
+                    <ex><![CDATA[vi. 变热]]></ex>
+
+                    <ex><![CDATA[n. (Hot)人名；(塞)霍特；(法)奥特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Hot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[热]]></ex>
+
+                            <ex><![CDATA[惹火]]></ex>
+
+                            <ex><![CDATA[辣的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hot pot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[火锅]]></ex>
+
+                            <ex><![CDATA[暖锅]]></ex>
+
+                            <ex><![CDATA[热锅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hot spot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有过热点]]></ex>
+
+                            <ex><![CDATA[热点]]></ex>
+
+                            <ex><![CDATA[热区响应]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

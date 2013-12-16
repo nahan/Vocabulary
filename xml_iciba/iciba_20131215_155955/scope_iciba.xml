@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>scope</key>
+
+<ps>skəʊp</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/31/a1/31a1fd140be4bef2d11e121ec9a18a58.mp3</pron>
+
+<ps>skop</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/31/a1/31a1fd140be4bef2d11e121ec9a18a58.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>（处理、研究事务的）范围；眼界，见识；（活动或能力的）余地；广袤，地域；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>审视，仔细研究；
+
+</acceptation>
+
+<sent><orig>
+
+Most procedural languages have the concept of scope.
+
+</orig>
+
+<trans>
+
+大多数程序设计语言都提供了“作用域”(Scope)的概念。
+
+</trans></sent>
+
+<sent><orig>
+
+Timeboxes also prevent scope creep and they also force important trade-off decisions to be made.
+
+</orig>
+
+<trans>
+
+时间限制也能防止项目scope失控，还能迫使团队做出必要的取舍。
+
+</trans></sent>
+
+<sent><orig>
+
+Especially gifted students such as you (All he teaches is SCOPE classes).
+
+</orig>
+
+<trans>
+
+特别是面对你们这群孩子（他指的是scope天赋班），我更不能这样做！
+
+</trans></sent>
+
+<sent><orig>
+
+Develop Preliminary Project Scope Statement preliminary project scope statement that provides a high-level scope narrative.
+
+</orig>
+
+<trans>
+
+2制定项目初步范围说明书-制定项目初步范围说明书，概括地说明项目的范围。
+
+</trans></sent>
+
+<sent><orig>
+
+The data member is declared in class scope, but definition is performed at file scope.
+
+</orig>
+
+<trans>
+
+这个数据成员在类的作用域里面声明，但是要在文件作用域里面定义。
+
+</trans></sent>
+
+</dict>

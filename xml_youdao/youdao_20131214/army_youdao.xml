@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[army]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[军队]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɑːmɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 陆军，军队]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Army]]></key>
+
+            <value>
+
+                            <ex><![CDATA[陆军]]></ex>
+
+                            <ex><![CDATA[军队]]></ex>
+
+                            <ex><![CDATA[部队]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Regular army]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正规军]]></ex>
+
+                            <ex><![CDATA[常规陆军]]></ex>
+
+                            <ex><![CDATA[指志愿入伍者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[British Army]]></key>
+
+            <value>
+
+                            <ex><![CDATA[英国陆军]]></ex>
+
+                            <ex><![CDATA[英国军队]]></ex>
+
+                            <ex><![CDATA[中国人民解放军陆军]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

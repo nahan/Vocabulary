@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pen]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[笔]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pen]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 钢笔；作家；围栏]]></ex>
+
+                    <ex><![CDATA[vt. 写；关入栏中]]></ex>
+
+                    <ex><![CDATA[n. (Pen)人名；(法)庞；(俄、塞、英、意)佩恩；(柬)宾]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pen]]></key>
+
+            <value>
+
+                            <ex><![CDATA[钢笔]]></ex>
+
+                            <ex><![CDATA[聚萘二甲酸乙二醇酯]]></ex>
+
+                            <ex><![CDATA[笔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pen container]]></key>
+
+            <value>
+
+                            <ex><![CDATA[牲畜集装箱]]></ex>
+
+                            <ex><![CDATA[动物集装箱]]></ex>
+
+                            <ex><![CDATA[牲口集装箱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[light pen]]></key>
+
+            <value>
+
+                            <ex><![CDATA[光笔]]></ex>
+
+                            <ex><![CDATA[光]]></ex>
+
+                            <ex><![CDATA[灯笔]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

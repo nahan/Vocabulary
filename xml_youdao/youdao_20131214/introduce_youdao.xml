@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[introduce]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[介绍]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪntrə'djuːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 介绍；引进；提出；采用]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[introduce]]></key>
+
+            <value>
+
+                            <ex><![CDATA[介绍]]></ex>
+
+                            <ex><![CDATA[采用]]></ex>
+
+                            <ex><![CDATA[企业介绍]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Introduce Myself]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自我介绍]]></ex>
+
+                            <ex><![CDATA[介绍我自己]]></ex>
+
+                            <ex><![CDATA[介绍自己]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Introduce Assertion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[引入断言]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

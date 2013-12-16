@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[anticipate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[预测]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[æn'tɪsɪpeɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 预期，期望；占先，抢先；提前使用]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[anticipate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[预料]]></ex>
+
+                            <ex><![CDATA[预期]]></ex>
+
+                            <ex><![CDATA[期望]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Anticipate Problems]]></key>
+
+            <value>
+
+                            <ex><![CDATA[预见到问题]]></ex>
+
+                            <ex><![CDATA[预见问题]]></ex>
+
+                            <ex><![CDATA[预感到问题]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[confidently anticipate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[满怀信心地期望]]></ex>
+
+                            <ex><![CDATA[吸引力]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

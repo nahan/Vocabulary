@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="coffee"> <hw highlight="yes">cof*fee</hw> <sound><wav>coffee01.wav</wav></sound> <pr>ˈkɑ:fi</pr> <fl>noun</fl> <in><il>plural</il> <if>cof*fees</if></in> <def><sn>1</sn> <dt>:a dark brown drink made from ground coffee beans and boiled water <wsgram>noncount</wsgram> <vi>a cup of <it>coffee</it></vi> <vi>iced/decaffeinated <it>coffee</it></vi> <vi>I'll make/brew some <it>coffee</it>.</vi> <wsgram>count</wsgram> <vi>Would you like another <it>coffee</it>? [=another cup of coffee]</vi> <un>often used before another noun <vi>a <it>coffee</it> cup</vi> <vi><it>coffee</it> mugs</vi> <vi><it>coffee</it> ice cream [=ice cream that has the flavor of coffee]</vi></un></dt> <sn>2</sn> <sgram>noncount</sgram> <dt>:coffee beans <vi>I bought a pound of <it>coffee</it>.</vi></dt></def> <dro><dre>wake up and smell the coffee</dre> <dx>see <dxt>wake</dxt></dx></dro></entry>
+
+	<entry id="coffee bar"> <hw>coffee bar</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bars</if></in> <def><gram>count</gram> <dt>:a place where coffee and usually other drinks and refreshments are sold</dt></def></entry>
+
+	<entry id="coffee bean"> <hw>coffee bean</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ beans</if></in> <def><gram>count</gram> <dt>:the bean of a tropical tree or bush from which coffee is made</dt></def></entry>
+
+	<entry id="coffee break"> <hw>coffee break</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ breaks</if></in> <def><gram>count</gram> <dt>:a short period of time in which you stop working to rest and have coffee or some other refreshment</dt></def></entry>
+
+	<entry id="coffee cake"> <hw>coffee cake</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cakes</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a sweet, rich bread usually made with fruit, nuts, and spices and often eaten with coffee</dt></def></entry>
+
+	<entry id="coffee machine"> <hw>coffee machine</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ machines</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a machine that you can buy cups of coffee from</dt> <sn>2</sn> <ssl>Brit</ssl> <dt>:<sx>coffeemaker</sx></dt></def></entry>
+
+	<entry id="coffee shop"> <hw>coffee shop</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ shops</if></in> <def><gram>count</gram> <dt>:a small restaurant that serves coffee and other drinks as well as simple foods <vi>We bought a muffin at the hotel's <it>coffee shop</it>.</vi></dt></def></entry>
+
+	<entry id="coffee table"> <hw>coffee table</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ tables</if></in> <def><gram>count</gram> <dt>:a long, low table that is usually placed in front of a sofa in someone's home <dx>see picture at <dxt>living room</dxt></dx></dt></def></entry>
+
+	<entry id="coffee-table book"> <hw>coffee–table book</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ books</if></in> <def><gram>count</gram> <dt>:a large expensive book with many pictures that is typically placed on a table for people to look at in a casual way</dt></def></entry>
+
+	<entry id="Irish coffee"> <hw>Irish coffee</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -fees</if></in> <def><gram>count, noncount</gram> <dt>:a drink of hot coffee with sugar, whiskey, and usually whipped cream</dt></def></entry>
+
+</entry_list>

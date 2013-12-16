@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[attention]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[注意]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'tenʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 注意力；关心；立正！（口令）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Attention]]></key>
+
+            <value>
+
+                            <ex><![CDATA[注意]]></ex>
+
+                            <ex><![CDATA[注意力]]></ex>
+
+                            <ex><![CDATA[关注]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pay attention]]></key>
+
+            <value>
+
+                            <ex><![CDATA[注意]]></ex>
+
+                            <ex><![CDATA[注意对手]]></ex>
+
+                            <ex><![CDATA[关注]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[attention to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[的注意]]></ex>
+
+                            <ex><![CDATA[对]]></ex>
+
+                            <ex><![CDATA[注意]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>person</key>
+
+<ps>'pɜ:sn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/8b/0a/8b0a44048f58988b486bdd0d245b22a8.mp3</pron>
+
+<ps>'pɜ:rsn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8b/0a/8b0a44048f58988b486bdd0d245b22a8.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>人；（语法）人称；身体；容貌；
+
+</acceptation>
+
+<sent><orig>
+
+Implement a superclass Person. Make two classes, Student and Instructor, that inherit from Person.
+
+</orig>
+
+<trans>
+
+实现一个超类person,制作两个类studentinstructor,这两个类可以从超类继承。
+
+</trans></sent>
+
+<sent><orig>
+
+The word &quot;person&quot; is a countable noun.
+
+</orig>
+
+<trans>
+
+person这个词是个可数名词。
+
+</trans></sent>
+
+<sent><orig>
+
+Compare person, persons, people and peoples.
+
+</orig>
+
+<trans>
+
+试比较person、persons、people、peoples的用法。
+
+</trans></sent>
+
+<sent><orig>
+
+The words 'glad' and 'person' do not collocate.
+
+</orig>
+
+<trans>
+
+‘glad’和‘person’不能构成连语。
+
+</trans></sent>
+
+<sent><orig>
+
+Compared to other parts of the country, Person County's 39,000 residents are actually fortunate.
+
+</orig>
+
+<trans>
+
+和美国的其他地方比，Person县的39000位居民确实是幸运的。
+
+</trans></sent>
+
+</dict>

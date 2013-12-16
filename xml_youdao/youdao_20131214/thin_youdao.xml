@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[thin]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[薄]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[θɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 细小部分]]></ex>
+
+                    <ex><![CDATA[adj. 薄的；瘦的；稀薄的；微弱的]]></ex>
+
+                    <ex><![CDATA[vt. 使瘦；使淡；使稀疏]]></ex>
+
+                    <ex><![CDATA[vi. 变薄；变瘦；变淡]]></ex>
+
+                    <ex><![CDATA[adv. 稀疏地；微弱地]]></ex>
+
+                    <ex><![CDATA[n. (Thin)人名；(越)辰；(柬)廷]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[thin]]></key>
+
+            <value>
+
+                            <ex><![CDATA[薄的]]></ex>
+
+                            <ex><![CDATA[瘦的]]></ex>
+
+                            <ex><![CDATA[瘦身]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[thin pancake]]></key>
+
+            <value>
+
+                            <ex><![CDATA[薄饼]]></ex>
+
+                            <ex><![CDATA[荷叶饼]]></ex>
+
+                            <ex><![CDATA[烙饼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[thin section]]></key>
+
+            <value>
+
+                            <ex><![CDATA[薄片]]></ex>
+
+                            <ex><![CDATA[薄剖面]]></ex>
+
+                            <ex><![CDATA[薄切片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="actor"> <hw highlight="yes">ac*tor</hw> <sound><wav>actor001.wav</wav></sound> <pr>ˈæktɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>ac*tors</if></in> <def><gram>count</gram> <dt>:a person who acts in a play, movie, etc.</dt> <usage><it>Actor</it> is often used to refer specifically to a man or boy who acts. <vi>He's a talented <it>actor</it>, and his wife is a well-known actress.</vi> <it>Actor</it> can also refer to a woman or girl, and many women now prefer this use. <vi>His wife is also an <it>actor</it>.</vi> The plural form <it>actors</it> is used for groups that include both men and women. <vi>She and her husband are both talented <it>actors</it>.</vi></usage></def></entry>
+
+	<entry id="character actor"> <hw>character actor</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tors</if></in> <def><gram>count</gram> <dt>:an actor who is known for playing many different and unusual characters</dt></def></entry>
+
+</entry_list>

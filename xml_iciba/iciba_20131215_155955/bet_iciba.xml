@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>bet</key>
+
+<ps>bet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/e5/0c/e50c17e50405f9b35365281b65694704.mp3</pron>
+
+<ps>bet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/bb/e9/bbe991a1b594ed7d73b4a0f43c407745.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>打赌，赌博，赌注；被下赌注的对象；可能性；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>当然，的确；打赌(on,against,with)；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>赌博；与…打赌；下赌注；确信；
+
+</acceptation>
+
+<sent><orig>
+
+The passivated catalyst was tested or characterized by ONU autothermal apparatus,XRD,DTA and BET.
+
+</orig>
+
+<trans>
+
+对钝化后的催化剂进行了ONU自热测试和XRD、DTA、BET等表征。
+
+</trans></sent>
+
+<sent><orig>
+
+The catalysts were further characterized by XRD, BET, and UV-Vis DRS.
+
+</orig>
+
+<trans>
+
+用XRD、BET和紫外可见漫反射(UV-Vis DRS)等方法对这些催化剂进行了表征。
+
+</trans></sent>
+
+<sent><orig>
+
+By means of XRD, BET, BJH, TEM and EDS, we had tested the samples.
+
+</orig>
+
+<trans>
+
+通过XRD、BET、BJH、TEM和EDS等手段对样品进行测试分析。
+
+</trans></sent>
+
+<sent><orig>
+
+But BET surface area doesn't show any correlation with ink density.
+
+</orig>
+
+<trans>
+
+但是BET表面积与打印油墨密度没有体现相关性。
+
+</trans></sent>
+
+<sent><orig>
+
+The BET specific surface area reaches 477.7 m2? g-1 for NiO calcined at 523 K.
+
+</orig>
+
+<trans>
+
+结果表明，在523K下焙烧得到的氧化镍BET比表面达到477.7m~2·g~(-1)。
+
+</trans></sent>
+
+</dict>

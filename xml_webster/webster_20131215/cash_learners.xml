@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cash[1]"> <hw highlight="yes" hindex="1">cash</hw> <sound><wav>cash0001.wav</wav></sound> <pr>ˈkæʃ</pr> <fl>noun</fl> <def><gram>noncount</gram> <sn>1</sn> <dt>:money in the form of coins and bills <vi>The vending machine only accepts <it>cash</it>.</vi> <vi>The fine may be paid by check or in <it>cash</it>.</vi> <vi>He offered to pay <it>cash</it> for the truck.</vi> <un>often used before another noun <vi><it>cash</it> payments/prizes/sums</vi></un></dt> <sn>2</sn> <dt>:money along with other things (such as stocks) that can be quickly changed into money <vi>The company has $4 million in <it>cash</it>.</vi></dt></def></entry>
+
+	<entry id="cash[2]"> <hw hindex="2">cash</hw> <altpr>ˈkæʃ</altpr> <fl>verb</fl> <in><if>cash*es</if></in> <in><if>cashed</if></in> <in><if>cash*ing</if></in> <def><gram>+ obj</gram> <dt>:to give or get cash for (a check) <vi>The store wouldn't <it>cash</it> the check.</vi> <vi>He <it>cashed</it> his paycheck at the bank.</vi></dt></def> <dro><dre>cash in</dre> <gram>phrasal verb</gram> <def><sn>1</sn> <phrasev><pva>cash in (something)</pva> <pvl>or</pvl> <pva>cash (something) in</pva></phrasev> <dt>:to obtain money for (something that you own) <vi>She <it>cashed in</it> her stocks.</vi> <vi><it>cash in</it> an insurance policy</vi></dt> <sn>2 a</sn> <phrasev><pva>cash in on (something)</pva></phrasev> <dt>:to take advantage of something in order to make money <vi>The magazine is planning to <it>cash in on</it> the hype surrounding the celebrity's wedding by publishing exclusive photos of the ceremony.</vi> <vi>Carpenters <it>cashed in on</it> the construction boom.</vi> <vi>stores <it>cashing in on</it> Christmas</vi></dt> <sn>b</sn> <phrasev><pva>cash in</pva></phrasev> <dt>:to make money from something <vi>He is going to <it>cash in</it> big [=make a lot of money] when he sells his house at the beach.</vi></dt></def></dro></entry>
+
+	<entry id="cash-and-carry"> <hw>cash–and–car*ry</hw> <sound><wav>cash_a01.wav</wav></sound> <pr>ˌkæʃn̩ˈkeri</pr> <fl>noun</fl> <in><il>plural</il> <if>cash–and–car*ries</if></in> <def><gram>count</gram> <dt>:a store where businesses and other customers can pay cash for goods at low prices and take them away instead of having them delivered</dt></def> <uro><ure>cash–and–carry</ure> <fl>adjective</fl> <lb>always used before a noun</lb> <utxt><vi>items sold on a <it>cash-and-carry</it> basis</vi></utxt></uro></entry>
+
+	<entry id="cash bar"> <hw>cash bar</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bars</if></in> <def><gram>count</gram> <dt>:a place at a party where guests can buy drinks <vi>They had a <it>cash bar</it> at their wedding reception.</vi></dt></def></entry>
+
+	<entry id="cash card"> <hw>cash card</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cards</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a card that is used to get money from an ATM :an ATM card <dx>compare <dxt>bank card</dxt></dx></dt></def></entry>
+
+	<entry id="cash cow"> <hw>cash cow</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cows</if></in> <def><gram>count</gram> <dt>:someone or something that makes a lot of money for a business, organization, etc. <vi>The football team was a <it>cash cow</it> for the university.</vi> <vi>The movie studio saw the actress as a <it>cash cow</it>.</vi></dt></def></entry>
+
+	<entry id="cash crop"> <hw>cash crop</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ crops</if></in> <def><gram>count</gram> <dt>:a crop (such as tobacco or cotton) that is grown to be sold rather than for use by the farmer</dt></def></entry>
+
+	<entry id="cash desk"> <hw>cash desk</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ desks</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a checkout counter in a store :the place in a store where you pay for the things you are buying</dt></def></entry>
+
+	<entry id="cash dispenser"> <hw>cash dispenser</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>atm</sx></dt></def></entry>
+
+	<entry id="cash flow"> <hw>cash flow</hw> <fl>noun</fl> <def><dt>:the movement of money in and out of a business <wsgram>singular</wsgram> <vi>We were able to maintain a steady <it>cash flow</it>.</vi> <wsgram>noncount</wsgram> <vi>The company is looking at new ways to generate <it>cash flow</it>.</vi></dt></def></entry>
+
+</entry_list>

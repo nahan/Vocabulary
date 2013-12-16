@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[borrow]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[借]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɒrəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 借；借用]]></ex>
+
+                    <ex><![CDATA[vi. 借；借用；从其他语言中引入]]></ex>
+
+                    <ex><![CDATA[n. (Borrow)人名；(英)博罗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[borrow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[借入]]></ex>
+
+                            <ex><![CDATA[借]]></ex>
+
+                            <ex><![CDATA[借用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[borrow trouble]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自寻烦恼]]></ex>
+
+                            <ex><![CDATA[自找麻烦]]></ex>
+
+                            <ex><![CDATA[杞人忧天]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[coal borrow]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手推煤车]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

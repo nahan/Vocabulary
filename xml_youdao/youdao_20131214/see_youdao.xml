@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[see]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[看到]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[siː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 看；看见；领会]]></ex>
+
+                    <ex><![CDATA[vt. 看见；理解；领会]]></ex>
+
+                    <ex><![CDATA[n. (See)人名；(英)西伊；(柬)塞；(德)泽]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[see]]></key>
+
+            <value>
+
+                            <ex><![CDATA[看见]]></ex>
+
+                            <ex><![CDATA[看出]]></ex>
+
+                            <ex><![CDATA[看看]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[see through]]></key>
+
+            <value>
+
+                            <ex><![CDATA[看透]]></ex>
+
+                            <ex><![CDATA[看穿]]></ex>
+
+                            <ex><![CDATA[干完]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Holy See]]></key>
+
+            <value>
+
+                            <ex><![CDATA[圣座]]></ex>
+
+                            <ex><![CDATA[教廷]]></ex>
+
+                            <ex><![CDATA[罗马教廷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

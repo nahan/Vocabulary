@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pig]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[猪]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɪg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 猪；猪肉；警察]]></ex>
+
+                    <ex><![CDATA[vi. 生小猪；像猪一样过活]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pig]]></key>
+
+            <value>
+
+                            <ex><![CDATA[猪属]]></ex>
+
+                            <ex><![CDATA[小猪]]></ex>
+
+                            <ex><![CDATA[猪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Guinea pig]]></key>
+
+            <value>
+
+                            <ex><![CDATA[豚鼠]]></ex>
+
+                            <ex><![CDATA[天竺鼠]]></ex>
+
+                            <ex><![CDATA[荷兰猪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Super Pig]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞天少女猪]]></ex>
+
+                            <ex><![CDATA[超级小猪猪救女友]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

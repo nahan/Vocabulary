@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[contact]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[联系]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒntækt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 接触，联系]]></ex>
+
+                    <ex><![CDATA[vt. 使接触，联系]]></ex>
+
+                    <ex><![CDATA[vi. 使接触，联系]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Contact]]></key>
+
+            <value>
+
+                            <ex><![CDATA[联系]]></ex>
+
+                            <ex><![CDATA[联系我们]]></ex>
+
+                            <ex><![CDATA[联系人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Contact Resistance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[接触电阻]]></ex>
+
+                            <ex><![CDATA[接触阻抗]]></ex>
+
+                            <ex><![CDATA[接触电阻试验]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Contact process]]></key>
+
+            <value>
+
+                            <ex><![CDATA[接触法]]></ex>
+
+                            <ex><![CDATA[接触过程]]></ex>
+
+                            <ex><![CDATA[接触工艺]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

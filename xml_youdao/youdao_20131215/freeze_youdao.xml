@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[freeze]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[冻结]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[friːz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 冻结；凝固]]></ex>
+
+                    <ex><![CDATA[vt. 使…冻住；使…结冰]]></ex>
+
+                    <ex><![CDATA[vi. 冻结；冷冻；僵硬]]></ex>
+
+                    <ex><![CDATA[n. (Freeze)人名；(英)弗里兹]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Freeze]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冻结]]></ex>
+
+                            <ex><![CDATA[冰冻]]></ex>
+
+                            <ex><![CDATA[结冰]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Deep Freeze]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冰点还原精灵]]></ex>
+
+                            <ex><![CDATA[冰点还原]]></ex>
+
+                            <ex><![CDATA[深度冻结]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Freeze Transformations]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冻结变形控制]]></ex>
+
+                            <ex><![CDATA[冻结变换]]></ex>
+
+                            <ex><![CDATA[变换归零]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

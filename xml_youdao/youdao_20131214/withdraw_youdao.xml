@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[withdraw]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[撤回]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɪð'drɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 撤退；收回；撤消；拉开]]></ex>
+
+                    <ex><![CDATA[vi. 撤退；离开]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[withdraw]]></key>
+
+            <value>
+
+                            <ex><![CDATA[收回]]></ex>
+
+                            <ex><![CDATA[撤回]]></ex>
+
+                            <ex><![CDATA[撤销]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Withdraw money]]></key>
+
+            <value>
+
+                            <ex><![CDATA[取钱]]></ex>
+
+                            <ex><![CDATA[提款]]></ex>
+
+                            <ex><![CDATA[提钱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[withdraw deposit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[提款]]></ex>
+
+                            <ex><![CDATA[提现]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

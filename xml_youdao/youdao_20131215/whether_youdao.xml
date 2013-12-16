@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[whether]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[是否]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['weðə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 是否；不论]]></ex>
+
+                    <ex><![CDATA[pron. 两个中的哪一个]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[whether]]></key>
+
+            <value>
+
+                            <ex><![CDATA[是否]]></ex>
+
+                            <ex><![CDATA[有无]]></ex>
+
+                            <ex><![CDATA[不论]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[whether if]]></key>
+
+            <value>
+
+                            <ex><![CDATA[是否]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[discussing whether]]></key>
+
+            <value>
+
+                            <ex><![CDATA[讨论是否]]></ex>
+
+                            <ex><![CDATA[在讨论是否]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

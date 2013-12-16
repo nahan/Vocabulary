@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>member</key>
+
+<ps>ˈmembə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/55/71/557193fc5e316e8ad70e9c38e23a64f4.mp3</pron>
+
+<ps>ˈmɛmbɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/aa/08/aa08769cdcb26674c6706093503ff0a3.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>成员；分子；身体部位（尤指胳膊或腿）；构件，部件；
+
+</acceptation>
+
+<sent><orig>
+
+Returns the simple name of the underlying member or constructor represented by this Member.
+
+</orig>
+
+<trans>
+
+返回该Member代表的成员或构造函数的简单名称。
+
+</trans></sent>
+
+<sent><orig>
+
+An owner is one particular member of a Plone site.
+
+</orig>
+
+<trans>
+
+所有者(anowner)是Plone站点中特殊的成员(member)。
+
+</trans></sent>
+
+<sent><orig>
+
+There are three classes of membership: corporate member, fellow member, and investor associate member.
+
+</orig>
+
+<trans>
+
+会员分三大类别：公司会员、专业会员、及投资者会员。
+
+</trans></sent>
+
+<sent><orig>
+
+Plain the member that bright ginseng association has individual member and round experience 1548.
+
+</orig>
+
+<trans>
+
+川明参协会有个人会员和团体会员1548名。
+
+</trans></sent>
+
+<sent><orig>
+
+The committee elected its first Asian member in 1908 and its first African member in 1910.
+
+</orig>
+
+<trans>
+
+委员会选举产生了第一个亚洲成员在1908年和其第一次非洲成员国于1910年。
+
+</trans></sent>
+
+</dict>

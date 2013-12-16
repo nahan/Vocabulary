@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wave]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[波]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[weɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 波动；波浪；高潮；挥手示意；卷曲]]></ex>
+
+                    <ex><![CDATA[vt. 卷（烫）发；向…挥手示意；使成波浪形]]></ex>
+
+                    <ex><![CDATA[vi. 波动；起伏；挥手示意；摇动；呈波形]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Wave]]></key>
+
+            <value>
+
+                            <ex><![CDATA[波浪]]></ex>
+
+                            <ex><![CDATA[海浪牌]]></ex>
+
+                            <ex><![CDATA[挥手]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Heat wave]]></key>
+
+            <value>
+
+                            <ex><![CDATA[热浪]]></ex>
+
+                            <ex><![CDATA[热波]]></ex>
+
+                            <ex><![CDATA[洛城大暴动]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Wave function]]></key>
+
+            <value>
+
+                            <ex><![CDATA[波函数]]></ex>
+
+                            <ex><![CDATA[波动函数]]></ex>
+
+                            <ex><![CDATA[波函數]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

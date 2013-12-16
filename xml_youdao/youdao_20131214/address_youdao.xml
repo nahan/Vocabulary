@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[address]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[地址]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'dres]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 地址；演讲；致辞；说话的技巧；称呼]]></ex>
+
+                    <ex><![CDATA[vt. 演说；从事；忙于；写姓名地址；向…致辞；与…说话；提出；处]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[address]]></key>
+
+            <value>
+
+                            <ex><![CDATA[地址]]></ex>
+
+                            <ex><![CDATA[联系地址]]></ex>
+
+                            <ex><![CDATA[住址]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Physical address]]></key>
+
+            <value>
+
+                            <ex><![CDATA[物理地址]]></ex>
+
+                            <ex><![CDATA[网卡物理地址]]></ex>
+
+                            <ex><![CDATA[实体位址]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[permanent address]]></key>
+
+            <value>
+
+                            <ex><![CDATA[永久地址]]></ex>
+
+                            <ex><![CDATA[永久住址]]></ex>
+
+                            <ex><![CDATA[永久通信地址]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

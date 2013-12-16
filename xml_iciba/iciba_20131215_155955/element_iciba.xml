@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>element</key>
+
+<ps>'elɪmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/48/63/48632fc33b6e89bff1cf1e8dceb16362.mp3</pron>
+
+<ps>ˈɛləmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8e/2d/8e2dcfd7e7e24b1ca76c1193f645902b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>[化]元素；要素；原理；[电]电阻丝；
+
+</acceptation>
+
+<sent><orig>
+
+The word &amp;quot;element&amp;quot; contains five different types of character.
+
+</orig>
+
+<trans>
+
+单词“element”包含五个不同的字母。
+
+</trans></sent>
+
+<sent><orig>
+
+This program includes soil element, reinforcement element, Goodman element and pile element etc.
+
+</orig>
+
+<trans>
+
+该程序包括了土体单元、筋体单元、触面单元和桩体单元。
+
+</trans></sent>
+
+<sent><orig>
+
+The element &gt; element is used to create an element node in the output document.
+
+</orig>
+
+<trans>
+
+元素的作用是：在输出文档中创建一个元素节点。
+
+</trans></sent>
+
+<sent><orig>
+
+The xsl: apply element applies a template to the current element or current element's child nodes.
+
+</orig>
+
+<trans>
+
+元素的作用是把指定的模板应用到当前元素或当前元素的子节点上。
+
+</trans></sent>
+
+<sent><orig>
+
+The behavior of tax avoidance consists of subject element, behavior element and effect element.
+
+</orig>
+
+<trans>
+
+避税行为由主观要件、行为要件和效果要件三要素构成。
+
+</trans></sent>
+
+</dict>

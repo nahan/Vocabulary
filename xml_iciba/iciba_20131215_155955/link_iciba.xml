@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>link</key>
+
+<ps>lɪŋk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/5f/38/5f38bf145e1e8f4ce58e1c2baa00ad59.mp3</pron>
+
+<ps>lɪŋk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/2a/30/2a304a1348456ccd2234cd71a81bd338.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>环，节；[计算机]链接；关联，关系；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>连结；挽住，勾住；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>用环连接；联系在一起；
+
+</acceptation>
+
+<sent><orig>
+
+The link form is not limited to setting up SS7 links.
+
+</orig>
+
+<trans>
+
+link 表建立 SS7 链路是不受限的。
+
+</trans></sent>
+
+<sent><orig>
+
+Only the first screen of the link form is used to specify SS7 links.
+
+</orig>
+
+<trans>
+
+只使用 link 表的第一个屏幕指定 SS7 链路。
+
+</trans></sent>
+
+<sent><orig>
+
+Click on the Link hyperlink in the Actions description.
+
+</orig>
+
+<trans>
+
+点击“编辑操作描述”中的“link”超链接。
+
+</trans></sent>
+
+<sent><orig>
+
+LINK expects various text files as additional input.
+
+</orig>
+
+<trans>
+
+LINK需要各种文本文件作为附加输入。
+
+</trans></sent>
+
+<sent><orig>
+
+D-LINK routers only four of 100 Ocean, with the most convenient and simple routers.
+
+</orig>
+
+<trans>
+
+D-LINK路由器4口的才100大洋，用路由器最方便简单。
+
+</trans></sent>
+
+</dict>

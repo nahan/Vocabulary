@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[yard]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[院子里]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[jɑːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 院子；码（英制中丈量长度单位，1码=3英尺）；庭院；帆桁]]></ex>
+
+                    <ex><![CDATA[vt. 把…关进或围在畜栏里]]></ex>
+
+                    <ex><![CDATA[n. (Yard)人名；(英)亚德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Yard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[码]]></ex>
+
+                            <ex><![CDATA[院子]]></ex>
+
+                            <ex><![CDATA[庭院]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[goods yard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[货场]]></ex>
+
+                            <ex><![CDATA[堆货场]]></ex>
+
+                            <ex><![CDATA[车站]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cubic Yard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[立方码]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

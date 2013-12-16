@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>security</key>
+
+<ps>sɪ'kjʊərətɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/01/46/01466c014c2d504b89e7e9acf8aab796.mp3</pron>
+
+<ps>sɪˈkjʊrɪti/sə'kjurətɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e9/1e/e91e6348157868de9dd8b25c81aebfb9.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>安全；保证，担保；保护，防护；有价证券；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>安全的，保安的，保密的；
+
+</acceptation>
+
+<sent><orig>
+
+WS-Security accomplishes end-to-end security.
+
+</orig>
+
+<trans>
+
+WS-Security安全规范解决了端到端的安全性。
+
+</trans></sent>
+
+<sent><orig>
+
+The next step is to think about roles and security for this credit card bill.
+
+</orig>
+
+<trans>
+
+下一步要考虑这个信用卡账单中的角色(roles)和安全(security)。
+
+</trans></sent>
+
+<sent><orig>
+
+Secondly,it introduces XML Encryption,XML Signature,WS-Security and WS-License specifications.
+
+</orig>
+
+<trans>
+
+然后介绍XML Encryption和XML Signature技术，以及WS-Security和WS-License规范。
+
+</trans></sent>
+
+<sent><orig>
+
+With the DSF(Device Security Framework) Infrastructure and SDK, applications can now be made &quot;Device-Aware&quot;.
+
+</orig>
+
+<trans>
+
+设备端安全架构(Device Security Framework)简称DSF,是为开发有安全需要的应用程序提供开发类库和安全架构。
+
+</trans></sent>
+
+<sent><orig>
+
+This system include physical security, network security, system security, application security, data security and security administration.
+
+</orig>
+
+<trans>
+
+该体系应包括：物理安全、网络安全、系统安全、应用安全、数据安全和安全管理等。
+
+</trans></sent>
+
+</dict>

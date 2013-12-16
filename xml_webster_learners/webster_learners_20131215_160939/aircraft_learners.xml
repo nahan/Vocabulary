@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="aircraft"> <hw>air*craft</hw> <sound><wav>aircra01.wav</wav></sound> <pr>ˈeɚˌkræft, <it>Brit</it> ˈɛəˌkrɑ:ft</pr> <fl>noun</fl> <in><il>plural</il> <if>aircraft</if></in> <def><gram>count</gram> <dt>:a machine (such as an airplane or a helicopter) that flies through the air <vi>a new military <it>aircraft</it></vi> <vi>a company that manufactures <it>aircraft</it></vi> <un>often used before another noun <vi>an <it>aircraft</it> engine</vi> <vi><it>aircraft</it> parts</vi></un></dt></def></entry>
+
+	<entry id="aircraft carrier"> <hw>aircraft carrier</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a military ship that has a large deck where aircraft take off and land</dt></def></entry>
+
+</entry_list>

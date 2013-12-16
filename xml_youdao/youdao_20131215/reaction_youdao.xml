@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[reaction]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[反应]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'ækʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 反应，感应；反动，复古；反作用]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Reaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[反应]]></ex>
+
+                            <ex><![CDATA[反作用]]></ex>
+
+                            <ex><![CDATA[反作用力]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[chemical reaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[化学反应]]></ex>
+
+                            <ex><![CDATA[化学作用]]></ex>
+
+                            <ex><![CDATA[化学反映]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Reversible reaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可逆反应]]></ex>
+
+                            <ex><![CDATA[可逆反映]]></ex>
+
+                            <ex><![CDATA[可逆反响]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

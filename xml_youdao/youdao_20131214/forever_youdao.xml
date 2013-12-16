@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[forever]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[永远]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fə'revə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 永远；不断地；常常]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Forever]]></key>
+
+            <value>
+
+                            <ex><![CDATA[永远]]></ex>
+
+                            <ex><![CDATA[永恒]]></ex>
+
+                            <ex><![CDATA[直到永远]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Forever Young]]></key>
+
+            <value>
+
+                            <ex><![CDATA[永远年轻]]></ex>
+
+                            <ex><![CDATA[童声版]]></ex>
+
+                            <ex><![CDATA[摇滚童话]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dragons Forever]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞龙猛将]]></ex>
+
+                            <ex><![CDATA[年【飞龙猛将]]></ex>
+
+                            <ex><![CDATA[飞龙虎将]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

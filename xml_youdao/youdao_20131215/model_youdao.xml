@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[model]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[模型]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɒdl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 模型；典型；模范；模特儿；样式]]></ex>
+
+                    <ex><![CDATA[adj. 模范的；作模型用的]]></ex>
+
+                    <ex><![CDATA[vt. 模拟；塑造；模仿]]></ex>
+
+                    <ex><![CDATA[vi. 做模型；做模特儿]]></ex>
+
+                    <ex><![CDATA[n. (Model)人名；(德、俄、英)莫德尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Model]]></key>
+
+            <value>
+
+                            <ex><![CDATA[模型]]></ex>
+
+                            <ex><![CDATA[型号]]></ex>
+
+                            <ex><![CDATA[型]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Waterfall Model]]></key>
+
+            <value>
+
+                            <ex><![CDATA[瀑布模型]]></ex>
+
+                            <ex><![CDATA[瀑布模式]]></ex>
+
+                            <ex><![CDATA[高山流水模子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Engine Model]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发动机型号]]></ex>
+
+                            <ex><![CDATA[投影光机型号]]></ex>
+
+                            <ex><![CDATA[动力型号]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

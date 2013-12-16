@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[舞蹈]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɑːns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 舞蹈；舞会；舞曲]]></ex>
+
+                    <ex><![CDATA[adj. 舞蹈的；用于跳舞的]]></ex>
+
+                    <ex><![CDATA[vt. 跳舞；使跳跃]]></ex>
+
+                    <ex><![CDATA[vi. 跳舞；跳跃；飘扬]]></ex>
+
+                    <ex><![CDATA[n. (Dance)人名；(英)丹斯；(法)当斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Dance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[舞蹈]]></ex>
+
+                            <ex><![CDATA[跳舞]]></ex>
+
+                            <ex><![CDATA[舞曲]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Latin dance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拉丁舞]]></ex>
+
+                            <ex><![CDATA[风情拉丁]]></ex>
+
+                            <ex><![CDATA[全慧彬的跳舞讲授]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Just Dance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[舞力全开]]></ex>
+
+                            <ex><![CDATA[舞梦成真]]></ex>
+
+                            <ex><![CDATA[跳舞啦]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[branch]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[分支]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[brɑːn(t)ʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 树枝，分枝；分部；支流]]></ex>
+
+                    <ex><![CDATA[vt. 分支；出现分歧]]></ex>
+
+                    <ex><![CDATA[vi. 分支；出现分歧]]></ex>
+
+                    <ex><![CDATA[n. (Branch)人名；(英)布兰奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Branch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[分公司]]></ex>
+
+                            <ex><![CDATA[分支]]></ex>
+
+                            <ex><![CDATA[树枝]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bantu Branch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有一大群班图语族]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Special Branch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[政治部]]></ex>
+
+                            <ex><![CDATA[政治保安处]]></ex>
+
+                            <ex><![CDATA[特别支队]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shortly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不久]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʃɔːtlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 立刻；简短地；唐突地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shortly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[立刻]]></ex>
+
+                            <ex><![CDATA[不久]]></ex>
+
+                            <ex><![CDATA[很快]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[shortly before]]></key>
+
+            <value>
+
+                            <ex><![CDATA[前不久]]></ex>
+
+                            <ex><![CDATA[在]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Summer shortly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放暑假不久]]></ex>
+
+                            <ex><![CDATA[夏季短期内]]></ex>
+
+                            <ex><![CDATA[不久夏季]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

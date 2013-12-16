@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dress]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[衣服]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dres]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 连衣裙；女装]]></ex>
+
+                    <ex><![CDATA[vt. 给…穿衣]]></ex>
+
+                    <ex><![CDATA[vi. 穿衣]]></ex>
+
+                    <ex><![CDATA[n. (Dress)人名；(法、德、西)德雷斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Dress]]></key>
+
+            <value>
+
+                            <ex><![CDATA[连衣裙]]></ex>
+
+                            <ex><![CDATA[裙装]]></ex>
+
+                            <ex><![CDATA[女服]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[evening dress]]></key>
+
+            <value>
+
+                            <ex><![CDATA[晚礼服]]></ex>
+
+                            <ex><![CDATA[夜礼服]]></ex>
+
+                            <ex><![CDATA[燕尾服]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[BACKLESS DRESS]]></key>
+
+            <value>
+
+                            <ex><![CDATA[露背装]]></ex>
+
+                            <ex><![CDATA[露背裙]]></ex>
+
+                            <ex><![CDATA[露违装]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

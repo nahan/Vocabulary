@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[jam]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[果酱]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dʒæm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 果酱；拥挤；困境；扣篮]]></ex>
+
+                    <ex><![CDATA[vt. 使堵塞；挤进，使塞满；混杂；压碎]]></ex>
+
+                    <ex><![CDATA[vi. 堵塞；轧住]]></ex>
+
+                    <ex><![CDATA[n. (Jam)人名；(伊朗、巴基)贾姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Jam]]></key>
+
+            <value>
+
+                            <ex><![CDATA[果酱]]></ex>
+
+                            <ex><![CDATA[拥挤]]></ex>
+
+                            <ex><![CDATA[困境]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Space Jam]]></key>
+
+            <value>
+
+                            <ex><![CDATA[空中大灌篮]]></ex>
+
+                            <ex><![CDATA[空中大掼篮]]></ex>
+
+                            <ex><![CDATA[太空大灌篮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mahmoud Jam]]></key>
+
+            <value>
+
+                            <ex><![CDATA[马哈茂德·贾姆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

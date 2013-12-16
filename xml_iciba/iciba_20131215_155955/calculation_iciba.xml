@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>calculation</key>
+
+<ps>ˌkælkjuˈleɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/77/9b/779bcefc83c48b8e3ba8a2a08c3f3489.mp3</pron>
+
+<ps>ˌkælkjəˈleʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/91/51/91519191f2f6954d360d2e4d1b54590c.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>计算，盘算；估计；计算的结果；深思熟虑，慎重的计划；
+
+</acceptation>
+
+<sent><orig>
+
+The type and number of grid in numerical calculation has certain effect on the calculation.
+
+</orig>
+
+<trans>
+
+数值计算的网格类型、网格数对计算有一定影响。
+
+</trans></sent>
+
+<sent><orig>
+
+The monitoring and the result of calculation are in agreement, so the calculation model is reasonable.
+
+</orig>
+
+<trans>
+
+现场监测数据和数值分析结果基本一致，表明采用的计算模型是合理的。
+
+</trans></sent>
+
+<sent><orig>
+
+Introduce multistage calculation program of PRO-II distillation is adopted for the simulation calculation of batch distillation.
+
+</orig>
+
+<trans>
+
+介绍应用PRO-II精馏多级计算程序进行间歇精馏的模拟计算。
+
+</trans></sent>
+
+<sent><orig>
+
+The mechanics calculation of electrical wire is the most important calculation on HV overhead transmission lines.
+
+</orig>
+
+<trans>
+
+电线力学计算是高压架空输电线路力学计算中最重要的计算。
+
+</trans></sent>
+
+<sent><orig>
+
+Represents the friction calculation chart of the duct for graphic calculation during project design.
+
+</orig>
+
+<trans>
+
+给出了柔性风管完全展开时的阻力计算图，可供工程设计时使用。
+
+</trans></sent>
+
+</dict>

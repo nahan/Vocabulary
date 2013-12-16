@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[popular]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[受欢迎的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pɒpjʊlə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 流行的，通俗的；受欢迎的；大众的；普及的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Popular]]></key>
+
+            <value>
+
+                            <ex><![CDATA[流行]]></ex>
+
+                            <ex><![CDATA[受欢迎的]]></ex>
+
+                            <ex><![CDATA[有销路的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Popular sovereignty]]></key>
+
+            <value>
+
+                            <ex><![CDATA[人民主权论]]></ex>
+
+                            <ex><![CDATA[人民主权]]></ex>
+
+                            <ex><![CDATA[主权在民]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Popular element]]></key>
+
+            <value>
+
+                            <ex><![CDATA[流行元素]]></ex>
+
+                            <ex><![CDATA[盛行元素]]></ex>
+
+                            <ex><![CDATA[风行元素]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

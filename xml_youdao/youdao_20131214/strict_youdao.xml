@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[strict]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[严格的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[strɪkt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 严格的；绝对的；精确的；详细的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[strict]]></key>
+
+            <value>
+
+                            <ex><![CDATA[严格的]]></ex>
+
+                            <ex><![CDATA[严厉的]]></ex>
+
+                            <ex><![CDATA[严密的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Strict liability]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无过失责任主义]]></ex>
+
+                            <ex><![CDATA[严格责任]]></ex>
+
+                            <ex><![CDATA[严格责任赔偿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[strict isolation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[严密隔离]]></ex>
+
+                            <ex><![CDATA[紧密隔离]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

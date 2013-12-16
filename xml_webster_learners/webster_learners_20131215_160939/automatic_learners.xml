@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="automatic[1]"> <hw highlight="yes" hindex="1">au*to*mat*ic</hw> <sound><wav>automa06.wav</wav></sound> <pr>ˌɑ:təˈmætɪk</pr> <fl>adjective</fl> <def><sn>1</sn> <ssl>of a machine or device</ssl> <dt>:having controls that allow something to work or happen without being directly controlled by a person <vi>an <it>automatic</it> door [=a door that opens without being pushed]</vi> <vi>an <it>automatic</it> coffeemaker [=a coffeemaker that can be programmed to start and shut off by itself]</vi> <vi>I can't drive her car because it has a manual transmission instead of an <phrase>automatic transmission</phrase>. [=a system that changes gears at different speeds without direct control by the driver]</vi></dt> <sn>2</sn> <ssl>of a gun</ssl> <dt>:shooting many bullets very quickly when the trigger is pulled <vi>an <it>automatic</it> machine gun</vi> <vi>an <it>automatic</it> rifle/weapon</vi> <dx>compare <dxt>semiautomatic</dxt></dx></dt> <sn>3</sn> <sgram>more au*to*mat*ic; most au*to*mat*ic</sgram> <dt>:happening or done without deliberate thought or effort <vi>Without thinking, he gave an <it>automatic</it> reply.</vi> <vi>She always has an <it>automatic</it> smile for everyone.</vi></dt> <sn>4</sn> <dt>:always happening because of a rule, law, previous agreement, etc. <vi>He had to pay a fine and serve an <it>automatic</it> 3-game suspension.</vi></dt></def> <uro><ure>au*to*mat*i*cal*ly</ure> <sound><wav>automa07.wav</wav></sound> <pr>ˌɑ:təˈmætɪkli</pr> <fl>adverb</fl> <utxt><vi>The garage doors open <it>automatically</it>.</vi> <vi>The fee will be <it>automatically</it> added to the bill.</vi> <vi>Each individual winner <it>automatically</it> qualifies for the grand prize, which will be drawn at the end of the month.</vi> <vi>She has her pay check <it>automatically</it> deposited.</vi></utxt></uro></entry>
+
+	<entry id="automatic[2]"> <hw hindex="2">automatic</hw> <altpr>ˌɑ:təˈmætɪk</altpr> <fl>noun</fl> <in><il>plural</il> <if>automatics</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a gun that shoots many bullets very quickly :an automatic weapon</dt> <sn>2</sn> <dt>:a vehicle that changes gears by itself at different speeds :a car with automatic transmission <vi>Will your next car be a manual or an <it>automatic</it>?</vi></dt></def></entry>
+
+	<entry id="automatic pilot"> <hw>automatic pilot</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -lots</if></in> <def><gram>count, noncount</gram> <dt>:<sx>autopilot</sx></dt></def></entry>
+
+	<entry id="automatic teller"> <hw>automatic teller</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:<sx>atm</sx></dt></def></entry>
+
+	<entry id="automatic teller machine"> <hw>automatic teller machine</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -chines</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:<sx>atm</sx></dt></def></entry>
+
+</entry_list>

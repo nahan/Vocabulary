@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[old]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[老]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[əʊld]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 古时]]></ex>
+
+                    <ex><![CDATA[adj. 陈旧的，古老的；年老的]]></ex>
+
+                    <ex><![CDATA[n. (Old)人名；(英)奥尔德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[old]]></key>
+
+            <value>
+
+                            <ex><![CDATA[旧的]]></ex>
+
+                            <ex><![CDATA[老牌]]></ex>
+
+                            <ex><![CDATA[老的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Old age]]></key>
+
+            <value>
+
+                            <ex><![CDATA[老年]]></ex>
+
+                            <ex><![CDATA[晚年]]></ex>
+
+                            <ex><![CDATA[老年期]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Old Testament]]></key>
+
+            <value>
+
+                            <ex><![CDATA[旧约圣经]]></ex>
+
+                            <ex><![CDATA[旧约全书]]></ex>
+
+                            <ex><![CDATA[旧约]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

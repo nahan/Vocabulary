@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[jumper]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[跳投]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dʒʌmpə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 跳高运动员；跳跃者；工作服；妇女穿的套头外衣]]></ex>
+
+                    <ex><![CDATA[n. (Jumper)人名；(英)江珀]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Jumper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跳线]]></ex>
+
+                            <ex><![CDATA[中柏]]></ex>
+
+                            <ex><![CDATA[跳投]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[wire jumper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跳线]]></ex>
+
+                            <ex><![CDATA[跨接线]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Jumper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跳高者]]></ex>
+
+                            <ex><![CDATA[亡命跳伞者]]></ex>
+
+                            <ex><![CDATA[比赛跳高的小家伙]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

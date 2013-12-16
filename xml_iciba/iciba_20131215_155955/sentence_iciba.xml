@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>sentence</key>
+
+<ps>'sentəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/69/1d/691d8b86922c99d4e03b95038377697a.mp3</pron>
+
+<ps>ˈsɛntəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d8/66/d866f4a8ea8e6f9d0f456f54c26285c0.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>句子；宣判；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>宣判，判决；
+
+</acceptation>
+
+<sent><orig>
+
+One-part Sentence or Two-part Sentence? Complete Sentence or Incomplete Sentence?
+
+</orig>
+
+<trans>
+
+单部句还是双部句？完全句还是不完全句？
+
+</trans></sent>
+
+<sent><orig>
+
+Syntactically marker is restricted in sentence-medial or sentence-end positions but never occurs in the sentence-initial position.
+
+</orig>
+
+<trans>
+
+句法上，“■■■”只能位于句中、句尾，而不能位于句首，这是由其功能所决定的。
+
+</trans></sent>
+
+<sent><orig>
+
+In coherent writing, every sentence is connected in thought to the previous sentence.
+
+</orig>
+
+<trans>
+
+在连贯性的写作中，每一个句子都是与前面的句子相关联的。
+
+</trans></sent>
+
+<sent><orig>
+
+The translation checks with the original, sentence for sentence.
+
+</orig>
+
+<trans>
+
+译文能忠实于原文，能逐句对照。
+
+</trans></sent>
+
+<sent><orig>
+
+The method of news sentence extraction, sentence importance calculation and redundancy reducing is introduced.
+
+</orig>
+
+<trans>
+
+介绍了句子抽取方法、句子重要度计算、句子冗余减小方法。
+
+</trans></sent>
+
+</dict>

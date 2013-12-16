@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[to]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[来]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tə; before a vowel; tʊ; stressed; tuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 到；向；（表示时间、方向）朝…方向]]></ex>
+
+                    <ex><![CDATA[adv. 向前；（门等）关上]]></ex>
+
+                    <ex><![CDATA[n. (To)人名；(柬)多；(中)脱(普通话·威妥玛)]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[汤加]]></ex>
+
+                            <ex><![CDATA[前往城市]]></ex>
+
+                            <ex><![CDATA[到]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[come to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[苏醒]]></ex>
+
+                            <ex><![CDATA[总计]]></ex>
+
+                            <ex><![CDATA[共计]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[keep to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坚持]]></ex>
+
+                            <ex><![CDATA[遵守]]></ex>
+
+                            <ex><![CDATA[保持]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

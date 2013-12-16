@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[something]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[的东西]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sʌmθɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 重要的人；值得重视的事]]></ex>
+
+                    <ex><![CDATA[adj. 大约；有点象]]></ex>
+
+                    <ex><![CDATA[adv. 非常；有点；大约]]></ex>
+
+                    <ex><![CDATA[pron. 某事；某物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[something]]></key>
+
+            <value>
+
+                            <ex><![CDATA[某事]]></ex>
+
+                            <ex><![CDATA[点儿]]></ex>
+
+                            <ex><![CDATA[某物]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Something New]]></key>
+
+            <value>
+
+                            <ex><![CDATA[新人恋曲]]></ex>
+
+                            <ex><![CDATA[万象更新]]></ex>
+
+                            <ex><![CDATA[某件新鲜事情]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[or something]]></key>
+
+            <value>
+
+                            <ex><![CDATA[诸如此类的什么]]></ex>
+
+                            <ex><![CDATA[诸如此类的事]]></ex>
+
+                            <ex><![CDATA[或什么的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

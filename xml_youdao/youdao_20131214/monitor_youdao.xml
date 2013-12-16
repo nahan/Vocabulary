@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[monitor]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[监控]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɒnɪtə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 监视器；监听器；监控器；显示屏；班长]]></ex>
+
+                    <ex><![CDATA[vt. 监控]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Monitor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[监视器]]></ex>
+
+                            <ex><![CDATA[显示器]]></ex>
+
+                            <ex><![CDATA[监控]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Performance Monitor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[性能监视器]]></ex>
+
+                            <ex><![CDATA[性能监控器]]></ex>
+
+                            <ex><![CDATA[效能监视器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Monitor lizard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巨蜥]]></ex>
+
+                            <ex><![CDATA[大蜥蜴]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

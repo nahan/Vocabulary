@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[priest]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[牧师]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[priːst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 牧师；神父；教士]]></ex>
+
+                    <ex><![CDATA[vt. 使成为神职人员；任命…为祭司]]></ex>
+
+                    <ex><![CDATA[n. (Priest)人名；(英、德)普里斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Priest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[牧师]]></ex>
+
+                            <ex><![CDATA[祭司]]></ex>
+
+                            <ex><![CDATA[神父]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Priest Lauderdale]]></key>
+
+            <value>
+
+                            <ex><![CDATA[普莱斯特·劳德代尔]]></ex>
+
+                            <ex><![CDATA[普雷斯特]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[M7 Priest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[M7牧师式自走炮]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

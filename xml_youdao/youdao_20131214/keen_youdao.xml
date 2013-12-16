@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[keen]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[敏锐的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kiːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 痛哭，挽歌]]></ex>
+
+                    <ex><![CDATA[adj. 敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的]]></ex>
+
+                    <ex><![CDATA[n. (Keen)人名；(英)基恩；(德)肯；(肯)金]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Keen]]></key>
+
+            <value>
+
+                            <ex><![CDATA[敏锐]]></ex>
+
+                            <ex><![CDATA[热衷]]></ex>
+
+                            <ex><![CDATA[锋利]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[keen senses]]></key>
+
+            <value>
+
+                            <ex><![CDATA[敏锐感知]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Keen Yim]]></key>
+
+            <value>
+
+                            <ex><![CDATA[严英健]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

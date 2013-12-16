@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>representation</key>
+
+<ps>ˌreprɪzenˈteɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/91/cc/91ccfe9c4655d00d7f79f899fe7c20eb.mp3</pron>
+
+<ps>ˌrɛprɪzɛnˈteʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ee/16/ee16755af8c89d0c26540daf7a0fe1b3.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>表现；陈述；表现…的事物；有代理人；
+
+</acceptation>
+
+<sent><orig>
+
+Each representation space consists of one or more representation dimensions.
+
+</orig>
+
+<trans>
+
+每个表示空间由一个或多个表示维组成。
+
+</trans></sent>
+
+<sent><orig>
+
+To convert data from floating-number representation to fixed-point representation.
+
+</orig>
+
+<trans>
+
+将数据由''。'浮'。''''。'点数'。''表示法转换为定点表示法。
+
+</trans></sent>
+
+<sent><orig>
+
+This paper analyzes briefly the nature of harmonic oscillator in the coordinate representation the momentum representation.
+
+</orig>
+
+<trans>
+
+本文简要分析了在坐标表象、动量表象、粒子数表象中一维谐振子的性质。
+
+</trans></sent>
+
+<sent><orig>
+
+Judgment: the mediate knowledge of an object, i. e. the representation of a representation of it.
+
+</orig>
+
+<trans>
+
+判断：判断是一个对象的间接知识，从而是对象的一个表象的表象。
+
+</trans></sent>
+
+<sent><orig>
+
+Video signal representation includes three aspects: the visual representation, transmission and digitalization.
+
+</orig>
+
+<trans>
+
+视频信号的表现包括三个方面：视觉表现、传输与数字化。
+
+</trans></sent>
+
+</dict>

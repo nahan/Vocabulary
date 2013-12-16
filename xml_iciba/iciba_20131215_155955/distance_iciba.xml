@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>distance</key>
+
+<ps>'dɪstəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/25/73/2573901c8f26421cbe27438cac87023b.mp3</pron>
+
+<ps>ˈdɪstəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a7/4e/a74ec9c5b6882f79e32a8fbd8da90c1b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>距离，路程；远处；疏远；（时间的）间隔，长久；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…远远甩在后面；疏远；与…保持距离；
+
+</acceptation>
+
+<sent><orig>
+
+The relative Weighted Euclidean Distance(WED) classifier is proposed as an improvement of the classifier.
+
+</orig>
+
+<trans>
+
+通过对WED(Weighted Euclidean Distance)分类器的改进研究，提出了相对WED分类器的新概念，进一步提高了系统的识别能力。
+
+</trans></sent>
+
+<sent><orig>
+
+The max distance shows the maximum possible distance available with time defined in record time.
+
+</orig>
+
+<trans>
+
+最大距离显示在已记录时间中的定义的时间尺度内，可能的可用距离的最大值。
+
+</trans></sent>
+
+<sent><orig>
+
+A and B is defined as the distance between the corresponding location and distance characters.
+
+</orig>
+
+<trans>
+
+和B的距离定义为相应位置字符距离之和。
+
+</trans></sent>
+
+<sent><orig>
+
+Angular distance is the distance between two objects measured as an angle from a given point.
+
+</orig>
+
+<trans>
+
+角距离，是由一定点到两物体之间所量度的夹角。
+
+</trans></sent>
+
+<sent><orig>
+
+On long-distance car or long-distance plane, can become his shoulder pillow.
+
+</orig>
+
+<trans>
+
+在长途车或长途飞机上，可将他的肩膀当枕头。
+
+</trans></sent>
+
+</dict>

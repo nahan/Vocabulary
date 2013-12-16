@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lift]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[电梯]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lɪft]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 电梯；举起；起重机；搭车]]></ex>
+
+                    <ex><![CDATA[vt. 举起；提升；鼓舞；空运；抄袭]]></ex>
+
+                    <ex><![CDATA[vi. 消散；升起；耸立]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lift]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电梯]]></ex>
+
+                            <ex><![CDATA[举起]]></ex>
+
+                            <ex><![CDATA[升降机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fork Lift]]></key>
+
+            <value>
+
+                            <ex><![CDATA[叉车]]></ex>
+
+                            <ex><![CDATA[叉式装卸车]]></ex>
+
+                            <ex><![CDATA[万能装卸车]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lift height]]></key>
+
+            <value>
+
+                            <ex><![CDATA[起升高度]]></ex>
+
+                            <ex><![CDATA[提升高度]]></ex>
+
+                            <ex><![CDATA[举升高度]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

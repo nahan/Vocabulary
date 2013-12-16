@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>publish</key>
+
+<ps>'pʌblɪʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/47/6f/476f910793ea64e6f914c066a34cec2b.mp3</pron>
+
+<ps>ˈpʌblɪʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9b/6d/9b6d0bb3102b87fae57bc4a39149518e.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>出版，发行；发表，宣布（结婚等）；公布，颁布；出版…的著作；
+
+</acceptation>
+
+<sent><orig>
+
+Christian Science Monitor, for example, plans to publish publish only online by April.
+
+</orig>
+
+<trans>
+
+例如，《基督教科学箴言报》计划从四月份开始仅在网络发行。
+
+</trans></sent>
+
+<sent><orig>
+
+This is done automatically when you publish application using the Publish wizard.
+
+</orig>
+
+<trans>
+
+如果使用“发布”向导发布应用程序，则会自动完成该启用操作。
+
+</trans></sent>
+
+<sent><orig>
+
+Subsequent changes to publish properties are made on the Publish page the Project Designer.
+
+</orig>
+
+<trans>
+
+对发布属性的后续更改可在“项目设计器”中的“发布”页完成。
+
+</trans></sent>
+
+<sent><orig>
+
+But to publish articles in major journals abroad-that took real talent and scholarship.
+
+</orig>
+
+<trans>
+
+可是在外国大刊物上发表作品，这非有真才实学不可。
+
+</trans></sent>
+
+<sent><orig>
+
+Cannot publish table '%s' for both merge publication and queued updating publication.
+
+</orig>
+
+<trans>
+
+不能既为合并发布、又为排队更新发布而发布表''%1！''。
+
+</trans></sent>
+
+</dict>

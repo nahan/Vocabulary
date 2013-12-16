@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[respond]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[回应]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'spɒnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 应答；唱和]]></ex>
+
+                    <ex><![CDATA[vi. 回答；作出反应；承担责任]]></ex>
+
+                    <ex><![CDATA[vt. 以…回答]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Respond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[响应]]></ex>
+
+                            <ex><![CDATA[回答]]></ex>
+
+                            <ex><![CDATA[反应]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Frequency Respond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[频率响应]]></ex>
+
+                            <ex><![CDATA[频响]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Please respond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[请回复]]></ex>
+
+                            <ex><![CDATA[请作出回应]]></ex>
+
+                            <ex><![CDATA[请回答]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

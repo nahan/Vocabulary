@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>else</key>
+
+<ps>els</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/8a/5d/8a5d0caf849813740b0f6babbd587e34.mp3</pron>
+
+<ps>ɛls</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/29/54/2954e92a9b4d0e998fe4893f8141649a.mp3</pron>
+
+<pos>adv.</pos>
+
+<acceptation>其他；否则；另外；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>别的；其他的；
+
+</acceptation>
+
+<sent><orig>
+
+The if-else statement is probably the most basic way to control program flow.
+
+</orig>
+
+<trans>
+
+if-else语句或许是控制程序流程最基本的形式。
+
+</trans></sent>
+
+<sent><orig>
+
+That's exactly how Boolean expressions are used, for example, in an if-then-else construction.
+
+</orig>
+
+<trans>
+
+这也就是布尔表达式的使用方法，比如在一个if-then-else块中。
+
+</trans></sent>
+
+<sent><orig>
+
+In Java, the keywords include if-else, while, do-while, for, and a selection statement called switch.
+
+</orig>
+
+<trans>
+
+在Java里，涉及的关键字包括if-else、while、do-while、for以及一个名为switch的选择语句。
+
+</trans></sent>
+
+<sent><orig>
+
+There's no need for else because the method will not continue after executing a return.
+
+</orig>
+
+<trans>
+
+不必加上else,因为方法在遇到return后便不再继续。
+
+</trans></sent>
+
+<sent><orig>
+
+Kangin: and who else? i'm really curious who else?
+
+</orig>
+
+<trans>
+
+还有谁呢？我真得很好奇还有谁？
+
+</trans></sent>
+
+</dict>

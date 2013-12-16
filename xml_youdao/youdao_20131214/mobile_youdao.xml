@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mobile]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[移动]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['məʊbaɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 运动物体]]></ex>
+
+                    <ex><![CDATA[adj. 机动的；易变的，；非固定的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Mobile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手机]]></ex>
+
+                            <ex><![CDATA[莫比尔]]></ex>
+
+                            <ex><![CDATA[移动]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mobile Market]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中国移动应用商场]]></ex>
+
+                            <ex><![CDATA[移动应用商场]]></ex>
+
+                            <ex><![CDATA[移动应用商城]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mobile IP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[移动IP]]></ex>
+
+                            <ex><![CDATA[移动性]]></ex>
+
+                            <ex><![CDATA[行动网际网路协定]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[recall]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[回忆]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'kɔːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 召回；回忆；撤消]]></ex>
+
+                    <ex><![CDATA[vt. 召回；回想起，记起；取消]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Recall]]></key>
+
+            <value>
+
+                            <ex><![CDATA[回忆]]></ex>
+
+                            <ex><![CDATA[召回]]></ex>
+
+                            <ex><![CDATA[回想]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Recall Ratio]]></key>
+
+            <value>
+
+                            <ex><![CDATA[查全率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[ordered recall]]></key>
+
+            <value>
+
+                            <ex><![CDATA[顺序回忆]]></ex>
+
+                            <ex><![CDATA[按序回忆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

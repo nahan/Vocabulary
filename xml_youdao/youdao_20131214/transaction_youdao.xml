@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[transaction]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[事务]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[træn'zækʃ(ə)n; trɑːn-; -'sæk-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 交易；事务；办理；会报，学报]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Transaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[交易]]></ex>
+
+                            <ex><![CDATA[事务]]></ex>
+
+                            <ex><![CDATA[事务处理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Connected transaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[关联交易]]></ex>
+
+                            <ex><![CDATA[关连交易]]></ex>
+
+                            <ex><![CDATA[关联干系交易]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[swap transaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[调期交易]]></ex>
+
+                            <ex><![CDATA[掉期交易]]></ex>
+
+                            <ex><![CDATA[互惠信贷交易]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

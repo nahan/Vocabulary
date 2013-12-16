@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[vague]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[模糊的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[veɪg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 模糊的；含糊的；不明确的；暧昧的]]></ex>
+
+                    <ex><![CDATA[n. (Vague)人名；(法)瓦格；(英)韦格]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[vague]]></key>
+
+            <value>
+
+                            <ex><![CDATA[模糊的]]></ex>
+
+                            <ex><![CDATA[含糊的]]></ex>
+
+                            <ex><![CDATA[模糊不清的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Vague集]]></key>
+
+            <value>
+
+                            <ex><![CDATA[vague sets]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[vague impression]]></key>
+
+            <value>
+
+                            <ex><![CDATA[模糊的印象]]></ex>
+
+                            <ex><![CDATA[模糊的形象或印象]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="approve"> <hw highlight="yes">ap*prove</hw> <sound><wav>approv04.wav</wav></sound> <pr>əˈpru:v</pr> <fl>verb</fl> <in><if>ap*proves</if></in> <in><if>ap*proved</if></in> <in><if>ap*prov*ing</if></in> <def><sn>1</sn> <sgram>no obj</sgram> <dt>:to believe that something or someone is good or acceptable <vi>I don't care if all the other parents are letting their kids do it; I still don't <it>approve</it>.</vi> <un>often + <it>of</it> <vi>I still don't <it>approve of</it> it.</vi> <vi>I don't <it>approve of</it> the way he treats his wife. = I don't <it>approve of</it> him treating his wife the way he does.</vi></un> <dx>opposite <dxt>disapprove</dxt></dx></dt> <sn>2</sn> <sgram>+ obj</sgram> <dt>:to officially accept (an idea, action, plan, etc.) <vi>The state has <it>approved</it> the building plans, so work on the new school can begin immediately.</vi> <vi>Your supervisor must <it>approve</it> the report before it can be sent.</vi> <un>often used as <it>(be) approved</it> <vi>The drug is expected to <it>be approved</it> as a treatment for cancer by the end of the year.</vi> <vi>Your application <it>has been approved</it>.</vi></un></dt></def></entry>
+
+</entry_list>

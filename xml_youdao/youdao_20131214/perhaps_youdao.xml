@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[perhaps]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[也许]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pə'hæps]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 假定；猜想；未定之事]]></ex>
+
+                    <ex><![CDATA[adv. 或许；（表示不确定）也许；（用于粗略的估计）或许；（表示勉强同意或其实不赞成）也许；可能]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Perhaps]]></key>
+
+            <value>
+
+                            <ex><![CDATA[也许]]></ex>
+
+                            <ex><![CDATA[或许]]></ex>
+
+                            <ex><![CDATA[大概]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Perhaps Love]]></key>
+
+            <value>
+
+                            <ex><![CDATA[如果·爱]]></ex>
+
+                            <ex><![CDATA[如果爱]]></ex>
+
+                            <ex><![CDATA[如果]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Perhaps Not]]></key>
+
+            <value>
+
+                            <ex><![CDATA[为什么没有牡蛎]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

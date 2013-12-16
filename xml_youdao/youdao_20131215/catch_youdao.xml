@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[catch]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[抓]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kætʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 捕捉；捕获物；窗钩]]></ex>
+
+                    <ex><![CDATA[vt. 赶上；抓住；感染；了解]]></ex>
+
+                    <ex><![CDATA[vi. 赶上；抓住]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[catch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抓住]]></ex>
+
+                            <ex><![CDATA[捕捉]]></ex>
+
+                            <ex><![CDATA[赶上]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[catch on]]></key>
+
+            <value>
+
+                            <ex><![CDATA[理解]]></ex>
+
+                            <ex><![CDATA[流行起来]]></ex>
+
+                            <ex><![CDATA[懂得]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[catch fire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[着火]]></ex>
+
+                            <ex><![CDATA[烧着]]></ex>
+
+                            <ex><![CDATA[开始燃烧]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

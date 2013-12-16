@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[spend]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[花]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[spend]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 预算]]></ex>
+
+                    <ex><![CDATA[vt. 度过，消磨（时光）；花费；浪费；用尽]]></ex>
+
+                    <ex><![CDATA[vi. 花钱；用尽，耗尽]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Spend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花费]]></ex>
+
+                            <ex><![CDATA[度过]]></ex>
+
+                            <ex><![CDATA[支付]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[spend weekends]]></key>
+
+            <value>
+
+                            <ex><![CDATA[度周末]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[spend about]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花约]]></ex>
+
+                            <ex><![CDATA[花费约]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

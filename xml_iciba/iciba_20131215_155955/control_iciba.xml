@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>control</key>
+
+<ps>kən'trəʊl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/53/ea/53ea49d26e4e34b4ee32bb354d1e4ab5.mp3</pron>
+
+<ps>kənˈtrol</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/fc/53/fc5364bf9dbfa34954526becad136d4b.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>控制；管理；限制；支配；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>支配权；操纵者；（对国家、地区、机构等的）管理权；（键盘上的）控制键；
+
+</acceptation>
+
+<sent><orig>
+
+Planes will fly by co-control.
+
+</orig>
+
+<trans>
+
+换句话说，飞机将以共辖(co-control)的方式飞行。
+
+</trans></sent>
+
+<sent><orig>
+
+It is a method of management rather than a kind of control.
+
+</orig>
+
+<trans>
+
+如果说是控制(control)，还不如说是管理(management)更为准确。
+
+</trans></sent>
+
+<sent><orig>
+
+The American English spelling for the word &quot;controll&quot;is &quot;control&quot;.
+
+</orig>
+
+<trans>
+
+“控制”一词的美国英语拼写法是“control”。
+
+</trans></sent>
+
+<sent><orig>
+
+MATLAB and Robust Control Toolbox were used for the simulation analyse of the vehicle seat system.
+
+</orig>
+
+<trans>
+
+并且用MATLAB软件包及Robust-Control-Toolbox对座椅悬架系统进行了仿真分析。
+
+</trans></sent>
+
+<sent><orig>
+
+Article 1.0.3 Quality control on concrete shall contain primary control, production control and qualification control.
+
+</orig>
+
+<trans>
+
+第1.0.3条混凝土的质量控制应包括初步控制，生产控制和合格控制。
+
+</trans></sent>
+
+</dict>

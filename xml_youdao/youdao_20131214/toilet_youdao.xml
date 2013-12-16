@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[toilet]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[厕所。。。]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['tɒɪlɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 厕所，盥洗室；梳妆，打扮]]></ex>
+
+                    <ex><![CDATA[vt. 给…梳妆打扮]]></ex>
+
+                    <ex><![CDATA[vi. 梳妆，打扮]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Toilet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[马桶]]></ex>
+
+                            <ex><![CDATA[厕所]]></ex>
+
+                            <ex><![CDATA[洗室]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[toilet paper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[卫生纸]]></ex>
+
+                            <ex><![CDATA[手纸]]></ex>
+
+                            <ex><![CDATA[厕纸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Flush toilet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抽水马桶]]></ex>
+
+                            <ex><![CDATA[冲水马桶]]></ex>
+
+                            <ex><![CDATA[缩水搪瓷马桶]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[escape]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[逃避]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪ'skeɪp; e-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 逃跑；逃亡；逃走；逃跑工具或方法；野生种；泄漏]]></ex>
+
+                    <ex><![CDATA[vi. 逃脱；避开；溜走；（气体，液体等）漏出；（未受伤或只受了一点伤害而）逃脱；声音（不自觉地）由…发出]]></ex>
+
+                    <ex><![CDATA[vt. 逃避，避开，避免；被忘掉；被忽视]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[escape]]></key>
+
+            <value>
+
+                            <ex><![CDATA[逃跑]]></ex>
+
+                            <ex><![CDATA[逃脱]]></ex>
+
+                            <ex><![CDATA[逃避]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Zombie Escape]]></key>
+
+            <value>
+
+                            <ex><![CDATA[僵尸大流亡]]></ex>
+
+                            <ex><![CDATA[僵尸大逃亡]]></ex>
+
+                            <ex><![CDATA[僵尸逃跑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[air escape]]></key>
+
+            <value>
+
+                            <ex><![CDATA[空气漏出]]></ex>
+
+                            <ex><![CDATA[逸气]]></ex>
+
+                            <ex><![CDATA[排气孔]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

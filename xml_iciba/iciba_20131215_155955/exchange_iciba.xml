@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>exchange</key>
+
+<ps>ɪks'tʃeɪndʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d1/80/d180f684eef89d52b5da4489054008bf.mp3</pron>
+
+<ps>ɪksˈtʃendʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5c/73/5c731c8c4ee0f43b4b605d534f888603.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>交换；交易；交易所；兑换（率）；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>交换，互换；兑换；交换，调换；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>交换，替换；进行易货贸易，作物物交换；[金融业]（货币）交换，兑换；
+
+</acceptation>
+
+<sent><orig>
+
+DDE agreement is efficient method of data exchange between windows application programs.
+
+</orig>
+
+<trans>
+
+动态数据交换(Dynamic Data Exchange,DDE)是Windows应用程序间数据交换的有效方法。
+
+</trans></sent>
+
+<sent><orig>
+
+It is possible to use GeniusConnect on multiple Outlook or Exchange folders and multiple databases.
+
+</orig>
+
+<trans>
+
+是有可能的使用geniusconnect在多个Outlook或Exchange文件夹和多个数据库。
+
+</trans></sent>
+
+<sent><orig>
+
+So no new apps on the iPhone for using Exchange.
+
+</orig>
+
+<trans>
+
+所以Apple没有单独为iphone使用Exchange功能而去创建新的专门软件。
+
+</trans></sent>
+
+<sent><orig>
+
+Like Zimbra, Scalix, which works with most Linux platforms, is a messaging platform aimed replacing Exchange.
+
+</orig>
+
+<trans>
+
+像Zimbra一样，能在绝大多数Linux平台上运行的Scalix也是一个以取代Exchange为目标的消息平台软件。
+
+</trans></sent>
+
+<sent><orig>
+
+The main mechanisms of hyporheic exchange include pumping exchange and turnover exchange.
+
+</orig>
+
+<trans>
+
+潜流交换机理主要包括泵吸交换和冲淤交换。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cry]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[哭了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kraɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 叫喊；叫声；口号；呼叫]]></ex>
+
+                    <ex><![CDATA[vi. 哭；叫；喊]]></ex>
+
+                    <ex><![CDATA[vt. 叫喊；哭出；大声说]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Cry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[哭泣]]></ex>
+
+                            <ex><![CDATA[哭]]></ex>
+
+                            <ex><![CDATA[叫喊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cry wolf]]></key>
+
+            <value>
+
+                            <ex><![CDATA[狼来了]]></ex>
+
+                            <ex><![CDATA[发出假警报]]></ex>
+
+                            <ex><![CDATA[谎言欺人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cry out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大声呼喊]]></ex>
+
+                            <ex><![CDATA[大声抱怨]]></ex>
+
+                            <ex><![CDATA[喊叫]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

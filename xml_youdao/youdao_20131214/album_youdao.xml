@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[album]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[专辑]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ælbəm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 相簿；唱片集；集邮簿；签名纪念册]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Album]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相册]]></ex>
+
+                            <ex><![CDATA[专辑]]></ex>
+
+                            <ex><![CDATA[音乐专辑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Concept album]]></key>
+
+            <value>
+
+                            <ex><![CDATA[概念专辑]]></ex>
+
+                            <ex><![CDATA[概念唱片]]></ex>
+
+                            <ex><![CDATA[观点专辑]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Live album]]></key>
+
+            <value>
+
+                            <ex><![CDATA[现场专辑]]></ex>
+
+                            <ex><![CDATA[版本特性]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

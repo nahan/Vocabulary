@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>return</key>
+
+<ps>rɪ'tɜ:n</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/e7/0c/e70c4df10ef0983b9c8c31bd06b2a2c3.mp3</pron>
+
+<ps>rɪ'tɜ:rn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e7/0c/e70c4df10ef0983b9c8c31bd06b2a2c3.mp3</pron>
+
+<pos>v.</pos>
+
+<acceptation>回转，返回；复发，又来；送还；言归正传；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>归来，返乡；来回，汇成；赢利；统计表；
+
+</acceptation>
+
+<sent><orig>
+
+Second, if the method produces a value, that value is placed right after the return statement.
+
+</orig>
+
+<trans>
+
+其次，假设方法生成了一个值，则那个值紧接在return语句的后面。
+
+</trans></sent>
+
+<sent><orig>
+
+Use return codes to report expected state change.
+
+</orig>
+
+<trans>
+
+使用return代码来报告期望的状态改变。
+
+</trans></sent>
+
+<sent><orig>
+
+Return must be like in a new condition.
+
+</orig>
+
+<trans>
+
+Return副本，必须在新的条件等。
+
+</trans></sent>
+
+<sent><orig>
+
+AN EFFECT SEND and RETURN jack is also supplied to allow the use of external effectors.
+
+</orig>
+
+<trans>
+
+同时也提供一个SEND和RETURN插孔以允许您使用外接音响效应器。
+
+</trans></sent>
+
+<sent><orig>
+
+You can also see the use of the return keyword, which does two things.
+
+</orig>
+
+<trans>
+
+通过上面的例子，也可以了解return关键字的运用。它主要做两件事情。
+
+</trans></sent>
+
+</dict>

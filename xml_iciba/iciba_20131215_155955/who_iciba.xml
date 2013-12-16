@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>who</key>
+
+<ps>hu:</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/97/c3/97c3ed5017fa028dd4045c7a0c186d20.mp3</pron>
+
+<ps>hu</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/53/d6/53d670af9bb16ea82e7ef41ee23ec6df.mp3</pron>
+
+<pos>pron.</pos>
+
+<acceptation>谁；什么人；关系代词，有先行词；孰；
+
+</acceptation>
+
+<sent><orig>
+
+The word &quot;man&quot; is the antecedent of &quot;who&quot; in &quot;the man who spoke&quot;.
+
+</orig>
+
+<trans>
+
+&quot;man&quot;这个字是&quot;the man who spoke&quot;中&quot;who&quot;的先行词。
+
+</trans></sent>
+
+<sent><orig>
+
+The word 'who' in 'the man who came' is a relative pronoun.
+
+</orig>
+
+<trans>
+
+在themanwhocame这一片语中who这个词是关系代词。
+
+</trans></sent>
+
+<sent><orig>
+
+WHO has also reviewed estimates of the incubation period of SARS, using individual case data.
+
+</orig>
+
+<trans>
+
+WHO也用个体病例数据修订了对SARS潜伏期的估计。
+
+</trans></sent>
+
+<sent><orig>
+
+Further information on the situation will be available on the WHO website on a regular basis.
+
+</orig>
+
+<trans>
+
+关于疾病情况的进一步信息将可以定期在WHO网站上得到。
+
+</trans></sent>
+
+<sent><orig>
+
+WHO is assisting the Ministry of Health with laboratory diagnosis.
+
+</orig>
+
+<trans>
+
+WHO协助该国卫生部门进行实验室诊断。
+
+</trans></sent>
+
+</dict>

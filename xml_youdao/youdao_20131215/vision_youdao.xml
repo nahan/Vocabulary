@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[vision]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[愿景]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['vɪʒ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 视力；美景；眼力；幻象；想象力]]></ex>
+
+                    <ex><![CDATA[vt. 想象；显现；梦见]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Vision]]></key>
+
+            <value>
+
+                            <ex><![CDATA[视觉]]></ex>
+
+                            <ex><![CDATA[愿景]]></ex>
+
+                            <ex><![CDATA[视力]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Computer vision]]></key>
+
+            <value>
+
+                            <ex><![CDATA[计算机视觉]]></ex>
+
+                            <ex><![CDATA[电脑视觉]]></ex>
+
+                            <ex><![CDATA[机械视觉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Double Vision]]></key>
+
+            <value>
+
+                            <ex><![CDATA[双瞳]]></ex>
+
+                            <ex><![CDATA[复视]]></ex>
+
+                            <ex><![CDATA[双重祝野]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

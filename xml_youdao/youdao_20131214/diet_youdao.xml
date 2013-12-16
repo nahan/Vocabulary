@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[diet]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[饮食]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['daɪət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 饮食；食物；规定饮食]]></ex>
+
+                    <ex><![CDATA[vt. [医] 照规定饮食]]></ex>
+
+                    <ex><![CDATA[vi. 节食]]></ex>
+
+                    <ex><![CDATA[n. (Diet)人名；(法)迪耶]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Diet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[饮食]]></ex>
+
+                            <ex><![CDATA[节食]]></ex>
+
+                            <ex><![CDATA[日常饮食]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Balanced diet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[均衡膳食]]></ex>
+
+                            <ex><![CDATA[平衡膳食]]></ex>
+
+                            <ex><![CDATA[均衡的饮食]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Diet Therapy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[饮食治疗]]></ex>
+
+                            <ex><![CDATA[饮食疗法]]></ex>
+
+                            <ex><![CDATA[食治]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[or]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[或]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 或，或者；还是]]></ex>
+
+                    <ex><![CDATA[n. (Or)人名；(中)柯(广东话·威妥玛)；(柬)奥；(土、匈、土库、阿塞、瑞典)奥尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Or]]></key>
+
+            <value>
+
+                            <ex><![CDATA[或者]]></ex>
+
+                            <ex><![CDATA[或]]></ex>
+
+                            <ex><![CDATA[逻辑或]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Regulat or]]></key>
+
+            <value>
+
+                            <ex><![CDATA[调节器]]></ex>
+
+                            <ex><![CDATA[调整器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Or glasses]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跌眼镜]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

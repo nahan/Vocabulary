@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[action]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[行动]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ækʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 行动；活动；功能；战斗；情节]]></ex>
+
+                    <ex><![CDATA[n. (Action)人名；(英)埃克申]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Action]]></key>
+
+            <value>
+
+                            <ex><![CDATA[行动]]></ex>
+
+                            <ex><![CDATA[动作]]></ex>
+
+                            <ex><![CDATA[作用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Action]]></key>
+
+            <value>
+
+                            <ex><![CDATA[处理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Action research]]></key>
+
+            <value>
+
+                            <ex><![CDATA[行动研究]]></ex>
+
+                            <ex><![CDATA[行为研究]]></ex>
+
+                            <ex><![CDATA[行动研究法]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

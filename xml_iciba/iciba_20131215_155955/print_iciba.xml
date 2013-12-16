@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>print</key>
+
+<ps>prɪnt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/46/96/469620f2ac186c602b60dacd8ccfd4a8.mp3</pron>
+
+<ps>prɪnt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f7/53/f7531e2d0ea27233ce00b5f01c5bf335.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>（由底片印出的）照片；印刷字体；印痕；印成的图画；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>（在松软的表面）压印；把…付印；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>用印刷体写；冲洗（照片）；登载；在纸上印；
+
+</acceptation>
+
+<sent><orig>
+
+Or to format the output in the form of print. txt this document.
+
+</orig>
+
+<trans>
+
+或者以格式化形式输出在print.txt这个文件中。
+
+</trans></sent>
+
+<sent><orig>
+
+Pressing N will exit movie allowing PRINT, RUN, or STORE to be selected.
+
+</orig>
+
+<trans>
+
+按N键将退出电影，以允许选择打印(PRINT)，运行(RUN)，或存储(STORE)等其他项目。
+
+</trans></sent>
+
+<sent><orig>
+
+Print in the print film, print, depending on the color will have a little change.
+
+</orig>
+
+<trans>
+
+菲林在晒版时，晒版时间的长短对颜色将产生少许变化。
+
+</trans></sent>
+
+<sent><orig>
+
+What pages to print, how many copies to print, and in what order to print them.
+
+</orig>
+
+<trans>
+
+要打印哪些页，要打印多少份，以及打印的次序。
+
+</trans></sent>
+
+<sent><orig>
+
+Print Opens a print dialog to let you print current icon.
+
+</orig>
+
+<trans>
+
+列印开启列印对话方块来让您列印目前图示。
+
+</trans></sent>
+
+</dict>

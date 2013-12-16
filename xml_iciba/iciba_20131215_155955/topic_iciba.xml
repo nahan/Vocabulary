@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>topic</key>
+
+<ps>'tɒpɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/0c/fc/0cfcc0d3db0814e9e48d8f89b21f7174.mp3</pron>
+
+<ps>ˈtɑpɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9d/9b/9d9b68ac2b1de18d3712096354b3c3a5.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>主题；话题，论题；标题，细目；
+
+</acceptation>
+
+<sent><orig>
+
+A topic overlay network search (TONS) algorithm, P2P search mechanism based on topic partition, is presented.
+
+</orig>
+
+<trans>
+
+提出一种基于主题划分的P2P搜索算法———主题覆盖网络搜索算法(TONS)。
+
+</trans></sent>
+
+<sent><orig>
+
+This paper focuses on auto-organization algorithm of topic-related reports and the topic organization algorithm search technology.
+
+</orig>
+
+<trans>
+
+本文将话题相关报道自组织算法及话题源检索技术作为主要研究内容。
+
+</trans></sent>
+
+<sent><orig>
+
+Associations are the conceptual heart of topic maps, indicating how one topic relates to another.
+
+</orig>
+
+<trans>
+
+联系是主题图的核心概念，指出了一个主题是如何与另一个主题发生关系的。
+
+</trans></sent>
+
+<sent><orig>
+
+Thus, water saving agriculture becomes a hot topic for sustainable development and a difficult topic too.
+
+</orig>
+
+<trans>
+
+目前我国灌溉用水效率很低，农业节水成为可持续发展的热点话题和难题。
+
+</trans></sent>
+
+<sent><orig>
+
+He talks on forever, jumping from topic to topic like he knows everything.
+
+</orig>
+
+<trans>
+
+他每次都说个没完，从一个主题跳到另一个主题，好像他什么都知道。
+
+</trans></sent>
+
+</dict>

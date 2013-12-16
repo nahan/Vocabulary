@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[plus]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[再加上]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[plʌs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 加，加上]]></ex>
+
+                    <ex><![CDATA[n. 正号，加号；好处；附加额]]></ex>
+
+                    <ex><![CDATA[adj. 正的；附加的]]></ex>
+
+                    <ex><![CDATA[n. (Plus)人名；(德)普卢斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Plus]]></key>
+
+            <value>
+
+                            <ex><![CDATA[加上]]></ex>
+
+                            <ex><![CDATA[普乐士]]></ex>
+
+                            <ex><![CDATA[加号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[plus sign]]></key>
+
+            <value>
+
+                            <ex><![CDATA[加号]]></ex>
+
+                            <ex><![CDATA[正号]]></ex>
+
+                            <ex><![CDATA[正符号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Plus one]]></key>
+
+            <value>
+
+                            <ex><![CDATA[加一]]></ex>
+
+                            <ex><![CDATA[优生男孩]]></ex>
+
+                            <ex><![CDATA[专辑歌手]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

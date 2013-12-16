@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bin]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[本]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 箱子，容器；二进制]]></ex>
+
+                    <ex><![CDATA[vt. 把…放入箱中]]></ex>
+
+                    <ex><![CDATA[n. (Bin)人名；(意、柬)宾；(日)敏(名)；(东南亚国家华语)民]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[BIN]]></key>
+
+            <value>
+
+                            <ex><![CDATA[二进制]]></ex>
+
+                            <ex><![CDATA[接收器]]></ex>
+
+                            <ex><![CDATA[全慧彬]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hyun Bin]]></key>
+
+            <value>
+
+                            <ex><![CDATA[玄彬]]></ex>
+
+                            <ex><![CDATA[炫彬]]></ex>
+
+                            <ex><![CDATA[英文名]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[trash bin]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾箱]]></ex>
+
+                            <ex><![CDATA[垃圾桶]]></ex>
+
+                            <ex><![CDATA[垃圾筒]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

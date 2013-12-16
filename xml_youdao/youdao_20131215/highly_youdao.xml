@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[highly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[高度]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['haɪlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 高度地；非常；非常赞许地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[highly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高度地]]></ex>
+
+                            <ex><![CDATA[高地]]></ex>
+
+                            <ex><![CDATA[非常]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[highly accomplished]]></key>
+
+            <value>
+
+                            <ex><![CDATA[多才多艺]]></ex>
+
+                            <ex><![CDATA[花语多才多艺]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[praise highly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[推崇]]></ex>
+
+                            <ex><![CDATA[赞扬]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[criticize]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[批评]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['krɪtɪsaɪz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 批评；评论；苛求]]></ex>
+
+                    <ex><![CDATA[vt. 批评；评论；非难]]></ex>
+
+                    <ex><![CDATA[]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[criticize]]></key>
+
+            <value>
+
+                            <ex><![CDATA[批评]]></ex>
+
+                            <ex><![CDATA[批判]]></ex>
+
+                            <ex><![CDATA[评论]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[to criticize]]></key>
+
+            <value>
+
+                            <ex><![CDATA[批评]]></ex>
+
+                            <ex><![CDATA[指责]]></ex>
+
+                            <ex><![CDATA[责备]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Criticize Thinking]]></key>
+
+            <value>
+
+                            <ex><![CDATA[批判性思维]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

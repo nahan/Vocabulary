@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[foundation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[基金会]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[faʊn'deɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 基础；地基；基金会；根据；创立]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Foundation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基础]]></ex>
+
+                            <ex><![CDATA[基金会]]></ex>
+
+                            <ex><![CDATA[地基]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rockefeller Foundation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[洛克菲勒基金会]]></ex>
+
+                            <ex><![CDATA[洛克菲勒基金]]></ex>
+
+                            <ex><![CDATA[基金会]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Qatar Foundation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[卡塔尔基金会]]></ex>
+
+                            <ex><![CDATA[卡塔尔基金]]></ex>
+
+                            <ex><![CDATA[基金会]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>kit</key>
+
+<ps>kɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c1/8e/c18ec4a38bf1ce736c83e2db6331cf2a.mp3</pron>
+
+<ps>kɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ff/a0/ffa044f5d18974a3264c23a5e1e06217.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>衣物和装备；成套用品；配套元件；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>（为特定活动而）使某人装备起来；
+
+</acceptation>
+
+<sent><orig>
+
+AbstractObjective:To explore the exPression of human c-kit recePtor protCin(c-kit R, CDl l7) in acute leukemia (AL).
+
+</orig>
+
+<trans>
+
+[目的]本研究主要探讨c-kit受体(c-kit R,CD117）在急性白血病(AL)中的表达及其临床意义。
+
+</trans></sent>
+
+<sent><orig>
+
+Both these cells express VLA-4, VLA-5 integrins and the SCF receptor (c-kit).
+
+</orig>
+
+<trans>
+
+CD34~+细胞和Mo7e细胞高表达VLA-4、VLA-5整合素及SCF受体c-kit,是研究SCF／c-kit信号活化整合素受体机制的理想细胞模型。
+
+</trans></sent>
+
+<sent><orig>
+
+KIT expression was associated with advanced disease and with decreased incidence of bone metastases.
+
+</orig>
+
+<trans>
+
+KIT的表达情况与疾病晚期和减少骨转移的发病率有关。
+
+</trans></sent>
+
+<sent><orig>
+
+RESULTS: KIT expression was observed in 149 of 204 tumour tissues (73%).
+
+</orig>
+
+<trans>
+
+结果：在204例肿瘤组织中有149例中有KIT表达（73%）。
+
+</trans></sent>
+
+<sent><orig>
+
+To isolate and purify c-Kit+lin-cells from murine bone marrow by magnetic activated cell sorting (MACS).
+
+</orig>
+
+<trans>
+
+目的：利用免疫磁性细胞分选系统分离纯化骨髓衍生肝干细胞亚群c-Kit+lin-。
+
+</trans></sent>
+
+</dict>

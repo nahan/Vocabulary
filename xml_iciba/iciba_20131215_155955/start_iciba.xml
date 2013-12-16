@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>start</key>
+
+<ps>stɑ:t</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/ea/2b/ea2b2676c28c0db26d39331a336c6b92.mp3</pron>
+
+<ps>stɑrt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ea/2b/ea2b2676c28c0db26d39331a336c6b92.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>开始；动身；开动；起点；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>出发，启程；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>起动；提出（问题）；开办；使开始；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>起始；突然出现；突然跳起；突然涌出；
+
+</acceptation>
+
+<sent><orig>
+
+Arlo Belshee's team worked in a start-up, where frequent, entrepreneurial shifts in direction are commonplace.
+
+</orig>
+
+<trans>
+
+ArloBelshee的团队致力于start-up,在start-up时，企业方向性改变非常频繁。
+
+</trans></sent>
+
+<sent><orig>
+
+Click the start button, point to settings, and then click control panel.
+
+</orig>
+
+<trans>
+
+单击开始(Start)按钮，指向设置(Settingd)项，然后单击控制面板(Control Panel)。
+
+</trans></sent>
+
+<sent><orig>
+
+Begin at START. You can move horizontally and vertically, but not diagonally.
+
+</orig>
+
+<trans>
+
+由START开始，你只可以横向、纵向移动，但不可以交叉走。
+
+</trans></sent>
+
+<sent><orig>
+
+You can simply use the start_t type above as-is.
+
+</orig>
+
+<trans>
+
+你可以如上只使用start_t类型。
+
+</trans></sent>
+
+<sent><orig>
+
+Please reconnect the controller and press START to continue.
+
+</orig>
+
+<trans>
+
+请重新接上控制器然后按下[START]来继续游戏。
+
+</trans></sent>
+
+</dict>

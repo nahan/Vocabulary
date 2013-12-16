@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[chocolate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[巧克力]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['tʃɒk(ə)lət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 巧克力，巧克力糖；巧克力色]]></ex>
+
+                    <ex><![CDATA[adj. 巧克力色的；巧克力口味的]]></ex>
+
+                    <ex><![CDATA[n. (Chocolate)人名；(葡)绍科拉特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Chocolate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巧克力]]></ex>
+
+                            <ex><![CDATA[巧克力色]]></ex>
+
+                            <ex><![CDATA[红褐色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[White chocolate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白巧克力]]></ex>
+
+                            <ex><![CDATA[白巧克力饼干]]></ex>
+
+                            <ex><![CDATA[食品]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chocolate Cosmos]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巧克力波斯菊]]></ex>
+
+                            <ex><![CDATA[巧克力世界]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

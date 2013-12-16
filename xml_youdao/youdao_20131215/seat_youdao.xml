@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[seat]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[座位]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[siːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 座位；所在地；职位]]></ex>
+
+                    <ex><![CDATA[vt. 使…坐下；可容纳…的；使就职]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[SEAT]]></key>
+
+            <value>
+
+                            <ex><![CDATA[西亚特]]></ex>
+
+                            <ex><![CDATA[座位]]></ex>
+
+                            <ex><![CDATA[西雅特]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[seat belt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[安全带]]></ex>
+
+                            <ex><![CDATA[座位安全带]]></ex>
+
+                            <ex><![CDATA[座椅安全带]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ejection seat]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弹射椅]]></ex>
+
+                            <ex><![CDATA[弹射座椅]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

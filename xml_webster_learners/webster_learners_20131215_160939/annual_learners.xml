@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="annual[1]"> <hw highlight="yes" hindex="1">an*nu*al</hw> <sound><wav>annual01.wav</wav></sound> <pr>ˈænjəwəl</pr> <fl>adjective</fl> <def><sn>1</sn> <dt>:happening once a year <vi>The <it>annual</it> meeting is in July.</vi> <vi>It's time for your <it>annual</it> [=<it>yearly</it>] checkup.</vi> <vi>The company's earnings for last year are published in the <it>annual</it> report.</vi></dt> <sn>2</sn> <dt>:covering the period of a year <vi>We had more snow this year than the average <it>annual</it> amount.</vi> <vi>The company charges an <it>annual</it> fee of $45.</vi></dt> <sn>3</sn> <slb>always used before a noun</slb> <ssl>of a plant</ssl> <dt>:living for only one year or season :having a life cycle that is one year or season long <vi><it>annual</it> plants/herbs/flowers</vi> <dx>compare <dxt>biennial</dxt> <dxt>perennial</dxt></dx></dt></def> <uro><ure>an*nu*al*ly</ure> <fl>adverb</fl> <utxt><vi>We meet <it>annually</it> [=<it>once a year</it>] in July.</vi> <vi>Their earnings increase <it>annually</it>. [=<it>every year</it>]</vi> <vi>A report of the company's earnings is published <it>annually</it>.</vi></utxt></uro></entry>
+
+	<entry id="annual[2]"> <hw hindex="2">annual</hw> <altpr>ˈænjəwəl</altpr> <fl>noun</fl> <in><il>plural</il> <if>annuals</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a plant that lives for only one year or season <vi>We planted some <it>annuals</it> in front of the house.</vi> <dx>compare <dxt>biennial</dxt> <dxt>perennial</dxt></dx></dt> <sn>2</sn> <dt>:a book or magazine that is published once a year</dt></def></entry>
+
+</entry_list>

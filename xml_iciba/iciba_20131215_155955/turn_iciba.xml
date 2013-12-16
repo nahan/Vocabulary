@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>turn</key>
+
+<ps>tɜ:n</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/a8/50/a850c17cba5eb16b0d3d40a106333bd5.mp3</pron>
+
+<ps>tɚn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a8/50/a850c17cba5eb16b0d3d40a106333bd5.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>使转动；旋转；使改变方向；使不适；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使变酸；使变换；使变为；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>翻转；（路线或方向的）改变；机会；
+
+</acceptation>
+
+<sent><orig>
+
+Bank-To-Turn (BTT) and Skid-To-Turn (STT) control techniques are widely used in current missile control systems.
+
+</orig>
+
+<trans>
+
+现代导弹控制技术一般可分为侧滑转弯(Skid-to-Turn,STT)控制技术和倾斜转弯(Bank-to-Tum,BTT)控制技术。
+
+</trans></sent>
+
+<sent><orig>
+
+TURN protocol is a technique for simple traversal of UDP through NAT.
+
+</orig>
+
+<trans>
+
+TURN协议是一种穿越对称NAT的技术。
+
+</trans></sent>
+
+<sent><orig>
+
+Bank-to-turn(BTT) technology is a novel control technology with great vitality. It has been deeply investigated abroad.
+
+</orig>
+
+<trans>
+
+倾斜转弯(Bank—to—Turn简称BTT)技术是一门新的控制技术，具有强大的生命力，国外已开始深入的研究。
+
+</trans></sent>
+
+<sent><orig>
+
+Turn left, please. Turn right, please. Turn back, please. Turn around, please.
+
+</orig>
+
+<trans>
+
+请向左转。请向右转。请向后转。请转一圈。
+
+</trans></sent>
+
+<sent><orig>
+
+Two fingers, two fingers turn turn turn, turn to a rabbit jump jump jump.
+
+</orig>
+
+<trans>
+
+俩只手指，两只手指变，变，变，变为一只小白兔跳，跳，跳。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bathroom"> <art><artref id="bathroom.eps"/><capt/><dim>394,283</dim></art> <hw highlight="yes">bath*room</hw> <sound><wav>bathro02.wav</wav></sound> <pr>ˈbæθˌru:m, <it>Brit</it> ˈbɑ:θˌru:m</pr> <fl>noun</fl> <in><il>plural</il> <if>bath*rooms</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a room with a sink and toilet and usually a bathtub or shower <vi>Their house has three <it>bathrooms</it>.</vi> <snote>In U.S. English, a bathroom is mainly thought of as a room with a toilet. In British English, a bathroom is mainly thought of as a room with a bathtub or shower.</snote></dt> <sn>2</sn> <ssl>US</ssl> <dt>:a room in a public place with a toilet and sink <vi>The restaurant has only one <it>bathroom</it>.</vi> <vi>a public <it>bathroom</it> [=<it>restroom, lavatory</it>]</vi></dt></def> <dro><dre>go to the bathroom</dre> <vr><vl>or</vl> <va>use the bathroom</va></vr> <def><sl>US</sl> <dt>:to use the toilet <vi>The little boy told his mother that he had to <it>go to the bathroom</it>.</vi> <vi>You should <it>use the bathroom</it> before we leave.</vi></dt></def></dro></entry>
+
+</entry_list>

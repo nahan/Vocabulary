@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[belong]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[属于]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪ'lɒŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 属于，应归入；居住；适宜；应被放置]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Belong]]></key>
+
+            <value>
+
+                            <ex><![CDATA[属于]]></ex>
+
+                            <ex><![CDATA[附属]]></ex>
+
+                            <ex><![CDATA[属]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[We Belong]]></key>
+
+            <value>
+
+                            <ex><![CDATA[归属]]></ex>
+
+                            <ex><![CDATA[我们应在一起]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[To Belong]]></key>
+
+            <value>
+
+                            <ex><![CDATA[感情的归属]]></ex>
+
+                            <ex><![CDATA[感情的归宿]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

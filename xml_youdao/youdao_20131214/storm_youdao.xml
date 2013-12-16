@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[storm]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[风暴]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stɔːm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 暴风雨；大动荡]]></ex>
+
+                    <ex><![CDATA[vt. 猛攻；怒骂]]></ex>
+
+                    <ex><![CDATA[vi. 起风暴；横冲直撞；狂怒咆哮]]></ex>
+
+                    <ex><![CDATA[n. (Storm)人名；(瑞典)斯托姆；(德)施托姆；(英、西、芬)斯托姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Storm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风暴]]></ex>
+
+                            <ex><![CDATA[暴风雨]]></ex>
+
+                            <ex><![CDATA[暴雨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Geomagnetic storm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[磁暴]]></ex>
+
+                            <ex><![CDATA[地磁暴]]></ex>
+
+                            <ex><![CDATA[地磁风暴]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Metal Storm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[金属风暴]]></ex>
+
+                            <ex><![CDATA[金属风暴系列]]></ex>
+
+                            <ex><![CDATA[重力装甲]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[joy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[快乐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dʒɒɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 欢乐，快乐；乐趣；高兴]]></ex>
+
+                    <ex><![CDATA[vt. 高兴，使快乐]]></ex>
+
+                    <ex><![CDATA[vi. 欣喜，欢喜]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Joy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[欢乐]]></ex>
+
+                            <ex><![CDATA[乔伊]]></ex>
+
+                            <ex><![CDATA[快乐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Joy Mckenzie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[麦肯兹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[joy stick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[操纵杆]]></ex>
+
+                            <ex><![CDATA[欢喜的手杖]]></ex>
+
+                            <ex><![CDATA[控制杆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

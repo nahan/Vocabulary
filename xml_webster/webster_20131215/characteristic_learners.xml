@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="characteristic[1]"> <hw highlight="yes" hindex="1">char*ac*ter*is*tic</hw> <sound><wav>charac05.wav</wav></sound> <pr>ˌkerɪktəˈrɪstɪk</pr> <fl>adjective</fl> <def><gram>more char*ac*ter*is*tic; most char*ac*ter*is*tic</gram> <dt>:typical of a person, thing, or group :showing the special qualities or traits of a person, thing, or group <vi>He responded to their comments with <it>characteristic</it> good humor.</vi> <vi>the herb's <it>characteristic</it> flavor</vi> <un>often + <it>of</it> <vi>Such behavior is not <it>characteristic of</it> a good neighbor.</vi></un></dt></def> <uro><ure>char*ac*ter*is*ti*cal*ly</ure> <sound><wav>charac06.wav</wav></sound> <pr>ˌkerɪktəˈrɪstɪkli</pr> <fl>adverb</fl> <utxt><vi>She was <it>characteristically</it> modest when she accepted the reward.</vi></utxt></uro></entry>
+
+	<entry id="characteristic[2]"> <hw highlight="yes" hindex="2">characteristic</hw> <altpr>ˌkerɪktəˈrɪstɪk</altpr> <fl>noun</fl> <in><il>plural</il> <if>characteristics</if></in> <def><gram>count</gram> <dt>:a special quality or trait that makes a person, thing, or group different from others <vi>physical/genetic <it>characteristics</it></vi> <un>often + <it>of</it> <vi>What are some of the <it>characteristics of</it> this breed of dog?</vi> <vi>the distinctive/unique <it>characteristics of</it> the population</vi></un></dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[commit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[提交]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kə'mɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[commit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[犯]]></ex>
+
+                            <ex><![CDATA[提交]]></ex>
+
+                            <ex><![CDATA[委托]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[SVN Commit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[版本提交]]></ex>
+
+                            <ex><![CDATA[提交]]></ex>
+
+                            <ex><![CDATA[提交改动]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[commit arson]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放火]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>basic</key>
+
+<ps>'beɪsɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/10/58/1058035d0aa596074e0b9266660eea0a.mp3</pron>
+
+<ps>ˈbesɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f1/7a/f17aaabc20bfe045075927934fed52d2.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>基本的；[化学]碱性的；[地质学]基性的；首要的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>基础，基本；基本原则，基本原理，基本规律；要素；基础训练；
+
+</acceptation>
+
+<sent><orig>
+
+Ordinary BASIC language lacks the basic logic structure statements such as IF-THEN-ELSE,DOWHILE or DOUNTIL.
+
+</orig>
+
+<trans>
+
+常用的BASIC语言就缺乏结构化编码的基本逻辑结构语句。
+
+</trans></sent>
+
+<sent><orig>
+
+Better yet, many of these toolkits are Visual Basic add-ons.
+
+</orig>
+
+<trans>
+
+更喜人的是，其中很多工具箱是Visual Basic附加模块。
+
+</trans></sent>
+
+<sent><orig>
+
+If the Value column shows BASIC, then select ALL or TYPICAL and click Apply.
+
+</orig>
+
+<trans>
+
+如果值字段显示为BASIC,那么你需要选择ALL或TYPICAL之一，然后点击应用。
+
+</trans></sent>
+
+<sent><orig>
+
+We also like the simple and robust development environment for the BASIC programming language.
+
+</orig>
+
+<trans>
+
+我们也喜欢BASIC晶片编程语言下简单稳健的研发环境。
+
+</trans></sent>
+
+<sent><orig>
+
+BASIC is now by far the most popular high-level language used in microcomputer system.
+
+</orig>
+
+<trans>
+
+目前，BASIC是微机系统中最为通用的一种高级程序语言。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>out</key>
+
+<ps>aʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4e/0a/4e0a86008d5fb68868c0e86d0993da01.mp3</pron>
+
+<ps>aʊt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c6/82/c68271a63ddbc431c307beb7d2918275.mp3</pron>
+
+<pos>adv.</pos>
+
+<acceptation>出局；在外，在外部；完全，彻底；出版；
+
+</acceptation>
+
+<pos>prep.</pos>
+
+<acceptation>（表示来源）从；（从…里）出来；（表示不在原状态）脱离；离去；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使熄灭；揭露；驱逐；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>外面的；出局的；下台的；外围的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>不流行；出局；
+
+</acceptation>
+
+<sent><orig>
+
+IN and OUT are both noise words that the DDK defines as empty strings.
+
+</orig>
+
+<trans>
+
+IN和OUT两个都是噪音码，DDK（把它俩）定义为空串。
+
+</trans></sent>
+
+<sent><orig>
+
+The OUT-OF-SERVICE-MANUAL state results from a manual removal of an AP from service.
+
+</orig>
+
+<trans>
+
+OUT-OF-SERVICE-MANUAL 状态是由手工使某个 AP 退出服务引起的。
+
+</trans></sent>
+
+<sent><orig>
+
+If L has an implicitly typed parameter list, D has no ref or out parameters.
+
+</orig>
+
+<trans>
+
+如果L有隐型参数列表，D不可有ref或out参数。
+
+</trans></sent>
+
+<sent><orig>
+
+Restoring an AP moves the AP from the OUT-OF-SERVICE (OOS) state to the ACTIVE state.
+
+</orig>
+
+<trans>
+
+恢复 AP 会使 AP 从 OUT-OF-SERVICE (OOS) 状态变为 ACTIVE 状态。
+
+</trans></sent>
+
+<sent><orig>
+
+The words'in','from','out' and 'of are prepositions.
+
+</orig>
+
+<trans>
+
+in,from, out,以及of都是介词。
+
+</trans></sent>
+
+</dict>

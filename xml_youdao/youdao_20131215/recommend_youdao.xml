@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[recommend]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[推荐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rekə'mend]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 推荐，介绍；劝告；使受欢迎；托付]]></ex>
+
+                    <ex><![CDATA[vi. 推荐；建议]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Recommend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[推荐]]></ex>
+
+                            <ex><![CDATA[劝告]]></ex>
+
+                            <ex><![CDATA[介绍]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Recommend products]]></key>
+
+            <value>
+
+                            <ex><![CDATA[推荐产品]]></ex>
+
+                            <ex><![CDATA[推举产品]]></ex>
+
+                            <ex><![CDATA[推选产品]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[GOODS RECOMMEND]]></key>
+
+            <value>
+
+                            <ex><![CDATA[优品推存]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stand]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[站]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stænd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 站立；立场；看台；停止]]></ex>
+
+                    <ex><![CDATA[vi. 站立；位于；停滞]]></ex>
+
+                    <ex><![CDATA[vt. 使站立；忍受；抵抗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[stand]]></key>
+
+            <value>
+
+                            <ex><![CDATA[站立]]></ex>
+
+                            <ex><![CDATA[看台]]></ex>
+
+                            <ex><![CDATA[忍受]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[stand out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[突出]]></ex>
+
+                            <ex><![CDATA[杰出]]></ex>
+
+                            <ex><![CDATA[引人注目]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bus stand]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公共汽车停车处]]></ex>
+
+                            <ex><![CDATA[汽车站台]]></ex>
+
+                            <ex><![CDATA[大众汽车泊车处]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

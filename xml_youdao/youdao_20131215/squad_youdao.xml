@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[squad]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[队]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skwɒd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 班；小队；五人组（篮球队的非正式说法）]]></ex>
+
+                    <ex><![CDATA[vt. 把…编成班；把…编入班]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Squad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[班]]></ex>
+
+                            <ex><![CDATA[小队]]></ex>
+
+                            <ex><![CDATA[五人组]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Thunder Squad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中华民国特种警察]]></ex>
+
+                            <ex><![CDATA[霹雳小组]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ghost Squad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幽灵战队]]></ex>
+
+                            <ex><![CDATA[幽灵小队]]></ex>
+
+                            <ex><![CDATA[魅影小队]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

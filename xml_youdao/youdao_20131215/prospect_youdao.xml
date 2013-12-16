@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[prospect]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[前景]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['prɒspekt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 前途；预期；景色]]></ex>
+
+                    <ex><![CDATA[vt. 勘探，勘察]]></ex>
+
+                    <ex><![CDATA[vi. 勘探，找矿]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[prospect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[前景]]></ex>
+
+                            <ex><![CDATA[前途]]></ex>
+
+                            <ex><![CDATA[展望]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bright prospect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[光明的前景]]></ex>
+
+                            <ex><![CDATA[辉煌的前程]]></ex>
+
+                            <ex><![CDATA[光明前景]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Prospect Park]]></key>
+
+            <value>
+
+                            <ex><![CDATA[展望公园]]></ex>
+
+                            <ex><![CDATA[希望公园]]></ex>
+
+                            <ex><![CDATA[瞻望公园]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

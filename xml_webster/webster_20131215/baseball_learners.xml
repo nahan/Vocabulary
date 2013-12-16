@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="baseball"> <hw highlight="yes">base*ball</hw> <sound><wav>baseba01.wav</wav></sound> <pr>ˈbeɪsˌbɑ:l</pr> <fl>noun</fl> <in><il>plural</il> <if>base*balls</if></in> <def><sn>1</sn> <sgram>noncount</sgram> <dt>:a game played on a large field by two teams of nine players who try to score runs by hitting a small ball with a bat and then running to each of the four bases without being put out <vi>He likes playing <it>baseball</it>.</vi> <vi>We watched <it>baseball</it> on TV last night.</vi> <un>often used before another noun <vi>a <it>baseball</it> player/team/game</vi> <vi>a <it>baseball</it> bat/card</vi></un> <dx>see pictures at <dxt>bat</dxt> <dxt>glove</dxt></dx></dt> <sn>2</sn> <sgram>count</sgram> <dt>:the ball used in baseball <dx>see picture at <dxt>ball</dxt></dx></dt></def></entry>
+
+	<entry id="baseball cap"> <hw>baseball cap</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ caps</if></in> <def><gram>count</gram> <dt>:a rounded cap that fits close to the head and that has a long visor <snote>Baseball caps were originally worn only by baseball players as part of their uniform but are now worn by many people.</snote> <dx>see picture at <dxt>hat</dxt></dx></dt></def></entry>
+
+</entry_list>

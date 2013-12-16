@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[difficult]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[困难]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dɪfɪk(ə)lt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 困难的；不随和的；执拗的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Difficult]]></key>
+
+            <value>
+
+                            <ex><![CDATA[困难]]></ex>
+
+                            <ex><![CDATA[难以]]></ex>
+
+                            <ex><![CDATA[艰难]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Difficult thing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[你做成的难事]]></ex>
+
+                            <ex><![CDATA[难事]]></ex>
+
+                            <ex><![CDATA[困难的事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[difficult position]]></key>
+
+            <value>
+
+                            <ex><![CDATA[困境]]></ex>
+
+                            <ex><![CDATA[困难的处境]]></ex>
+
+                            <ex><![CDATA[高难体位]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

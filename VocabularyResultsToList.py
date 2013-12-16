@@ -24,3 +24,13 @@ def ResultsToLists():
         index = index + 1
     
     return results0to800, results801to1600, results1601to2400, results2401to3093
+
+def ResultsToList():
+    
+    resultList = []
+    
+    results = RetrieveAllWordsFromLongman3000()
+    for result in results:
+        resultList.append(result[0])
+    
+    return resultList

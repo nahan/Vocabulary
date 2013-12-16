@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>chase</key>
+
+<ps>tʃeɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/32/bd/32bd4c62d9f331ad83e51b6de88b348a.mp3</pron>
+
+<ps>tʃes</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/cd/8e/cd8e7918010a87cc619849e00265c9a6.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>追捕；追求；追寻；镂刻；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>追捕；打猎；猎物（指鸟兽等）；槽；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>追逐，追赶；追寻；追求（常与after连用）；[口语] 奔跑；
+
+</acceptation>
+
+<sent><orig>
+
+Chase dismisses him and even Cameron is impressed.
+
+</orig>
+
+<trans>
+
+他们进行了各种测试，House指责了Chase帮Amber做测试。
+
+</trans></sent>
+
+<sent><orig>
+
+Chase shows Krista the signs they use to indicate safe locations.
+
+</orig>
+
+<trans>
+
+Chase告诉krista哪些记号代表安全地带。
+
+</trans></sent>
+
+<sent><orig>
+
+And a low-complexity erased Chase algorithm is developed.
+
+</orig>
+
+<trans>
+
+提出了一种带删除的Chase算法，在译码性能和复杂度之间取得了比较好的折衷。
+
+</trans></sent>
+
+<sent><orig>
+
+An algorithm for soft-decision decoding (15, 11) RS is presented, which refers to the Chase algorithm.
+
+</orig>
+
+<trans>
+
+本文利用Chase算法的思想，将软判决译码应用到RS(15，11)码上，降低了译码的复杂度。
+
+</trans></sent>
+
+<sent><orig>
+
+If Pooh were here, he must chase these leaves. Let me chase them too.
+
+</orig>
+
+<trans>
+
+如果维尼在这里，他肯定会追这些树叶，让我也来追树叶吧。
+
+</trans></sent>
+
+</dict>

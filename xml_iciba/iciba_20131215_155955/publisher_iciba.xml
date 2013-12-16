@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>publisher</key>
+
+<ps>ˈpʌblɪʃə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/2f/af/2faf8b3aa94b3b777949f638caea88c4.mp3</pron>
+
+<ps>ˈpʌblɪʃɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/52/ad/52aded165360352a0f5857571d96d68f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>出版者，出版商，出版社；公布者，发表者；〈美〉办报者；
+
+</acceptation>
+
+<sent><orig>
+
+In-house typesetting: Typesetting carried out inside a publisher's premises, and controlled by the publisher.
+
+</orig>
+
+<trans>
+
+内部排字：设于出版社内，并由它控制的排字工作。
+
+</trans></sent>
+
+<sent><orig>
+
+Publisher '%s', publisher database '%s', publication '%s' is not a valid synchronization partner.
+
+</orig>
+
+<trans>
+
+发布服务器''%1！''、发布服务器数据库''%2！''、发布''%3！''不是有效的同步合作者。
+
+</trans></sent>
+
+<sent><orig>
+
+Publisher '%s', publisher database '%s', and publication '%s' are not valid synchronization partners.
+
+</orig>
+
+<trans>
+
+发布服务器''%1！''、发布服务器数据库''%2！''、发布''%3！''不是有效的同步伙伴。
+
+</trans></sent>
+
+<sent><orig>
+
+There is no subscription on Publisher '%s', publisher database '%s', publication '%s'.
+
+</orig>
+
+<trans>
+
+没有对发布服务器''%1！''，发布服务器数据库''%2！''，发布''%3！''的订阅。
+
+</trans></sent>
+
+<sent><orig>
+
+Cannot drop Distribution Publisher '%s'. The remote Publisher is using '%s' as Distributor.
+
+</orig>
+
+<trans>
+
+无法除去分发发布者''%1！''。远程发布服务器正在使用''%2！''作为分发服务器。
+
+</trans></sent>
+
+</dict>

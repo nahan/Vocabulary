@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[anxious]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[焦虑]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['æŋ(k)ʃəs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 焦虑的；担忧的；渴望的；急切的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Anxious]]></key>
+
+            <value>
+
+                            <ex><![CDATA[急于]]></ex>
+
+                            <ex><![CDATA[忧虑的]]></ex>
+
+                            <ex><![CDATA[焦虑的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[anxious a]]></key>
+
+            <value>
+
+                            <ex><![CDATA[焦虑的]]></ex>
+
+                            <ex><![CDATA[忧虑的]]></ex>
+
+                            <ex><![CDATA[担心的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Anxious Syndrome]]></key>
+
+            <value>
+
+                            <ex><![CDATA[焦虑综合征]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

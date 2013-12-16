@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[broad]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[广泛的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[brɔːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 宽阔部分]]></ex>
+
+                    <ex><![CDATA[adj. 宽的，辽阔的；显著的；大概的]]></ex>
+
+                    <ex><![CDATA[adv. 宽阔地]]></ex>
+
+                    <ex><![CDATA[n. (Broad)人名；(英、德)布罗德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[broad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宽的]]></ex>
+
+                            <ex><![CDATA[布罗德]]></ex>
+
+                            <ex><![CDATA[广阔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[broad bean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蚕豆]]></ex>
+
+                            <ex><![CDATA[蠺豆]]></ex>
+
+                            <ex><![CDATA[胡豆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Broad stingray]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鬼魟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

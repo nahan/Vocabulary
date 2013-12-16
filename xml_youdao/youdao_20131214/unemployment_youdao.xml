@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[unemployment]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[失业]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌnɪm'plɒɪm(ə)nt; -em-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 失业；失业率；失业人数]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Unemployment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失业]]></ex>
+
+                            <ex><![CDATA[失业率]]></ex>
+
+                            <ex><![CDATA[失业人数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unemployment benefit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失业救济]]></ex>
+
+                            <ex><![CDATA[失业津贴]]></ex>
+
+                            <ex><![CDATA[失业救济金]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unemployment pension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[失业津贴]]></ex>
+
+                            <ex><![CDATA[失业救济金]]></ex>
+
+                            <ex><![CDATA[线索借助搭配结构含义判断答案的香草”最合适]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

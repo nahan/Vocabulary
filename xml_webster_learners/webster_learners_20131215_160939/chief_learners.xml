@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chief[1]"> <hw highlight="yes" hindex="1">chief</hw> <sound><wav>chief001.wav</wav></sound> <pr>ˈtʃi:f</pr> <fl>noun</fl> <in><il>plural</il> <if>chiefs</if></in> <def><gram>count</gram> <dt>:the person who is the leader of a group of people, of an organization, etc. <vi>She's the <it>chief</it> of surgery [=the doctor who is in charge of the surgical department] at the hospital.</vi> <vi>the police <it>chief</it> = the <it>chief of police</it></vi> <vi>the fire <it>chief</it> [=the head of a department of firefighters]</vi> <vi>an Indian <it>chief</it> [=the leader of a tribe of Native Americans]</vi></dt></def></entry>
+
+	<entry id="chief[2]"> <hw highlight="yes" hindex="2">chief</hw> <altpr>ˈtʃi:f</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><sn>1</sn> <dt>:highest in rank or authority <vi>the <it>chief</it> engineer on the project</vi> <vi>the company's <it>chief</it> executive</vi> <dx>see also <dxt>commander in chief</dxt> <dxt>editor in chief</dxt></dx></dt> <sn>2</sn> <dt>:most important :<sx>main</sx> <vi>Her job is their <it>chief</it> source of income.</vi> <vi>their <it>chief</it> accomplishment</vi> <vi>our <it>chief</it> competitor</vi> <vi>He has many concerns, <it>chief</it> among them his health.</vi></dt></def></entry>
+
+	<entry id="chief constable"> <hw>chief constable</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -stables</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a police officer who is in charge of a police force</dt></def></entry>
+
+	<entry id="chief executive"> <hw>chief executive</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tives</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:<sx>ceo</sx></dt> <sn>2 a</sn> <dt>:the president of a country <vi>The President is the <it>chief executive</it> of the U.S.</vi></dt> <sn>b</sn> <dt>:the governor of a U.S. state</dt></def></entry>
+
+	<entry id="chief executive officer"> <hw>chief executive officer</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cers</if></in> <def><gram>count</gram> <dt>:<sx>ceo</sx></dt></def></entry>
+
+	<entry id="chief justice"> <hw>chief justice</hw> <vr><vl>or</vl> <va>Chief Justice</va></vr> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tices</if></in> <def><gram>count</gram> <dt>:the most important and powerful judge of a court of law and especially of the U.S. Supreme Court</dt></def></entry>
+
+	<entry id="chief of staff"> <hw>chief of staff</hw> <fl>noun</fl> <in><il>plural</il> <if>chiefs of staff</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person of high rank in the U.S. Army, Navy, Air Force, or Marines who advises the person in charge of military operations <dx>see also <dxt>joint chiefs of staff</dxt></dx></dt> <sn>2</sn> <dt>:a person of high rank who advises a leader (such as the U.S. President) on important matters <vi>the White House <it>Chief of Staff</it></vi></dt></def></entry>
+
+	<entry id="chief of state"> <hw>chief of state</hw> <fl>noun</fl> <in><il>plural</il> <if>chiefs of state</if></in> <def><gram>count</gram> <dt>:a person who is formally recognized as the leader of a country <vi>a meeting with foreign chiefs of state</vi></dt></def></entry>
+
+	<entry id="commander in chief"> <hw>commander in chief</hw> <fl>noun</fl> <in><il>plural</il> <if>commanders in chief</if></in> <def><gram>count</gram> <dt>:a person who is in charge of all the armed forces of an entire country <vi>The President exercised his power as <it>commander in chief</it> to deploy forces in the region.</vi></dt></def></entry>
+
+	<entry id="editor in chief"> <hw>editor in chief</hw> <fl>noun</fl> <in><il>plural</il> <if>editors in chief</if></in> <def><gram>count</gram> <dt>:a person whose job is to be in charge of a group of editors <vi>the magazine's <it>editor in chief</it> = the <it>editor in chief</it> of the magazine</vi></dt></def></entry>
+
+</entry_list>

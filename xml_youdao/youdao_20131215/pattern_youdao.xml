@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pattern]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[模式]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pæt(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 模式；图案；样品]]></ex>
+
+                    <ex><![CDATA[vt. 模仿；以图案装饰]]></ex>
+
+                    <ex><![CDATA[vi. 形成图案]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pattern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[图案]]></ex>
+
+                            <ex><![CDATA[模式]]></ex>
+
+                            <ex><![CDATA[式]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Proxy pattern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[代理模式]]></ex>
+
+                            <ex><![CDATA[代办形式]]></ex>
+
+                            <ex><![CDATA[代办模式]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Strategy pattern]]></key>
+
+            <value>
+
+                            <ex><![CDATA[策略模式]]></ex>
+
+                            <ex><![CDATA[计谋模式]]></ex>
+
+                            <ex><![CDATA[计谋形式]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

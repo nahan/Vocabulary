@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[国家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['neɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 国家；民族；国民]]></ex>
+
+                    <ex><![CDATA[n. (Nation)人名；(英)内申]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Nation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[民族]]></ex>
+
+                            <ex><![CDATA[国家]]></ex>
+
+                            <ex><![CDATA[一词有民族和国家的含义]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[One Nation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[单一民族党]]></ex>
+
+                            <ex><![CDATA[一族党]]></ex>
+
+                            <ex><![CDATA[一国党]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Prozac Nation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[少女初体验]]></ex>
+
+                            <ex><![CDATA[普罗萨克王国]]></ex>
+
+                            <ex><![CDATA[忧郁症女人]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

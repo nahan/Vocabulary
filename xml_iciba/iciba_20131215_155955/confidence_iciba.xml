@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>confidence</key>
+
+<ps>'kɒnfɪdəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a0/9a/a09aae1ee197685c0035caf400d175ae.mp3</pron>
+
+<ps>ˈkɑnfɪdəns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8b/f9/8bf91b0f43ddf159ed36ad0f50ee3e04.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>信心；信任；秘密；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>骗得信任的；欺诈的；
+
+</acceptation>
+
+<sent><orig>
+
+Confidence is obeying, and obeys need confidence.
+
+</orig>
+
+<trans>
+
+信心就是顺服，而顺服需要信心。
+
+</trans></sent>
+
+<sent><orig>
+
+Confidence limits are the upper and lower limits of the confidence interval.
+
+</orig>
+
+<trans>
+
+置信限是指置信区间的界限。
+
+</trans></sent>
+
+<sent><orig>
+
+There is no innate confidence, but only the confidence fostered in continuous.
+
+</orig>
+
+<trans>
+
+没有天生的信心，只有不断培养的信心。
+
+</trans></sent>
+
+<sent><orig>
+
+It takes confidence to pull it off with a straight face -- too much confidence.
+
+</orig>
+
+<trans>
+
+这需要很大的勇气来摆上一脸严肃的表情。
+
+</trans></sent>
+
+<sent><orig>
+
+Confidence regions generalise the confidence interval concept to deal with multiple quantities.
+
+</orig>
+
+<trans>
+
+置信区域产生了置信区间这个概念以处理各种不同的数量。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[corner]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[角落里]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɔːnə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 角落，拐角处；地区，偏僻处；困境，窘境]]></ex>
+
+                    <ex><![CDATA[vt. 垄断；迫至一隅；使陷入绝境；把…难住]]></ex>
+
+                    <ex><![CDATA[vi. 囤积；相交成角]]></ex>
+
+                    <ex><![CDATA[n. (Corner)人名；(法)科尔内；(英)科纳]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[corner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[角落]]></ex>
+
+                            <ex><![CDATA[拐角]]></ex>
+
+                            <ex><![CDATA[角]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Red Corner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[红角落]]></ex>
+
+                            <ex><![CDATA[红色角落]]></ex>
+
+                            <ex><![CDATA[红角]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[corner effect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[锐角效应]]></ex>
+
+                            <ex><![CDATA[角效应]]></ex>
+
+                            <ex><![CDATA[角隅作用]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[asleep]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[睡着了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'sliːp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 睡着的；麻木的；长眠的]]></ex>
+
+                    <ex><![CDATA[adv. 熟睡地；进入睡眠状态]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[asleep]]></key>
+
+            <value>
+
+                            <ex><![CDATA[睡着的]]></ex>
+
+                            <ex><![CDATA[熟睡]]></ex>
+
+                            <ex><![CDATA[在熟睡中]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Almost asleep]]></key>
+
+            <value>
+
+                            <ex><![CDATA[快要睡着了]]></ex>
+
+                            <ex><![CDATA[将近睡着了]]></ex>
+
+                            <ex><![CDATA[平静]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[fast asleep]]></key>
+
+            <value>
+
+                            <ex><![CDATA[睡得很熟]]></ex>
+
+                            <ex><![CDATA[很快地入睡]]></ex>
+
+                            <ex><![CDATA[酣睡]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

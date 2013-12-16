@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tail]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[尾巴]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[teɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 尾巴；踪迹；辫子；燕尾服]]></ex>
+
+                    <ex><![CDATA[adj. 从后面而来的；尾部的]]></ex>
+
+                    <ex><![CDATA[vt. 尾随；装上尾巴]]></ex>
+
+                    <ex><![CDATA[vi. 跟踪；变少或缩小]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tail]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尾]]></ex>
+
+                            <ex><![CDATA[尾巴]]></ex>
+
+                            <ex><![CDATA[尾部]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Saint Tail]]></key>
+
+            <value>
+
+                            <ex><![CDATA[怪盗St]]></ex>
+
+                            <ex><![CDATA[怪盗圣少女]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Yellow Tail]]></key>
+
+            <value>
+
+                            <ex><![CDATA[黄尾袋鼠]]></ex>
+
+                            <ex><![CDATA[黄狮鱼]]></ex>
+
+                            <ex><![CDATA[黄尾]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

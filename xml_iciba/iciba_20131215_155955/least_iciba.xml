@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>least</key>
+
+<ps>li:st</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/17/c1/17c114c59326b328ab989f8a4c3329dc.mp3</pron>
+
+<ps>list</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/84/51/8451fc653eaa269664a6d9b46a238424.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>最小的；最少的( little的最高级)；最不重要的，地位最低的；
+
+</acceptation>
+
+<pos>adv.</pos>
+
+<acceptation>最少，最小；
+
+</acceptation>
+
+<pos>n</pos>
+
+<acceptation>最小；最少量；
+
+</acceptation>
+
+<sent><orig>
+
+Carol had the least publicity and least criticism of them all.
+
+</orig>
+
+<trans>
+
+卡罗尔是最不受注意和最少受到抨击的人。
+
+</trans></sent>
+
+<sent><orig>
+
+Risk Aversion Principle: Take the action that produces the least harm or the least potential cost.
+
+</orig>
+
+<trans>
+
+避免风险原理：采取能够制造极少潜在成本和最少伤害的行动。
+
+</trans></sent>
+
+<sent><orig>
+
+Rule of Least Surprise: In interface design, always do the least surprising thing.
+
+</orig>
+
+<trans>
+
+最少意外原则：在接口设计上，让人感觉意外的地方永远要控制在最少。
+
+</trans></sent>
+
+<sent><orig>
+
+COMMAND THE LEAST Current player commands the least units.
+
+</orig>
+
+<trans>
+
+当前玩家最少控制多少单位时。
+
+</trans></sent>
+
+<sent><orig>
+
+The total least square method has more fitting precision than the least square one.
+
+</orig>
+
+<trans>
+
+针对这种情况，论述并证明了用全最小二乘法比用最小二乘法能获得更高的拟合精度。
+
+</trans></sent>
+
+</dict>

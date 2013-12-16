@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[call]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[调用]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɔːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 电话；呼叫；要求；访问]]></ex>
+
+                    <ex><![CDATA[vi. 呼叫；拜访；叫牌]]></ex>
+
+                    <ex><![CDATA[vt. 呼叫；称呼；召集]]></ex>
+
+                    <ex><![CDATA[n. (Call)人名；(瑞典、罗)卡尔；(英)考尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Call]]></key>
+
+            <value>
+
+                            <ex><![CDATA[称为]]></ex>
+
+                            <ex><![CDATA[调用]]></ex>
+
+                            <ex><![CDATA[叫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Call Center]]></key>
+
+            <value>
+
+                            <ex><![CDATA[呼叫中心]]></ex>
+
+                            <ex><![CDATA[客户服务中心]]></ex>
+
+                            <ex><![CDATA[客服中心]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[call on]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拜访]]></ex>
+
+                            <ex><![CDATA[访问]]></ex>
+
+                            <ex><![CDATA[号召]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

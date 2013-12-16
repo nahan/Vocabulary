@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[naughty]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[淘气的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nɔːtɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 顽皮的，淘气的；不听话的；没规矩的；不适当的；下流的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[naughty]]></key>
+
+            <value>
+
+                            <ex><![CDATA[顽皮的]]></ex>
+
+                            <ex><![CDATA[淘气的]]></ex>
+
+                            <ex><![CDATA[调皮的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Naughty Cafeteria]]></key>
+
+            <value>
+
+                            <ex><![CDATA[咖啡厅诱惑美女]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Naughty Dog]]></key>
+
+            <value>
+
+                            <ex><![CDATA[顽皮狗]]></ex>
+
+                            <ex><![CDATA[顽皮狗工作室]]></ex>
+
+                            <ex><![CDATA[淘气狗]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

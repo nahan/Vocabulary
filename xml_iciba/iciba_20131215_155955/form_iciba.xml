@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>form</key>
+
+<ps>fɔ:m</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/3f/cd/3fcdb73d36d54f2cc22d0f68e6b6e182.mp3</pron>
+
+<ps>fɔrm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/3f/cd/3fcdb73d36d54f2cc22d0f68e6b6e182.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>形状，形式；外形；方式；表格；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>形成；构成；组织；塑造；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>形成，产生；排队，整队；
+
+</acceptation>
+
+<sent><orig>
+
+This example demonstrates how the Form collection retrieves the values from a form.
+
+</orig>
+
+<trans>
+
+这个例子讲告诉我们Form集合是如何通过表单获得特定值的。
+
+</trans></sent>
+
+<sent><orig>
+
+A form collection in its simplest use.
+
+</orig>
+
+<trans>
+
+Form集合最简单的使用方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Substance over form is an important principle in accounting.
+
+</orig>
+
+<trans>
+
+实质重于形式(substance over form)原则是会计核算中应遵守的重要原则。
+
+</trans></sent>
+
+<sent><orig>
+
+Fully functional interface design that lets you re-run during the design Form interface!
+
+</orig>
+
+<trans>
+
+完全实用的界面设计器，让你再运行时期设计Form界面！
+
+</trans></sent>
+
+<sent><orig>
+
+This example demonstrates what the Form collection contains if several input fields have the same name.
+
+</orig>
+
+<trans>
+
+这个例子讲告诉我们，如果一些input输入区的名称(name)相同，那么Form将包含的内容。
+
+</trans></sent>
+
+</dict>

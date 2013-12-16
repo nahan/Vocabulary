@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fortune]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[财富]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fɔːtʃuːn; -tʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 财富；命运；运气]]></ex>
+
+                    <ex><![CDATA[vt. 给予财富]]></ex>
+
+                    <ex><![CDATA[vi. 偶然发生]]></ex>
+
+                    <ex><![CDATA[n. (Fortune)人名；(英)福琼；(法)福蒂纳]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Fortune]]></key>
+
+            <value>
+
+                            <ex><![CDATA[财富]]></ex>
+
+                            <ex><![CDATA[财富杂志]]></ex>
+
+                            <ex><![CDATA[命运]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fortune cookie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幸运饼干]]></ex>
+
+                            <ex><![CDATA[签语饼]]></ex>
+
+                            <ex><![CDATA[幸运饼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Quinton Fortune]]></key>
+
+            <value>
+
+                            <ex><![CDATA[昆顿·福琼]]></ex>
+
+                            <ex><![CDATA[福琼]]></ex>
+
+                            <ex><![CDATA[奎因顿·福琼]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>instrument</key>
+
+<ps>'ɪnstrəmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/a3/e2/a3e2db954c76e15bfab8020e28db26f5.mp3</pron>
+
+<ps>ˈɪnstrəmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/2d/08/2d083cc4d6c7dfd9bbb410ca83a833e7.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>仪器；手段，工具；乐器；法律文件；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>用仪器装备；为演奏谱曲；向…提交文书；
+
+</acceptation>
+
+<sent><orig>
+
+A signal analysis instrument and stress analysis instrument were developed based on the virtual instrument.
+
+</orig>
+
+<trans>
+
+结合一个虚拟信号分析仪的设计开发，介绍了仪器的总体结构和功能。
+
+</trans></sent>
+
+<sent><orig>
+
+Produce optical products, for example camera, sun glass, chemical instrument, injector, analytical instrument and plastic products.
+
+</orig>
+
+<trans>
+
+生产光学产品，如照相机，太阳眼镜，化学仪器，注射器，分析仪及塑胶制品等。
+
+</trans></sent>
+
+<sent><orig>
+
+This recording instrument is the moving coil instrument.
+
+</orig>
+
+<trans>
+
+本记录仪是磁电式仪表。
+
+</trans></sent>
+
+<sent><orig>
+
+Remove the instrument panel top paRefer to Instrument Panel Top Pad Panel Systems for the procedures.
+
+</orig>
+
+<trans>
+
+拆去仪器面板顶垫。请参见8E单元的仪器面板顶垫程序仪器面板系统。
+
+</trans></sent>
+
+<sent><orig>
+
+The instrument being made by the workers is a new type of measuring instrument.
+
+</orig>
+
+<trans>
+
+工人们正在制造的这台仪器是一台新型的测量仪。
+
+</trans></sent>
+
+</dict>

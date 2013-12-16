@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>web</key>
+
+<ps>web</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/31/44/3144bd439aa47f49c6fcc17bc983658e.mp3</pron>
+
+<ps>wɛb</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/25/67/2567a5ec9705eb7ac2c984033e06189d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>蜘蛛网，网状物；[机]万维网；织物；圈套；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>在…上织网；用网缠住；使中圈套；形成网状；
+
+</acceptation>
+
+<sent><orig>
+
+Enter a technique called Web switching.Web switching is designed to address the requirements of Web traffic.
+
+</orig>
+
+<trans>
+
+请采用一种叫Web交换的技术吧，Web交换设计来解决Web流量的需求。
+
+</trans></sent>
+
+<sent><orig>
+
+Web application indicates that users are permitted to use Web browser to perform business logic.
+
+</orig>
+
+<trans>
+
+Web应用就是一个允许其用户利用Web浏览器执行业务逻辑的Web系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Web search engine is one of the applications of web mining technologies.
+
+</orig>
+
+<trans>
+
+Web挖掘技术的应用之一就是Web搜索引擎。
+
+</trans></sent>
+
+<sent><orig>
+
+HTTP is a text-based protocol for a Web browser to access Web pages.
+
+</orig>
+
+<trans>
+
+HTTP是一个基于文本的协议，用于通过Web浏览器来检索Web页面。
+
+</trans></sent>
+
+<sent><orig>
+
+Meanwhile, we describe data organization data structure of web data warehouse and development of web technology.
+
+</orig>
+
+<trans>
+
+同时对Web数据仓库的数据组织、结构及Web技术的发展进行了描述。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[plan]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[计划]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[plæn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 计划；平面图]]></ex>
+
+                    <ex><![CDATA[vt. 计划；设计；打算]]></ex>
+
+                    <ex><![CDATA[vi. 计划；打算]]></ex>
+
+                    <ex><![CDATA[n. (Plan)人名；(瑞典)普兰；(法)普朗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[plan]]></key>
+
+            <value>
+
+                            <ex><![CDATA[计划]]></ex>
+
+                            <ex><![CDATA[平面图]]></ex>
+
+                            <ex><![CDATA[规划]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[development plan]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发展规划]]></ex>
+
+                            <ex><![CDATA[发展计划]]></ex>
+
+                            <ex><![CDATA[开发计划]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Floor plan]]></key>
+
+            <value>
+
+                            <ex><![CDATA[平面图]]></ex>
+
+                            <ex><![CDATA[楼面平面图]]></ex>
+
+                            <ex><![CDATA[楼层平面图]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

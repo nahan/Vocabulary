@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wonder]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[想知道]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wʌndə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 惊奇；奇迹；惊愕]]></ex>
+
+                    <ex><![CDATA[adj. 奇妙的；非凡的]]></ex>
+
+                    <ex><![CDATA[vi. 怀疑；想知道；惊讶]]></ex>
+
+                    <ex><![CDATA[vt. 怀疑；惊奇；对…感到惊讶]]></ex>
+
+                    <ex><![CDATA[n. (Wonder)人名；(英)旺德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[wonder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奇迹]]></ex>
+
+                            <ex><![CDATA[想知道]]></ex>
+
+                            <ex><![CDATA[惊奇]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Blue Wonder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蓝色惊奇]]></ex>
+
+                            <ex><![CDATA[蓝色奇迹]]></ex>
+
+                            <ex><![CDATA[大海的奇迹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Wonder Momo]]></key>
+
+            <value>
+
+                            <ex><![CDATA[神奇女孩]]></ex>
+
+                            <ex><![CDATA[奇异女孩]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[minor]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[小]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['maɪnə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 未成年人；小调；副修科目]]></ex>
+
+                    <ex><![CDATA[adj. 未成年的；次要的；较小的；小调的；二流的]]></ex>
+
+                    <ex><![CDATA[vi. 副修]]></ex>
+
+                    <ex><![CDATA[n. (Minor)人名；(英)迈纳；(德、法、波、俄)米诺尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[minor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小调]]></ex>
+
+                            <ex><![CDATA[副修]]></ex>
+
+                            <ex><![CDATA[未成年人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Canis Minor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小犬座]]></ex>
+
+                            <ex><![CDATA[小犬星座]]></ex>
+
+                            <ex><![CDATA[地狱犬座]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ursa Minor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小熊座]]></ex>
+
+                            <ex><![CDATA[大熊座]]></ex>
+
+                            <ex><![CDATA[小熊星座]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

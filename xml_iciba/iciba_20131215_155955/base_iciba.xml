@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>base</key>
+
+<ps>beɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/8b/02/8b02f5972a929911cd70cc583d3519dd.mp3</pron>
+
+<ps>bes</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/59/36/593616de15330c0fb2d55e55410bf994.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>基础；基地；根据；基数（如十进制的10 和二进制的2）；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>基于；把…建立在；把…放在或设在（基地）；把…置于底座（或基座）上；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>卑鄙的；低级的；贱的，劣的；庶生的；
+
+</acceptation>
+
+<sent><orig>
+
+Replace the base part of file name with base.
+
+</orig>
+
+<trans>
+
+以base替换文件名的基名部分。
+
+</trans></sent>
+
+<sent><orig>
+
+Beancounters and thier minions can now make pretty documents from databases using Base's new reporting engine.
+
+</orig>
+
+<trans>
+
+报表爱省钱的老板和他们的奴才们现在可以使用base的新报表引擎制作出精美的文件了。
+
+</trans></sent>
+
+<sent><orig>
+
+The other is using varactor diodes to cancel the nonlinearity of base-collector capacitance.
+
+</orig>
+
+<trans>
+
+另外一种技术是通过可变电容来补偿base-collector电容。
+
+</trans></sent>
+
+<sent><orig>
+
+Base: transparent round or square glass base; Or Iron base plated.
+
+</orig>
+
+<trans>
+
+底座：玻璃底座或金属镀铬底座，但是报价不含底座。
+
+</trans></sent>
+
+<sent><orig>
+
+The aim is to make 1,000Base-F backward-compatible with 100Base-T and 10Base-T, preserving a smooth migration path.
+
+</orig>
+
+<trans>
+
+目的是要使1000Base-F与100Base-T和10Base-T后向兼容，保持一条平滑过渡的道路。
+
+</trans></sent>
+
+</dict>

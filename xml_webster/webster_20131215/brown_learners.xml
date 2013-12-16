@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="brown[1]"> <hw highlight="yes" hindex="1">brown</hw> <sound><wav>brown001.wav</wav></sound> <pr>ˈbraʊn</pr> <fl>adjective</fl> <in><if>-er</if></in> <in><if>-est</if></in> <def><sn>1</sn> <dt>:having a color like coffee or chocolate <vi>a <it>brown</it> cow</vi> <vi>The door was <it>brown</it>.</vi></dt> <sn>2</sn> <dt>:having dark or tanned skin <vi>workers whose backs are <it>brown</it> from long hours in the sun</vi></dt></def></entry>
+
+	<entry id="brown[2]"> <hw highlight="yes" hindex="2">brown</hw> <altpr>ˈbraʊn</altpr> <fl>noun</fl> <in><il>plural</il> <if>browns</if></in> <def><dt>:a color like the color of coffee or chocolate <wsgram>noncount</wsgram> <vi>a shade of <it>brown</it></vi> <vi>The room was decorated in <it>brown</it>.</vi> <wsgram>count</wsgram> <vi>a mix of <it>browns</it> and reds</vi> <dx>see color picture on page C1</dx></dt></def> <uro><ure>brown*ish</ure> <sound><wav>brown002.wav</wav></sound> <pr>ˈbraʊnɪʃ</pr> <fl>adjective</fl> <gram>more brown*ish; most brown*ish</gram> <utxt><vi><it>brownish</it> eyes</vi></utxt></uro></entry>
+
+	<entry id="brown[3]"> <hw hindex="3">brown</hw> <altpr>ˈbraʊn</altpr> <fl>verb</fl> <in><if>browns</if></in> <in><if>browned</if></in> <in><if>brown*ing</if></in> <def><dt>:to make (something) brown or to become brown especially by cooking or heating <wsgram>+ obj</wsgram> <vi><it>Brown</it> the chicken in a pan with butter.</vi> <vi>lightly <it>browned</it> sausages</vi> <vi>Her skin was <it>browned</it> by the sun.</vi> <wsgram>no obj</wsgram> <vi>The chicken is <it>browning</it> in the oven.</vi></dt></def></entry>
+
+	<entry id="brown sugar"> <hw>brown sugar</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a type of sugar that is brown because it contains a dark syrup (called molasses)</dt></def></entry>
+
+	<entry id="nut-brown"> <hw>nut–brown</hw> <sound><wav>nutbro01.wav</wav></sound> <pr>ˈnʌtˈbraʊn</pr> <fl>adjective</fl> <def><dt>:medium brown or dark brown in color <vi><it>nut-brown</it> hair</vi></dt></def></entry>
+
+</entry_list>

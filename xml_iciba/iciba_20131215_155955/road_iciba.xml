@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>road</key>
+
+<ps>rəʊd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/3c/68/3c68cbe461787ba38509df85e731f1a6.mp3</pron>
+
+<ps>rəʊd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/3c/68/3c68cbe461787ba38509df85e731f1a6.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>路；通路；途径；方法；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>在…设置路障；（狗）沿臭迹追逐（猎物）；（狗）闻着臭迹追；
+
+</acceptation>
+
+<sent><orig>
+
+Road, milk Chalmers Road, Wai Man Road, industrial road communication between North and South East region.
+
+</orig>
+
+<trans>
+
+新华路、乳韶路、惠民路、工业大路沟通区内东西南北。
+
+</trans></sent>
+
+<sent><orig>
+
+Various terrain and road condition, including off-the-road and wet road.
+
+</orig>
+
+<trans>
+
+适应于各种地形和路况设计、越野行驶起伏路况行驶湿路行驶（请理顺中文！）
+
+</trans></sent>
+
+<sent><orig>
+
+Road with a sharp curve. Attach to other road segments to create road layouts.
+
+</orig>
+
+<trans>
+
+有急弯道的道路。连接到其他路段，以创建道路布局图。
+
+</trans></sent>
+
+<sent><orig>
+
+Road with a gentle curve. Attach to other road segments to create road layouts.
+
+</orig>
+
+<trans>
+
+有缓弯道的道路。连接到其他路段，以创建道路布局图。
+
+</trans></sent>
+
+<sent><orig>
+
+Ma Pei Road to the main road network around the township, every village had a road.
+
+</orig>
+
+<trans>
+
+以裴麻公路为主的道路网络遍布全乡，村村通了公路。
+
+</trans></sent>
+
+</dict>

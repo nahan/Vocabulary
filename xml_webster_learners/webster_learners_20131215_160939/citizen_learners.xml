@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="citizen"> <hw highlight="yes">cit*i*zen</hw> <sound><wav>citize01.wav</wav></sound> <pr>ˈsɪtəzən</pr> <fl>noun</fl> <in><il>plural</il> <if>cit*i*zens</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who legally belongs to a country and has the rights and protection of that country <vi>She was a United States <it>citizen</it> but lived most of her life abroad.</vi> <vi>a group of Japanese <it>citizens</it></vi> <vi>I've been treated like a <phrase>second-class citizen</phrase>. [=someone who is not given the same rights as other people]</vi></dt> <sn>2</sn> <dt>:a person who lives in a particular place <vi>the <it>citizens of</it> Boston</vi> <dx>see also <dxt>senior citizen</dxt></dx></dt></def></entry>
+
+	<entry id="citizen's arrest"> <hw>citizen's arrest</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -rests</if></in> <def><gram>count</gram> <dt>:an arrest made by a citizen rather than by the police</dt></def></entry>
+
+	<entry id="senior citizen"> <hw>senior citizen</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -zens</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:an old person <vi>programs/activities for <it>senior citizens</it></vi> :a person who is at least a certain age (such as 55) <vi><it>Senior citizens</it> qualify for a discount at the movie theater.</vi></dt></def></entry>
+
+</entry_list>

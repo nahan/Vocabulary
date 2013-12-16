@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[garbage]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[垃圾]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['gɑːbɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 垃圾；废物]]></ex>
+
+                    <ex><![CDATA[n. (Garbage)人名；(法)加尔巴热]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[garbage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾]]></ex>
+
+                            <ex><![CDATA[废物]]></ex>
+
+                            <ex><![CDATA[废料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[garbage can]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾箱]]></ex>
+
+                            <ex><![CDATA[垃圾桶]]></ex>
+
+                            <ex><![CDATA[垃圾筒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Garbage picking]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾搜寻]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

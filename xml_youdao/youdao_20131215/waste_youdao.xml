@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[waste]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[浪费]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[weɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 浪费；废物；荒地；损耗；地面风化物]]></ex>
+
+                    <ex><![CDATA[adj. 废弃的；多余的；荒芜的]]></ex>
+
+                    <ex><![CDATA[vt. 浪费；消耗；使荒芜]]></ex>
+
+                    <ex><![CDATA[vi. 浪费；变消瘦；挥霍钱财]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Waste]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾]]></ex>
+
+                            <ex><![CDATA[废物]]></ex>
+
+                            <ex><![CDATA[废料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Waste container]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾桶]]></ex>
+
+                            <ex><![CDATA[废物箱]]></ex>
+
+                            <ex><![CDATA[废物容器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Waste sorting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾分类]]></ex>
+
+                            <ex><![CDATA[生活垃圾大分类]]></ex>
+
+                            <ex><![CDATA[做到垃圾分类]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

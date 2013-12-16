@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[collar]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[领]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒlə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 衣领；颈圈]]></ex>
+
+                    <ex><![CDATA[vt. 抓住；给…上领子；给…套上颈圈]]></ex>
+
+                    <ex><![CDATA[n. (Collar)人名；(法)科拉尔；(西)科利亚尔；(英)科勒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[COLLAR]]></key>
+
+            <value>
+
+                            <ex><![CDATA[领子]]></ex>
+
+                            <ex><![CDATA[衣领]]></ex>
+
+                            <ex><![CDATA[领口]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[TOP COLLAR]]></key>
+
+            <value>
+
+                            <ex><![CDATA[面领]]></ex>
+
+                            <ex><![CDATA[领面]]></ex>
+
+                            <ex><![CDATA[外反口]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[COLLAR STAY]]></key>
+
+            <value>
+
+                            <ex><![CDATA[领插竹]]></ex>
+
+                            <ex><![CDATA[插竹]]></ex>
+
+                            <ex><![CDATA[领插角片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

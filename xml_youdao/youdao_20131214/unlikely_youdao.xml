@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[unlikely]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不太可能]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌn'laɪklɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 不太可能的；没希望的]]></ex>
+
+                    <ex><![CDATA[adv. 未必]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[UNLIKELY]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不太可能的]]></ex>
+
+                            <ex><![CDATA[未必的]]></ex>
+
+                            <ex><![CDATA[不可能的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[very unlikely]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非常不可能]]></ex>
+
+                            <ex><![CDATA[不太可能]]></ex>
+
+                            <ex><![CDATA[不可能]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Unlikely Angel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不可能的天使]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

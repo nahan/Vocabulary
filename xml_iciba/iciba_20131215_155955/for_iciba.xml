@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>for</key>
+
+<ps>fə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/12/68/126848d4e86272b184bb26ceda624291.mp3</pron>
+
+<ps>fɔr,fə</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d5/56/d55669822f1a8cf72ec1911e462a54eb.mp3</pron>
+
+<pos>prep.</pos>
+
+<acceptation>为，为了；倾向于；关于；当作；
+
+</acceptation>
+
+<pos>conj.</pos>
+
+<acceptation>因为，由于；
+
+</acceptation>
+
+<sent><orig>
+
+For allJohn Harsanyi was right about the importance of a general theoretical framework for social science.
+
+</orig>
+
+<trans>
+
+因为(For)，社会科学也需纳入一般性的理论框架，对这个重要性的认识，哈桑尼尤其(aboveall)正确。
+
+</trans></sent>
+
+<sent><orig>
+
+The omission of &quot;for&quot; in this sentence is incorrect.
+
+</orig>
+
+<trans>
+
+这一句中省略&quot;for&quot;是不正确的。
+
+</trans></sent>
+
+<sent><orig>
+
+Design-For-Testability,DFT has become a very important part of the CMOS chip and system design.
+
+</orig>
+
+<trans>
+
+可测试性设计(Design-For-Testability,DFT)已经成为芯片或系统设计中不可或缺的重要组成部分。
+
+</trans></sent>
+
+<sent><orig>
+
+The ability to define variables in the control expression is limited to the for loop.
+
+</orig>
+
+<trans>
+
+只有for循环才具备在控制表达式里定义变量的能力。
+
+</trans></sent>
+
+<sent><orig>
+
+In Java, the keywords include if-else, while, do-while, for, and a selection statement called switch.
+
+</orig>
+
+<trans>
+
+在Java里，涉及的关键字包括if-else、while、do-while、for以及一个名为switch的选择语句。
+
+</trans></sent>
+
+</dict>

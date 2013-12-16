@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>premise</key>
+
+<ps>'premɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/86/e4/86e40eed3979d6026d073b89d946d7c9.mp3</pron>
+
+<ps>ˈprɛmɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d4/cc/d4cc582681190826279977734a65c677.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>前提；[复数]房屋；[复数][合同、契约用语]上述各点；（逻辑学中的）大[小]前提；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>预述（条件等）；提出…为前提；假设；作出前提；
+
+</acceptation>
+
+<sent><orig>
+
+Minor premise: Socrates is a human.
+
+</orig>
+
+<trans>
+
+小前提：苏格拉底是人。
+
+</trans></sent>
+
+<sent><orig>
+
+Chinese Government should advance the human rights construction on the premise of on national rights.
+
+</orig>
+
+<trans>
+
+在人权问题上，要在坚持国权的前提下推进人权建设。
+
+</trans></sent>
+
+<sent><orig>
+
+Hypotheses are the starting point of scientific research and the premise of logical reasoning or thinking.
+
+</orig>
+
+<trans>
+
+假设是进行科学研究的出发点，是进行逻辑推理或思维的前提，没有假设就不可能进行科学研究。
+
+</trans></sent>
+
+<sent><orig>
+
+To analyze and research on the premise of the technical development of A power turbine.
+
+</orig>
+
+<trans>
+
+对目前A型号燃气轮机动力涡轮技术开发研制项目的启动进行了分析研究。
+
+</trans></sent>
+
+<sent><orig>
+
+It is not your particular policy that I challenge, but your moral premise.
+
+</orig>
+
+<trans>
+
+我所要挑战的，不是你们（对待人）的特别政策，而是你们这种政策的道德前提！
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[peace]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[和平]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[piːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 和平；平静；和睦；秩序]]></ex>
+
+                    <ex><![CDATA[n. (Peace)人名；(英)皮斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Peace]]></key>
+
+            <value>
+
+                            <ex><![CDATA[和平]]></ex>
+
+                            <ex><![CDATA[平静]]></ex>
+
+                            <ex><![CDATA[安宁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[World peace]]></key>
+
+            <value>
+
+                            <ex><![CDATA[世界和平]]></ex>
+
+                            <ex><![CDATA[孔令奇]]></ex>
+
+                            <ex><![CDATA[平天下]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[peace process]]></key>
+
+            <value>
+
+                            <ex><![CDATA[和平进程]]></ex>
+
+                            <ex><![CDATA[和平入程]]></ex>
+
+                            <ex><![CDATA[和平过程]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

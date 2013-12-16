@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[drunk]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[喝醉了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[drʌŋk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 喝酒（drink的过去分词）]]></ex>
+
+                    <ex><![CDATA[adj. 喝醉了的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Drunk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[醉酒]]></ex>
+
+                            <ex><![CDATA[喝醉]]></ex>
+
+                            <ex><![CDATA[醉汉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[dead drunk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[烂醉如泥]]></ex>
+
+                            <ex><![CDATA[烂醉]]></ex>
+
+                            <ex><![CDATA[烂醉阶段]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Drunk crab]]></key>
+
+            <value>
+
+                            <ex><![CDATA[喝高了的螃蟹]]></ex>
+
+                            <ex><![CDATA[醉蟹]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

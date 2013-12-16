@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[contest]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[比赛]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒntest]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 竞赛；争夺；争论]]></ex>
+
+                    <ex><![CDATA[vt. 争辩；提出质疑]]></ex>
+
+                    <ex><![CDATA[vi. 竞争；争辩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Contest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大赛]]></ex>
+
+                            <ex><![CDATA[竞赛]]></ex>
+
+                            <ex><![CDATA[比赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Speech Contest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[演讲比赛]]></ex>
+
+                            <ex><![CDATA[讲演比赛]]></ex>
+
+                            <ex><![CDATA[演讲竞赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[beauty contest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[选美]]></ex>
+
+                            <ex><![CDATA[选美活动]]></ex>
+
+                            <ex><![CDATA[选美会]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

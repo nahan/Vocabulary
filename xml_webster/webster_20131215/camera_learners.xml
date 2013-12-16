@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="camera"> <art><artref id="camera_rev.eps"/><capt/><dim>191,94.3</dim></art> <hw highlight="yes">cam*era</hw> <sound><wav>camera01.wav</wav></sound> <pr>ˈkæmrə</pr> <fl>noun</fl> <in><il>plural</il> <if>cam*er*as</if></in> <def><gram>count</gram> <dt>:a device that is used for taking photographs or for making movies, television programs, etc.</dt></def> <dro><dre>off camera</dre> <def><dt>:away from a television or movie camera :not on television or in a movie <vi>He is a different person (when he's) <it>off camera</it>.</vi></dt></def></dro> <dro><dre>on camera</dre> <def><dt>:within the range of a television or movie camera :on television or in a movie <vi>He looks very relaxed (when he's) <it>on camera</it>.</vi> <vi>His attempt to break into the store was <phrase>caught on camera</phrase>. [=a camera recorded his attempt to break into the store]</vi></dt></def></dro></entry>
+
+	<entry id="digital camera"> <hw>digital camera</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -eras</if></in> <def><gram>count</gram> <dt>:a camera that takes pictures without using film :a camera that records images as digital data</dt></def></entry>
+
+	<entry id="video camera"> <hw>video camera</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -eras</if></in> <def><gram>count</gram> <dt>:a camera that is used to create videos by recording moving images and sounds onto a videotape, computer disk, etc.</dt></def></entry>
+
+</entry_list>

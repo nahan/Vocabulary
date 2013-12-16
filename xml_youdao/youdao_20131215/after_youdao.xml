@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[after]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[后]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɑːftə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 在……之后]]></ex>
+
+                    <ex><![CDATA[prep. 在……之后]]></ex>
+
+                    <ex><![CDATA[adj. 以后的]]></ex>
+
+                    <ex><![CDATA[adv. 后来，以后]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[After]]></key>
+
+            <value>
+
+                            <ex><![CDATA[之]]></ex>
+
+                            <ex><![CDATA[在]]></ex>
+
+                            <ex><![CDATA[此后]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[take after]]></key>
+
+            <value>
+
+                            <ex><![CDATA[与相像]]></ex>
+
+                            <ex><![CDATA[像]]></ex>
+
+                            <ex><![CDATA[相像]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[after sight]]></key>
+
+            <value>
+
+                            <ex><![CDATA[见票后]]></ex>
+
+                            <ex><![CDATA[见票后兑付]]></ex>
+
+                            <ex><![CDATA[见票后照付]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

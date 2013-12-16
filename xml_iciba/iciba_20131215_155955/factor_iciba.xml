@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>factor</key>
+
+<ps>'fæktə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/72/6f/726f046fbd1bf0d21c9486370961adfd.mp3</pron>
+
+<ps>ˈfæktɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/74/2f/742f32c65ffd18b766fa307f8de2d47d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>因素；&lt;数&gt;因子；代理人；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…因素包括进去；[数学]分解…的因子，将…分解成因子；以代理商（或管家等）的身份行事，做代理商（或管家）；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>做代理商（或管家）；
+
+</acceptation>
+
+<sent><orig>
+
+AIF-1(allograft inflammatory factor-1)is a 143-aa small protein containing a single EF-hand calcium-binding motif.
+
+</orig>
+
+<trans>
+
+同种异体移植炎性因子-1(allograft inflamuatory factor-1,AIF-1)是由143个氨基酸组成的小分子蛋白质，链内含有一个可与Ca2+结合的EF-手形结构域。
+
+</trans></sent>
+
+<sent><orig>
+
+The expression rule recursively calls itself indirectly when it invokes the factor rule.
+
+</orig>
+
+<trans>
+
+expression规则在调用factor规则时，间接地调用自身。
+
+</trans></sent>
+
+<sent><orig>
+
+The determinative factors are industrial factor, comparative factor, technological factor and institutional factor.
+
+</orig>
+
+<trans>
+
+其决定因素有产业性因素、比较性因素、技术性因素和制度性因素。
+
+</trans></sent>
+
+<sent><orig>
+
+Grow factor has a variety of, like plaque kind grow factor, skin grows factor.
+
+</orig>
+
+<trans>
+
+生长因子有多种，如血小板类生长因子、表皮生长因子等。
+
+</trans></sent>
+
+<sent><orig>
+
+The main reason includes individual factor, professional factor and social factor.
+
+</orig>
+
+<trans>
+
+主要的成因，有个人因素，职业因素，社会因素。
+
+</trans></sent>
+
+</dict>

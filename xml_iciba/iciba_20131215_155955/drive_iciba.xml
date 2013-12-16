@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>drive</key>
+
+<ps>draɪv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/8d/a2/8da230dbd326612d3b4c5cd6b88643da.mp3</pron>
+
+<ps>draɪv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/4a/a1/4aa1e7414849577e6d4c076c08782d3a.mp3</pron>
+
+<pos>v.</pos>
+
+<acceptation>驾驶；开车；驱动；迫使；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>驱车旅行；驱动力；车道；驱动器；
+
+</acceptation>
+
+<sent><orig>
+
+Rear-Wheel Drive-Wheel Drive-Wheel Drive, or-Wheel Drive?
+
+</orig>
+
+<trans>
+
+后轮驱动，四轮驱动，四轮驱动，或四轮驱动？
+
+</trans></sent>
+
+<sent><orig>
+
+Resizing drive %1 shifts free space between drive %1 and drive %2.
+
+</orig>
+
+<trans>
+
+正在调整驱动器%1及驱动器%2之间的可用空间，重新设置驱动器%1的可用空间。
+
+</trans></sent>
+
+<sent><orig>
+
+It'synthesizes the advantages of belt drive, chain drive and gear drive.
+
+</orig>
+
+<trans>
+
+它综合了带转动、链转动和齿轮转动各自的优点。
+
+</trans></sent>
+
+<sent><orig>
+
+Comparative Analysis of Electric Drive top drive drilling system and hydraulic driven top drive drilling system.
+
+</orig>
+
+<trans>
+
+对比分析电驱动顶驱和液压驱动顶驱。
+
+</trans></sent>
+
+<sent><orig>
+
+The drive is different from electric-magnetic drive for PWR or hydraulic drive for BWR.
+
+</orig>
+
+<trans>
+
+这种传动不同于压水堆上使用的电磁-机械传动，也不同于沸水堆上使用的液压传动。
+
+</trans></sent>
+
+</dict>

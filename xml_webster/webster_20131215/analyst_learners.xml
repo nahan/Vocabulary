@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="analyst"> <hw>an*a*lyst</hw> <sound><wav>analys06.wav</wav></sound> <pr>ˈænələst</pr> <fl>noun</fl> <in><il>plural</il> <if>an*a*lysts</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who studies or analyzes something <vi>a financial/legal/political <it>analyst</it></vi></dt> <sn>2</sn> <dt>:<sx>psychoanalyst</sx> <vi>My <it>analyst</it> felt that I was making good progress.</vi></dt></def></entry>
+
+	<entry id="systems analysis"> <hw>systems analysis</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -y*ses</if></in> <def><gram>count</gram> <dt>:the process of studying a procedure or business in order to identify its goals and purposes and create systems and procedures that will achieve them in an efficient way</dt></def> <uro><ure>systems analyst</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -lysts</if></in> <gram>count</gram></uro></entry>
+
+</entry_list>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ward]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[病房]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɔːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 病房；保卫；监视]]></ex>
+
+                    <ex><![CDATA[vt. 避开；保卫；守护]]></ex>
+
+                    <ex><![CDATA[n. (Ward)人名；(英)沃德；(德、芬、瑞典、葡)瓦尔德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[ward]]></key>
+
+            <value>
+
+                            <ex><![CDATA[病房]]></ex>
+
+                            <ex><![CDATA[华德]]></ex>
+
+                            <ex><![CDATA[病房室]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ward Cunningham]]></key>
+
+            <value>
+
+                            <ex><![CDATA[沃德·坎宁安]]></ex>
+
+                            <ex><![CDATA[坎宁危]]></ex>
+
+                            <ex><![CDATA[沃德·库宁汉姆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ann Ward]]></key>
+
+            <value>
+
+                            <ex><![CDATA[安·瓦德]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

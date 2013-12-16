@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[counter]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[计数器]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kaʊntə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 柜台；对立面；计数器；（某些棋盘游戏的）筹码]]></ex>
+
+                    <ex><![CDATA[vi. 逆向移动，对着干；反驳]]></ex>
+
+                    <ex><![CDATA[adj. 相反的]]></ex>
+
+                    <ex><![CDATA[vt. 反击，还击；反向移动，对着干；反驳，回答]]></ex>
+
+                    <ex><![CDATA[adv. 反方向地；背道而驰地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Counter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[计数器]]></ex>
+
+                            <ex><![CDATA[柜台]]></ex>
+
+                            <ex><![CDATA[反击]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Counter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复位操纵]]></ex>
+
+                            <ex><![CDATA[重定操纵]]></ex>
+
+                            <ex><![CDATA[复位把持]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Geiger counter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[盖革计数器]]></ex>
+
+                            <ex><![CDATA[盖格计数器]]></ex>
+
+                            <ex><![CDATA[盖革氏计数器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[particularly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[特别是]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pə'tɪkjʊləlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 特别地，独特地；详细地，具体地；明确地，细致地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Particularly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尤为]]></ex>
+
+                            <ex><![CDATA[特别地]]></ex>
+
+                            <ex><![CDATA[特别是]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Particularly recommended]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特别推荐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[particularly ad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特别]]></ex>
+
+                            <ex><![CDATA[尤其]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[decade]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[十年]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dekeɪd; dɪ'keɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 十年，十年期；十]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Decade]]></key>
+
+            <value>
+
+                            <ex><![CDATA[年代]]></ex>
+
+                            <ex><![CDATA[十年]]></ex>
+
+                            <ex><![CDATA[十年期]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[decade resistor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[十进制电阻器]]></ex>
+
+                            <ex><![CDATA[十进电阻器]]></ex>
+
+                            <ex><![CDATA[十进电阻箱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[decade capacitor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[十进位电容器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

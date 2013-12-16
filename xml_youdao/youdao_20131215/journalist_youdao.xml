@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[journalist]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[记者]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dʒɜːn(ə)lɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 新闻工作者；报人；记日志者]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Journalist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[记者]]></ex>
+
+                            <ex><![CDATA[新闻记者]]></ex>
+
+                            <ex><![CDATA[新闻工作者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[accredited journalist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特派记者]]></ex>
+
+                            <ex><![CDATA[特派]]></ex>
+
+                            <ex><![CDATA[特派新闻记者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[financial journalist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[财经新闻工作者]]></ex>
+
+                            <ex><![CDATA[财经新闻工]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

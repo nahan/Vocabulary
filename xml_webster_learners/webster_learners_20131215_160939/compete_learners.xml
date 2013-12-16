@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="compete"> <hw highlight="yes">com*pete</hw> <sound><wav>compet01.wav</wav></sound> <pr>kəmˈpi:t</pr> <fl>verb</fl> <in><if>com*petes</if></in> <in><if>com*pet*ed</if></in> <in><if>com*pet*ing</if></in> <def><gram>no obj</gram> <sn>1</sn> <dt>:to try to get or win something (such as a prize or reward) that someone else is also trying to win :to try to be better or more successful than someone or something else <vi>Thousands of applicants are <it>competing</it> for the same job.</vi> <vi>She <it>competed</it> against students from around the country.</vi> <vi>We are <it>competing</it> with companies that are twice our size.</vi> <vi>Did you <it>compete</it> in the track meet on Saturday?</vi></dt> <sn>2</sn> <dt>:to try to be noticed, accepted, or chosen over something else <vi>The radio and the television were both on, <it>competing</it> for our attention.</vi> <vi><it>competing</it> teams/products/theories</vi></dt></def> <dro><dre>can't compete</dre> <def><dt><un>used to say that one person or thing is much better than another <vi>Store-bought cookies <it>can't compete</it> with homemade ones. [=homemade cookies are much better than store-bought cookies]</vi></un></dt></def></dro></entry>
+
+</entry_list>

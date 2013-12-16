@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sugar]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[糖]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʃʊgə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 糖；食糖；甜言蜜语]]></ex>
+
+                    <ex><![CDATA[vt. 加糖于；粉饰]]></ex>
+
+                    <ex><![CDATA[vi. 形成糖]]></ex>
+
+                    <ex><![CDATA[n. (Sugar)人名；(英)休格]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sugar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[食糖]]></ex>
+
+                            <ex><![CDATA[白糖]]></ex>
+
+                            <ex><![CDATA[糖]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sugar beet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[糖用甜菜]]></ex>
+
+                            <ex><![CDATA[甜菜]]></ex>
+
+                            <ex><![CDATA[糖甜菜]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Powdered sugar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[糖粉]]></ex>
+
+                            <ex><![CDATA[砂糖]]></ex>
+
+                            <ex><![CDATA[白糖粉]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

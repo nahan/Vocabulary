@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[green]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[绿色]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[griːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 绿色；青春]]></ex>
+
+                    <ex><![CDATA[adj. 绿色的；青春的]]></ex>
+
+                    <ex><![CDATA[vt. 使…变绿色]]></ex>
+
+                    <ex><![CDATA[vi. 变绿色]]></ex>
+
+                    <ex><![CDATA[n. (Green)人名；(英、意)格林；(瑞典、芬)格伦]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Green]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绿色]]></ex>
+
+                            <ex><![CDATA[绿基色]]></ex>
+
+                            <ex><![CDATA[格林]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[green]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绿色]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Green Zone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绿色地带]]></ex>
+
+                            <ex><![CDATA[绿区]]></ex>
+
+                            <ex><![CDATA[关键指令]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

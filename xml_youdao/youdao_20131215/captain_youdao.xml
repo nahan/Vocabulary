@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[captain]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[队长]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kæptɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 队长，首领；船长；上尉；海军上校]]></ex>
+
+                    <ex><![CDATA[vt. 指挥；率领]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Captain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[船长]]></ex>
+
+                            <ex><![CDATA[队长]]></ex>
+
+                            <ex><![CDATA[长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Captain America]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美国队长]]></ex>
+
+                            <ex><![CDATA[美国上尉]]></ex>
+
+                            <ex><![CDATA[美国船长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Captain Tsubasa]]></key>
+
+            <value>
+
+                            <ex><![CDATA[足球小将]]></ex>
+
+                            <ex><![CDATA[天使之翼]]></ex>
+
+                            <ex><![CDATA[天使之翼游戏全集]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

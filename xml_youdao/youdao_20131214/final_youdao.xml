@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[final]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[最后]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['faɪn(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 决赛；期末考试；当日报纸的末版]]></ex>
+
+                    <ex><![CDATA[adj. 最终的；决定性的；不可更改的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[final]]></key>
+
+            <value>
+
+                            <ex><![CDATA[最后的]]></ex>
+
+                            <ex><![CDATA[总决赛]]></ex>
+
+                            <ex><![CDATA[决赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Final Fantasy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[最终幻想]]></ex>
+
+                            <ex><![CDATA[最终幻想系列]]></ex>
+
+                            <ex><![CDATA[太空战士]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Final Destination]]></key>
+
+            <value>
+
+                            <ex><![CDATA[死神来了]]></ex>
+
+                            <ex><![CDATA[最后的归宿]]></ex>
+
+                            <ex><![CDATA[绝命终结站]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

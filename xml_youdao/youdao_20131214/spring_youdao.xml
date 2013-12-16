@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[spring]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[春天]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sprɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 春天；弹簧；泉水；活力；跳跃]]></ex>
+
+                    <ex><![CDATA[adj. 春天的]]></ex>
+
+                    <ex><![CDATA[vt. 使跳起；使爆炸；突然提出；使弹开]]></ex>
+
+                    <ex><![CDATA[vi. 生长；涌出；跃出；裂开]]></ex>
+
+                    <ex><![CDATA[n. (Spring)人名；(德)施普林；(英、芬、瑞典)斯普林]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[spring]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弹簧]]></ex>
+
+                            <ex><![CDATA[春天]]></ex>
+
+                            <ex><![CDATA[丝柏凌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[spring rolls]]></key>
+
+            <value>
+
+                            <ex><![CDATA[春卷]]></ex>
+
+                            <ex><![CDATA[脆皮春卷]]></ex>
+
+                            <ex><![CDATA[第三道春卷]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Leaf Spring]]></key>
+
+            <value>
+
+                            <ex><![CDATA[钢板弹簧]]></ex>
+
+                            <ex><![CDATA[叶片弹簧]]></ex>
+
+                            <ex><![CDATA[片簧]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

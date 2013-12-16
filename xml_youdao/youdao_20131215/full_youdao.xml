@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[full]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[完整的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fʊl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 全部；完整]]></ex>
+
+                    <ex><![CDATA[adj. 完全的，完整的；满的，充满的；丰富的；完美的；丰满的；详尽的]]></ex>
+
+                    <ex><![CDATA[vt. 把衣服缝得宽大]]></ex>
+
+                    <ex><![CDATA[adv. 十分，非常；完全地；整整]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[full]]></key>
+
+            <value>
+
+                            <ex><![CDATA[满的]]></ex>
+
+                            <ex><![CDATA[充满的]]></ex>
+
+                            <ex><![CDATA[报满]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Full employment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[充分就业]]></ex>
+
+                            <ex><![CDATA[整日制工作]]></ex>
+
+                            <ex><![CDATA[全面就业]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[full stop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[句号]]></ex>
+
+                            <ex><![CDATA[句点]]></ex>
+
+                            <ex><![CDATA[结局]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

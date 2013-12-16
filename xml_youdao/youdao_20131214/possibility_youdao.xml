@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[possibility]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[可能性]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[,pɒsɪ'bɪlɪtɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 可能性；可能发生的事物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Possibility]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可能性]]></ex>
+
+                            <ex><![CDATA[可能]]></ex>
+
+                            <ex><![CDATA[可能的事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[production possibility]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生产可能性]]></ex>
+
+                            <ex><![CDATA[可能性曲线]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[possibility of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可能性]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[system]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[系统]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɪstəm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 制度，体制；系统；方法]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[System]]></key>
+
+            <value>
+
+                            <ex><![CDATA[系统]]></ex>
+
+                            <ex><![CDATA[体系]]></ex>
+
+                            <ex><![CDATA[制度]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[file system]]></key>
+
+            <value>
+
+                            <ex><![CDATA[文件系统]]></ex>
+
+                            <ex><![CDATA[档案系统]]></ex>
+
+                            <ex><![CDATA[文件体系]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Respiratory system]]></key>
+
+            <value>
+
+                            <ex><![CDATA[呼吸系统]]></ex>
+
+                            <ex><![CDATA[呼吸体系]]></ex>
+
+                            <ex><![CDATA[呼吸零碎]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

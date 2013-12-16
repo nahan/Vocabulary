@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bean]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[豆]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[biːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 豆；嘴峰；毫无价值的东西]]></ex>
+
+                    <ex><![CDATA[vt. 击…的头部]]></ex>
+
+                    <ex><![CDATA[n. (Bean)人名；(英)比恩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[豆类]]></ex>
+
+                            <ex><![CDATA[菜豆]]></ex>
+
+                            <ex><![CDATA[豆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Coffee bean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[咖啡豆]]></ex>
+
+                            <ex><![CDATA[香啡缤]]></ex>
+
+                            <ex><![CDATA[豆角]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[French bean]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法国菜豆]]></ex>
+
+                            <ex><![CDATA[四季豆]]></ex>
+
+                            <ex><![CDATA[扁豆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

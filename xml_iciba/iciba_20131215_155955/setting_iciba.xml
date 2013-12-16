@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>setting</key>
+
+<ps>'setɪŋ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/cf/28/cf285a525c523a05cf76267d0c5ef40f.mp3</pron>
+
+<ps>ˈsɛtɪŋ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/7d/c2/7dc22b2c6a992f0232345df41303f5ea.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>镶嵌；环境；装置；（某事、戏剧、小说等的）背景；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>放( set的现在分词)；安插；树立；安排；
+
+</acceptation>
+
+<sent><orig>
+
+Setting a for withdrawal is setting a date for failure.
+
+</orig>
+
+<trans>
+
+设定撤军时间表，就是设定失败的日期。
+
+</trans></sent>
+
+<sent><orig>
+
+Open valve fully to its memory setting and, on piece of paper, record the valve setting.
+
+</orig>
+
+<trans>
+
+将阀门完全开启到它的记忆设置点上，在一张纸上，记录这个阀门设置。
+
+</trans></sent>
+
+<sent><orig>
+
+The application configuration file setting overrides the machine configuration file setting.
+
+</orig>
+
+<trans>
+
+应用程序配置文件设置重写计算机配置文件设置。
+
+</trans></sent>
+
+<sent><orig>
+
+Setting a for withdrawal is setting a date for failure. And that would be irresponsible.
+
+</orig>
+
+<trans>
+
+设置撤军的最终期限就是在设置失败的日期，这种做法是非常不负责任的。
+
+</trans></sent>
+
+<sent><orig>
+
+Csb-21a equipment provides function for automatic setting of protection manners, besides programmable logic setting.
+
+</orig>
+
+<trans>
+
+CSB-21A装置除了可以用可编程逻辑整定来设定保护方式外，还提供了自动方式设定功能。
+
+</trans></sent>
+
+</dict>

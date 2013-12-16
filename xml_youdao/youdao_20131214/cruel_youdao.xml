@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cruel]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[残酷的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[krʊəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 残酷的，残忍的；使人痛苦的，让人受难的；无情的，严酷的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[cruel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[残忍的]]></ex>
+
+                            <ex><![CDATA[残酷]]></ex>
+
+                            <ex><![CDATA[残暴]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Beckii Cruel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贝吉·克鲁尔]]></ex>
+
+                            <ex><![CDATA[贝齐·库尔]]></ex>
+
+                            <ex><![CDATA[贝琪库尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cruel World]]></key>
+
+            <value>
+
+                            <ex><![CDATA[残酷的世界]]></ex>
+
+                            <ex><![CDATA[残暴的世界]]></ex>
+
+                            <ex><![CDATA[正在翻译]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

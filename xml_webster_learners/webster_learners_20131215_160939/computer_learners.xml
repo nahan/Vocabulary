@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="computer"> <art><artref id="computer_rev.eps"/><capt/><dim>394,280</dim></art> <hw highlight="yes">com*put*er</hw> <sound><wav>comput06.wav</wav></sound> <pr>kəmˈpju:tɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>com*put*ers</if></in> <def><gram>count</gram> <dt>:an electronic machine that can store and work with large amounts of information <vi>He works all day on/with a <it>computer</it>.</vi> <vi>a personal/desktop/laptop <it>computer</it></vi> <un>often used before another noun <vi>a <it>computer</it> program/game/virus</vi> <vi><it>computer</it> software</vi></un></dt></def></entry>
+
+	<entry id="computer science"> <hw>computer science</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:the study of computers and their uses <vi>She has a degree in <it>computer science</it>.</vi></dt></def> <uro><ure>computer scientist</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tists</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="digital computer"> <hw>digital computer</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a computer that works with numbers that are represented by the digits 0 and 1</dt></def></entry>
+
+	<entry id="personal computer"> <hw>personal computer</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a small computer designed for use by one person at home or in an office <ca>called also <cat>PC</cat></ca></dt></def></entry>
+
+</entry_list>

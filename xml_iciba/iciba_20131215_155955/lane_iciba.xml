@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>lane</key>
+
+<ps>leɪn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/18/2e/182efc94a32c83a3e1b6ae1f6c506a50.mp3</pron>
+
+<ps>len</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/35/54/35544953757f37fade2c9be741f7a7ff.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>小路，小巷；航道，空中走廊，规定的单向行车道；车道；[篮球]罚球区；
+
+</acceptation>
+
+<sent><orig>
+
+A lane is a narrow country road.
+
+</orig>
+
+<trans>
+
+lane是乡间小径。
+
+</trans></sent>
+
+<sent><orig>
+
+An alley or lane is a narrow street between buildings.
+
+</orig>
+
+<trans>
+
+alley和lane均指小街或小巷。
+
+</trans></sent>
+
+<sent><orig>
+
+LANE client ATM template, emulated LAN name pairs.
+
+</orig>
+
+<trans>
+
+LANE客户ATM模板，仿真LAN名称对。
+
+</trans></sent>
+
+<sent><orig>
+
+LANE client MAC address, emulated LAN name pairs.
+
+</orig>
+
+<trans>
+
+LANE客户的MAC地址，仿真LAN名称对。
+
+</trans></sent>
+
+<sent><orig>
+
+A lane is a narrow country road which winds between fields, connecting villages.
+
+</orig>
+
+<trans>
+
+lane亦指郊外的狭窄小路，蜿蜒穿过田间，连接各个村落。
+
+</trans></sent>
+
+</dict>

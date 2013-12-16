@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[observation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[观察]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɒbzə'veɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 观察；监视；观察报告]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Observation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[观察]]></ex>
+
+                            <ex><![CDATA[观测]]></ex>
+
+                            <ex><![CDATA[观察法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[clinical observation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[临床观察]]></ex>
+
+                            <ex><![CDATA[疗效观察]]></ex>
+
+                            <ex><![CDATA[挑刺]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[observation point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[观测点]]></ex>
+
+                            <ex><![CDATA[监测点]]></ex>
+
+                            <ex><![CDATA[观察点]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[坐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 坐；位于]]></ex>
+
+                    <ex><![CDATA[vt. 使就座]]></ex>
+
+                    <ex><![CDATA[n. (Sit)人名；(东南亚国家华语)硕；(罗)西特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坐下]]></ex>
+
+                            <ex><![CDATA[静电感应晶体管(Static Induction Transistor)]]></ex>
+
+                            <ex><![CDATA[就座]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sit up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[迟睡]]></ex>
+
+                            <ex><![CDATA[不睡]]></ex>
+
+                            <ex><![CDATA[坐直]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fiona Sit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[薛凯琪]]></ex>
+
+                            <ex><![CDATA[演员薛凯琪]]></ex>
+
+                            <ex><![CDATA[薜凯琪]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

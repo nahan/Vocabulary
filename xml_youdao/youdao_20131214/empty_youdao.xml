@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[empty]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[空]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['em(p)tɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 空车；空的东西]]></ex>
+
+                    <ex><![CDATA[adj. 空的；无意义的；无知的；徒劳的]]></ex>
+
+                    <ex><![CDATA[vt. 使失去；使…成为空的]]></ex>
+
+                    <ex><![CDATA[vi. 成为空的；流空]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[empty]]></key>
+
+            <value>
+
+                            <ex><![CDATA[空的]]></ex>
+
+                            <ex><![CDATA[清空]]></ex>
+
+                            <ex><![CDATA[空虚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[empty space]]></key>
+
+            <value>
+
+                            <ex><![CDATA[架空层]]></ex>
+
+                            <ex><![CDATA[空档]]></ex>
+
+                            <ex><![CDATA[空的空间]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[empty nest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[空巢]]></ex>
+
+                            <ex><![CDATA[儿女长大离家]]></ex>
+
+                            <ex><![CDATA[空巢期]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

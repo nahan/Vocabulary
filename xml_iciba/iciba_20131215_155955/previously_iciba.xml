@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>previously</key>
+
+<ps>'pri:vɪəslɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/6a/1d/6a1d74bd59d28d765e00e3b6d175d02a.mp3</pron>
+
+<ps>ˈprivɪəslɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/6a/1d/6a1d74bd59d28d765e00e3b6d175d02a.mp3</pron>
+
+<pos>adv.</pos>
+
+<acceptation>事先；以前；仓促；“previous”的派生；
+
+</acceptation>
+
+<sent><orig>
+
+Nonzero if the window was previously visible; 0 if the CWnd was previously hidden.
+
+</orig>
+
+<trans>
+
+返回为0，说是前面隐藏了的原因，不知道怎么解决。
+
+</trans></sent>
+
+<sent><orig>
+
+To correct any discrepancies on previously submitted part To on previously.
+
+</orig>
+
+<trans>
+
+对所有以前提交的零件的不符合的纠正。
+
+</trans></sent>
+
+<sent><orig>
+
+He had previously worked as a reporter.
+
+</orig>
+
+<trans>
+
+他以前担任过记者。
+
+</trans></sent>
+
+<sent><orig>
+
+The change is a step in Beijing, where dog ownership has previously been discouraged.
+
+</orig>
+
+<trans>
+
+这是北京一项重大的改变，因为以往该市一直反对人们拥有狗只。
+
+</trans></sent>
+
+<sent><orig>
+
+England had previously lost the services of Dean Ashton and Andrew Johnson through injury.
+
+</orig>
+
+<trans>
+
+英格兰也已预先知道，迪恩·阿什顿和安德鲁·约翰逊由于伤病将无法为国服役。
+
+</trans></sent>
+
+</dict>

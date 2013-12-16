@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[provide]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[提供]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prə'vaɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 提供；规定；准备；装备]]></ex>
+
+                    <ex><![CDATA[vi. 规定；抚养；作准备]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Provide]]></key>
+
+            <value>
+
+                            <ex><![CDATA[提供]]></ex>
+
+                            <ex><![CDATA[供应]]></ex>
+
+                            <ex><![CDATA[供给]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[provide for]]></key>
+
+            <value>
+
+                            <ex><![CDATA[供给]]></ex>
+
+                            <ex><![CDATA[准备]]></ex>
+
+                            <ex><![CDATA[约定]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Provide feedback]]></key>
+
+            <value>
+
+                            <ex><![CDATA[提供反馈]]></ex>
+
+                            <ex><![CDATA[提供回馈]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

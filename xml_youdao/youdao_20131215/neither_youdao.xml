@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[neither]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[既不]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['naɪðə; 'niː-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 也不；既不]]></ex>
+
+                    <ex><![CDATA[adj. 两者都不的]]></ex>
+
+                    <ex><![CDATA[adv. 两个都不；既不……也不]]></ex>
+
+                    <ex><![CDATA[pron. 两者都不]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[neither]]></key>
+
+            <value>
+
+                            <ex><![CDATA[两者都不]]></ex>
+
+                            <ex><![CDATA[作主语时]]></ex>
+
+                            <ex><![CDATA[也不]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Neither or]]></key>
+
+            <value>
+
+                            <ex><![CDATA[既不或]]></ex>
+
+                            <ex><![CDATA[既没有或]]></ex>
+
+                            <ex><![CDATA[无论是或]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[why neither]]></key>
+
+            <value>
+
+                            <ex><![CDATA[为什么既不]]></ex>
+
+                            <ex><![CDATA[为什么都没有]]></ex>
+
+                            <ex><![CDATA[为什么不]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

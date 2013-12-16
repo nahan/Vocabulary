@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>cookie</key>
+
+<ps>'kʊkɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/e2/25/e2257190f887ae72ffca72270985a1e1.mp3</pron>
+
+<ps>ˈkʊki</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/2d/cc/2dccd1ab3e03990aea77359831c85ca2.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>饼干；小甜点；吸引人的年轻妇女；甜面包；
+
+</acceptation>
+
+<sent><orig>
+
+We analyze the threat of the cookie on the Internet and the secure cookie.
+
+</orig>
+
+<trans>
+
+接着在对当前网络中Cookie面临的威胁和安全Cookie进行了分析。
+
+</trans></sent>
+
+<sent><orig>
+
+Propose the encryption characteristics of cookie, and then propose a more secure distributed cookie storage scheme.
+
+</orig>
+
+<trans>
+
+提出cookie的加密特点，并由此提出分布式cookie存储的可行的更加安全的方案。
+
+</trans></sent>
+
+<sent><orig>
+
+Explain how cookies work. Give an example of Cookie abuse.
+
+</orig>
+
+<trans>
+
+解释cookie的工作原理。给出一个滥用cookie的例子。
+
+</trans></sent>
+
+<sent><orig>
+
+We also present the process of signing the secure cookie and verifying the secure cookie.
+
+</orig>
+
+<trans>
+
+最后给出对用户访问进行控制的处理流程及安全Cookie的签名和验证过程。
+
+</trans></sent>
+
+<sent><orig>
+
+First, a random generalized Cookie-Cutter set K_T on [0, T] is constructed.
+
+</orig>
+
+<trans>
+
+我们首先在构造随机广义Cookie-Cutter集的过程中，通过记忆函数，研究了这种随机概率测度序列的紧测度的收敛性。
+
+</trans></sent>
+
+</dict>

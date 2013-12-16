@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>contract</key>
+
+<ps>'kɒntrækt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/80/0c/800c327aefb3f9241513cbf551abbfda.mp3</pron>
+
+<ps>ˈkɑnˌtrækt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/80/0c/800c327aefb3f9241513cbf551abbfda.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>染上（恶习，疾病等）；缩小，紧缩；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>订契约，承包；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>契约；婚约；[法]契约法；行贿；
+
+</acceptation>
+
+<sent><orig>
+
+Design by Contract (DBC) is mentioned by Betrand Meyer.
+
+</orig>
+
+<trans>
+
+基于契约式设计(Design By Contract,DBC)这一理论是由Betrand Meyer提出的。
+
+</trans></sent>
+
+<sent><orig>
+
+The parties may a contract by referencing a model contract for the relevant contract category.
+
+</orig>
+
+<trans>
+
+当事人可以参照各类合同的示范文本订立合同。
+
+</trans></sent>
+
+<sent><orig>
+
+The author considers that object of futures contract is futures and futures contract is a contract.
+
+</orig>
+
+<trans>
+
+笔者认为，期货合同标的是期货商品，期货合同为交易者之间的一种协议。
+
+</trans></sent>
+
+<sent><orig>
+
+Furthermore, combines the buy-back contract with option contract, establishes a new kind of contract with option.
+
+</orig>
+
+<trans>
+
+构建了嵌入式期权下单周期两级供应链中的单向看涨期权柔性契约、双向期权柔性契约模型。
+
+</trans></sent>
+
+<sent><orig>
+
+Railroad freight loses contract, labor contract and collective contract, not applicable this method.
+
+</orig>
+
+<trans>
+
+铁路客货运输合同、劳动合同和集体合同，不适用本办法。
+
+</trans></sent>
+
+</dict>

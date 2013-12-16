@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[enjoyable]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[令人愉快的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'dʒɒɪəb(ə)l; en-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 快乐的；令人愉快的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[enjoyable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[令人享受的]]></ex>
+
+                            <ex><![CDATA[令人愉快的]]></ex>
+
+                            <ex><![CDATA[愉快的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[not enjoyable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[使人不愉快的]]></ex>
+
+                            <ex><![CDATA[不合意的]]></ex>
+
+                            <ex><![CDATA[讨厌的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[more enjoyable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[更令人愉快的]]></ex>
+
+                            <ex><![CDATA[及驾驶乐趣]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

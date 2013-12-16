@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="comprise"> <hw>com*prise</hw> <sound><wav>compri01.wav</wav></sound> <pr>kəmˈpraɪz</pr> <fl>verb</fl> <in><if>com*pris*es</if></in> <in><if>com*prised</if></in> <in><if>com*pris*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to be made up of (something) :to include or consist of (something) <vi>Each army division <it>comprised</it> 4,500 troops.</vi> <vi>The play <it>comprises</it> three acts.</vi></dt> <sn>2</sn> <dt>:to make up or form (something) <vi>Nine players <it>comprise</it> [=<it>make up</it>] a baseball team.</vi> <vi>Plants <it>comprise</it> [=<it>constitute, form</it>] the bulk of their diet.</vi> <un>often used as <it>(be) comprised</it> <vi>The play <phrase>is comprised of</phrase> [=<it>is composed of</it>] three acts.</vi></un></dt></def></entry>
+
+</entry_list>

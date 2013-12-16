@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="brave[1]"> <hw highlight="yes" hindex="1">brave</hw> <sound><wav>brave001.wav</wav></sound> <pr>ˈbreɪv</pr> <fl>adjective</fl> <in><if>brav*er</if></in> <in><if>brav*est</if></in> <def><dt>:feeling or showing no fear :not afraid <vi>He was a <it>brave</it> [=<it>courageous, fearless</it>] soldier.</vi> <vi>She gave us a <it>brave</it> smile.</vi> <vi>He lost his <it>brave</it> fight against the disease.</vi> <vi>She tried to <phrase>put on/up a brave face/front</phrase> [=she tried to appear brave or calm] despite the pain of the injury.</vi></dt></def> <dro><dre>the brave</dre> <def><dt>:brave people <vi>the home of <it>the brave</it></vi></dt></def></dro> <uro><ure>brave*ly</ure> <fl>adverb</fl> <utxt><vi>He smiled <it>bravely</it> as he stepped in front of the cameras.</vi></utxt></uro></entry>
+
+	<entry id="brave[2]"> <hw hindex="2">brave</hw> <altpr>ˈbreɪv</altpr> <fl>verb</fl> <in><if>braves</if></in> <in><if>braved</if></in> <in><if>brav*ing</if></in> <def><gram>+ obj</gram> <dt>:to face or deal with (something dangerous or unpleasant) <vi>We <it>braved</it> [=went out in] the rain without our umbrellas.</vi> <vi>Thousands of fans <it>braved</it> rush-hour traffic to see the concert.</vi> <vi>I had to <phrase>brave the elements</phrase> [=go out in bad weather] to get to work.</vi></dt></def></entry>
+
+	<entry id="brave[3]"> <hw hindex="3">brave</hw> <altpr>ˈbreɪv</altpr> <fl>noun</fl> <in><il>plural</il> <if>braves</if></in> <def><gram>count</gram> <sl>old-fashioned</sl> <dt>:a Native American warrior</dt></def></entry>
+
+	<entry id="brave new world"> <hw>brave new world</hw> <fl>noun</fl> <def><gram>singular</gram> <dt>:a situation or area of activity that is created by the development of something completely new and different <vi>The company was slow to enter the <it>brave new world</it> of computer technology.</vi> <un>often used to suggest that something is both new and possibly dangerous <vi>Are we ready to face the <it>brave new world</it> of human cloning?</vi></un></dt></def></entry>
+
+</entry_list>

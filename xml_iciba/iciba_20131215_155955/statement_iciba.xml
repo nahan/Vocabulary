@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>statement</key>
+
+<ps>ˈsteɪtmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/69/3d/693d593f08db3799b2414bde7b6c2e3d.mp3</pron>
+
+<ps> ˈstetmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/42/45/4245bf56d28f22197a4b30b46c809626.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>声明；（思想、观点、文章主题等的）表现；（文字）陈述；结算单；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>（英国）对儿童进行特殊教育评估认定；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>申请（小孩）有特殊教育需要；
+
+</acceptation>
+
+<sent><orig>
+
+What character set should the server translate a statement to after receiving it?
+
+</orig>
+
+<trans>
+
+服务器收到一个statement后，会把它转换成什么字符集？
+
+</trans></sent>
+
+<sent><orig>
+
+What character set is the statement in when it leaves the client?
+
+</orig>
+
+<trans>
+
+statement离开客户端的时候是什么字符集？
+
+</trans></sent>
+
+<sent><orig>
+
+Any time the word statement always implies that the statement can be simple or compound.
+
+</orig>
+
+<trans>
+
+在本书任何地方，只要提及“语句”这个词，就有可能包括简单或复合语句。
+
+</trans></sent>
+
+<sent><orig>
+
+After using these models to decode the source statement, the authors got the best translation statement.
+
+</orig>
+
+<trans>
+
+再利用训练好的模型对源语句进行解码，以得到最佳的翻译语句。
+
+</trans></sent>
+
+<sent><orig>
+
+If it follows another statement, the REM must be separated from that statement by a space.
+
+</orig>
+
+<trans>
+
+如果它跟在另一语句后面，则REM与该语句间必须有一个空格。
+
+</trans></sent>
+
+</dict>

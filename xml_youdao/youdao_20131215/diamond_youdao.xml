@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[diamond]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[钻石]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['daɪəmənd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 钻石，金刚石；菱形；方块牌]]></ex>
+
+                    <ex><![CDATA[adj. 菱形的；金刚钻的]]></ex>
+
+                    <ex><![CDATA[n. (Diamond)人名；(英、意、葡)戴蒙德；(法)迪亚蒙]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Diamond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[钻石]]></ex>
+
+                            <ex><![CDATA[金刚石]]></ex>
+
+                            <ex><![CDATA[方块]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hope Diamond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[希望钻石]]></ex>
+
+                            <ex><![CDATA[希望之钻]]></ex>
+
+                            <ex><![CDATA[希望之星]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[happy diamond]]></key>
+
+            <value>
+
+                            <ex><![CDATA[快乐钻石]]></ex>
+
+                            <ex><![CDATA[幸福之钻]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

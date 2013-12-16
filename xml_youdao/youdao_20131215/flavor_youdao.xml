@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[flavor]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[味道]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fleɪvə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 情味，风味；香料；滋味]]></ex>
+
+                    <ex><![CDATA[vt. 加味于]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Flavor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[风味]]></ex>
+
+                            <ex><![CDATA[调味]]></ex>
+
+                            <ex><![CDATA[味道]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Food Flavor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[菜的味道]]></ex>
+
+                            <ex><![CDATA[食用香精]]></ex>
+
+                            <ex><![CDATA[菜的滋味]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cherry Flavor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[樱桃口味]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

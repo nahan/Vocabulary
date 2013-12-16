@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>interpret</key>
+
+<ps>ɪn'tɜ:prɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/38/15/3815350c225173b9b37210c4a0f2475d.mp3</pron>
+
+<ps>ɪnˈtɚprɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ed/12/ed122e9da85a73cbb4a2046e39cb0275.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>解释；理解；诠释，体现；口译；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>作解释；作口译；
+
+</acceptation>
+
+<sent><orig>
+
+Even as I interpret change I am changing and so I interpret again.
+
+</orig>
+
+<trans>
+
+即使我解释改变我变，我再解释。
+
+</trans></sent>
+
+<sent><orig>
+
+I think it was meant be ambiguous, interpret it the way you want.
+
+</orig>
+
+<trans>
+
+不过那可能只会是一个吻，我想那本来就要令人觉得暧昧的，所以你要怎样诠释都可以。
+
+</trans></sent>
+
+<sent><orig>
+
+Some may interpret that moment as a shift in the balance of power at Stamford Bridge.
+
+</orig>
+
+<trans>
+
+一些人或许认为这意味着内部的均势发生了变化，权力在这一刻发生交接。
+
+</trans></sent>
+
+<sent><orig>
+
+Specifies how some programs interpret two-digit years. The default time span is 1930 to 2029.
+
+</orig>
+
+<trans>
+
+指定程序解释两位数字的年份的方法。默认时间跨度是1930到2029。
+
+</trans></sent>
+
+<sent><orig>
+
+These results may interpret the formation of plasmoid type CME.
+
+</orig>
+
+<trans>
+
+这些结果可用于解释等离子体团型日冕物质抛射的形成。
+
+</trans></sent>
+
+</dict>

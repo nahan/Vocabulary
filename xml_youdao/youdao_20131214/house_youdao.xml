@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[house]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[房子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[haʊs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 住宅；家庭；机构；议会；某种用途的建筑物]]></ex>
+
+                    <ex><![CDATA[vt. 覆盖；给…房子住；把…储藏在房内]]></ex>
+
+                    <ex><![CDATA[vi. 住]]></ex>
+
+                    <ex><![CDATA[n. (House)人名；(英)豪斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[House]]></key>
+
+            <value>
+
+                            <ex><![CDATA[豪斯医生]]></ex>
+
+                            <ex><![CDATA[住宅]]></ex>
+
+                            <ex><![CDATA[房屋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Opera House]]></key>
+
+            <value>
+
+                            <ex><![CDATA[歌剧院]]></ex>
+
+                            <ex><![CDATA[悉尼歌剧院]]></ex>
+
+                            <ex><![CDATA[艺术剧院]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Random House]]></key>
+
+            <value>
+
+                            <ex><![CDATA[兰登书屋]]></ex>
+
+                            <ex><![CDATA[蓝登书屋]]></ex>
+
+                            <ex><![CDATA[蓝灯书屋]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

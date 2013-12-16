@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[import]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[进口]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪm'pɔːt; 'ɪm-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 进口，进口货；输入；意思，含义；重要性]]></ex>
+
+                    <ex><![CDATA[vt. 输入，进口；含…的意思]]></ex>
+
+                    <ex><![CDATA[vi. 输入，进口]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Import]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进口]]></ex>
+
+                            <ex><![CDATA[输入]]></ex>
+
+                            <ex><![CDATA[导入]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[import surcharge]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进口附加税]]></ex>
+
+                            <ex><![CDATA[进口附加费]]></ex>
+
+                            <ex><![CDATA[入口附加税]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Import Department]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进口部]]></ex>
+
+                            <ex><![CDATA[入口部]]></ex>
+
+                            <ex><![CDATA[出口部]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

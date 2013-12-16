@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[out]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[出]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[aʊt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 向；离去]]></ex>
+
+                    <ex><![CDATA[n. 出局]]></ex>
+
+                    <ex><![CDATA[adj. 外面的；出局的；下台的]]></ex>
+
+                    <ex><![CDATA[adv. 出现；在外；出局；出声地；不流行地]]></ex>
+
+                    <ex><![CDATA[vt. 使熄灭；驱逐]]></ex>
+
+                    <ex><![CDATA[vi. 出来；暴露]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出口]]></ex>
+
+                            <ex><![CDATA[输出]]></ex>
+
+                            <ex><![CDATA[出局]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[carry out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[执行]]></ex>
+
+                            <ex><![CDATA[实现]]></ex>
+
+                            <ex><![CDATA[完成]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[work out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[算出]]></ex>
+
+                            <ex><![CDATA[解决]]></ex>
+
+                            <ex><![CDATA[想出]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

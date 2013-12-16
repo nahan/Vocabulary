@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[illegal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[非法]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪ'liːg(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 非法移民；间谍]]></ex>
+
+                    <ex><![CDATA[adj. [法] 非法的；违法的；违反规则的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Illegal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非法]]></ex>
+
+                            <ex><![CDATA[违法]]></ex>
+
+                            <ex><![CDATA[不合法的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[illegal deal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[猫腻儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Illegal Tender]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非法招标]]></ex>
+
+                            <ex><![CDATA[非法反击]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

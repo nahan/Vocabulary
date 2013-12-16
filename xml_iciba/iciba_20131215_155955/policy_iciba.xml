@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>policy</key>
+
+<ps>'pɒləsɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/45/ad/45ad78ce9d736fd5d32654272869c523.mp3</pron>
+
+<ps>ˈpɑlɪsi</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f4/af/f4af8b5789576c000ce9105b25609bd6.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>政策；策略；保险单；策略性；
+
+</acceptation>
+
+<sent><orig>
+
+This paper roundly analyzed the classic single airport ground-delay policy(GDP) model and multi-airport ground-delay policy(GDP) mode.
+
+</orig>
+
+<trans>
+
+系统地分析了单机场和多机场地面等待策略GDP(Ground-Delay Policy)经典模型。
+
+</trans></sent>
+
+<sent><orig>
+
+Currently, WS-Policy is working a declarative and programmatic way to express the policy requirements.
+
+</orig>
+
+<trans>
+
+当前，WS-Policy是正在使用的标准化声明和编程方式来表达策略的需要。
+
+</trans></sent>
+
+<sent><orig>
+
+Andrei's description of policy classes describe their power as being derived from their granularity and orthogonality.
+
+</orig>
+
+<trans>
+
+Andrei对于policy类的描述说明他们的威力来自于他们的颗粒性和正交性。
+
+</trans></sent>
+
+<sent><orig>
+
+Policy classes are implementations of punctual design choices.
+
+</orig>
+
+<trans>
+
+policy类是严格设计的一个是实现。
+
+</trans></sent>
+
+<sent><orig>
+
+This constructor exists for use by the Policy object instantiate new Permission objects.
+
+</orig>
+
+<trans>
+
+存在该构造函数是因为Policy对象要用来实例化新的Permission对象。
+
+</trans></sent>
+
+</dict>

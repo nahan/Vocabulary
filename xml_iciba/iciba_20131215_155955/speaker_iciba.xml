@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>speaker</key>
+
+<ps>'spi:kə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c7/6f/c76ff2f70e4a5db26db5f683193e6d3d.mp3</pron>
+
+<ps>ˈspikɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f0/dc/f0dc81a8a980333e911f475b62f6f238.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>说话者；演讲者，发言人；讲某种语言的人；扬声器；
+
+</acceptation>
+
+<sent><orig>
+
+Connect the speaker cords to match the color of the SPEAKER jacks unit.
+
+</orig>
+
+<trans>
+
+将扬声器导线连接到本机上对应颜色的SPEAKER插孔。
+
+</trans></sent>
+
+<sent><orig>
+
+A speaker cluster model is used to manage recognition problems caused by between-speaker variability.
+
+</orig>
+
+<trans>
+
+本发明提出的语音辨识方法系使用语者分群模型来处珀因语者特性的差异所产生的辨识问题。
+
+</trans></sent>
+
+<sent><orig>
+
+Contact between bare speaker wires at the speaker terminals may result in a short-circuit.
+
+</orig>
+
+<trans>
+
+扬声器各端子间的扬声器裸线部分相接触时，可能引起短路。
+
+</trans></sent>
+
+<sent><orig>
+
+The speaker changed, but no one move the camera to the new speaker.
+
+</orig>
+
+<trans>
+
+换了演讲者，但是没有人把摄像机移到新的演讲者那里。
+
+</trans></sent>
+
+<sent><orig>
+
+He is a speaker, and a flunt speaker therewith.
+
+</orig>
+
+<trans>
+
+他是演说家， 而且是口若悬河的演说家。
+
+</trans></sent>
+
+</dict>

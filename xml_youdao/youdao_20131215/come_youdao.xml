@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[come]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[来]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kʌm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 来；开始；出现；发生；变成；到达]]></ex>
+
+                    <ex><![CDATA[vt. 做；假装；将满（…岁）]]></ex>
+
+                    <ex><![CDATA[int. 嗨！]]></ex>
+
+                    <ex><![CDATA[n. (Come)人名；(英)科姆；(阿尔巴)乔梅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Come]]></key>
+
+            <value>
+
+                            <ex><![CDATA[来]]></ex>
+
+                            <ex><![CDATA[来到]]></ex>
+
+                            <ex><![CDATA[得出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[come up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[走近]]></ex>
+
+                            <ex><![CDATA[出现]]></ex>
+
+                            <ex><![CDATA[发生]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[come down]]></key>
+
+            <value>
+
+                            <ex><![CDATA[下来]]></ex>
+
+                            <ex><![CDATA[下降]]></ex>
+
+                            <ex><![CDATA[落]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

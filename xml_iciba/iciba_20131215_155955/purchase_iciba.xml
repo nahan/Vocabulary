@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>purchase</key>
+
+<pos>v.</pos>
+
+<acceptation>购买；采购；换得；依靠机械力移动；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>购买；购买行为；购置物；紧握；
+
+</acceptation>
+
+<sent><orig>
+
+The purchase of bonds is generally recorded at cost (including purchase price and brokerage commissions).
+
+</orig>
+
+<trans>
+
+债券的购入一般按成本（包括买价和经纪人佣金）计价。
+
+</trans></sent>
+
+<sent><orig>
+
+Formulate purchase orders based on relevant purchase requisition.
+
+</orig>
+
+<trans>
+
+根据相关采购申请编制采购订单。
+
+</trans></sent>
+
+<sent><orig>
+
+Place purchase orders or purchase requisition to ABB vendor or logistic dept. according to sales contract.
+
+</orig>
+
+<trans>
+
+根据合同要求向内部采购部门或ABB供应商发出采购需求单或采购订单。
+
+</trans></sent>
+
+<sent><orig>
+
+Place purchase orders with internal suppliers coordinate with Purchase Order.
+
+</orig>
+
+<trans>
+
+向内部供应商下采购定单。
+
+</trans></sent>
+
+<sent><orig>
+
+John was granted an option to purchase 3,000 shares purchase price of $7.00 per share.
+
+</orig>
+
+<trans>
+
+约翰被授予三千股的股票购置权，每股“七”美元。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>motion</key>
+
+<ps>'məʊʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/33/8e/338ea96a44f5f7a980863d04c50dfedc.mp3</pron>
+
+<ps>ˈmoʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/33/8e/338ea96a44f5f7a980863d04c50dfedc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>运动；手势；动机，意向；请求；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>打手势；向某人点头或摇头示意；打手势要求[指示]；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>运动；打手势；
+
+</acceptation>
+
+<sent><orig>
+
+The Fractal Brownian Motion (FBM) provides effective mathematics model, which has important application in Computer Graphics.
+
+</orig>
+
+<trans>
+
+分形在计算机图形学领域有着重要应用。 其中的分形布朗运动(fBm,fractal Brownian motion)，为描述地形表面提供了有效的数学模型。
+
+</trans></sent>
+
+<sent><orig>
+
+A development of motion-dependent processing is to derive motion vectors (indicating inter-image motion) to sub-pixel accuracy.
+
+</orig>
+
+<trans>
+
+依赖于运动的处理的一种发展是导出达到子像素精度的运动矢量（其表示图像间运动）。
+
+</trans></sent>
+
+<sent><orig>
+
+A body in motion remains in motion unless acted on by an external force.
+
+</orig>
+
+<trans>
+
+如果没有外力的效用，运动的物体仍然连结运动状态。
+
+</trans></sent>
+
+<sent><orig>
+
+Objective: To study the relationship between lung tumor motion and skin marker motion resulted from respiration.
+
+</orig>
+
+<trans>
+
+目的：研究呼吸导致的肺部肿瘤运动和体表标记物运动轨迹之间的关系。
+
+</trans></sent>
+
+<sent><orig>
+
+Open motion control technology is the kernel of the motion control system.
+
+</orig>
+
+<trans>
+
+开放式运动控制技术是开放式控制系统的核心技术之一。
+
+</trans></sent>
+
+</dict>

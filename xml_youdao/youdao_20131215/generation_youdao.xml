@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[generation]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[一代]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dʒenə'reɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 一代；产生；一代人；生殖]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Generation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[代]]></ex>
+
+                            <ex><![CDATA[一代]]></ex>
+
+                            <ex><![CDATA[一代人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Beat Generation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垮掉的一代]]></ex>
+
+                            <ex><![CDATA[垮掉一代]]></ex>
+
+                            <ex><![CDATA[垮了的一代]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Strawberry generation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[草莓族]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

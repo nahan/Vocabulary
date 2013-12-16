@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="certificate"> <hw>cer*tif*i*cate</hw> <sound><wav>certif01.wav</wav></sound> <pr>sɚˈtɪfɪkət</pr> <fl>noun</fl> <in><il>plural</il> <if>cer*tif*i*cates</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a document that is official proof that something has happened <dx>see also <dxt>birth certificate</dxt> <dxt>death certificate</dxt> <dxt>marriage certificate</dxt></dx></dt> <sn>2</sn> <dt>:a document that is official proof that you have finished school or a course of training <vi>She has a <it>certificate</it> in midwifery.</vi> <vi>He earned his teaching <it>certificate</it> last year.</vi></dt> <sn>3</sn> <dt>:a document which shows that you own something <vi>a stock <it>certificate</it></vi> <dx>see also <dxt>gift certificate</dxt></dx></dt></def></entry>
+
+	<entry id="certificate of deposit"> <hw>certificate of deposit</hw> <fl>noun</fl> <in><il>plural</il> <if>certificates of deposit</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:an official document in which a bank promises to pay a specified amount of interest when you deposit money in the bank for a specified period of time <ca>called also <cat>CD</cat></ca></dt></def></entry>
+
+	<entry id="birth certificate"> <hw>birth certificate</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cates</if></in> <def><gram>count</gram> <dt>:an official document that gives information about a person's birth (such as the person's name, the names of the parents, and the time and place where the birth occurred)</dt></def></entry>
+
+	<entry id="death certificate"> <hw>death certificate</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cates</if></in> <def><gram>count</gram> <dt>:an official document that gives information about a person's death (such as when and how the death happened)</dt></def></entry>
+
+	<entry id="gift certificate"> <hw>gift certificate</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cates</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a piece of paper that is worth a certain amount of money and is given to someone to be used like money to pay for things (such as the products or services of a particular business) <vi>a $10 <it>gift certificate</it></vi> <ca>called also (<it>Brit</it>) <cat>gift token</cat> (<it>Brit</it>) <cat>gift voucher</cat></ca></dt></def></entry>
+
+	<entry id="marriage certificate"> <hw>marriage certificate</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cates</if></in> <def><gram>count</gram> <dt>:a legal document that shows that a marriage has taken place</dt></def></entry>
+
+</entry_list>

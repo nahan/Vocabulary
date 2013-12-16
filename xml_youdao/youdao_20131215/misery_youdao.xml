@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[misery]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[痛苦]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɪz(ə)rɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 痛苦，悲惨；不幸；苦恼；穷困]]></ex>
+
+                    <ex><![CDATA[n. (Misery)人名；(法)米斯里]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[misery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[痛苦]]></ex>
+
+                            <ex><![CDATA[危情十日]]></ex>
+
+                            <ex><![CDATA[战栗游戏]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Is misery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[是如此痛苦]]></ex>
+
+                            <ex><![CDATA[是如此疼痛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[of Misery]]></key>
+
+            <value>
+
+                            <ex><![CDATA[悲惨之]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

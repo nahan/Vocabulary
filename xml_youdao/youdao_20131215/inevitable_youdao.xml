@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[inevitable]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不可避免的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'evɪtəb(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 必然的，不可避免的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Inevitable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不可避免]]></ex>
+
+                            <ex><![CDATA[必然]]></ex>
+
+                            <ex><![CDATA[无法避免的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Inevitable Accident]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不可避免的事故]]></ex>
+
+                            <ex><![CDATA[不可避免的意外事故]]></ex>
+
+                            <ex><![CDATA[无法避免的意外]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[the inevitable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[社会发展的必然结果]]></ex>
+
+                            <ex><![CDATA[不可避免的事]]></ex>
+
+                            <ex><![CDATA[不可避免的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[equal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[平等的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['i:kwəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 对手；匹敌；同辈；相等的事物]]></ex>
+
+                    <ex><![CDATA[adj. 平等的；相等的；胜任的]]></ex>
+
+                    <ex><![CDATA[vt. 等于；比得上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[equal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相等的]]></ex>
+
+                            <ex><![CDATA[等于]]></ex>
+
+                            <ex><![CDATA[平等的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[equal to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相等]]></ex>
+
+                            <ex><![CDATA[胜任]]></ex>
+
+                            <ex><![CDATA[敌得过]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[equal roots]]></key>
+
+            <value>
+
+                            <ex><![CDATA[等根]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

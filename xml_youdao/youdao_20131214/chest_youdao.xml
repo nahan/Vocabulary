@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[chest]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[胸部]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʃest]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 胸，胸部；衣柜；箱子；金库]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[chest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胸部]]></ex>
+
+                            <ex><![CDATA[胸围]]></ex>
+
+                            <ex><![CDATA[箱子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[chest pain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胸痛]]></ex>
+
+                            <ex><![CDATA[胸部疼痛]]></ex>
+
+                            <ex><![CDATA[胸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[chest pass]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胸前传球]]></ex>
+
+                            <ex><![CDATA[双手胸前传球]]></ex>
+
+                            <ex><![CDATA[分类有单手]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

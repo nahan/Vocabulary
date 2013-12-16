@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>solution</key>
+
+<ps>səˈlu:ʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/76/e2/76e2aff6df44707f5a1d14e0c934addb.mp3</pron>
+
+<ps>səˈluʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/55/02/550237b8fbcdf3741bb1127d0fc7f6bf.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>解决；溶解；溶液；答案；
+
+</acceptation>
+
+<sent><orig>
+
+As solution items, which appear in the Solution Items folder of Solution Explorer.
+
+</orig>
+
+<trans>
+
+作为解决方案项出现在解决方案资源管理器的“解决方案项”文件夹中。
+
+</trans></sent>
+
+<sent><orig>
+
+Solution Items are always available from Solution Explorer when you open the solution.
+
+</orig>
+
+<trans>
+
+打开解决方案后，始终可从解决方案资源管理器使用“解决方案项”。
+
+</trans></sent>
+
+<sent><orig>
+
+All solution items that you add to the solution are placed in the Solution Items folder.
+
+</orig>
+
+<trans>
+
+添加到解决方案中的所有解决方案项都被置于“解决方案项”文件夹中。
+
+</trans></sent>
+
+<sent><orig>
+
+When solving different ordinary differential equations, we may take the analytical solution or numerical solution.
+
+</orig>
+
+<trans>
+
+不同类型的常微方程可以采用解析解法或者数值解法。
+
+</trans></sent>
+
+<sent><orig>
+
+Equilibrium sorption capacity increases with increasing initial lead concentration, solution temperature, solution pH and sorbent dose.
+
+</orig>
+
+<trans>
+
+而在铅离子初浓度愈高、吸附剂剂量愈大、温度愈高、pH值愈高时，其平衡吸附量愈大。
+
+</trans></sent>
+
+</dict>

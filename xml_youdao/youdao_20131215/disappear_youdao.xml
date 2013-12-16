@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[disappear]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[消失]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪsə'pɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 消失；失踪；不复存在]]></ex>
+
+                    <ex><![CDATA[vt. 使…不存在；使…消失]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[disappear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[消失]]></ex>
+
+                            <ex><![CDATA[不见]]></ex>
+
+                            <ex><![CDATA[失踪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[I disappear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[让我消失]]></ex>
+
+                            <ex><![CDATA[给我消失]]></ex>
+
+                            <ex><![CDATA[我会消失]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Generations disappear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一代一代都消失了]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

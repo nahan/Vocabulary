@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[airport]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[机场]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['eəpɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 机场；航空站]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Airport]]></key>
+
+            <value>
+
+                            <ex><![CDATA[机场]]></ex>
+
+                            <ex><![CDATA[航空站]]></ex>
+
+                            <ex><![CDATA[飞机场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Airport terminal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[航站楼]]></ex>
+
+                            <ex><![CDATA[机场候机楼]]></ex>
+
+                            <ex><![CDATA[候机楼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gatwick Airport]]></key>
+
+            <value>
+
+                            <ex><![CDATA[格域机场]]></ex>
+
+                            <ex><![CDATA[盖特威克机场]]></ex>
+
+                            <ex><![CDATA[伦敦格特威机场]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

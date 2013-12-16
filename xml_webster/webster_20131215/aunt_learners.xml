@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="aunt"> <hw highlight="yes">aunt</hw> <sound><wav>aunt0002.wav</wav></sound> <pr>ˈænt, ˈɑ:nt</pr> <fl>noun</fl> <in><il>plural</il> <if>aunts</if></in> <def><gram>count</gram> <dt>:the sister of your father or mother or the wife of your uncle <vi>He has three <it>aunts</it> and two uncles.</vi> <vi>This is my <it>Aunt</it> Mary.</vi></dt></def></entry>
+
+	<entry id="agony aunt"> <hw>agony aunt</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ aunts</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a person who writes an agony column <vi>Hundreds of people write in to the paper's <it>agony aunt</it> [=(<it>US</it>) <it>advice columnist</it>] every week.</vi></dt></def></entry>
+
+</entry_list>

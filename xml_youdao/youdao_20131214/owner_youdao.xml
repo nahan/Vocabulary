@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[owner]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[老板]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['əʊnə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [经] 所有者；物主]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[owner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[业主]]></ex>
+
+                            <ex><![CDATA[所有者]]></ex>
+
+                            <ex><![CDATA[物主]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[legal owner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法定所有人]]></ex>
+
+                            <ex><![CDATA[法定所有权人]]></ex>
+
+                            <ex><![CDATA[须使他成为合法产权人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Product Owner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[产品负责人]]></ex>
+
+                            <ex><![CDATA[品所有者]]></ex>
+
+                            <ex><![CDATA[产品经理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

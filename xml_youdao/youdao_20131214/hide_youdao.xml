@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hide]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[隐藏]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[haɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 躲藏；兽皮；躲藏处]]></ex>
+
+                    <ex><![CDATA[vt. 隐藏；隐瞒；鞭打]]></ex>
+
+                    <ex><![CDATA[vi. 隐藏]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Hide]]></key>
+
+            <value>
+
+                            <ex><![CDATA[隐藏]]></ex>
+
+                            <ex><![CDATA[躲藏]]></ex>
+
+                            <ex><![CDATA[隐藏鼠标指针]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hide Layer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[隐藏层]]></ex>
+
+                            <ex><![CDATA[隐含层]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bull hide]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公牛皮]]></ex>
+
+                            <ex><![CDATA[牤牛皮]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

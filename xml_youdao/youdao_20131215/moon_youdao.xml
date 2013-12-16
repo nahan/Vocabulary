@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[moon]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[月亮]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[muːn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 月亮；月球；月光；卫星]]></ex>
+
+                    <ex><![CDATA[vt. 虚度]]></ex>
+
+                    <ex><![CDATA[vi. 闲荡；出神]]></ex>
+
+                    <ex><![CDATA[n. (Moon)人名；(瑞典)莫恩；(柬)蒙；(英)穆恩；(缅)孟]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Moon]]></key>
+
+            <value>
+
+                            <ex><![CDATA[月球]]></ex>
+
+                            <ex><![CDATA[月亮]]></ex>
+
+                            <ex><![CDATA[裸臀]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Moon gate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[月亮门]]></ex>
+
+                            <ex><![CDATA[月洞门]]></ex>
+
+                            <ex><![CDATA[玉轮门]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[New moon]]></key>
+
+            <value>
+
+                            <ex><![CDATA[新月]]></ex>
+
+                            <ex><![CDATA[新月之茧]]></ex>
+
+                            <ex><![CDATA[暮光之城新月]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

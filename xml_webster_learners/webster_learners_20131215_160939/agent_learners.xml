@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="agent"> <hw highlight="yes">agent</hw> <sound><wav>agent001.wav</wav></sound> <pr>ˈeɪʤənt</pr> <fl>noun</fl> <in><il>plural</il> <if>agents</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who does business for another person :a person who acts on behalf of another <vi>They worked with a travel <it>agent</it> to plan their vacation.</vi> <vi>The actor got a starring role through his (theatrical) <it>agent</it>.</vi> <vi>a <phrase>literary agent</phrase> [=a person who helps writers to get their works published]</vi> <dx>see also <dxt>free agent</dxt> <dxt>insurance agent</dxt> <dxt>press agent</dxt> <dxt>real estate agent</dxt></dx></dt> <sn>2</sn> <dt>:a person who tries to get secret information about another country, government, etc. :<sx>spy</sx> <sx>secret agent</sx> <vi>a government <it>agent</it></vi> <dx>see also <dxt>double agent</dxt> <dxt>special agent</dxt></dx></dt> <sn>3</sn> <dt>:a person or thing that causes something to happen <vi>They view themselves as <it>agents</it> of social change. [=people who cause social change to happen]</vi></dt> <sn>4</sn> <dt>:something (such as a chemical) that is used to produce a particular effect or result <vi>The drug is an effective <it>agent</it> for the treatment of asthma.</vi> <vi>the main flavoring <it>agent</it> in the drink</vi> <vi>Cornstarch is used as a thickening <it>agent</it> in sauces.</vi></dt></def></entry>
+
+	<entry id="agent provocateur"> <hw>agent pro*vo*ca*teur</hw> <sound><wav>agent01b.wav</wav><wav>agent02w.wav</wav></sound> <pr>ˈɑ:ˌʒɑ:nproʊˌvɑ:kəˈtɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>agents pro*vo*ca*teurs</if> <il>also</il> <if>agent provocateurs</if> <pr>ˈɑ:ˌʒɑ:nproʊˌvɑ:kəˈtɚ</pr></in> <def><gram>count</gram> <dt>:a person employed to encourage people to break the law so that they can be arrested <vi>The government used <it>agents provocateurs</it> to try to undermine the opposition party.</vi></dt></def></entry>
+
+	<entry id="double agent"> <hw>double agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <dt>:a spy who pretends to spy for one government while actually spying for another <vi>He was secretly working as a <it>double agent</it> for the Americans during the war.</vi></dt></def></entry>
+
+	<entry id="estate agent"> <hw>estate agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>real estate agent</sx></dt></def></entry>
+
+	<entry id="free agent"> <hw>free agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who is able to act freely without being controlled by someone else</dt> <sn>2</sn> <dt>:a professional athlete (such as a baseball player) who is free to sign a contract to play for any team</dt></def> <uro><ure>free agency</ure> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>an athlete who has become eligible for <it>free agency</it></vi></utxt></uro></entry>
+
+	<entry id="insurance agent"> <hw>insurance agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <dt>:a person whose job is to provide people with insurance <ca>called also <cat>insurance broker</cat></ca></dt></def></entry>
+
+	<entry id="press agent"> <hw>press agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <dt>:a person whose job is to give information about an important or famous person or organization to news reporters</dt></def></entry>
+
+	<entry id="real estate agent"> <hw>real estate agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:a person in the business of selling land and buildings <ca>called also (<it>Brit</it>) <cat>estate agent</cat></ca></dt></def></entry>
+
+	<entry id="secret agent"> <hw>secret agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <dt>:a person who tries to get secret information about another country, government, etc. <vi>He was accused of being a <it>secret agent</it> for a foreign government.</vi></dt></def></entry>
+
+	<entry id="special agent"> <hw>special agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <dt>:an agent who works for the FBI</dt></def></entry>
+
+</entry_list>

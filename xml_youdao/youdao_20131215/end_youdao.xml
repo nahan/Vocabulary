@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[end]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[结束]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[end]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 结束；目标；尽头；末端；死亡]]></ex>
+
+                    <ex><![CDATA[vt. 结束，终止；终结]]></ex>
+
+                    <ex><![CDATA[vi. 结束，终止；终结]]></ex>
+
+                    <ex><![CDATA[n. (End)人名；(英、德)恩德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[end]]></key>
+
+            <value>
+
+                            <ex><![CDATA[结束]]></ex>
+
+                            <ex><![CDATA[显示当前窗口的底端]]></ex>
+
+                            <ex><![CDATA[末端]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[End table]]></key>
+
+            <value>
+
+                            <ex><![CDATA[茶几]]></ex>
+
+                            <ex><![CDATA[床头柜]]></ex>
+
+                            <ex><![CDATA[有抽屉茶几]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[end point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[终点]]></ex>
+
+                            <ex><![CDATA[端点]]></ex>
+
+                            <ex><![CDATA[滴定终点]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

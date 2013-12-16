@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[murder]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[谋杀]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɜːdə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 谋杀，凶杀]]></ex>
+
+                    <ex><![CDATA[vt. 谋杀，凶杀]]></ex>
+
+                    <ex><![CDATA[vi. 杀人，犯杀人罪]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Murder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[谋杀]]></ex>
+
+                            <ex><![CDATA[杀人]]></ex>
+
+                            <ex><![CDATA[杀害]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mass murder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[屠杀]]></ex>
+
+                            <ex><![CDATA[大屠杀]]></ex>
+
+                            <ex><![CDATA[大规模的谋杀]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Murder Room]]></key>
+
+            <value>
+
+                            <ex><![CDATA[凶宅]]></ex>
+
+                            <ex><![CDATA[恐怖密室]]></ex>
+
+                            <ex><![CDATA[收藏凶宅]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[strength]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[强度]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[streŋθ; streŋkθ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 力量；力气；兵力；长处]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Strength]]></key>
+
+            <value>
+
+                            <ex><![CDATA[力量]]></ex>
+
+                            <ex><![CDATA[优势]]></ex>
+
+                            <ex><![CDATA[强度]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[yield strength]]></key>
+
+            <value>
+
+                            <ex><![CDATA[屈服强度]]></ex>
+
+                            <ex><![CDATA[抗屈强度]]></ex>
+
+                            <ex><![CDATA[降伏强度]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ionic strength]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离子强度]]></ex>
+
+                            <ex><![CDATA[離子强度]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

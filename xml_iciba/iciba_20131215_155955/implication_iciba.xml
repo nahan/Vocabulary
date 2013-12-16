@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>implication</key>
+
+<ps>ˌɪmplɪ'keɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/32/0c/320c7a2132821c320fb3f07437d2f537.mp3</pron>
+
+<ps>ˌɪmplɪˈkeʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/3d/2f/3d2fe6855a56ee8a53a1672481c64592.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>含义；含蓄，含意，言外之意；卷入，牵连，牵涉，纠缠；[逻辑学]蕴涵，蕴含；
+
+</acceptation>
+
+<sent><orig>
+
+Both direct implication and indirect implication methods are used in this algorithm.
+
+</orig>
+
+<trans>
+
+算法利用直接蕴含和间接蕴含的方法，解决了布尔可满足问题。
+
+</trans></sent>
+
+<sent><orig>
+
+Implication tautology is not reasoning form.
+
+</orig>
+
+<trans>
+
+蕴涵重言式不是推理式。
+
+</trans></sent>
+
+<sent><orig>
+
+The implication seems to be we can not have a holiday this year .
+
+</orig>
+
+<trans>
+
+其含意似乎是我们今年不能休假了。
+
+</trans></sent>
+
+<sent><orig>
+
+I thought the implication was that they were splitting up.
+
+</orig>
+
+<trans>
+
+我想这潜在的意思就是他们分手了。
+
+</trans></sent>
+
+<sent><orig>
+
+Both direct attack and attack by implication hurt others' feelings.
+
+</orig>
+
+<trans>
+
+直截了当的攻击和含沙射影的攻击都很伤人。
+
+</trans></sent>
+
+</dict>

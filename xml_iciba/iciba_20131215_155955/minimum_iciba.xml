@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>minimum</key>
+
+<ps>'mɪnɪməm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/96/3d/963d08f7d8cf1597f9d9514e1b8aac8f.mp3</pron>
+
+<ps>ˈmɪnəməm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e3/83/e383234c8c5c6cf7eb44a3208e26d50f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>最低限度；最小量；最低消费；[数]极小值；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>最低的；最小的；最少的；
+
+</acceptation>
+
+<sent><orig>
+
+Error of minimum zone applies to the criterion of Sphericity Error of minimum condition principle.
+
+</orig>
+
+<trans>
+
+最小区域法是符合最小条件的一种直线度误差评定方法，但较难实现。
+
+</trans></sent>
+
+<sent><orig>
+
+Does the AOI program have appropriate parameters programed to cover minimum linewidths, minimum spacing, dishdowns, etc?
+
+</orig>
+
+<trans>
+
+AOI程序是否有相应的参数，其涉及到最小线径，最小间距，等？
+
+</trans></sent>
+
+<sent><orig>
+
+The minimum bet can be less than the exchange minimum manual bet.
+
+</orig>
+
+<trans>
+
+最小的赌注可能比手工交换最低投注少。
+
+</trans></sent>
+
+<sent><orig>
+
+Please quote Order Minimum Quantity and Color Minimum Quantity.
+
+</orig>
+
+<trans>
+
+请报最低数量和颜色为最低起订量。
+
+</trans></sent>
+
+<sent><orig>
+
+The two optimal rules is minimum sum of error square and minimum sum of error value.
+
+</orig>
+
+<trans>
+
+这两种最优准则是误差平方和最小和误差绝对值和最小。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[repair]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[修复]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'peə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 修理，修补；修补部位]]></ex>
+
+                    <ex><![CDATA[vt. 修理；恢复；补救，纠正]]></ex>
+
+                    <ex><![CDATA[vi. 修理；修复]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[repair]]></key>
+
+            <value>
+
+                            <ex><![CDATA[修复]]></ex>
+
+                            <ex><![CDATA[修补]]></ex>
+
+                            <ex><![CDATA[修理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[DNA repair]]></key>
+
+            <value>
+
+                            <ex><![CDATA[DNA修复]]></ex>
+
+                            <ex><![CDATA[第二节]]></ex>
+
+                            <ex><![CDATA[基因修复]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[repair order]]></key>
+
+            <value>
+
+                            <ex><![CDATA[修理单]]></ex>
+
+                            <ex><![CDATA[修葺通知]]></ex>
+
+                            <ex><![CDATA[补缀单]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[boy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[男孩]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɒɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 男孩；男人]]></ex>
+
+                    <ex><![CDATA[n. (Boy)人名；(英、德、西、意、刚(金)、印尼、瑞典)博伊；(法)布瓦]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Boy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[男孩]]></ex>
+
+                            <ex><![CDATA[家伙]]></ex>
+
+                            <ex><![CDATA[少年]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Old Boy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[老男孩]]></ex>
+
+                            <ex><![CDATA[老生]]></ex>
+
+                            <ex><![CDATA[原罪犯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Skater boy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艾薇儿]]></ex>
+
+                            <ex><![CDATA[滑板男孩]]></ex>
+
+                            <ex><![CDATA[滑板少年]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[communicate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[沟通]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kə'mjuːnɪkeɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 通讯，传达；相通；交流；感染]]></ex>
+
+                    <ex><![CDATA[vt. 传达；感染；显露]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[communicate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[传达]]></ex>
+
+                            <ex><![CDATA[沟通]]></ex>
+
+                            <ex><![CDATA[交流]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[communicate clearly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[清晰沟通]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Communicate Automation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[畅通的交流]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

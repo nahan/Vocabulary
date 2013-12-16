@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>description</key>
+
+<ps>dɪˈskrɪpʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/dd/da/ddda2d2654739b870ffea94f03e01398.mp3</pron>
+
+<ps>dɪˈskrɪpʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/67/da/67daf92c833c41c95db874e18fcb2786.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>描述；形容；种类；类型；
+
+</acceptation>
+
+<sent><orig>
+
+Description: Beautiful Cerulean Blue ribbed silk with a box print in Berry, Midnight, and Gold.
+
+</orig>
+
+<trans>
+
+Description框：美丽的蓝色带肋与西鲁林在贝里，午夜，丝绸和盒印刷金。
+
+</trans></sent>
+
+<sent><orig>
+
+Many of the messages defined in this specification contain elements named name and description.
+
+</orig>
+
+<trans>
+
+在编程接口规范中定义的许多消息都包含了名为name和 description的元素。
+
+</trans></sent>
+
+<sent><orig>
+
+These description elements are also permitted to be sent without an xml:lang attribute qualifier.
+
+</orig>
+
+<trans>
+
+这些description元素同时也允许不受xml:lang属性的限制而直接发送。
+
+</trans></sent>
+
+<sent><orig>
+
+Description: The description of the state is a long description of the state.
+
+</orig>
+
+<trans>
+
+描述：状态的描述是关于状态的一个详细的文字说明。
+
+</trans></sent>
+
+<sent><orig>
+
+Time is a human description of relative motions and particularly, a quantitative description of cyclic motions.
+
+</orig>
+
+<trans>
+
+时间是人类对相对运动的描述，特别是循环运动的量化描述。
+
+</trans></sent>
+
+</dict>

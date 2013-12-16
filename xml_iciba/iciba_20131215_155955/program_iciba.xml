@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>program</key>
+
+<ps>'prəʊɡræm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4f/c1/4fc10cff5d15bce21e337eb25fceb95c.mp3</pron>
+
+<ps>ˈproˌɡræm, -ɡrəm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a9/c4/a9c449d4fa44e9e5a41c574ae55ce4d9.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>程序；节目，节目单；计划，安排；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>[计]给…编写程序；为…制定计划；设计安排活动；编排；
+
+</acceptation>
+
+<sent><orig>
+
+Program folder for the demonstration program files. 4.
+
+</orig>
+
+<trans>
+
+Program文件夹中为演示程序文件。4。
+
+</trans></sent>
+
+<sent><orig>
+
+Compiler is a program that translate a source program into an executable program (an object program).
+
+</orig>
+
+<trans>
+
+编译程序是把源程序翻译成可执行程序（即目标程序）的程序。
+
+</trans></sent>
+
+<sent><orig>
+
+AnyMaxi is line count program, character count program, word count program, and invoicing program.
+
+</orig>
+
+<trans>
+
+anymaxi是线计数程序，性格计数程序时，Word计数程序，和发票程序。
+
+</trans></sent>
+
+<sent><orig>
+
+The software includes four parts: main program, FFT program, power algorithm program.
+
+</orig>
+
+<trans>
+
+软件也分四部分，分为主程序、采样子程序、FFT子程序和功率电能计算子程序。
+
+</trans></sent>
+
+<sent><orig>
+
+Translation of a source program into an executable program(an object program).
+
+</orig>
+
+<trans>
+
+把源程序转换为可执行程序（目标程序）的过程。
+
+</trans></sent>
+
+</dict>

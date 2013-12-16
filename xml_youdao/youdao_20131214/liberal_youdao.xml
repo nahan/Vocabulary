@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[liberal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[自由]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lɪb(ə)r(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 自由主义者]]></ex>
+
+                    <ex><![CDATA[adj. 自由主义的；慷慨的；不拘泥的；宽大的]]></ex>
+
+                    <ex><![CDATA[n. (Liberal)人名；(葡)利贝拉尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[liberal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[心胸宽大的]]></ex>
+
+                            <ex><![CDATA[慷慨的]]></ex>
+
+                            <ex><![CDATA[自由派]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Liberal Party]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自由党]]></ex>
+
+                            <ex><![CDATA[自在党]]></ex>
+
+                            <ex><![CDATA[英国自由党]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Liberal Feminism]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自由女性主义]]></ex>
+
+                            <ex><![CDATA[自由主义女性主义]]></ex>
+
+                            <ex><![CDATA[性主义]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

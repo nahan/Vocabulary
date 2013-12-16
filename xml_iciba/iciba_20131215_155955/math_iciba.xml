@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>math</key>
+
+<ps>mæθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/7e/67/7e676e9e663beb40fd133f5ee24487c2.mp3</pron>
+
+<ps>mæθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/7e/67/7e676e9e663beb40fd133f5ee24487c2.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>数学（等于mathematics）；
+
+</acceptation>
+
+<sent><orig>
+
+&quot;Mathematics&quot; is sometimes abbreviated to&quot;math&quot;.
+
+</orig>
+
+<trans>
+
+“mathematics” 有时缩写成“math”。
+
+</trans></sent>
+
+<sent><orig>
+
+It turns out that 0.0 is included in the output of Math.random.
+
+</orig>
+
+<trans>
+
+当然，最后的结果是在Math.random的输出中包括了0.0。
+
+</trans></sent>
+
+<sent><orig>
+
+It is generalize the known results by J. Yah (Proc. Amer. Math. Soc. 98 (1986) 276-282).
+
+</orig>
+
+<trans>
+
+推广了Yan J(Proc.Amer.Math.Soc.98(1986)276～286)的结果。
+
+</trans></sent>
+
+<sent><orig>
+
+Other useful constructors, methods, and constants are predefined in the classes Float, Double, and Math.
+
+</orig>
+
+<trans>
+
+其他有用的构造函数，方法和常数在类Float和Double以及Math中定义。
+
+</trans></sent>
+
+<sent><orig>
+
+The students who take SAT Math, AMC and AIME are highly recommended to attend Math Club.
+
+</orig>
+
+<trans>
+
+我们建议上SAT数学、AMC和AIME课程的学生最好参加数学俱乐部。
+
+</trans></sent>
+
+</dict>

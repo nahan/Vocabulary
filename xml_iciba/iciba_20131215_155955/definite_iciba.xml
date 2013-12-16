@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>definite</key>
+
+<ps>ˈdefɪnət</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/63/48/6348a59dab1e65f0ca9cfc855fe2414c.mp3</pron>
+
+<ps>ˈdɛfənɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/79/68/796836d14714ac8eb4b8e8033fbd9a32.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>明确的；一定的；肯定；有把握；
+
+</acceptation>
+
+<sent><orig>
+
+Particles have the property of definite localization in space and definite boundaries.
+
+</orig>
+
+<trans>
+
+粒子的性质是在空间有确定的位置，有清楚的边界。
+
+</trans></sent>
+
+<sent><orig>
+
+Liquids have no definite shape, yet they have definite volume.
+
+</orig>
+
+<trans>
+
+液体没有一定的形状，但有一定的体积。
+
+</trans></sent>
+
+<sent><orig>
+
+Gases have neither definite size nor definite shape.
+
+</orig>
+
+<trans>
+
+气体既无一定的体积，又无一定的形状。
+
+</trans></sent>
+
+<sent><orig>
+
+A liquid has definite size, but has no definite shape.
+
+</orig>
+
+<trans>
+
+液体有一定大小，但没有一定形状。
+
+</trans></sent>
+
+<sent><orig>
+
+Positive semi-definite matrices are positive definite if and only if they are nonsingular.
+
+</orig>
+
+<trans>
+
+正半定矩阵是正定的，当且仅当它们是非奇异矩阵。
+
+</trans></sent>
+
+</dict>

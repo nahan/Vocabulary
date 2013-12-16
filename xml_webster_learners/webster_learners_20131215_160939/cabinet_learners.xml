@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cabinet"> <hw>cab*i*net</hw> <sound><wav>cabine01.wav</wav></sound> <pr>ˈkæbnɪt</pr> <fl>noun</fl> <in><il>plural</il> <if>cab*i*nets</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a piece of furniture that is used for storing things and usually has doors and shelves <vi>a kitchen/medicine <it>cabinet</it></vi> <dx>see also <dxt>file cabinet</dxt></dx></dt> <sn>2</sn> <svr><vl>or</vl> <va>Cabinet</va></svr> <dt>:a group of people who give advice to the leader of a government <vi>the British <it>cabinet</it></vi> <vi>a member of the President's <it>Cabinet</it></vi> <snote>In British English, <it>cabinet</it> in this sense is sometimes used with a plural verb. <vi>The <it>Cabinet</it> are meeting now.</vi></snote></dt></def></entry>
+
+	<entry id="file cabinet"> <hw>file cabinet</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -nets</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a piece of furniture that is used for storing documents so that they can be found easily <ca>called also <cat>filing cabinet</cat></ca> <dx>see picture at <dxt>office</dxt></dx></dt></def></entry>
+
+	<entry id="filing cabinet"> <hw>filing cabinet</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -nets</if></in> <def><gram>count</gram> <dt>:<sx>file cabinet</sx></dt></def></entry>
+
+</entry_list>

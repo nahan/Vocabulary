@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[row]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[行]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 行，排；划船；街道；吵闹]]></ex>
+
+                    <ex><![CDATA[vt. 划船；使……成排]]></ex>
+
+                    <ex><![CDATA[vi. 划船；争吵]]></ex>
+
+                    <ex><![CDATA[n. (Row)人名；(英)罗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Row]]></key>
+
+            <value>
+
+                            <ex><![CDATA[行]]></ex>
+
+                            <ex><![CDATA[排]]></ex>
+
+                            <ex><![CDATA[划]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[SAVILE ROW]]></key>
+
+            <value>
+
+                            <ex><![CDATA[萨维尔街]]></ex>
+
+                            <ex><![CDATA[萨佛街]]></ex>
+
+                            <ex><![CDATA[萨维尔巷]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Death row]]></key>
+
+            <value>
+
+                            <ex><![CDATA[死刑犯]]></ex>
+
+                            <ex><![CDATA[死囚牢房]]></ex>
+
+                            <ex><![CDATA[死囚区]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

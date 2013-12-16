@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[royal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[皇家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['rɒɪəl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 王室；王室成员]]></ex>
+
+                    <ex><![CDATA[adj. 皇家的；盛大的；女王的；高贵的；第一流的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Royal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[皇家]]></ex>
+
+                            <ex><![CDATA[皇家金堡]]></ex>
+
+                            <ex><![CDATA[王室的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Royal blue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宝蓝色]]></ex>
+
+                            <ex><![CDATA[皇室蓝]]></ex>
+
+                            <ex><![CDATA[品蓝]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Royal Tramp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鹿鼎记]]></ex>
+
+                            <ex><![CDATA[皇家流浪汉]]></ex>
+
+                            <ex><![CDATA[鹿鼎记电影版]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

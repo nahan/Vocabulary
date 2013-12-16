@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[ahead]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[之前]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'hed]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 向前；在前的；领先]]></ex>
+
+                    <ex><![CDATA[adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[ahead]]></key>
+
+            <value>
+
+                            <ex><![CDATA[向前]]></ex>
+
+                            <ex><![CDATA[在前]]></ex>
+
+                            <ex><![CDATA[遥遥领先]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[get ahead]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进步]]></ex>
+
+                            <ex><![CDATA[胜过]]></ex>
+
+                            <ex><![CDATA[获得成功]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dangerous Ahead]]></key>
+
+            <value>
+
+                            <ex><![CDATA[险陡]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

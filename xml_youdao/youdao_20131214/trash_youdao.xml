@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[trash]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[垃圾]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[træʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 垃圾；废物]]></ex>
+
+                    <ex><![CDATA[vt. 丢弃；修剪树枝]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Trash]]></key>
+
+            <value>
+
+                            <ex><![CDATA[废物]]></ex>
+
+                            <ex><![CDATA[垃圾]]></ex>
+
+                            <ex><![CDATA[垃圾桶]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[trash bin]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾箱]]></ex>
+
+                            <ex><![CDATA[垃圾桶]]></ex>
+
+                            <ex><![CDATA[垃圾筒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Trash talk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[场上说脏话]]></ex>
+
+                            <ex><![CDATA[说别人坏话]]></ex>
+
+                            <ex><![CDATA[垃圾话]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

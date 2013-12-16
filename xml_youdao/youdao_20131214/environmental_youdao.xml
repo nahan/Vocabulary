@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[environmental]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[环境]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪnvaɪrən'ment(ə)l; en-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 环境的，周围的；有关环境的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Environmental]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环境]]></ex>
+
+                            <ex><![CDATA[环保]]></ex>
+
+                            <ex><![CDATA[周围的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Environmental Science]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环境科学]]></ex>
+
+                            <ex><![CDATA[环境学]]></ex>
+
+                            <ex><![CDATA[环境]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Environmental chemistry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环境化学]]></ex>
+
+                            <ex><![CDATA[澳大利亚]]></ex>
+
+                            <ex><![CDATA[学术期刊]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

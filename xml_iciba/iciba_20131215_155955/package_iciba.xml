@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>package</key>
+
+<ps>'pækɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/19/dc/19dc82fa73d61455e67de24978e3c457.mp3</pron>
+
+<ps>ˈpækɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ef/e9/efe90a8e604a7c840e88d03a67f6b7d8.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>包装；包装，捆扎；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>包裹；包装袋；
+
+</acceptation>
+
+<sent><orig>
+
+Is a powerful php development of e-commerce package to build the code.
+
+</orig>
+
+<trans>
+
+是以php开发的功能强大的电子商务构筑package源代码。
+
+</trans></sent>
+
+<sent><orig>
+
+Choose Force Version from the Package menu.
+
+</orig>
+
+<trans>
+
+选择软件包(Package)菜单下的强制版本(ForceVersion)。
+
+</trans></sent>
+
+<sent><orig>
+
+Package: inner package is foil bag; out package is carton.
+
+</orig>
+
+<trans>
+
+包装规格：粉末内用铝箔袋外加纸箱包装。
+
+</trans></sent>
+
+<sent><orig>
+
+This package is recommended cos the package included Theme Park day ride, which much more cheaper.
+
+</orig>
+
+<trans>
+
+土建这个套票是因为价格内包括了主题公园一日往返，比原价便宜很多。
+
+</trans></sent>
+
+<sent><orig>
+
+This section describes the package and relationship. This section isn't needed if there is no package.
+
+</orig>
+
+<trans>
+
+描述包的划分和包之间的关系。（如果没有包的划分，此节不用描述）
+
+</trans></sent>
+
+</dict>

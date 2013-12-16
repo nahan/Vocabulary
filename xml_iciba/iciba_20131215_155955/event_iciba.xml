@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>event</key>
+
+<ps>ɪˈvent</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/40/d6/40d6756bd9d9f8ce327b57691b45bf33.mp3</pron>
+
+<ps>ɪˈvɛnt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/41/19/4119639092e62c55ea8be348e4d9260d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>事件，大事；活动，经历；结果；运动项目；
+
+</acceptation>
+
+<sent><orig>
+
+Can be extended with call backs &amp; event-hooks without altering the source files.
+
+</orig>
+
+<trans>
+
+可以依靠callback&amp;event-hooks进行拓展，不需要修改源代码。
+
+</trans></sent>
+
+<sent><orig>
+
+Compare event, occurrenceand incident.
+
+</orig>
+
+<trans>
+
+试比较event、occurrence、incident叁词。
+
+</trans></sent>
+
+<sent><orig>
+
+EDA (Event-Driven Architecture) is another application framework which is complementary with SOA.
+
+</orig>
+
+<trans>
+
+事件驱动架构EDA(Event-DrivenArchitecture)是与SOA互补的另一个应用架构。
+
+</trans></sent>
+
+<sent><orig>
+
+Typically each event produces an event handler with a different event-object type for the second parameter.
+
+</orig>
+
+<trans>
+
+通常每个事件都会为第二个参数产生一个具有不同事件对象类型的事件处理程序。
+
+</trans></sent>
+
+<sent><orig>
+
+You are free to implement your own event types, event sources asas event sinks.
+
+</orig>
+
+<trans>
+
+你可以自由地实施自己的事件类型，事件来源以及事件接收器。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="advertisement"> <hw highlight="yes">ad*ver*tise*ment</hw> <sound><wav>advert07.wav</wav><wav>advert08.wav</wav></sound> <pr>ˌædvɚˈtaɪzmənt, <it>Brit</it> ədˈvə:təsmənt</pr> <fl>noun</fl> <in><il>plural</il> <if>ad*ver*tise*ments</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:something (such as a short film or a written notice) that is shown or presented to the public to help sell a product or to make an announcement <vi>The <it>advertisement</it> will appear in three magazines.</vi> <vi>He learned about the job from an <it>advertisement</it> in the newspaper.</vi> <vi>a television/radio <it>advertisement</it></vi> <un>often + <it>for</it> <vi>I saw an <it>advertisement for</it> a new car on TV last night.</vi></un> <ca>called also <cat>ad</cat> (<it>Brit</it>) <cat>advert</cat></ca></dt> <sn>2</sn> <sgram>count</sgram> <dt>:a person or thing that shows how good or effective something is <un>+ <it>for</it> <vi>The rusted car on the lot was not much of an <it>advertisement for</it> the car dealership.</vi> <vi>Successful graduates are a good <it>advertisement for</it> a school.</vi></un></dt> <sn>3</sn> <sgram>noncount</sgram> <dt>:the act or process of advertising <vi>The company has spent a lot of money on <it>advertisement</it>.</vi></dt></def></entry>
+
+	<entry id="self-"> <hw>self-</hw> <pr>ˌsɛlf</pr> <fl>combining form</fl> <def><sn>1 a</sn> <dt>:yourself or itself <vi><it>self</it>-pitying</vi></dt> <sn>b</sn> <dt>:of yourself or itself <vi><it>self</it>-destructive</vi> <vi><it>self</it>-sacrifice</vi></dt> <sn>2</sn> <dt>:by, to, with, for, or toward yourself or itself <vi><it>self</it>-made</vi> <vi><it>self</it>-evident</vi> <vi><it>self</it>-propelled</vi> <vi><it>self</it>-addressed</vi> <vi><it>self</it>-respect</vi></dt></def></entry>
+
+</entry_list>

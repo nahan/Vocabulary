@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shelter]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[避难所]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ʃeltə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 庇护；避难所；遮盖物]]></ex>
+
+                    <ex><![CDATA[vt. 保护；使掩蔽]]></ex>
+
+                    <ex><![CDATA[vi. 躲避，避难]]></ex>
+
+                    <ex><![CDATA[n. (Shelter)人名；(英)谢尔特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[shelter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[掩蔽处]]></ex>
+
+                            <ex><![CDATA[片]]></ex>
+
+                            <ex><![CDATA[住所]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Typhoon shelter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[避风塘]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[shelter deck]]></key>
+
+            <value>
+
+                            <ex><![CDATA[遮蔽甲板]]></ex>
+
+                            <ex><![CDATA[遮浪甲板]]></ex>
+
+                            <ex><![CDATA[蔽船面]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

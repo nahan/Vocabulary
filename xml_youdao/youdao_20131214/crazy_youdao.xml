@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[crazy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[疯狂的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kreɪzɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 疯狂的；狂热的，着迷的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Crazy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[疯狂]]></ex>
+
+                            <ex><![CDATA[发疯]]></ex>
+
+                            <ex><![CDATA[爱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Crazy Ball]]></key>
+
+            <value>
+
+                            <ex><![CDATA[疯狂球]]></ex>
+
+                            <ex><![CDATA[疯狂碰碰球]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Like Crazy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爱疯了]]></ex>
+
+                            <ex><![CDATA[发疯似地]]></ex>
+
+                            <ex><![CDATA[发疯似的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

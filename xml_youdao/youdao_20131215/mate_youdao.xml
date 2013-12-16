@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[伴侣]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[meɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 助手，大副；配偶；同事；配对物]]></ex>
+
+                    <ex><![CDATA[vt. 使配对；使一致；结伴]]></ex>
+
+                    <ex><![CDATA[vi. 交配；成配偶；紧密配合]]></ex>
+
+                    <ex><![CDATA[n. (Mate)人名；(日)蛏(姓)；(西、意、塞)马特；(波黑)马特；(罗、俄)马泰]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[mate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[配偶]]></ex>
+
+                            <ex><![CDATA[伙伴]]></ex>
+
+                            <ex><![CDATA[合笼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[BABY MATE]]></key>
+
+            <value>
+
+                            <ex><![CDATA[宝宝伴侣]]></ex>
+
+                            <ex><![CDATA[宝贝伴侣]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[coffee mate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奶精]]></ex>
+
+                            <ex><![CDATA[咖啡伴侣]]></ex>
+
+                            <ex><![CDATA[义大利冒险]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

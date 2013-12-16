@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bear]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[熊]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[beə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 熊]]></ex>
+
+                    <ex><![CDATA[vi. 承受；结果实]]></ex>
+
+                    <ex><![CDATA[vt. 忍受；具有；支撑]]></ex>
+
+                    <ex><![CDATA[n. (Bear)人名；(英)贝尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[同义词(Big  Large Tall  Hight Perhaps  Maybe)]]></ex>
+
+                            <ex><![CDATA[熊]]></ex>
+
+                            <ex><![CDATA[小熊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bear Stearns]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贝尔斯登]]></ex>
+
+                            <ex><![CDATA[贝尔斯登公司]]></ex>
+
+                            <ex><![CDATA[贝尔史登]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Golden Bear]]></key>
+
+            <value>
+
+                            <ex><![CDATA[金熊奖]]></ex>
+
+                            <ex><![CDATA[金熊]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

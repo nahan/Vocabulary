@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[forth]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[出来]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fɔːθ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 向前，向外；自…以后]]></ex>
+
+                    <ex><![CDATA[n. (Forth)人名；(德)福特；(英)福思]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[forth]]></key>
+
+            <value>
+
+                            <ex><![CDATA[向前]]></ex>
+
+                            <ex><![CDATA[第四]]></ex>
+
+                            <ex><![CDATA[向外]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[set forth]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阐明]]></ex>
+
+                            <ex><![CDATA[动身起程]]></ex>
+
+                            <ex><![CDATA[说明]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bring forth]]></key>
+
+            <value>
+
+                            <ex><![CDATA[产生]]></ex>
+
+                            <ex><![CDATA[生]]></ex>
+
+                            <ex><![CDATA[提上]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

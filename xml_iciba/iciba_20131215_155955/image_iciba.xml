@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>image</key>
+
+<ps>'ɪmɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/be/9c/be9cfa28a78a398723dc183f316bb68a.mp3</pron>
+
+<ps>ˈɪmɪdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/78/80/78805a221a988e79ef3f42d7c5bfd418.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>影像；肖像；概念，意向；镜像，映像；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>反映；想像；作…的像；象征；
+
+</acceptation>
+
+<sent><orig>
+
+Image segmentation is the base of image analysis image recognition and the image understanding.
+
+</orig>
+
+<trans>
+
+图像分割是图像分析、识别和理解的基础。
+
+</trans></sent>
+
+<sent><orig>
+
+These methods include image gray-scale enhancement, image sharpening, image filter, image pseudo-color processing. 3.
+
+</orig>
+
+<trans>
+
+这主要包括图像灰度增强、图像锐化、图像滤波及图像伪彩色增强等。
+
+</trans></sent>
+
+<sent><orig>
+
+The image segmentation is a key process of the image analysis and the image comprehension.
+
+</orig>
+
+<trans>
+
+图像分割是图像处理到图像分析的关键步骤。
+
+</trans></sent>
+
+<sent><orig>
+
+Provided are storage medium storing image processing program, image processing apparatus and image processing method.
+
+</orig>
+
+<trans>
+
+存储有图像处理程序的存储介质、图像处理装置和方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Results Bone image removes soft tissue image, compared to general image, scapula radiography shows more clear.
+
+</orig>
+
+<trans>
+
+骨骼像比常规影像减少了软组织影，肩胛骨影像更清晰。
+
+</trans></sent>
+
+</dict>

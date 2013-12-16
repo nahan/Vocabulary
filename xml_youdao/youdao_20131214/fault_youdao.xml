@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fault]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[的错]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fɔːlt; fɒlt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 故障；[地质] 断层；错误；缺点；毛病；（网球等）发球失误]]></ex>
+
+                    <ex><![CDATA[vt. （通常用于疑问句或否定句）挑剔]]></ex>
+
+                    <ex><![CDATA[vi. 弄错；产生断层]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fault]]></key>
+
+            <value>
+
+                            <ex><![CDATA[故障]]></ex>
+
+                            <ex><![CDATA[断层]]></ex>
+
+                            <ex><![CDATA[缺点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[find fault]]></key>
+
+            <value>
+
+                            <ex><![CDATA[埋怨]]></ex>
+
+                            <ex><![CDATA[挑剔]]></ex>
+
+                            <ex><![CDATA[指手画脚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Transform fault]]></key>
+
+            <value>
+
+                            <ex><![CDATA[转形断层]]></ex>
+
+                            <ex><![CDATA[转换断层]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

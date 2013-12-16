@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[farmer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[农民]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fɑːmə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 农夫，农民]]></ex>
+
+                    <ex><![CDATA[n. (Farmer)人名；(英)法默；(法)法尔梅；(西)法梅尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Farmer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[农夫]]></ex>
+
+                            <ex><![CDATA[农民]]></ex>
+
+                            <ex><![CDATA[农场主]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mylène Farmer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[米莲·法莫]]></ex>
+
+                            <ex><![CDATA[玛莲·法莫]]></ex>
+
+                            <ex><![CDATA[法尔梅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Tony Farmer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[托尼·法玛尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

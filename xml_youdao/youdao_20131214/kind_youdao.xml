@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[kind]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[类]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kaɪnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 种类；性质]]></ex>
+
+                    <ex><![CDATA[adj. 和蔼的；宽容的；令人感激的]]></ex>
+
+                    <ex><![CDATA[n. (Kind)人名；(德、俄、法、捷)金德；(瑞典)欣德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[kind]]></key>
+
+            <value>
+
+                            <ex><![CDATA[种类]]></ex>
+
+                            <ex><![CDATA[种]]></ex>
+
+                            <ex><![CDATA[仁慈的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[in kind]]></key>
+
+            <value>
+
+                            <ex><![CDATA[以货代款]]></ex>
+
+                            <ex><![CDATA[以实物]]></ex>
+
+                            <ex><![CDATA[以同样的方法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[das Kind]]></key>
+
+            <value>
+
+                            <ex><![CDATA[孩子]]></ex>
+
+                            <ex><![CDATA[因为在德语中儿童]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

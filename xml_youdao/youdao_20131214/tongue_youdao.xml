@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tongue]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[舌头]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʌŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 舌头；语言]]></ex>
+
+                    <ex><![CDATA[vt. 舔；斥责；用舌吹]]></ex>
+
+                    <ex><![CDATA[vi. 说话；吹管乐器]]></ex>
+
+                    <ex><![CDATA[n. (Tongue)人名；(英)唐]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tongue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[舌]]></ex>
+
+                            <ex><![CDATA[舌头]]></ex>
+
+                            <ex><![CDATA[鞋舌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tongue face]]></key>
+
+            <value>
+
+                            <ex><![CDATA[榫面]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tongue hid]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鞋舌中片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[establish]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[建立]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪ'stæblɪʃ; e-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 植物定植]]></ex>
+
+                    <ex><![CDATA[vt. 建立；创办；安置]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Establish]]></key>
+
+            <value>
+
+                            <ex><![CDATA[建立]]></ex>
+
+                            <ex><![CDATA[确立]]></ex>
+
+                            <ex><![CDATA[设立]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[establish create]]></key>
+
+            <value>
+
+                            <ex><![CDATA[创作]]></ex>
+
+                            <ex><![CDATA[设立]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[set establish]]></key>
+
+            <value>
+
+                            <ex><![CDATA[安置]]></ex>
+
+                            <ex><![CDATA[确定]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

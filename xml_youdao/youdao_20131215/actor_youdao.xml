@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[actor]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[演员]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['æktə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 男演员；行动者；作用物]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Actor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[演员]]></ex>
+
+                            <ex><![CDATA[男演员]]></ex>
+
+                            <ex><![CDATA[演剧的人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Child actor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[童星]]></ex>
+
+                            <ex><![CDATA[儿童演员]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[film actor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[男电影明星]]></ex>
+
+                            <ex><![CDATA[电影男演员]]></ex>
+
+                            <ex><![CDATA[男影戏明星]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

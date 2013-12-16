@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[report]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[报告]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'pɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 报告；报道；成绩单]]></ex>
+
+                    <ex><![CDATA[vt. 报告；报导；使报到]]></ex>
+
+                    <ex><![CDATA[vi. 报告；报到；写报导]]></ex>
+
+                    <ex><![CDATA[n. (Report)人名；(匈)雷波特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Report]]></key>
+
+            <value>
+
+                            <ex><![CDATA[报告]]></ex>
+
+                            <ex><![CDATA[报表]]></ex>
+
+                            <ex><![CDATA[报导]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[technical report]]></key>
+
+            <value>
+
+                            <ex><![CDATA[技术报告]]></ex>
+
+                            <ex><![CDATA[科技报告]]></ex>
+
+                            <ex><![CDATA[技术趋向文件]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Report Form]]></key>
+
+            <value>
+
+                            <ex><![CDATA[报告式]]></ex>
+
+                            <ex><![CDATA[报告格式]]></ex>
+
+                            <ex><![CDATA[报表]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[neighbor]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[邻居]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['neɪbə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 邻居]]></ex>
+
+                    <ex><![CDATA[n. (Neighbor)人名；(英)内伯]]></ex>
+
+                    <ex><![CDATA[adj. 邻近的]]></ex>
+
+                    <ex><![CDATA[vt. 邻接]]></ex>
+
+                    <ex><![CDATA[vi. 友好；毗邻而居]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Neighbor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[邻居]]></ex>
+
+                            <ex><![CDATA[邻国]]></ex>
+
+                            <ex><![CDATA[邻人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[My neighbor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[我的邻居]]></ex>
+
+                            <ex><![CDATA[我的邻居英语作文]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Neighbor Relations]]></key>
+
+            <value>
+
+                            <ex><![CDATA[左邻右舍]]></ex>
+
+                            <ex><![CDATA[邻里之间关系好]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

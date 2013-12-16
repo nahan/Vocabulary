@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[coffee]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[咖啡]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒfɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 咖啡；咖啡豆；咖啡色]]></ex>
+
+                    <ex><![CDATA[n. (Coffee)人名；(英)科菲]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Coffee]]></key>
+
+            <value>
+
+                            <ex><![CDATA[咖啡]]></ex>
+
+                            <ex><![CDATA[咖啡色]]></ex>
+
+                            <ex><![CDATA[喝咖啡]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Coffee table]]></key>
+
+            <value>
+
+                            <ex><![CDATA[茶几]]></ex>
+
+                            <ex><![CDATA[咖啡台]]></ex>
+
+                            <ex><![CDATA[咖啡桌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Coffee cup]]></key>
+
+            <value>
+
+                            <ex><![CDATA[咖啡杯]]></ex>
+
+                            <ex><![CDATA[陶瓷咖啡杯碟]]></ex>
+
+                            <ex><![CDATA[咖啡杯图片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

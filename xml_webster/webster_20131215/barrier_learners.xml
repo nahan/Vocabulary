@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="barrier"> <hw highlight="yes">bar*ri*er</hw> <sound><wav>barrie01.wav</wav></sound> <pr>ˈberijɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>bar*ri*ers</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:something (such as a fence or natural obstacle) that prevents or blocks movement from one place to another <vi>Concrete <it>barriers</it> surround the race track to protect spectators.</vi> <vi>The tree's roots serve/act as a <it>barrier</it> against soil erosion.</vi> <vi>The mountain range forms a natural <it>barrier</it> between the two countries.</vi> <vi><it>barrier</it> beaches</vi> <dx>see also <dxt>barrier island</dxt> <dxt>barrier reef</dxt> <dxt>crash barrier</dxt></dx></dt> <sn>2 a</sn> <dt>:a law, rule, problem, etc., that makes something difficult or impossible <vi>Both leaders are in favor of removing trade <it>barriers</it>.</vi> <vi>Cultural/social <it>barriers</it> have made it hard for women to enter many professions.</vi> <vi>He argues that regulations should not be viewed as <it>barriers</it> to progress.</vi></dt> <sn>b</sn> <dt>:something that makes it difficult for people to understand each other <un>often + <it>between</it> <vi>The lecture was about finding ways to break through <it>barriers between</it> the social classes.</vi> <vi>Age can be a big <it>barrier between</it> parents and children.</vi> <vi>A <phrase>language barrier</phrase> existed <it>between</it> the two countries. [=people in the two countries did not understand each other because they spoke different languages]</vi></un></dt> <sn>3</sn> <dt>:a level, amount, or number that is difficult to get past <vi>His fastball broke the 100-mph <it>barrier</it>. [=he threw a baseball over 100 mph]</vi> <vi>a price <it>barrier</it> [=a price that is regarded as a limit]</vi> <dx>see also <dxt>sound barrier</dxt></dx></dt></def></entry>
+
+	<entry id="barrier island"> <hw>barrier island</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ islands</if></in> <def><gram>count</gram> <dt>:a long, sandy island that is near a shore</dt></def></entry>
+
+	<entry id="barrier reef"> <hw>barrier reef</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ reefs</if></in> <def><gram>count</gram> <dt>:a long coral reef that is near a shore</dt></def></entry>
+
+	<entry id="crash barrier"> <hw>crash barrier</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>guardrail</sx></dt></def></entry>
+
+	<entry id="sound barrier"> <hw>sound barrier</hw> <fl>noun</fl> <dro><dre>the sound barrier</dre> <def><dt>:the large increase in air resistance that occurs as an aircraft nears the speed of sound <vi>a plane that is able to <phrase>break the sound barrier</phrase> [=to travel faster than the speed of sound]</vi></dt></def></dro></entry>
+
+	<entry id="Great Barrier Reef"> <hw>Great Barrier Reef</hw> <fl>geographical name</fl> <dro><dre>the Great Barrier Reef</dre> <dt>:coral reef off the coast of Australia</dt></dro></entry>
+
+</entry_list>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nose]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[鼻子]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nəʊz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 鼻子；嗅觉；突出的部分；探问]]></ex>
+
+                    <ex><![CDATA[vt. 嗅；用鼻子触]]></ex>
+
+                    <ex><![CDATA[vi. 小心探索着前进；探问]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Nose]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鼻子]]></ex>
+
+                            <ex><![CDATA[鼻]]></ex>
+
+                            <ex><![CDATA[突出部分]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nose angle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[刀角]]></ex>
+
+                            <ex><![CDATA[蜗壳包角]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[running nose]]></key>
+
+            <value>
+
+                            <ex><![CDATA[流鼻涕]]></ex>
+
+                            <ex><![CDATA[流鼻水]]></ex>
+
+                            <ex><![CDATA[流涕]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

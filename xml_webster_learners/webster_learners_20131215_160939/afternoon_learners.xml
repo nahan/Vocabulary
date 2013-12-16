@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="afternoon"> <hw highlight="yes">af*ter*noon</hw> <sound><wav>aftern01.wav</wav></sound> <pr>ˌæftɚˈnu:n, <it>Brit</it> ˌɑ:ftəˈnu:n</pr> <fl>noun</fl> <in><il>plural</il> <if>af*ter*noons</if></in> <def><gram>count</gram> <dt>:the middle part of the day :the part of the day between noon and evening <vi>morning, <it>afternoon</it>, evening, and night</vi> <vi>I'll see you again tomorrow <it>afternoon</it>.</vi> <vi>It was early/late <it>afternoon</it> when I left.</vi> <vi>She spent the/her <it>afternoon</it> at the library.</vi> <vi>She came home the next/following <it>afternoon</it>. [=during the afternoon of the next day]</vi> <vi>I remember the many rainy <it>afternoons</it> I spent reading at the library.</vi> <vi>She doesn't have class on Friday <it>afternoons</it>.</vi> <vi>It took us all <it>afternoon</it> to get there.</vi> <vi>It's going to be a long <it>afternoon</it> listening to lectures.</vi> <vi>We went for a walk <phrase>this afternoon</phrase>. [=during the afternoon today]</vi> <un>often used before another noun <vi>an <it>afternoon</it> drive</vi> <vi><it>afternoon</it> tea</vi> <vi>Our garden gets plenty of <it>afternoon</it> sun. [=the sun shines on the garden in the afternoon]</vi></un> <dx>see also <dxt>good afternoon</dxt></dx></dt></def></entry>
+
+	<entry id="good afternoon"> <hw>good afternoon</hw> <fl>interjection</fl> <def><sl>somewhat formal</sl> <dt><un>used to say hello to someone in the afternoon <vi><it>Good afternoon</it>! Thanks for calling.</vi></un></dt></def></entry>
+
+</entry_list>

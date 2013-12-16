@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>call</key>
+
+<ps>kɔ:l</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b3/ab/b3ab0f9c5dd5dae2414ddaf8adf16b09.mp3</pron>
+
+<ps>kɔl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/53/b9/53b9e9679a8ea25880376080b76f98ad.mp3</pron>
+
+<pos>v.</pos>
+
+<acceptation>呼唤，喊叫；召唤，叫来，召集；下令，命令；打电话给；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>喊叫，大声喊；电话联络；必要，理由；要求；
+
+</acceptation>
+
+<sent><orig>
+
+You start a video call by pressing the call button on the remote control.
+
+</orig>
+
+<trans>
+
+可以通过按遥控器上的Call按钮来开始一次视频呼叫。
+
+</trans></sent>
+
+<sent><orig>
+
+Select call from the center menu to redial the number.
+
+</orig>
+
+<trans>
+
+从中间菜单中选择Call重新拨号。
+
+</trans></sent>
+
+<sent><orig>
+
+Only need to amend the contract CALL address.
+
+</orig>
+
+<trans>
+
+只需要修改发包CALL地址。就可以使用了。
+
+</trans></sent>
+
+<sent><orig>
+
+The term out-lined function indicates a function that is called via a normal CALL instruction.
+
+</orig>
+
+<trans>
+
+术语“外联函数”，指的是通过CALL指令来调用的函数。
+
+</trans></sent>
+
+<sent><orig>
+
+The British call z zed and the scots call it ezed but Americans call it zee.
+
+</orig>
+
+<trans>
+
+英国人对“z”的发音为“zed”，苏格兰人为“ezed”，而美国人为“zee”。
+
+</trans></sent>
+
+</dict>

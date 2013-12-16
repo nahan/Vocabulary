@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[anywhere]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[在任何地方]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['enɪweə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 任何地方]]></ex>
+
+                    <ex><![CDATA[adv. 在任何地方；无论何处]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Anywhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[任何地点]]></ex>
+
+                            <ex><![CDATA[任何地方]]></ex>
+
+                            <ex><![CDATA[随时随地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Anywhere Is]]></key>
+
+            <value>
+
+                            <ex><![CDATA[四处皆然]]></ex>
+
+                            <ex><![CDATA[无处不在]]></ex>
+
+                            <ex><![CDATA[任何地方都是如此]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fits anywhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[携带很方便]]></ex>
+
+                            <ex><![CDATA[适合任何位置]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

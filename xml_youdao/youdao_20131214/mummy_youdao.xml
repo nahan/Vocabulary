@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mummy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[木乃伊]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mʌmɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 妈妈；木乃伊；干瘪的人]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Mummy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[木乃伊]]></ex>
+
+                            <ex><![CDATA[妈咪]]></ex>
+
+                            <ex><![CDATA[妈妈]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[yummy mummy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[性感妈妈]]></ex>
+
+                            <ex><![CDATA[漂亮妈咪]]></ex>
+
+                            <ex><![CDATA[感妈妈]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mummy Dearest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[四眼仔]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

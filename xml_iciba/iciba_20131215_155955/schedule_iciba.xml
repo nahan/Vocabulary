@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>schedule</key>
+
+<ps>'ʃedjuːl</ps>
+
+<pron>http://res-tts.iciba.com/7/9/9/799855594adc0f2bd7302c69d3234b5a.mp3</pron>
+
+<ps>'skedʒuːl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/79/98/799855594adc0f2bd7302c69d3234b5a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>时刻表，进度表；清单，明细表；预定计划；目录；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>排定，安排；将…列表；为…作目录；
+
+</acceptation>
+
+<sent><orig>
+
+You can prevent an endless loop by inserting schedule invocations at strategic points.
+
+</orig>
+
+<trans>
+
+你可以在代码中适当的位置插入schedule语句来防止进入死循环。
+
+</trans></sent>
+
+<sent><orig>
+
+Don't worry. My friend says he can always arrange his schedule around your schedule.
+
+</orig>
+
+<trans>
+
+别担心，我朋友说他会按你的计划来调整他的时间。
+
+</trans></sent>
+
+<sent><orig>
+
+To acquainted with the Project Master Schedule and the purchasing schedule the assigned project.
+
+</orig>
+
+<trans>
+
+熟知项目总体计划及项目的采购计划。
+
+</trans></sent>
+
+<sent><orig>
+
+Next, the courtyard line suggestion's running schedule, is the very scientific reasonable running schedule.
+
+</orig>
+
+<trans>
+
+其次，院线建议的档期，是非常科学合理的档期。
+
+</trans></sent>
+
+<sent><orig>
+
+See the attached schedule or as per the attached schedule.
+
+</orig>
+
+<trans>
+
+参见附件。
+
+</trans></sent>
+
+</dict>

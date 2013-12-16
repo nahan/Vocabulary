@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>man</key>
+
+<ps>mæn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c7/b3/c7b38adcefac83c83e6f9745d89f7937.mp3</pron>
+
+<ps>mæn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/39/c6/39c63ddb96a31b9610cd976b896ad4f0.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>男人；人类；男子汉；雇工；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使振作；操纵；给…配置人员；在…就位；
+
+</acceptation>
+
+<pos>int.</pos>
+
+<acceptation>（表示惊讶、气愤等）嘿，天哪；
+
+</acceptation>
+
+<sent><orig>
+
+The word &quot;man&quot; is the antecedent of &quot;who&quot; in &quot;the man who spoke&quot;.
+
+</orig>
+
+<trans>
+
+&quot;man&quot;这个字是&quot;the man who spoke&quot;中&quot;who&quot;的先行词。
+
+</trans></sent>
+
+<sent><orig>
+
+The corrosion inhibition of an unsatureated peroxide, MAN +BPO,for carbon steel in acid medium was explored.
+
+</orig>
+
+<trans>
+
+探讨了不饱和化合物——过氧体系、尤其是MAN+BPO对碳钢在酸性介质中的腐蚀抑制作用。
+
+</trans></sent>
+
+<sent><orig>
+
+The man command is used to show you the manual of other commands.
+
+</orig>
+
+<trans>
+
+man命令用来显示其它命令的手册页。
+
+</trans></sent>
+
+<sent><orig>
+
+There are also info pages, which are generally more in-depth than man pages.
+
+</orig>
+
+<trans>
+
+还有一个就是info命令了，它通常比man还深入。
+
+</trans></sent>
+
+<sent><orig>
+
+A MAN is actually a LAN of large size.
+
+</orig>
+
+<trans>
+
+一个城域网(MAN)实质上是规模较大的局域网。
+
+</trans></sent>
+
+</dict>

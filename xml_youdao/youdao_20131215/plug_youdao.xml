@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[plug]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[塞]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[plʌg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 插头；塞子；栓]]></ex>
+
+                    <ex><![CDATA[vt. 插入；塞住；接插头]]></ex>
+
+                    <ex><![CDATA[vi. 塞住；用插头将与电源接通]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[plug]]></key>
+
+            <value>
+
+                            <ex><![CDATA[插头]]></ex>
+
+                            <ex><![CDATA[塞子]]></ex>
+
+                            <ex><![CDATA[堵头]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[fusible plug]]></key>
+
+            <value>
+
+                            <ex><![CDATA[易熔塞]]></ex>
+
+                            <ex><![CDATA[熔塞]]></ex>
+
+                            <ex><![CDATA[保险丝插塞]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Adapter Plug]]></key>
+
+            <value>
+
+                            <ex><![CDATA[配接器插头]]></ex>
+
+                            <ex><![CDATA[衔接棋头]]></ex>
+
+                            <ex><![CDATA[接续插头]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>create</key>
+
+<ps>krɪ'eɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/4a/92/4a92f22c42397d56caf57b4f188009a6.mp3</pron>
+
+<ps>kriˈet</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/76/ea/76ea0bebb3c22822b4f0dd9c9fd021c5.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>创造，创作；产生；封爵，把…封为（贵族）；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>[英][俚]大发脾气，大发牢骚；
+
+</acceptation>
+
+<sent><orig>
+
+Call Create to create a modeless dialog box using a dialog-box template from a resource.
+
+</orig>
+
+<trans>
+
+调用Create,使用资源中对话框模板来创建非模态对话框。
+
+</trans></sent>
+
+<sent><orig>
+
+Use create statement to create database object.
+
+</orig>
+
+<trans>
+
+使用CREATE语句创建新的数据库对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Create fails if the file has been opened in compatibility mode access by any other process.
+
+</orig>
+
+<trans>
+
+如果文件被其它进程以incompatibility模式打开，这是create操作会失败。
+
+</trans></sent>
+
+<sent><orig>
+
+You create your thoughts, your thoughts create your intentions, and your intentions create your reality.
+
+</orig>
+
+<trans>
+
+你创造思想，思想创造目的，目的创造现实。
+
+</trans></sent>
+
+<sent><orig>
+
+Customers are source power for us to create fortune. Create bright future and create beautiful life.
+
+</orig>
+
+<trans>
+
+客户是我们创造财富的源动力：创造辉煌前景·创造美好生活。
+
+</trans></sent>
+
+</dict>

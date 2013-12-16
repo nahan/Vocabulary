@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[management]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[管理]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mænɪdʒm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 管理；管理人员；管理部门；操纵；经营手段]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Management]]></key>
+
+            <value>
+
+                            <ex><![CDATA[管理]]></ex>
+
+                            <ex><![CDATA[管理学]]></ex>
+
+                            <ex><![CDATA[经营]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Management Trainee]]></key>
+
+            <value>
+
+                            <ex><![CDATA[办理培训生]]></ex>
+
+                            <ex><![CDATA[管理培训生]]></ex>
+
+                            <ex><![CDATA[管理见习员]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Management accounting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[管理会计]]></ex>
+
+                            <ex><![CDATA[管理会计学]]></ex>
+
+                            <ex><![CDATA[管理计算]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

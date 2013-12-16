@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>chart</key>
+
+<ps>tʃɑ:t</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/b5/09/b50951613bcd649dc2f9fe580866fe38.mp3</pron>
+
+<ps>tʃɑrt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b5/09/b50951613bcd649dc2f9fe580866fe38.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>图表；航海图；排行榜；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>绘制地图；记录；记述；跟踪（进展或发展）；
+
+</acceptation>
+
+<sent><orig>
+
+You can use the Chart Type button Chart toolbar to quickly change the chart type.
+
+</orig>
+
+<trans>
+
+使用工具栏中的“图表类型”按钮来快速改变图表的类型。
+
+</trans></sent>
+
+<sent><orig>
+
+Some chart types cannot be combined with other chart types. Select a different chart type.
+
+</orig>
+
+<trans>
+
+某些图表类型不能与其他图表类型组合在一起。请另选一种图表类型。
+
+</trans></sent>
+
+<sent><orig>
+
+Default Chart Tool 015 015Changes the chart to default chart.
+
+</orig>
+
+<trans>
+
+默认图表工具015015将图表更改为默认图表。
+
+</trans></sent>
+
+<sent><orig>
+
+To copy a chart's formats to another chart, click the chart and copy it.
+
+</orig>
+
+<trans>
+
+要将图表的格式复制到另一图表，请选定该图表，执行复制操作。
+
+</trans></sent>
+
+<sent><orig>
+
+To change the chart type, click the Chart Type icon in the toolbar.
+
+</orig>
+
+<trans>
+
+若要更改图表类型，请单击工具栏上的“图表类型”图标。
+
+</trans></sent>
+
+</dict>

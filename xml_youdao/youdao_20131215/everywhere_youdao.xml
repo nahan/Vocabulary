@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[everywhere]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[到处都是]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['evrɪweə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 每个地方]]></ex>
+
+                    <ex><![CDATA[adv. 到处]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[everywhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[到处]]></ex>
+
+                            <ex><![CDATA[无处不在]]></ex>
+
+                            <ex><![CDATA[普遍的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[valid everywhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放之四海而皆准]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[India Everywhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[印度无处不在]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

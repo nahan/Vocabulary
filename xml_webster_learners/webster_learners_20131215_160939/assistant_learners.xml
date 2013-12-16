@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="assistant[1]"> <hw highlight="yes" hindex="1">as*sis*tant</hw> <sound><wav>assist03.wav</wav></sound> <pr>əˈsɪstənt</pr> <fl>noun</fl> <in><il>plural</il> <if>as*sis*tants</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who helps someone</dt> <sd>especially</sd> <dt>:a person whose job is to help another person to do work <vi>a magician's <it>assistant</it> [=<it>helper</it>]</vi> <vi>an <it>assistant</it> to the college president</vi> <vi>an <it>assistant</it> to the store manager</vi> <vi>a dental <it>assistant</it> [=a person whose job is to help a dentist]</vi> <vi>a wealthy executive who has a personal <it>assistant</it></vi> <dx>see also <dxt>physician's assistant</dxt></dx></dt> <sn>2</sn> <dt>:a person whose job is to help the customers in a store <vi>She works as a <phrase>sales assistant</phrase> [=<it>salesclerk</it>] at Macy's.</vi> <vi>(<it>Brit</it>) a <phrase>shop assistant</phrase></vi></dt></def></entry>
+
+	<entry id="assistant[2]"> <hw hindex="2">assistant</hw> <altpr>əˈsɪstənt</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><dt>:having the job of helping someone to do work :having a lower rank or position than others in a group, organization, etc. <vi>an <it>assistant</it> store manager</vi> <vi>an <it>assistant</it> editor</vi></dt></def></entry>
+
+	<entry id="assistant professor"> <hw>assistant professor</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -sors</if></in> <def><gram>count</gram> <dt>:a teacher at a U.S. college or university who has a rank above an instructor and below an associate professor</dt></def></entry>
+
+	<entry id="personal digital assistant"> <hw>personal digital assistant</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tants</if></in> <def><gram>count</gram> <dt>:<sx>pda</sx></dt></def></entry>
+
+	<entry id="physician assistant"> <hw>physician assistant</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tants</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:<sx>physician's assistant</sx></dt></def></entry>
+
+	<entry id="physician's assistant"> <hw>physician's assistant</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tants</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a person who provides basic medical care and who usually works with a doctor <ca>called also (<it>US</it>) <cat>PA</cat> (<it>US</it>) <cat>physician assistant</cat></ca></dt></def></entry>
+
+	<entry id="teaching assistant"> <hw>teaching assistant</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tants</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a graduate student who teaches classes at a college or university <un>abbr. <it>TA</it></un></dt></def></entry>
+
+</entry_list>

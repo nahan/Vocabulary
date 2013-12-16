@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dismiss]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[驳回]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪs'mɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 解散；解雇；开除；让...离开；不予理会、不予考虑]]></ex>
+
+                    <ex><![CDATA[vi. 解散]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[dismiss]]></key>
+
+            <value>
+
+                            <ex><![CDATA[解雇]]></ex>
+
+                            <ex><![CDATA[解散]]></ex>
+
+                            <ex><![CDATA[开除]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[dismiss from]]></key>
+
+            <value>
+
+                            <ex><![CDATA[解雇]]></ex>
+
+                            <ex><![CDATA[被解雇]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dismiss Love]]></key>
+
+            <value>
+
+                            <ex><![CDATA[解散爱]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

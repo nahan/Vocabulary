@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>protection</key>
+
+<ps>prə'tekʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/1a/8b/1a8b23b88b7705e8cd1911db23bad393.mp3</pron>
+
+<ps>prəˈtɛkʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/15/2f/152f5dc0f7ac734f8e8ee17d4a482462.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>保护；护照；[经]保护贸易制，保护政策；（向歹徒缴纳的）保护费；
+
+</acceptation>
+
+<sent><orig>
+
+Protection: Overload protection, over-temperature protection, anti-access protection, circuit protection.
+
+</orig>
+
+<trans>
+
+保护：过载保护，过温保护，反接保护，短路保护。
+
+</trans></sent>
+
+<sent><orig>
+
+Main products, the lightning rod, power protection, signal protection, data protection, protection, and other audio.
+
+</orig>
+
+<trans>
+
+主要产品有，避雷针，电源保护器，信号保护器，数据保护器，音频保护器等。
+
+</trans></sent>
+
+<sent><orig>
+
+Wrong polarity protection, over charging protection, over discharging protection, over load, short circuit protection.
+
+</orig>
+
+<trans>
+
+错极性保护、过充保护、过放保护、过载保护、短路保护。
+
+</trans></sent>
+
+<sent><orig>
+
+The chip internal circuit protection, circuit protection, lightning strike protection and thermal shutdown protection circuits.
+
+</orig>
+
+<trans>
+
+芯片内设的短路保护、开路保护、雷击保护、过温保护等电路可保证收发器在恶劣的应用环境下正常工作。
+
+</trans></sent>
+
+<sent><orig>
+
+Protection performance tests includes: 1. over-loading protection 2.1osting-phase protection 3. missing-voltage protection.
+
+</orig>
+
+<trans>
+
+保护性能试验包括：1．过载保护2．缺相保护3．失压保护。
+
+</trans></sent>
+
+</dict>

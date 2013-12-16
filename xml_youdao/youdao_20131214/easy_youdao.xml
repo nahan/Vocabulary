@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[easy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[容易]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['iːzɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 容易的；舒适的]]></ex>
+
+                    <ex><![CDATA[vt. 发出停划命令]]></ex>
+
+                    <ex><![CDATA[adv. 不费力地，从容地]]></ex>
+
+                    <ex><![CDATA[vi. 停止划桨]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[easy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[容易的]]></ex>
+
+                            <ex><![CDATA[简单]]></ex>
+
+                            <ex><![CDATA[忙里偷闲]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Easy Rider]]></key>
+
+            <value>
+
+                            <ex><![CDATA[逍遥骑士]]></ex>
+
+                            <ex><![CDATA[迷幻骑士]]></ex>
+
+                            <ex><![CDATA[寄生虫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[over easy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[煎半熟蛋]]></ex>
+
+                            <ex><![CDATA[结束容易]]></ex>
+
+                            <ex><![CDATA[双面煎]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

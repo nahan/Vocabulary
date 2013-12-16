@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[decision]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[决定]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'sɪʒ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 决定，决心；决议]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Decision]]></key>
+
+            <value>
+
+                            <ex><![CDATA[决定]]></ex>
+
+                            <ex><![CDATA[决心]]></ex>
+
+                            <ex><![CDATA[决策]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Decision Tree]]></key>
+
+            <value>
+
+                            <ex><![CDATA[决策树]]></ex>
+
+                            <ex><![CDATA[判定树]]></ex>
+
+                            <ex><![CDATA[判断树]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Decision Points]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抉择时刻]]></ex>
+
+                            <ex><![CDATA[决策点]]></ex>
+
+                            <ex><![CDATA[决策时刻]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

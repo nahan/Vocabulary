@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>author</key>
+
+<ps>'ɔ:θə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/02/bd/02bd92faa38aaa6cc0ea75e59937a1ef.mp3</pron>
+
+<ps>ˈɔθɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/02/bd/02bd92faa38aaa6cc0ea75e59937a1ef.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>著作家；作者；创造者；发起人；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>创作出版；
+
+</acceptation>
+
+<sent><orig>
+
+Author Translation Author translation has its own stand-alone line, begins with marker AUTHOR2.
+
+</orig>
+
+<trans>
+
+作者译名或译音作者译名独为一行，由标记AUTHOR2注明。
+
+</trans></sent>
+
+<sent><orig>
+
+Author Author has its own stand-alone line, begins with marker AUTHOR1.
+
+</orig>
+
+<trans>
+
+作者作者独为一行，由标记AUTHOR1注明。
+
+</trans></sent>
+
+<sent><orig>
+
+Clicking on author name will show all of the titles compiled by the author.
+
+</orig>
+
+<trans>
+
+点击作者的名称便会显示该作者的所有书目。
+
+</trans></sent>
+
+<sent><orig>
+
+A author abases the other author competed with him to improve his position.
+
+</orig>
+
+<trans>
+
+一位作家贬低另一位与他有竞争关系的作家，为了提高他的地位。
+
+</trans></sent>
+
+<sent><orig>
+
+The author index has entries arranged in alphabetical order of author's surnames.
+
+</orig>
+
+<trans>
+
+著者索引中有按著者姓氏字母顺序排列的著录。
+
+</trans></sent>
+
+</dict>

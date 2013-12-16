@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>red</key>
+
+<ps>red</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/3b/57/3b577c8f5bfa2cc523fac83910773295.mp3</pron>
+
+<ps>rɛd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/bd/a9/bda9643ac6601722a28f238714274da4.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>红色的；（脸）涨红的；烧红的；红头发的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>红色；红衣服；红颜料；红葡萄酒；
+
+</acceptation>
+
+<sent><orig>
+
+This paper proposes a novel RED algorithm based on multiple priorities namely Preferential Dynamic Threshold-RED(PDT-RED) .
+
+</orig>
+
+<trans>
+
+提出一种基于多优先级的动态阈值RED算法(PDT-RED)。
+
+</trans></sent>
+
+<sent><orig>
+
+They are called Red-Letter Days because in early printed calendars they were marked in red ink.
+
+</orig>
+
+<trans>
+
+吉利日之所以叫做Red－LetterDay,是因为这些日子在早期印刷的日历中都印成红色的缘故。
+
+</trans></sent>
+
+<sent><orig>
+
+RED can greatly alleviate the congestion status of networks.
+
+</orig>
+
+<trans>
+
+RED可以在很大程度上改善网络中的拥塞状况。
+
+</trans></sent>
+
+<sent><orig>
+
+EP-RED is complete iron control system for oil well acidizing.
+
+</orig>
+
+<trans>
+
+RED是一套完整的铁质控制系统用于油井酸处理。
+
+</trans></sent>
+
+<sent><orig>
+
+One AQM, the so-called random early detection (RED) has been recommended by the IETF.
+
+</orig>
+
+<trans>
+
+在主动队列管理算法当中，随机早期检测(RED)已经被IETF推荐作为基于路由器的拥塞控制机制。
+
+</trans></sent>
+
+</dict>

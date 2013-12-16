@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[juice]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[汁]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dʒuːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. （水果）汁，液；果汁]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Juice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[果汁]]></ex>
+
+                            <ex><![CDATA[汁]]></ex>
+
+                            <ex><![CDATA[果汁饮料]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Orange juice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[橙汁]]></ex>
+
+                            <ex><![CDATA[橘子汁]]></ex>
+
+                            <ex><![CDATA[桔子原汁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Grapefruit juice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[葡萄柚汁]]></ex>
+
+                            <ex><![CDATA[西柚汁]]></ex>
+
+                            <ex><![CDATA[蒲萄柚汁]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

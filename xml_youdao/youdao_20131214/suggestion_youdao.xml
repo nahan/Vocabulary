@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[suggestion]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[建议]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sə'dʒestʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 建议；示意；微量，细微的迹象]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[suggestion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[建议]]></ex>
+
+                            <ex><![CDATA[暗示]]></ex>
+
+                            <ex><![CDATA[意见]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Suggestion System]]></key>
+
+            <value>
+
+                            <ex><![CDATA[建议制度]]></ex>
+
+                            <ex><![CDATA[建议系统]]></ex>
+
+                            <ex><![CDATA[提案建议制度]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[suggestion therapy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[暗示疗法]]></ex>
+
+                            <ex><![CDATA[暗示治疗法]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[manufacturer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[制造商]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[,mænjʊ'fæktʃ(ə)rə(r)]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 制造商；[经] 厂商]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[MANUFACTURER]]></key>
+
+            <value>
+
+                            <ex><![CDATA[制造商]]></ex>
+
+                            <ex><![CDATA[制造厂]]></ex>
+
+                            <ex><![CDATA[制造者]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Engine manufacturer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[投影光机品牌]]></ex>
+
+                            <ex><![CDATA[投影光机]]></ex>
+
+                            <ex><![CDATA[发动机厂商]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Scooter Manufacturer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[踏板车制造厂家]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cheek]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[脸颊]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʃiːk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 面颊，脸颊；臀部]]></ex>
+
+                    <ex><![CDATA[vt. 无礼地向…讲话，对…大胆无礼]]></ex>
+
+                    <ex><![CDATA[n. (Cheek)人名；(英)奇克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Cheek]]></key>
+
+            <value>
+
+                            <ex><![CDATA[脸颊]]></ex>
+
+                            <ex><![CDATA[面颊]]></ex>
+
+                            <ex><![CDATA[脸蛋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cheek piece]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贴腮片]]></ex>
+
+                            <ex><![CDATA[颊革]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cheek clamp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正咬夹]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

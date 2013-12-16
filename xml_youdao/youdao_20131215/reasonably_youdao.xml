@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[reasonably]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[合理的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['riːznəblɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 合理地；相当地；适度地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[reasonably]]></key>
+
+            <value>
+
+                            <ex><![CDATA[合理地]]></ex>
+
+                            <ex><![CDATA[合情合理地]]></ex>
+
+                            <ex><![CDATA[按理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[reasonably priced]]></key>
+
+            <value>
+
+                            <ex><![CDATA[价格合理]]></ex>
+
+                            <ex><![CDATA[价钱很公道]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[reasonably probable]]></key>
+
+            <value>
+
+                            <ex><![CDATA[账面金额合理可能]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

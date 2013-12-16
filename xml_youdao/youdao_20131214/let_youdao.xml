@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[let]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[让]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[let]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 障碍；出租屋]]></ex>
+
+                    <ex><![CDATA[vt. 允许，让；出租；假设；妨碍]]></ex>
+
+                    <ex><![CDATA[vi. 出租；被承包]]></ex>
+
+                    <ex><![CDATA[n. (Let)人名；(缅)莱；(俄)莱特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Let]]></key>
+
+            <value>
+
+                            <ex><![CDATA[让]]></ex>
+
+                            <ex><![CDATA[重发球]]></ex>
+
+                            <ex><![CDATA[放过]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[let out]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放掉]]></ex>
+
+                            <ex><![CDATA[发出]]></ex>
+
+                            <ex><![CDATA[泄露]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[let down]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放下]]></ex>
+
+                            <ex><![CDATA[使失望]]></ex>
+
+                            <ex><![CDATA[降低]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

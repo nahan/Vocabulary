@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[know]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[知道]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 了解；熟悉；确信]]></ex>
+
+                    <ex><![CDATA[vt. 知道；认识；懂得]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Know]]></key>
+
+            <value>
+
+                            <ex><![CDATA[知道]]></ex>
+
+                            <ex><![CDATA[懂得]]></ex>
+
+                            <ex><![CDATA[认识]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Know How]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巧妙挪移]]></ex>
+
+                            <ex><![CDATA[秘诀]]></ex>
+
+                            <ex><![CDATA[锦囊]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[nobody know]]></key>
+
+            <value>
+
+                            <ex><![CDATA[没人知道]]></ex>
+
+                            <ex><![CDATA[小小鱼]]></ex>
+
+                            <ex><![CDATA[不明白我的心]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

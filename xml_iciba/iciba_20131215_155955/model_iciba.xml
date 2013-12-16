@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>model</key>
+
+<ps>'mɒdl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/20/f3/20f35e630daf44dbfa4c3f68f5399d8c.mp3</pron>
+
+<ps>ˈmɑdl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/20/f3/20f35e630daf44dbfa4c3f68f5399d8c.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>模型；模特儿；模式；典型；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>做模特儿；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>模仿；制作模型，塑造；将…做成模型；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>典型的，模范的；
+
+</acceptation>
+
+<sent><orig>
+
+COM (Component Object Model) founded by Microsoft is the most widely applied nowadays.
+
+</orig>
+
+<trans>
+
+辅助电路使用贴片元件，使整个电路尺寸做到最小。 COM即组件对象模型(Component Object Model)是由微软公司创建，当今应用范围最广的组件模型之一。
+
+</trans></sent>
+
+<sent><orig>
+
+The result indicates that RSM turbulent model can give a well prediction.
+
+</orig>
+
+<trans>
+
+计算结果证明，选用RSM (Reynolds Stress Model)湍流模型可以对旋流器流场进行较全面准确的数值预报。
+
+</trans></sent>
+
+<sent><orig>
+
+A Chinese speech recognition method based on character-based N-gram model is proposed in this thesis.
+
+</orig>
+
+<trans>
+
+本文提出了基于字的N-gram模型(characterbased N-gram model)的汉语语音识别方法，推导了模型参数的估值公式，并给出了模型的训练和识别算法。
+
+</trans></sent>
+
+<sent><orig>
+
+Price Models: Constant price model, General deterministic price model Lognormal price model, Poisson price model.
+
+</orig>
+
+<trans>
+
+价格模式：以固定价格计算模型，一般确定性的定价模型，数正态分布的价格模型，泊松价格模型。
+
+</trans></sent>
+
+<sent><orig>
+
+Jones model, modified Jones model and KS model (Kang-Sivaramakrishnan model) are primary total accruals models.
+
+</orig>
+
+<trans>
+
+Jones模型、修正Jones模型和KS模型是主要的总应计利润模型。
+
+</trans></sent>
+
+</dict>

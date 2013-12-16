@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[circuit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[电路]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɜːkɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [电子] 电路，回路；巡回；一圈；环道]]></ex>
+
+                    <ex><![CDATA[vt. 绕回…环行]]></ex>
+
+                    <ex><![CDATA[vi. 环行]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[circuit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电路]]></ex>
+
+                            <ex><![CDATA[线路]]></ex>
+
+                            <ex><![CDATA[筒围]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Short circuit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[短路]]></ex>
+
+                            <ex><![CDATA[霹雳五号]]></ex>
+
+                            <ex><![CDATA[捷径]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Integrated Circuit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[集成电路]]></ex>
+
+                            <ex><![CDATA[积体电路]]></ex>
+
+                            <ex><![CDATA[积分电路]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[head]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[头]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hed]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 头；头痛；上端；最前的部分；理解力]]></ex>
+
+                    <ex><![CDATA[adj. 头的；主要的；在顶端的]]></ex>
+
+                    <ex><![CDATA[vt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题]]></ex>
+
+                    <ex><![CDATA[vi. 出发；成头状物；船驶往]]></ex>
+
+                    <ex><![CDATA[n. (Head)人名；(英)黑德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Head]]></key>
+
+            <value>
+
+                            <ex><![CDATA[头部]]></ex>
+
+                            <ex><![CDATA[报价单的头部]]></ex>
+
+                            <ex><![CDATA[磁头]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[head on]]></key>
+
+            <value>
+
+                            <ex><![CDATA[迎面地]]></ex>
+
+                            <ex><![CDATA[迎头]]></ex>
+
+                            <ex><![CDATA[窗外有男天]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[head nurse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[护士长]]></ex>
+
+                            <ex><![CDATA[护]]></ex>
+
+                            <ex><![CDATA[护理主任]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

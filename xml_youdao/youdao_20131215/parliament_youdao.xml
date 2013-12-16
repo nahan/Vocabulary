@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[parliament]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[议会]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pɑːləm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 议会，国会]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Parliament]]></key>
+
+            <value>
+
+                            <ex><![CDATA[议会]]></ex>
+
+                            <ex><![CDATA[国会]]></ex>
+
+                            <ex><![CDATA[百乐门]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Italian Parliament]]></key>
+
+            <value>
+
+                            <ex><![CDATA[意大利议会]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Parliament Buildings]]></key>
+
+            <value>
+
+                            <ex><![CDATA[议会大厦]]></ex>
+
+                            <ex><![CDATA[省议会大厦]]></ex>
+
+                            <ex><![CDATA[国会大厦]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

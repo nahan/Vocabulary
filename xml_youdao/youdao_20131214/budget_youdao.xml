@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[budget]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[预算]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bʌdʒɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 预算，预算费]]></ex>
+
+                    <ex><![CDATA[adj. 廉价的]]></ex>
+
+                    <ex><![CDATA[vt. 安排，预定；把…编入预算]]></ex>
+
+                    <ex><![CDATA[vi. 编预算，做预算]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Budget]]></key>
+
+            <value>
+
+                            <ex><![CDATA[预算]]></ex>
+
+                            <ex><![CDATA[巴基特]]></ex>
+
+                            <ex><![CDATA[财政预算案]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Military budget]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国防预算]]></ex>
+
+                            <ex><![CDATA[军事预算]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[financial budget]]></key>
+
+            <value>
+
+                            <ex><![CDATA[财政预算]]></ex>
+
+                            <ex><![CDATA[财务预算]]></ex>
+
+                            <ex><![CDATA[财政估算]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

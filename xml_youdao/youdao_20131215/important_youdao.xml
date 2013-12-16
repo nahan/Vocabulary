@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[important]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[重要的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪm'pɔːt(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 重要的，重大的；有地位的；有权力的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Important]]></key>
+
+            <value>
+
+                            <ex><![CDATA[重要]]></ex>
+
+                            <ex><![CDATA[最重要]]></ex>
+
+                            <ex><![CDATA[重要提示]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[distinctly important]]></key>
+
+            <value>
+
+                            <ex><![CDATA[极为重要的]]></ex>
+
+                            <ex><![CDATA[非常重要的]]></ex>
+
+                            <ex><![CDATA[极其重要]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Important explanation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[重要说明]]></ex>
+
+                            <ex><![CDATA[主要阐明]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

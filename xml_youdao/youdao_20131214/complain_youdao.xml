@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[complain]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[抱怨]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kəm'pleɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 投诉；发牢骚；诉说]]></ex>
+
+                    <ex><![CDATA[vt. 抱怨；控诉]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[complain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抱怨]]></ex>
+
+                            <ex><![CDATA[投诉]]></ex>
+
+                            <ex><![CDATA[埋怨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Parents complain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[家长抱怨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Night complain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[夜怨]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

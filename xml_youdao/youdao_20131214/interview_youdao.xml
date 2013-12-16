@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[interview]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[面试]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪntəvjuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 接见，采访；面试，面谈]]></ex>
+
+                    <ex><![CDATA[vt. 采访；接见；对…进行面谈；对某人进行面试]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Interview]]></key>
+
+            <value>
+
+                            <ex><![CDATA[面试]]></ex>
+
+                            <ex><![CDATA[采访]]></ex>
+
+                            <ex><![CDATA[访谈]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[exclusive interview]]></key>
+
+            <value>
+
+                            <ex><![CDATA[独家采访]]></ex>
+
+                            <ex><![CDATA[专访]]></ex>
+
+                            <ex><![CDATA[独家专访]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Telephone interview]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电话面试]]></ex>
+
+                            <ex><![CDATA[电话访问]]></ex>
+
+                            <ex><![CDATA[中文电话面试]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

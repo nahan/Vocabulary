@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>graph</key>
+
+<ps>ɡræf</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/75/f3/75f35a4df76e5b93d0573140d2b71261.mp3</pron>
+
+<ps>ɡræf</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f8/b0/f8b0b924ebd7046dbfa85a856e4682c8.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>图表，曲线图；词的拼法；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>用曲线图表示，把…绘入图表；用胶版印刷；
+
+</acceptation>
+
+<sent><orig>
+
+The concentration-times data were analyzed with PK-GRAPH.
+
+</orig>
+
+<trans>
+
+采用药物动力学软件(PK-GRAPH)分析药物浓度-时间数据。
+
+</trans></sent>
+
+<sent><orig>
+
+Considering complicated variables of boiler feedwater pump system, its graph models are established based graph theory.
+
+</orig>
+
+<trans>
+
+锅炉给水泵是火电厂安全运行中一个比较重要的环节，建立其较精确的仿真模型从而研究其动态特性是非常重要的。
+
+</trans></sent>
+
+<sent><orig>
+
+Use Harvard graph or another dedicated charting package to graph data.
+
+</orig>
+
+<trans>
+
+使用哈佛图形或其他专门的图表工具，以图形数据。
+
+</trans></sent>
+
+<sent><orig>
+
+The path graph transformation is a natural and interesting generalization of line graph transformation.
+
+</orig>
+
+<trans>
+
+关于线图的研究已经有很多结果，路图变换是线图的一种自然推广。
+
+</trans></sent>
+
+<sent><orig>
+
+The Tektronix TDS784D oscilloscope is a graph-displaying device –it draws a graph of an electrical signal.
+
+</orig>
+
+<trans>
+
+泰克公司的示波器TDS784D是一种图形显示设备-它的图形的电信号。
+
+</trans></sent>
+
+</dict>

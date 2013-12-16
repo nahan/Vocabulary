@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="carrot"> <hw highlight="yes">car*rot</hw> <sound><wav>carrot01.wav</wav></sound> <pr>ˈkerət</pr> <fl>noun</fl> <in><il>plural</il> <if>car*rots</if></in> <def><sn>1</sn> <dt>:the long orange root of a plant that is eaten as a vegetable <wsgram>count</wsgram> <vi>She chopped some <it>carrots</it> for the soup.</vi> <wsgram>noncount</wsgram> <vi>He added some grated <it>carrot</it> to the soup.</vi> <dx>see color picture on page C4</dx></dt> <sn>2</sn> <sgram>count</sgram> <ssl>informal</ssl> <dt>:something that is offered as a reward or advantage to persuade a person to do something <vi>The company offered a <it>carrot</it> in the form of additional vacation time to workers who met their deadlines.</vi> <snote>This sense of <it>carrot</it> is often contrasted with <it>stick</it>, which suggests a punishment for not doing something. <vi>He'll have to choose between the <it>carrot</it> and the <it>stick</it>.</vi> <vi>The administration was criticized for its <it>carrot-and-stick</it> approach to foreign policy.</vi></snote></dt></def></entry>
+
+</entry_list>

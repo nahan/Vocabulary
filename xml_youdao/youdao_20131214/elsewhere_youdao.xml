@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[elsewhere]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[在其他地方]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[els'weə; 'elsweə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 在别处；到别处]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Elsewhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[在别处]]></ex>
+
+                            <ex><![CDATA[别处]]></ex>
+
+                            <ex><![CDATA[其他地方]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Look elsewhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[在别的地方找找看]]></ex>
+
+                            <ex><![CDATA[使窘迫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Living elsewhere]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生活在别处]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

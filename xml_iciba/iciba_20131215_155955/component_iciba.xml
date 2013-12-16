@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>component</key>
+
+<ps>kəmˈpəʊnənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/17/b4/17b43482ee64edb832db6c4a145ec10e.mp3</pron>
+
+<ps>kəmˈponənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/70/0c/700c216fb376666eaeda0c892e8bdc09.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>成分；零件；[数]要素；组分；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>组成的；合成的；构成的；成分的；
+
+</acceptation>
+
+<sent><orig>
+
+TGCM consists of Algorithm Executing Component (AEC) and Intelligent Learning Component (ILC).
+
+</orig>
+
+<trans>
+
+TGCM包含两个部件——算法执行部件AEC(Algorithm Executing Component)和智能学习部件ILC(Intelligent Learning Component)。
+
+</trans></sent>
+
+<sent><orig>
+
+Business Component about information integration contains domain private component and function component.
+
+</orig>
+
+<trans>
+
+我们把信息集成中的事务性组件分为领域专用组件和功能组件。
+
+</trans></sent>
+
+<sent><orig>
+
+Component parameters may also be bound using the Component annotation inside the component class.
+
+</orig>
+
+<trans>
+
+组件参数也可以在组件类里通过组件标注绑定。
+
+</trans></sent>
+
+<sent><orig>
+
+A simple component class is a nonvisual component descended directly from TComponent.
+
+</orig>
+
+<trans>
+
+一个简单的组件类是直接从Tcomponent中派生过来的非可视组件。
+
+</trans></sent>
+
+<sent><orig>
+
+You may specify additional parameters inside the component template, but parameters in the component class precedence.
+
+</orig>
+
+<trans>
+
+我们可以在组件模板中指定其他的参数，但是组件类里的参数优先。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>entry</key>
+
+<ps>'entrɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/10/b5/10b5ae8879aa453170f24b0358cdd2dd.mp3</pron>
+
+<ps>ˈɛntri</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/10/43/1043bfc77febe75fafec0c4309faccf1.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>进入，入场；入口处，门口；登记，记录；参加比赛的人；
+
+</acceptation>
+
+<sent><orig>
+
+The LIST_ENTRY macro declares a structure that connects the elements a doubly-linked list.
+
+</orig>
+
+<trans>
+
+宏LIST_ENTRY声明一个结构体。这个结构体把元素链接到双向链表中。
+
+</trans></sent>
+
+<sent><orig>
+
+Data entry includes numeric data entry, textual data entry, doubled keyed entry and also image entry.
+
+</orig>
+
+<trans>
+
+它包括数字数据录入、文本数据录入、复式键入录入和图像录入。
+
+</trans></sent>
+
+<sent><orig>
+
+The company shall implement double entry(debit entry and credit entry) and accrual basis in Accounting.
+
+</orig>
+
+<trans>
+
+公司采用国际通用的权责发生制和借贷记帐法记帐。
+
+</trans></sent>
+
+<sent><orig>
+
+Our organisation owns the intellectual property rights of the entry, or the right to use entry.
+
+</orig>
+
+<trans>
+
+本机构拥有参赛作品的知识产权或参赛作品的使用权。
+
+</trans></sent>
+
+<sent><orig>
+
+A debit entry increases an asset account while a credit entry decreases it.
+
+</orig>
+
+<trans>
+
+借方记录增加资产账户的数额，而贷方记录会减少这个账户的金额。
+
+</trans></sent>
+
+</dict>

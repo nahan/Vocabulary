@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[draft]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[草案]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[drɑːft]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流]]></ex>
+
+                    <ex><![CDATA[vt. 起草；制定；征募]]></ex>
+
+                    <ex><![CDATA[vi. 拟稿；绘样；作草图]]></ex>
+
+                    <ex><![CDATA[adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Draft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[汇票]]></ex>
+
+                            <ex><![CDATA[草稿]]></ex>
+
+                            <ex><![CDATA[选秀]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[AIR DRAFT]]></key>
+
+            <value>
+
+                            <ex><![CDATA[水上高度]]></ex>
+
+                            <ex><![CDATA[吸风]]></ex>
+
+                            <ex><![CDATA[通风]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Draft Standard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[标准草案]]></ex>
+
+                            <ex><![CDATA[草案标准]]></ex>
+
+                            <ex><![CDATA[规范草案]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

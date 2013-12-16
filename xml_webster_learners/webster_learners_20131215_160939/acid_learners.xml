@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="acid[1]"> <hw hindex="1">ac*id</hw> <sound><wav>acid0001.wav</wav></sound> <pr>ˈæsəd</pr> <fl>noun</fl> <in><il>plural</il> <if>acids</if></in> <def><sn>1</sn> <ssl>chemistry</ssl> <dt>:a chemical with a sour taste that forms a salt when mixed with a base <wsgram>count</wsgram> <vi>the <it>acids</it> in your stomach</vi> <wsgram>noncount</wsgram> <vi>the kinds of <it>acid</it> found in your stomach</vi> <snote>An acid has a pH of less than 7. Very strong acids are able to burn holes in things.</snote> <dx>compare <dxt>base <dxn>6</dxn></dxt> <dxt>ph</dxt></dx></dt> <sn>2</sn> <sgram>noncount</sgram> <ssl>slang</ssl> <dt>:<sx>lsd</sx> <vi>His friend <phrase>dropped acid</phrase> [=took LSD] at the concert.</vi></dt></def></entry>
+
+	<entry id="acid[2]"> <hw hindex="2">acid</hw> <altpr>ˈæsəd</altpr> <fl>adjective</fl> <def><gram>more acid; most acid</gram> <sn>1</sn> <slb>always used before a noun</slb> <dt>:of, relating to, or having the qualities of an acid <vi>He washes his windows with an <it>acid</it> solution of vinegar and water.</vi> <vi>an <it>acid</it> [=<it>sour</it>] taste</vi> <vi>This kind of plant grows well in <it>acid</it> [=<it>acidic</it>] soil.</vi> <vi>Their pizza gives me <phrase>acid indigestion</phrase>. [=a burning feeling in the stomach]</vi></dt> <sn>2</sn> <dt>:sharp, strong, and critical in tone <vi>He made some very <it>acid</it> [=<it>biting, caustic</it>] comments.</vi> <vi><it>acid</it> remarks</vi></dt></def> <uro><ure>acid*i*ty</ure> <sound><wav>acidit01.wav</wav></sound> <pr>əˈsɪdəti</pr> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>They measured the <it>acidity</it> of the soil.</vi> <vi>the <it>acidity</it> [=<it>tartness, sourness</it>] of lemon juice</vi></utxt></uro> <uro><ure>ac*id*ly</ure> <fl>adverb</fl> <utxt><vi>She <it>acidly</it> refers to her former husband as “that little man.”</vi></utxt></uro></entry>
+
+	<entry id="acid rain"> <hw>acid rain</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:rain that contains dangerous chemicals because of smoke from cars and factories <vi>trees damaged by <it>acid rain</it></vi></dt></def></entry>
+
+	<entry id="acid test"> <hw>acid test</hw> <fl>noun</fl> <def><gram>singular</gram> <dt>:a difficult situation or task that shows if someone or something is good enough to succeed <vi>The new team faced its first <it>acid test</it> when it played the national champions.</vi> <dx>compare <dxt>litmus test</dxt></dx></dt></def></entry>
+
+	<entry id="amino acid"> <hw>ami*no acid</hw> <pr>əˈmi:noʊ-</pr> <fl>noun</fl> <in><il>plural</il> <if>⁓ acids</if></in> <def><gram>count</gram> <sl>biology</sl> <dt>:any one of many acids that occur naturally in living things and that include some which form proteins</dt></def></entry>
+
+	<entry id="citric acid"> <hw>cit*ric acid</hw> <sound><wav>citric01.wav</wav></sound> <pr>ˈsɪtrɪk-</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:an acid that occurs naturally in the juices of oranges, lemons, limes, etc., and that can also be made from sugar</dt></def></entry>
+
+	<entry id="deoxyribonucleic acid"> <hw>de*oxy*ri*bo*nu*cle*ic acid</hw> <sound><wav>deoxyr02.wav</wav></sound> <pr>diˈɑ:ksiˌraɪboʊnuˈkli:jɪk-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>technical</sl> <dt>:<sx>dna</sx></dt></def></entry>
+
+	<entry id="fatty acid"> <hw>fatty acid</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ acids</if></in> <def><gram>count</gram> <dt>:an acid that is naturally in fats and various oils</dt></def></entry>
+
+	<entry id="hydrochloric acid"> <hw>hy*dro*chlo*ric acid</hw> <sound><wav>hydroc06.wav</wav></sound> <pr>ˌhaɪdrəˈklorɪk-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>chemistry</sl> <dt>:a strong acid that is used especially in scientific experiments and in manufacturing</dt></def></entry>
+
+	<entry id="lactic acid"> <hw>lac*tic acid</hw> <pr>ˈlæktɪk-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>technical</sl> <dt>:a chemical produced by the body in your muscles during exercise</dt></def></entry>
+
+</entry_list>

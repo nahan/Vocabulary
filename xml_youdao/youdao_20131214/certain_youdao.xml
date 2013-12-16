@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[certain]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[某些]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɜːt(ə)n; -tɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 某一；必然的；确信；无疑的；有把握的]]></ex>
+
+                    <ex><![CDATA[pron. 某些；某几个]]></ex>
+
+                    <ex><![CDATA[n. (Certain)人名；(葡)塞尔塔因；(法)塞尔坦]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[certain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[确定的]]></ex>
+
+                            <ex><![CDATA[确实的]]></ex>
+
+                            <ex><![CDATA[某]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[certain of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[确信]]></ex>
+
+                            <ex><![CDATA[肯定]]></ex>
+
+                            <ex><![CDATA[有把握]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[render certain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[确保]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

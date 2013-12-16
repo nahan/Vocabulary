@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[subject]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[主题]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sʌbdʒekt; 'sʌbdʒɪkt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 主题；科目；[语] 主语；国民]]></ex>
+
+                    <ex><![CDATA[adj. 服从的；易患…的；受制于…的]]></ex>
+
+                    <ex><![CDATA[vt. 使…隶属；使屈从于…]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[subject]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主题]]></ex>
+
+                            <ex><![CDATA[主语]]></ex>
+
+                            <ex><![CDATA[科目]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[British subject]]></key>
+
+            <value>
+
+                            <ex><![CDATA[英籍人士]]></ex>
+
+                            <ex><![CDATA[英国子民]]></ex>
+
+                            <ex><![CDATA[英国臣民]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[subject clause]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主语从句]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

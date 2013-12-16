@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[average]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[平均]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['æv(ə)rɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 平均；平均数；海损]]></ex>
+
+                    <ex><![CDATA[adj. 平均的；普通的]]></ex>
+
+                    <ex><![CDATA[vt. 算出…的平均数；将…平均分配；使…平衡]]></ex>
+
+                    <ex><![CDATA[vi. 平均为；呈中间色]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Average]]></key>
+
+            <value>
+
+                            <ex><![CDATA[平均]]></ex>
+
+                            <ex><![CDATA[平均值]]></ex>
+
+                            <ex><![CDATA[平均数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Batting average]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打击率]]></ex>
+
+                            <ex><![CDATA[安打率]]></ex>
+
+                            <ex><![CDATA[平均成功率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[average speed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[平均速度]]></ex>
+
+                            <ex><![CDATA[平均速率]]></ex>
+
+                            <ex><![CDATA[平均车速]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

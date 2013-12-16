@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tile]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[瓷砖]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[taɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 瓷砖，瓦片]]></ex>
+
+                    <ex><![CDATA[vt. 铺以瓦；铺以瓷砖]]></ex>
+
+                    <ex><![CDATA[n. (Tile)人名；(俄、塞、萨摩)蒂勒]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[瓷砖]]></ex>
+
+                            <ex><![CDATA[拼贴]]></ex>
+
+                            <ex><![CDATA[展开图]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gymnothorax tile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蒂尔裸胸鳝]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[polished tile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抛光砖]]></ex>
+
+                            <ex><![CDATA[完全玻化砖]]></ex>
+
+                            <ex><![CDATA[纯粹玻化砖]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

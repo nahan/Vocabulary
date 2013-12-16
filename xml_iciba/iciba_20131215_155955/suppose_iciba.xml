@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>suppose</key>
+
+<ps>sə'pəʊz</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/ab/fc/abfc9acc5f5106a796a6bf77186dd4dc.mp3</pron>
+
+<ps>səˈpoz</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ab/fc/abfc9acc5f5106a796a6bf77186dd4dc.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>假定；猜想，推测；认为；让（用于祈祷语气）；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>想象，猜想；
+
+</acceptation>
+
+<sent><orig>
+
+Where do you suppose Tippy Toes wasand what do you suppose he was doing?
+
+</orig>
+
+<trans>
+
+你们猜歪脚趾他在哪儿，在干什么呢？
+
+</trans></sent>
+
+<sent><orig>
+
+Suppose you were an idiot and suppose you were a member of Congress.
+
+</orig>
+
+<trans>
+
+假设你是个呆瓜，是国会中的一员。
+
+</trans></sent>
+
+<sent><orig>
+
+I suppose a strong point is that I like developing new things and ideas.
+
+</orig>
+
+<trans>
+
+我想我有一个优点就是喜欢创新。
+
+</trans></sent>
+
+<sent><orig>
+
+Suppose a user writes a slot which disconnects another slot from the invoking signal.
+
+</orig>
+
+<trans>
+
+假设用户写了个插槽，该插槽把另一个插槽从调用的信号断开。
+
+</trans></sent>
+
+<sent><orig>
+
+I suppose, other languages will be available soon.
+
+</orig>
+
+<trans>
+
+我假设，其他语言很快将是可利用的。
+
+</trans></sent>
+
+</dict>

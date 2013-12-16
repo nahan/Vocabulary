@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[national]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[国家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['næʃ(ə)n(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 国民]]></ex>
+
+                    <ex><![CDATA[adj. 国家的；国民的；民族的；国立的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[National]]></key>
+
+            <value>
+
+                            <ex><![CDATA[日]]></ex>
+
+                            <ex><![CDATA[国家的]]></ex>
+
+                            <ex><![CDATA[松下]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[National Day]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国庆节]]></ex>
+
+                            <ex><![CDATA[国庆日]]></ex>
+
+                            <ex><![CDATA[日]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[National treatment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国民待遇]]></ex>
+
+                            <ex><![CDATA[国家待遇]]></ex>
+
+                            <ex><![CDATA[国民待遇原则]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

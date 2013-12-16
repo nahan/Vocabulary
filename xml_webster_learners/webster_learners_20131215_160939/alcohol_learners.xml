@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="alcohol"> <hw>al*co*hol</hw> <sound><wav>alcoho01.wav</wav></sound> <pr>ˈælkəˌhɑ:l</pr> <fl>noun</fl> <in><il>plural</il> <if>al*co*hols</if></in> <def><sn>1</sn> <dt>:a clear liquid that has a strong smell, that is used in some medicines and other products, and that is the substance in liquors (such as beer, wine, or whiskey) that can make a person drunk <wsgram>noncount</wsgram> <vi>cough medicine that contains <it>alcohol</it></vi> <vi>drinks that are high in <it>alcohol</it></vi> <vi>There was a high level of <it>alcohol</it> in his blood at the time of the accident.</vi> <vi>drug and <it>alcohol</it> abuse</vi> <wsgram>count</wsgram> <vi>a mixture of different <it>alcohols</it></vi> <dx>see also <dxt>rubbing alcohol</dxt></dx></dt> <sn>2</sn> <sgram>noncount</sgram> <dt>:drinks containing alcohol <vi>The restaurant had a license to serve <it>alcohol</it>.</vi> <vi>She doesn't drink <it>alcohol</it>.</vi></dt></def></entry>
+
+	<entry id="ethyl alcohol"> <hw>eth*yl alcohol</hw> <sound><wav>ethyl01ld.wav</wav></sound> <pr>ˈɛθəl-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>technical</sl> <dt>:<sx>ethanol</sx></dt></def></entry>
+
+	<entry id="methyl alcohol"> <hw>methyl alcohol</hw> <pr>ˈmɛθəl-</pr> <fl>noun</fl> <def><gram>noncount</gram> <sl>technical</sl> <dt>:<sx>methanol</sx></dt></def></entry>
+
+	<entry id="rubbing alcohol"> <hw>rubbing alcohol</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>US</sl> <dt>:a liquid that contains alcohol and water and that is used to clean wounds or skin <ca>called also (<it>Brit</it>) <cat>surgical spirit</cat></ca></dt></def></entry>
+
+</entry_list>

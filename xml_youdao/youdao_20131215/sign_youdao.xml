@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sign]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[标志]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[saɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 迹象；符号；记号；手势；指示牌]]></ex>
+
+                    <ex><![CDATA[vt. 签署；示意]]></ex>
+
+                    <ex><![CDATA[vi. 签署；签名]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sign]]></key>
+
+            <value>
+
+                            <ex><![CDATA[迹象]]></ex>
+
+                            <ex><![CDATA[签名]]></ex>
+
+                            <ex><![CDATA[符号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sign language]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手语]]></ex>
+
+                            <ex><![CDATA[符号语言]]></ex>
+
+                            <ex><![CDATA[手语法]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sign function]]></key>
+
+            <value>
+
+                            <ex><![CDATA[符号函数]]></ex>
+
+                            <ex><![CDATA[正负号函数]]></ex>
+
+                            <ex><![CDATA[记号功能]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

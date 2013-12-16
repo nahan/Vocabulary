@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[back]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[回]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bæk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 后面；背部；靠背；足球等的后卫；书报等的末尾]]></ex>
+
+                    <ex><![CDATA[adj. 后面的；过去的；拖欠的]]></ex>
+
+                    <ex><![CDATA[vt. 支持；后退；背书；下赌注]]></ex>
+
+                    <ex><![CDATA[adv. 以前；向后地；来回地；上溯]]></ex>
+
+                    <ex><![CDATA[vi. 后退；背靠；倒退]]></ex>
+
+                    <ex><![CDATA[n. (Back)人名；(西、英、德、法、瑞典、捷)巴克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[BACK]]></key>
+
+            <value>
+
+                            <ex><![CDATA[背面]]></ex>
+
+                            <ex><![CDATA[后面]]></ex>
+
+                            <ex><![CDATA[背部]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[give back]]></key>
+
+            <value>
+
+                            <ex><![CDATA[归还]]></ex>
+
+                            <ex><![CDATA[送还]]></ex>
+
+                            <ex><![CDATA[送回]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[set back]]></key>
+
+            <value>
+
+                            <ex><![CDATA[推迟]]></ex>
+
+                            <ex><![CDATA[使花费]]></ex>
+
+                            <ex><![CDATA[往回拨]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

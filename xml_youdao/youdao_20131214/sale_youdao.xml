@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sale]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[出售]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[seɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 销售；出售；拍卖；销售额；廉价出售]]></ex>
+
+                    <ex><![CDATA[n. (Sale)人名；(意、塞、瑞典)萨莱；(英、萨摩)塞尔；(法)萨尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sale]]></key>
+
+            <value>
+
+                            <ex><![CDATA[售]]></ex>
+
+                            <ex><![CDATA[销售]]></ex>
+
+                            <ex><![CDATA[出售]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sale]]></key>
+
+            <value>
+
+                            <ex><![CDATA[整车销售]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sale price]]></key>
+
+            <value>
+
+                            <ex><![CDATA[卖价]]></ex>
+
+                            <ex><![CDATA[销售价格]]></ex>
+
+                            <ex><![CDATA[大贱卖]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

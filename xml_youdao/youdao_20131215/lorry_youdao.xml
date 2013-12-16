@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lorry]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[卡车]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lɒrɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. （英）卡车；[车辆] 货车；运料车]]></ex>
+
+                    <ex><![CDATA[n. (Lorry)人名；(法、德)洛里]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[lorry]]></key>
+
+            <value>
+
+                            <ex><![CDATA[卡车]]></ex>
+
+                            <ex><![CDATA[运货汽车]]></ex>
+
+                            <ex><![CDATA[货车]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lorry crane]]></key>
+
+            <value>
+
+                            <ex><![CDATA[货车吊机]]></ex>
+
+                            <ex><![CDATA[机动式起重吊车]]></ex>
+
+                            <ex><![CDATA[随车起重机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lorry driving]]></key>
+
+            <value>
+
+                            <ex><![CDATA[开运货汽车]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

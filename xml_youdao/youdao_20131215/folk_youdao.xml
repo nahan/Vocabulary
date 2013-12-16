@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[folk]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[民间]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fəʊk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 民族；人们；亲属（复数）]]></ex>
+
+                    <ex><![CDATA[adj. 民间的]]></ex>
+
+                    <ex><![CDATA[n. (Folk)人名；(英、匈、捷)福克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Folk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[民间]]></ex>
+
+                            <ex><![CDATA[民谣]]></ex>
+
+                            <ex><![CDATA[人们]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Folk dance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[民族舞蹈]]></ex>
+
+                            <ex><![CDATA[民族舞]]></ex>
+
+                            <ex><![CDATA[民间舞蹈]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Folk Guitar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[民谣吉他]]></ex>
+
+                            <ex><![CDATA[民间吉他]]></ex>
+
+                            <ex><![CDATA[民谣弹唱]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[prevent]]></query>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[prɪ'vent]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 预防，防止；阻止]]></ex>
+
+                    <ex><![CDATA[vi. 妨碍，阻止]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Prevent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[防止]]></ex>
+
+                            <ex><![CDATA[预防]]></ex>
+
+                            <ex><![CDATA[阻止]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[prevent changes]]></key>
+
+            <value>
+
+                            <ex><![CDATA[防止修改]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Prevent Restore]]></key>
+
+            <value>
+
+                            <ex><![CDATA[彻底删除文件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

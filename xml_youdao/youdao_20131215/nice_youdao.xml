@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nice]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[好]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[naɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 精密的；美好的；细微的；和蔼的]]></ex>
+
+                    <ex><![CDATA[n. (Nice)人名；(英)尼斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Nice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尼斯]]></ex>
+
+                            <ex><![CDATA[美好的]]></ex>
+
+                            <ex><![CDATA[好的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Nice guy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[好人文化]]></ex>
+
+                            <ex><![CDATA[乖乖牌]]></ex>
+
+                            <ex><![CDATA[老好人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[OGC Nice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尼斯足球俱乐部]]></ex>
+
+                            <ex><![CDATA[尼斯]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[need]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[需要]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[niːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 需要，要求；缺乏；必要之物]]></ex>
+
+                    <ex><![CDATA[vt. 需要]]></ex>
+
+                    <ex><![CDATA[vi. 需要]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Need]]></key>
+
+            <value>
+
+                            <ex><![CDATA[需要]]></ex>
+
+                            <ex><![CDATA[需求]]></ex>
+
+                            <ex><![CDATA[还需要]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[social need]]></key>
+
+            <value>
+
+                            <ex><![CDATA[社会需要]]></ex>
+
+                            <ex><![CDATA[社会需求]]></ex>
+
+                            <ex><![CDATA[社群需要]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[basic need]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基本需要]]></ex>
+
+                            <ex><![CDATA[基本需求]]></ex>
+
+                            <ex><![CDATA[音形义]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

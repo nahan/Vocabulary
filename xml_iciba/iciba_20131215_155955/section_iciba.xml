@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>section</key>
+
+<ps>'sekʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/14/a5/14a54bc6594a3b3d4768d3cecd35497d.mp3</pron>
+
+<ps> ˈsɛkʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/73/d5/73d5342eba070f636ac3246f319bf77f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>部分；节；部件；部门；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>切开；切断；做（动物或植物组织）切片；把（精神病患者）正式送入精神病院；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…切成片（或段）；作…的切片；把…作成截面；制作…的剖面图；
+
+</acceptation>
+
+<sent><orig>
+
+To use a critical section, you must first declare SECTION structure.
+
+</orig>
+
+<trans>
+
+在使用临界区以前你必须先声明SECTION结构体。
+
+</trans></sent>
+
+<sent><orig>
+
+In relocatable files, st_value holds a section offset for a defined symbol.
+
+</orig>
+
+<trans>
+
+在可重定位文件中，st_value保存了一个已定义符号的section偏移。
+
+</trans></sent>
+
+<sent><orig>
+
+The contents of the initial entry are specified later in this section.
+
+</orig>
+
+<trans>
+
+初始表项的内容以后在这个section中被指定。
+
+</trans></sent>
+
+<sent><orig>
+
+Section Well Displays and enables you to change the current section using a drop-down Section Menu.
+
+</orig>
+
+<trans>
+
+选择适配显示并且使你能够改变当前正在使用项以选择使用下拉式选择菜单里的项。
+
+</trans></sent>
+
+<sent><orig>
+
+The dew point meter includes controlling section, data-gathering section and displaying section.
+
+</orig>
+
+<trans>
+
+本露点测量仪是由主控单元、数采单元和显示单元组成的多单片机系统。
+
+</trans></sent>
+
+</dict>

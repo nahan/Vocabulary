@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>assumption</key>
+
+<ps>ə'sʌmpʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/ae/f1/aef1d70c2ca770a6ff8ce06622e6d720.mp3</pron>
+
+<ps>əˈsʌmpʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/64/81/64812e29215704620e2fd4965b413dbf.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>假定，假设；承担；想当然；采取；
+
+</acceptation>
+
+<sent><orig>
+
+The results of tests of Rayleigh assumption, Laplacian assumption and Gaussian assumption are given.
+
+</orig>
+
+<trans>
+
+给出了瑞利分布、高斯分布和拉普拉斯分布假设下的“KS”测试统计结果。
+
+</trans></sent>
+
+<sent><orig>
+
+The thesis improves the mortality table assumption, amends the assumption of retired population, wage and contribution.
+
+</orig>
+
+<trans>
+
+然后分章节针对各处进行了修改。修改之处有死亡率假设、退休人口假设、缴费工资假设等等。
+
+</trans></sent>
+
+<sent><orig>
+
+The assumptions of enterprise valuation include the continuing operation assumption and public market assumption.
+
+</orig>
+
+<trans>
+
+企业价值评估的假设主要包括持续经营假设和公开市场假设，企业价值只有在公开市场上才能得到正确的体现。
+
+</trans></sent>
+
+<sent><orig>
+
+It's very efficient and its security is based on RSA assumption and DDH assumption.
+
+</orig>
+
+<trans>
+
+方案基于RSA假设和DDH(Decisional Deffie-Hellman)假设，是安全的。
+
+</trans></sent>
+
+<sent><orig>
+
+Obviously the scope of voluntary assumption of risks and voluntary assumption of damages is more certain.
+
+</orig>
+
+<trans>
+
+显然，自愿承担损害和自愿承担危险的范围更为确定。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[patience]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[耐心]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['peɪʃ(ə)ns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 耐性，耐心；忍耐，容忍]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Patience]]></key>
+
+            <value>
+
+                            <ex><![CDATA[耐心]]></ex>
+
+                            <ex><![CDATA[忍耐]]></ex>
+
+                            <ex><![CDATA[耐性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Have patience]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有耐心的]]></ex>
+
+                            <ex><![CDATA[忍耐一下]]></ex>
+
+                            <ex><![CDATA[对]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Patience Strong]]></key>
+
+            <value>
+
+                            <ex><![CDATA[司屈朗]]></ex>
+
+                            <ex><![CDATA[史特隆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

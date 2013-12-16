@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>reduce</key>
+
+<ps>rɪ'dju:s</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/e2/2c/e22cff34214436be99817dd966d926a0.mp3</pron>
+
+<ps>rɪˈdus, -ˈdjus</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a6/d0/a6d0c789b244a68fef0d947638b280b1.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>换算；约束；使变为；使变弱；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>减少；减轻体重；[生物学]（细胞）减数分裂；（液体）浓缩变稠；
+
+</acceptation>
+
+<sent><orig>
+
+Collective communication includes many kinds of global communication, such as Broadcast, Barrier, Reduce, Scatter, Gather etc.
+
+</orig>
+
+<trans>
+
+聚合通信包括很多全局操作，比如广播通信(Broadcast),同步(Barrier)、全局归约(Reduce),散布(Scatter)、聚集(gather)等等。
+
+</trans></sent>
+
+<sent><orig>
+
+Reduce number of propyl alcohol means that reduce costs, and reduce the emission of fountain solution.
+
+</orig>
+
+<trans>
+
+减少异丙醇就意味着降低成本，及减少润版液的排放。
+
+</trans></sent>
+
+<sent><orig>
+
+Or reduce cash flow and reduce debt ratio.
+
+</orig>
+
+<trans>
+
+或是减少现金流，降低负债比率。
+
+</trans></sent>
+
+<sent><orig>
+
+Reduce the equipment shutdown risk, besides reduce the cost for purchase and inventory.
+
+</orig>
+
+<trans>
+
+在降低设备停机的风险的情况下，减少采购和库存成本。
+
+</trans></sent>
+
+<sent><orig>
+
+Deputy channel mode compared to using sales model will help reduce circulation, reduce cost of sales.
+
+</orig>
+
+<trans>
+
+相比渠道代理模式，采用直销模式有利于减少产品流通环节，降低销售成本。
+
+</trans></sent>
+
+</dict>

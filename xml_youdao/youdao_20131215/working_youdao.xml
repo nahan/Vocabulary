@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[working]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[工作]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wɜːkɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 工作；活动；制作；操纵]]></ex>
+
+                    <ex><![CDATA[v. 工作；影响；受雇用（work的ing形式）]]></ex>
+
+                    <ex><![CDATA[adj. 工作的；操作的；可行的]]></ex>
+
+                    <ex><![CDATA[n. (Working)人名；(英)沃金]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Working]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工作]]></ex>
+
+                            <ex><![CDATA[迷糊餐厅]]></ex>
+
+                            <ex><![CDATA[勤劳的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Working temperature]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工作温度]]></ex>
+
+                            <ex><![CDATA[工作环境温度]]></ex>
+
+                            <ex><![CDATA[适用介质]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Working Pressure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工作压力]]></ex>
+
+                            <ex><![CDATA[工作温度]]></ex>
+
+                            <ex><![CDATA[使用压力]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

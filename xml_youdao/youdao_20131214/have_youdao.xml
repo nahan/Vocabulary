@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[have]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[有]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hæv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[aux. 已经]]></ex>
+
+                    <ex><![CDATA[vt. 有；让；拿；从事；允许]]></ex>
+
+                    <ex><![CDATA[n. (Have)人名；(芬)哈韦；(德)哈弗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Have]]></key>
+
+            <value>
+
+                            <ex><![CDATA[具备]]></ex>
+
+                            <ex><![CDATA[有]]></ex>
+
+                            <ex><![CDATA[拥有]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[have to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不得不]]></ex>
+
+                            <ex><![CDATA[必须]]></ex>
+
+                            <ex><![CDATA[必须得]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[have lunch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吃午饭]]></ex>
+
+                            <ex><![CDATA[吃午餐]]></ex>
+
+                            <ex><![CDATA[吃中饭]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

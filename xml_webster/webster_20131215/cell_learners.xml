@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cell"> <hw highlight="yes">cell</hw> <sound><wav>cell0001.wav</wav></sound> <pr>ˈsɛl</pr> <fl>noun</fl> <in><il>plural</il> <if>cells</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:a room in a prison, jail, etc., where prisoners live or are kept <vi>a prison/jail <it>cell</it></vi> <vi>The suspect was in the police station's holding <it>cell</it> overnight.</vi></dt> <sn>b</sn> <dt>:a small room that one person (such as a monk or a nun) lives in</dt> <sn>2</sn> <dt>:any one of the very small parts that together form all living things <vi>blood/brain <it>cells</it></vi> <vi>cancer <it>cells</it></vi> <un>often used before another noun <vi>The nucleus splits during <it>cell</it> division.</vi> <vi>Her white blood <it>cell</it> count is low.</vi> <vi>the <it>cell</it> walls of plants</vi></un></dt> <sn>3</sn> <dt>:any one of many similar sections that together form a larger structure <vi>a honeycomb <it>cell</it></vi></dt> <sn>4</sn> <ssl>technical</ssl> <sn>a</sn> <dt>:a container for holding substances that are used for producing electricity by chemical action <vi>dry <it>cell</it> battery</vi> <vi>a fuel <it>cell</it></vi></dt> <sn>b</sn> <dt>:a device for changing light (such as sunlight) into electricity <vi>a solar <it>cell</it></vi></dt> <sn>5</sn> <dt>:a small group of people who work together secretly as part of a larger organization or group <vi>terrorist <it>cells</it></vi></dt> <sn>6</sn> <ssl>US</ssl> <ssl>informal</ssl> <dt>:<sx>cell phone</sx></dt> <sn>7</sn> <ssl>computers</ssl> <dt>:a space where information can be entered in an organized arrangement of rows and columns :a unit in a table or spreadsheet <dx>see picture at <dxt>table</dxt></dx></dt></def> <uro><ure>celled</ure> <sound><wav>celled01.wav</wav></sound> <pr>ˈsɛd</pr> <fl>adjective</fl> <utxt><un>used in combination <vi>single-<it>celled</it> organisms</vi></un></utxt></uro></entry>
+
+	<entry id="cell phone"> <hw>cell phone</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ phones</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:a small telephone that people can take with them and use outside their homes <vi>Call me on my <it>cell phone</it>.</vi> <ca>called also <cat>mobile phone</cat> (<it>chiefly US</it>) <cat>cellular phone</cat> (<it>US, informal</it>) <cat>cell</cat> (<it>Brit</it>) <cat>mobile</cat></ca> <dx>see picture at <dxt>telephone</dxt></dx></dt></def></entry>
+
+	<entry id="blood cell"> <hw>blood cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <dt>:a cell that is normally present in blood <dx>see also <dxt>red blood cell</dxt> <dxt>white blood cell</dxt></dx></dt></def></entry>
+
+	<entry id="dry cell"> <hw>dry cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <dt>:a sealed container that holds chemicals which are used for producing electricity <ca>called also <cat>dry battery</cat></ca></dt></def></entry>
+
+	<entry id="nerve cell"> <hw>nerve cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <dt>:<sx>neuron</sx></dt></def></entry>
+
+	<entry id="padded cell"> <hw>padded cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <dt>:a room in a mental hospital that has soft walls so that patients cannot hurt themselves</dt></def></entry>
+
+	<entry id="photoelectric cell"> <hw>photoelectric cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <sl>technical</sl> <dt>:an electronic device that converts changes in light into changes in an electric current <ca>called also <cat>photocell</cat></ca></dt></def></entry>
+
+	<entry id="red blood cell"> <hw>red blood cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <dt>:a red-colored blood cell that carries oxygen from the lungs to other parts of the body <ca>called also <cat>red blood corpuscle</cat> <cat>red cell</cat> <cat>red corpuscle</cat></ca> <dx>compare <dxt>white blood cell</dxt></dx></dt></def></entry>
+
+	<entry id="red cell"> <hw>red cell</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cells</if></in> <def><gram>count</gram> <dt>:<sx>red blood cell</sx></dt></def></entry>
+
+	<entry id="sickle-cell anemia"> <hw>sickle–cell anemia</hw> <hsl>US</hsl> <vr><vl>or Brit</vl> <va>sickle–cell anaemia</va></vr> <fl>noun</fl> <def><gram>noncount</gram> <sl>medical</sl> <dt>:a serious disease that affects the red blood cells and occurs mostly in people of African, Mediterranean, or southwest Asian ancestry</dt></def></entry>
+
+</entry_list>

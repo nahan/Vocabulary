@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>require</key>
+
+<ps>rɪ'kwaɪə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b7/87/b7877874f47edfed05180052c5f5b5ff.mp3</pron>
+
+<ps>rɪˈkwaɪr</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f0/ff/f0ffd3b7c2574ac324603ed00488c850.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>要求；需要；想要；命令；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>要求，规定；
+
+</acceptation>
+
+<sent><orig>
+
+Require Authentication-Require that clients use authenticated or encrypted packets.
+
+</orig>
+
+<trans>
+
+客户端可以使用加密验证，也可以不使用，又客户端决定。
+
+</trans></sent>
+
+<sent><orig>
+
+Not require inlet or outlet straight plumbing, or require vertical pipe mounting.
+
+</orig>
+
+<trans>
+
+不要求进口或出口直管道，或要求垂直管道安装。
+
+</trans></sent>
+
+<sent><orig>
+
+D. require Most print shops, for example, require constant humidity in order to control paper shrinkage.
+
+</orig>
+
+<trans>
+
+例如，大多数印刷店都要求恒定的湿度，来控制纸张的收缩率。
+
+</trans></sent>
+
+<sent><orig>
+
+Once trained, the cows no longer require require human a systems assistance, unless something goes wrong.
+
+</orig>
+
+<trans>
+
+一旦经过训练，除非出现问题这些奶牛就不再需要人类协助。
+
+</trans></sent>
+
+<sent><orig>
+
+Not require inlet or outlet straight plumbing, or require vertical orientation.
+
+</orig>
+
+<trans>
+
+不要求进口或出口直管道，或要求垂直方向。
+
+</trans></sent>
+
+</dict>

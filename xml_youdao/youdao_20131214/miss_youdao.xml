@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[miss]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[小姐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[mɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 漏掉；错过；想念]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Miss]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小姐]]></ex>
+
+                            <ex><![CDATA[空杆]]></ex>
+
+                            <ex><![CDATA[错过]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Miss Universe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[环球小姐]]></ex>
+
+                            <ex><![CDATA[宇宙小姐]]></ex>
+
+                            <ex><![CDATA[举世蜜斯]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Miss Congeniality]]></key>
+
+            <value>
+
+                            <ex><![CDATA[选美俏卧底]]></ex>
+
+                            <ex><![CDATA[麻辣女王]]></ex>
+
+                            <ex><![CDATA[特工佳丽]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

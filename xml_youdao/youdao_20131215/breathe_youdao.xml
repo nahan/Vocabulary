@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[breathe]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[呼吸]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[briːð]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 呼吸；低语；松口气；（风）轻拂]]></ex>
+
+                    <ex><![CDATA[vt. 呼吸；使喘息；流露；低声说]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Breathe]]></key>
+
+            <value>
+
+                            <ex><![CDATA[呼吸]]></ex>
+
+                            <ex><![CDATA[深呼吸]]></ex>
+
+                            <ex><![CDATA[吸入]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[breathe into]]></key>
+
+            <value>
+
+                            <ex><![CDATA[注入]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[breathe upon]]></key>
+
+            <value>
+
+                            <ex><![CDATA[使失去光泽]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

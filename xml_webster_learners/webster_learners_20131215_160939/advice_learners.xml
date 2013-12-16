@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="advice"> <hw highlight="yes">ad*vice</hw> <sound><wav>advice01.wav</wav></sound> <pr>ədˈvaɪs</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:an opinion or suggestion about what someone should do <vi>My <it>advice</it> is to sell your old car and get a new one.</vi> <vi>Take my <it>advice</it> and sell your old car.</vi> <vi>He needs <it>advice</it> from an expert.</vi> <vi>She's been giving him some expert <it>advice</it> about investing.</vi> <vi>“May I ask your <it>advice</it> about/on something?” “Certainly. I'm always happy to give <it>advice</it> when asked for it.”</vi> <vi>Let me offer you a bit/piece/word of <it>advice</it>. = Let me offer you some <it>advice</it>.</vi> <vi>I took/followed my doctor's <it>advice</it> and lost some weight. = I lost some weight <phrase>on the advice of</phrase> my doctor.</vi></dt></def></entry>
+
+	<entry id="advice column"> <hw>advice column</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -umns</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:an article in a newspaper or magazine that offers advice to people who write to ask for help with a problem <ca>called also (<it>Brit</it>) <cat>agony column</cat></ca></dt></def> <uro><ure>advice columnist</ure> <fl>noun</fl> <in><il>plural</il> <if>⁓ -nists</if></in> <gram>count</gram></uro></entry>
+
+</entry_list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="architect"> <hw>ar*chi*tect</hw> <sound><wav>archit01.wav</wav></sound> <pr>ˈɑɚkəˌtɛkt</pr> <fl>noun</fl> <in><il>plural</il> <if>ar*chi*tects</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who designs buildings <vi>a famous <it>architect</it></vi></dt> <sn>2</sn> <dt>:a person who designs and guides a plan, project, etc. <un>usually + <it>of</it> <vi>He is the main/chief/principal <it>architect of</it> the country's foreign policy.</vi> <vi>an <it>architect of</it> the peace proposal</vi> <vi>She earned praise as the <it>architect of</it> a new school program.</vi></un></dt></def></entry>
+
+	<entry id="landscape architect"> <hw>landscape architect</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -tects</if></in> <def><gram>count</gram> <dt>:a person whose job is to plan and create large outdoor spaces such as gardens, parks, etc.</dt></def> <uro><ure>landscape architecture</ure> <fl>noun</fl> <gram>noncount</gram></uro></entry>
+
+</entry_list>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pencil]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[铅笔]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pens(ə)l; -sɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 铅笔；笔状物]]></ex>
+
+                    <ex><![CDATA[vt. 用铅笔写；用眉笔涂]]></ex>
+
+                    <ex><![CDATA[vi. 成铅笔状]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pencil]]></key>
+
+            <value>
+
+                            <ex><![CDATA[铅笔]]></ex>
+
+                            <ex><![CDATA[笔型]]></ex>
+
+                            <ex><![CDATA[石墨笔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pencil case]]></key>
+
+            <value>
+
+                            <ex><![CDATA[笔盒]]></ex>
+
+                            <ex><![CDATA[铅笔盒]]></ex>
+
+                            <ex><![CDATA[文具盒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pencil skirt]]></key>
+
+            <value>
+
+                            <ex><![CDATA[铅笔裙]]></ex>
+
+                            <ex><![CDATA[紧身窄裙]]></ex>
+
+                            <ex><![CDATA[一步裙]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

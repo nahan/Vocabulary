@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[bottom]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[底]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɒtəm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 底部；末端；臀部；尽头]]></ex>
+
+                    <ex><![CDATA[adj. 底部的]]></ex>
+
+                    <ex><![CDATA[vt. 装底；测量深浅；查明真相]]></ex>
+
+                    <ex><![CDATA[vi. 到达底部；建立基础]]></ex>
+
+                    <ex><![CDATA[n. (Bottom)人名；(英)博顿]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Bottom]]></key>
+
+            <value>
+
+                            <ex><![CDATA[底部]]></ex>
+
+                            <ex><![CDATA[衫脚]]></ex>
+
+                            <ex><![CDATA[下装]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bottom line]]></key>
+
+            <value>
+
+                            <ex><![CDATA[底线]]></ex>
+
+                            <ex><![CDATA[最低限度]]></ex>
+
+                            <ex><![CDATA[盈亏一览结算线]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[bottom plate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[下托板]]></ex>
+
+                            <ex><![CDATA[底板]]></ex>
+
+                            <ex><![CDATA[下固定板]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

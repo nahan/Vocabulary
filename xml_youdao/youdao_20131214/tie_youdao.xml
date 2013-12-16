@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tie]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[领带]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[taɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 领带；平局；鞋带；领结；不分胜负]]></ex>
+
+                    <ex><![CDATA[vi. 打结；不分胜负；被用带（或绳子等）系住]]></ex>
+
+                    <ex><![CDATA[vt. 系；约束；打结；与…成平局]]></ex>
+
+                    <ex><![CDATA[n. (Tie)人名；(东南亚国家华语)治；(英)泰伊；(柬)狄]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[tie]]></key>
+
+            <value>
+
+                            <ex><![CDATA[领带]]></ex>
+
+                            <ex><![CDATA[并列]]></ex>
+
+                            <ex><![CDATA[平手]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tie plate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[连接板]]></ex>
+
+                            <ex><![CDATA[系板]]></ex>
+
+                            <ex><![CDATA[钢轨垫板]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tie point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[连接点]]></ex>
+
+                            <ex><![CDATA[连结点]]></ex>
+
+                            <ex><![CDATA[系点]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[traditional]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[传统的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[trə'dɪʃ(ə)n(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 传统的；惯例的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[traditional]]></key>
+
+            <value>
+
+                            <ex><![CDATA[传统的]]></ex>
+
+                            <ex><![CDATA[惯例的]]></ex>
+
+                            <ex><![CDATA[懒人套脚]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Traditional Architecture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[传统建筑]]></ex>
+
+                            <ex><![CDATA[古代建筑]]></ex>
+
+                            <ex><![CDATA[保守修建]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[traditional cookies]]></key>
+
+            <value>
+
+                            <ex><![CDATA[传统的信息记录程序]]></ex>
+
+                            <ex><![CDATA[传统的信息记载步伐]]></ex>
+
+                            <ex><![CDATA[死板的信息记录程序]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

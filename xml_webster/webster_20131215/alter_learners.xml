@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="alter"> <hw highlight="yes">al*ter</hw> <sound><wav>alter001.wav</wav></sound> <pr>ˈɑ:ltɚ</pr> <fl>verb</fl> <in><if>al*ters</if></in> <in><if>al*tered</if></in> <in><if>al*ter*ing</if></in> <def><sn>1</sn> <dt>:to change (something) <wsgram>+ obj</wsgram> <vi>Alcohol can <it>alter</it> a person's mood.</vi> <vi>He <it>altered</it> his will to leave everything to his sister.</vi> <vi>This one small event <it>altered</it> the course of history.</vi> <wsgram>no obj</wsgram> <vi>The place has <it>altered</it> in the 10 years since I left.</vi></dt> <sn>2</sn> <sgram>+ obj</sgram> <dt>:to make a change to (a piece of clothing) so that it will fit better <vi>I'll need to have/get the dress <it>altered</it> before the wedding.</vi></dt> <sn>3</sn> <sgram>+ obj</sgram> <ssl>US</ssl> <dt>:to remove the sex organs of (an animal) so that the animal is unable to reproduce <vi>They had the puppies <it>altered</it> [=<it>fixed</it>] before they were sold.</vi></dt></def> <uro><ure>altered</ure> <fl>adjective</fl> <utxt><vi>Later, we see this character again in a slightly <it>altered</it> form.</vi> <vi>an <it>altered</it> state of consciousness</vi></utxt></uro></entry>
+
+	<entry id="alter ego"> <hw>alter ego</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ egos</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a different version of yourself <snote>A character in a book or film is sometimes viewed as an author's <it>alter ego</it>. A role that an actor often plays is sometimes described as the actor's <it>alter ego</it>.</snote></dt> <sn>2</sn> <dt>:a close friend who thinks or feels similarly to the way you think or feel <vi>a trusted adviser who is the President's <it>alter ego</it></vi></dt></def></entry>
+
+</entry_list>

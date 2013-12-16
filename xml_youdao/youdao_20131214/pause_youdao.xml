@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pause]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[暂停]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɔːz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 暂停；间歇]]></ex>
+
+                    <ex><![CDATA[vi. 暂停，停顿，中止；踌躇]]></ex>
+
+                    <ex><![CDATA[n. (Pause)人名；(德)保泽]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pause]]></key>
+
+            <value>
+
+                            <ex><![CDATA[暂停]]></ex>
+
+                            <ex><![CDATA[停顿]]></ex>
+
+                            <ex><![CDATA[休止]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[compensatory pause]]></key>
+
+            <value>
+
+                            <ex><![CDATA[代偿间歇]]></ex>
+
+                            <ex><![CDATA[代偿性间歇]]></ex>
+
+                            <ex><![CDATA[代偿间隙]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Smart Pause]]></key>
+
+            <value>
+
+                            <ex><![CDATA[智能暂停]]></ex>
+
+                            <ex><![CDATA[智慧暂停]]></ex>
+
+                            <ex><![CDATA[智能停息]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

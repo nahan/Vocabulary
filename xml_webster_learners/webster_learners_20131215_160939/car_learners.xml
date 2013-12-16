@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="car"> <art><artref id="car_rev.eps"/><capt/><dim>394,603.5</dim></art> <art><artref id="car_types.eps"/><capt/><dim>394,208</dim></art> <hw highlight="yes">car</hw> <sound><wav>car00001.wav</wav></sound> <pr>ˈkɑɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>cars</if></in> <def><sn>1</sn> <dt>:a vehicle that has four wheels and an engine and that is used for carrying passengers on roads <wsgram>count</wsgram> <vi>I'll wait in the <it>car</it>.</vi> <vi>He got into the <it>car</it> and drove away.</vi> <vi>She bought a new <it>car</it>.</vi> <vi>drive/park a <it>car</it></vi> <wsgram>noncount</wsgram> <vi>We can go <phrase>by car</phrase> or by bus. [=we can travel in a car or in a bus]</vi> <un>often used before another noun <vi>a <it>car</it> manufacturer/dealer/accident/crash</vi></un> <ca>called also (<it>US</it>) <cat>automobile</cat></ca></dt> <sn>2</sn> <sgram>count</sgram> <ssl>US</ssl> <dt>:a separate section of a train <vi>a railroad <it>car</it></vi> <vi>The train has 20 <it>cars</it>. [=(<it>Brit</it>) <it>carriages, coaches</it>]</vi> <dx>see also <dxt>cable car</dxt> <dxt>dining car</dxt> <dxt>sleeping car</dxt> <dxt>trolley car</dxt></dx></dt></def></entry>
+
+	<entry id="car bomb"> <hw>car bomb</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bombs</if></in> <def><gram>count</gram> <dt>:a bomb that is hidden inside or underneath a vehicle</dt></def></entry>
+
+	<entry id="car boot sale"> <hw>car boot sale</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ sales</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a sale in which people gather to sell items that they bring to the sale in their cars</dt></def></entry>
+
+	<entry id="car park"> <hw>car park</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ parks</if></in> <def><gram>count</gram> <sl>Brit</sl> <sn>1</sn> <dt>:<sx>parking lot</sx></dt> <sn>2</sn> <dt>:<sx>parking garage</sx></dt></def></entry>
+
+	<entry id="car pool"> <hw>car pool</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ pools</if></in> <def><gram>count</gram> <dt>:a group of people who regularly share a car when they are going to and from their jobs or who take turns driving each other other's children to school, activities, etc.</dt></def> <uro><ure>car*pool</ure> <sound><wav>carpoo01.wav</wav></sound> <pr>ˈkɑɚˌpu:l</pr> <fl>verb</fl> <in><if>car*pools</if></in> <in><if>car*pooled</if></in> <in><if>car*pool*ing</if></in> <gram>no obj</gram> <utxt><vi>She <it>carpools</it> to work every day with her neighbor.</vi></utxt></uro> <uro><ure>car*pool*er</ure> <fl>noun</fl> <in><il>plural</il> <if>car*pool*ers</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="car seat"> <hw>car seat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ seats</if></in> <def><gram>count</gram> <dt>:a special seat for a baby or a small child that can be attached to an automobile seat and that holds the child safely</dt></def></entry>
+
+	<entry id="car wash"> <hw>car wash</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ washes</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:an area or building with equipment for washing cars <vi>a drive-through <it>car wash</it></vi></dt> <sn>2</sn> <ssl>US</ssl> <dt>:an event at which people pay to have their cars washed in order to raise money for some purpose <vi>Our church is having a <it>car wash</it> tomorrow from 9:00 a.m. to 3:00 p.m.</vi></dt></def></entry>
+
+	<entry id="buffet car"> <hw>buffet car</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cars</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>dining car</sx></dt></def></entry>
+
+	<entry id="bumper car"> <hw>bumper car</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cars</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:a small electric car that you drive around in a small area at an amusement park and use to try to hit other cars</dt></def></entry>
+
+	<entry id="cable car"> <hw>cable car</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ cars</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a vehicle that hangs in the air from a cable that pulls it up and down mountains <vi>The skiers took a <it>cable car</it> to the top of the mountain.</vi></dt> <sn>2</sn> <dt>:a vehicle that is pulled along tracks by a cable <vi>Tourists packed the <it>cable cars</it> on the hilly streets of San Francisco.</vi></dt></def></entry>
+
+</entry_list>

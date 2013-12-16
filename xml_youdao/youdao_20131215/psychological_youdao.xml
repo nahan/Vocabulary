@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[psychological]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[心理]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[saɪkə'lɒdʒɪk(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 心理的；心理学的；精神上的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Psychological]]></key>
+
+            <value>
+
+                            <ex><![CDATA[心理]]></ex>
+
+                            <ex><![CDATA[心理上]]></ex>
+
+                            <ex><![CDATA[心理学的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Psychological warfare]]></key>
+
+            <value>
+
+                            <ex><![CDATA[心理战]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Psychological Science]]></key>
+
+            <value>
+
+                            <ex><![CDATA[心理科学]]></ex>
+
+                            <ex><![CDATA[心理学]]></ex>
+
+                            <ex><![CDATA[心理迷信]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

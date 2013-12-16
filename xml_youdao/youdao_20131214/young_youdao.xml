@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[young]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[年轻的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[jʌŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 年轻人；（动物的）崽，仔]]></ex>
+
+                    <ex><![CDATA[adj. 年轻的；初期的；没有经验的]]></ex>
+
+                    <ex><![CDATA[n. (Young)人名；(中)杨(广东话·威妥玛)；(柬)永；(英、葡)扬]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Young]]></key>
+
+            <value>
+
+                            <ex><![CDATA[年轻]]></ex>
+
+                            <ex><![CDATA[杨格]]></ex>
+
+                            <ex><![CDATA[年轻人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Robert Young]]></key>
+
+            <value>
+
+                            <ex><![CDATA[罗伯特·杨]]></ex>
+
+                            <ex><![CDATA[罗伯特·扬]]></ex>
+
+                            <ex><![CDATA[罗伯特•杨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Young Pirates]]></key>
+
+            <value>
+
+                            <ex><![CDATA[海盗党青年团]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

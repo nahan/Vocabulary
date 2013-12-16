@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[assist]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[协助]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'sɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 帮助；助攻]]></ex>
+
+                    <ex><![CDATA[vi. 参加；出席]]></ex>
+
+                    <ex><![CDATA[vt. 帮助；促进]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[assist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[辅助]]></ex>
+
+                            <ex><![CDATA[援助]]></ex>
+
+                            <ex><![CDATA[帮助]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Forward assist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复进助推器]]></ex>
+
+                            <ex><![CDATA[助推器]]></ex>
+
+                            <ex><![CDATA[枪机助进器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Gravity assist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[重力助推]]></ex>
+
+                            <ex><![CDATA[弹弓效应]]></ex>
+
+                            <ex><![CDATA[行星引力辅助]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

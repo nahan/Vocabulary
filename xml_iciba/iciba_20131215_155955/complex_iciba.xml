@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>complex</key>
+
+<ps>'kɒmpleks</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/4b/8b/4b8bafdec076f25030c303049f4e6586.mp3</pron>
+
+<ps>kəmˈplɛks, ˈkɑmˌplɛks</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/4b/8b/4b8bafdec076f25030c303049f4e6586.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>复杂的；合成的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>复杂；合成体；[数学]复数；
+
+</acceptation>
+
+<sent><orig>
+
+Migrating motor complex (MMC) mainly exists in the interdigestive period. Its regulatory mechanisms are not clear.
+
+</orig>
+
+<trans>
+
+消化间期胃肠运动主要表现为移行性复合运动(Migrating motor complex,MMC)，其启动和移行的调节机制尚不清楚。
+
+</trans></sent>
+
+<sent><orig>
+
+Undertakes complex analysis and traces performance implications through complex data, or in dealing with complex situations.
+
+</orig>
+
+<trans>
+
+进行复杂分析，通过复杂的数据和情况追溯与工作相关的所有问题。
+
+</trans></sent>
+
+<sent><orig>
+
+Many natural and man-made networks are complex networks, which have complex topological structures and many nodes.
+
+</orig>
+
+<trans>
+
+许多自然和人造的网络都属于复杂网络，它们具有复杂的招朴结构和大量的节点。
+
+</trans></sent>
+
+<sent><orig>
+
+The following example illustrates Vector#conjugate method which replaces every lements into its conjugate.
+
+</orig>
+
+<trans>
+
+使用require'complex'之后，Vector对象的元素将被扩展到Complex类中。
+
+</trans></sent>
+
+<sent><orig>
+
+Properties of a complex type can be scalar types or existing complex types.
+
+</orig>
+
+<trans>
+
+复杂类型的属性可以是标量类型或现有的复杂类型。
+
+</trans></sent>
+
+</dict>

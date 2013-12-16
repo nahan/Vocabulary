@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>tree</key>
+
+<ps>tri:</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/02/60/02604d0d01974b6c3b4be972e0778701.mp3</pron>
+
+<ps>tri</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/c0/af/c0af77cf8294ff93a5cdb2963ca9f038.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>树；木料；树状图；宗谱；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把…赶上树；使处于困境；把鞋型插入（鞋内）；
+
+</acceptation>
+
+<sent><orig>
+
+Type tree display graphics binary tree.
+
+</orig>
+
+<trans>
+
+键入tree显示图形二叉树。
+
+</trans></sent>
+
+<sent><orig>
+
+The experiment results indicate that it outperforms Stack-Tree-Desc algorithm.
+
+</orig>
+
+<trans>
+
+实验结果表明该算法较Stack-Tree-Desc算法查询效率更高。
+
+</trans></sent>
+
+<sent><orig>
+
+Tree-gauge is used in the edge element to assure the unity A.
+
+</orig>
+
+<trans>
+
+棱单元法中常采用树规范(Tree-gauge)来保证A的唯一性。
+
+</trans></sent>
+
+<sent><orig>
+
+Main Products: Tree, Christmas House, PureOptical Fiber Tree, Snow Tree, Santa Claus.
+
+</orig>
+
+<trans>
+
+主要产品：圣诞树，圣诞房子，纯光纤树，雪树，圣诞老人。
+
+</trans></sent>
+
+<sent><orig>
+
+Buddha's enlightenment under the bodhi tree, under the bodhi tree Huineng chant in &quot;Bodhi-tree. &quot;
+
+</orig>
+
+<trans>
+
+佛祖在菩提树下悟道，慧能在菩提树下咏叹“菩提本无树”。
+
+</trans></sent>
+
+</dict>

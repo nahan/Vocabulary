@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[resist]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[抵制]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'zɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [助剂] 抗蚀剂；防染剂]]></ex>
+
+                    <ex><![CDATA[vt. 抵抗；忍耐，忍住]]></ex>
+
+                    <ex><![CDATA[vi. 抵抗，抗拒；忍耐]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[resist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抵抗]]></ex>
+
+                            <ex><![CDATA[抵制]]></ex>
+
+                            <ex><![CDATA[反抗]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Resist Poison]]></key>
+
+            <value>
+
+                            <ex><![CDATA[抵抗毒素]]></ex>
+
+                            <ex><![CDATA[毒系抵抗]]></ex>
+
+                            <ex><![CDATA[毒系抗性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lower Resist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[降低抵抗]]></ex>
+
+                            <ex><![CDATA[降低抗性]]></ex>
+
+                            <ex><![CDATA[降低抵抗力]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

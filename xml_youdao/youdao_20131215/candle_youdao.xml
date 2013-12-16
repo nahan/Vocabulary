@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[candle]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[蜡烛]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kænd(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 蜡烛；烛光；烛形物]]></ex>
+
+                    <ex><![CDATA[vt. 对着光检查]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Candle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蜡烛]]></ex>
+
+                            <ex><![CDATA[烛光]]></ex>
+
+                            <ex><![CDATA[烛形物]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Candle Hap]]></key>
+
+            <value>
+
+                            <ex><![CDATA[角鳞点丽鱼]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[candle holder]]></key>
+
+            <value>
+
+                            <ex><![CDATA[烛台]]></ex>
+
+                            <ex><![CDATA[蜡烛台]]></ex>
+
+                            <ex><![CDATA[烛座]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

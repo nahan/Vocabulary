@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[spell]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[拼写]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[spel]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 符咒；一段时间；魅力]]></ex>
+
+                    <ex><![CDATA[vi. 拼字；轮替]]></ex>
+
+                    <ex><![CDATA[vt. 拼，拼写；意味着；招致；拼成；迷住；轮值]]></ex>
+
+                    <ex><![CDATA[n. (Spell)人名；(英)斯佩尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[spell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拼写]]></ex>
+
+                            <ex><![CDATA[咒语]]></ex>
+
+                            <ex><![CDATA[法术]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Spell checker]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拼写检查]]></ex>
+
+                            <ex><![CDATA[拼写检查程序]]></ex>
+
+                            <ex><![CDATA[拼写检查器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Extend Spell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法术延时]]></ex>
+
+                            <ex><![CDATA[法术持久]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

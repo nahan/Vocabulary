@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[most]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[大多数]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[məʊst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 大部分，大多数]]></ex>
+
+                    <ex><![CDATA[adj. 大部分的，多数的；最多的]]></ex>
+
+                    <ex><![CDATA[adv. 最；非常，极其；最多；几乎]]></ex>
+
+                    <ex><![CDATA[n. (Most)人名；(德、俄、法、芬、捷、英)莫斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Most]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大部分]]></ex>
+
+                            <ex><![CDATA[大多数]]></ex>
+
+                            <ex><![CDATA[最多]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[most of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大多数]]></ex>
+
+                            <ex><![CDATA[绝大多数]]></ex>
+
+                            <ex><![CDATA[充分利用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sanski Most]]></key>
+
+            <value>
+
+                            <ex><![CDATA[桑斯基莫斯特]]></ex>
+
+                            <ex><![CDATA[莫斯特]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

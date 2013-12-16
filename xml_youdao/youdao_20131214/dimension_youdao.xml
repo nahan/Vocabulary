@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dimension]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[维度]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'menʃ(ə)n; daɪ-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 方面;[数] 维；尺寸；次元；容积 vt. 标出尺寸]]></ex>
+
+                    <ex><![CDATA[adj. 规格的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Dimension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尺寸]]></ex>
+
+                            <ex><![CDATA[外形尺寸]]></ex>
+
+                            <ex><![CDATA[尺码]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fractal dimension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[分形维数]]></ex>
+
+                            <ex><![CDATA[分维]]></ex>
+
+                            <ex><![CDATA[分数维]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hausdorff dimension]]></key>
+
+            <value>
+
+                            <ex><![CDATA[豪斯多夫维数]]></ex>
+
+                            <ex><![CDATA[豪斯多夫维]]></ex>
+
+                            <ex><![CDATA[豪斯道夫维数]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rock]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[岩石]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɒk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 岩石；摇滚乐；暗礁]]></ex>
+
+                    <ex><![CDATA[vt. 摇动；使摇晃]]></ex>
+
+                    <ex><![CDATA[vi. 摇动；摇晃]]></ex>
+
+                    <ex><![CDATA[n. (Rock)人名；(英、德、匈、意、瑞典)罗克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Rock]]></key>
+
+            <value>
+
+                            <ex><![CDATA[摇滚]]></ex>
+
+                            <ex><![CDATA[洛克]]></ex>
+
+                            <ex><![CDATA[岩石]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chris Rock]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基斯·洛克]]></ex>
+
+                            <ex><![CDATA[克里斯·洛克]]></ex>
+
+                            <ex><![CDATA[克里斯洛克]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Metamorphic rock]]></key>
+
+            <value>
+
+                            <ex><![CDATA[变质岩]]></ex>
+
+                            <ex><![CDATA[原有的岩石经变质作用后形成的岩石]]></ex>
+
+                            <ex><![CDATA[蜕变岩]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

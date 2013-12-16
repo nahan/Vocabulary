@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="concerning"> <hw>concerning</hw> <altpr>kənˈsɚnɪŋ</altpr> <fl>preposition</fl> <def><dt>:relating to (something or someone) :<sx>about</sx> <vi>news <it>concerning</it> friends</vi> <vi>There is some confusion <it>concerning</it> [=<it>regarding</it>] his current whereabouts.</vi></dt></def></entry>
+
+	<entry id="concern[2]"> <hw highlight="yes" hindex="2">concern</hw> <altpr>kənˈsɚn</altpr> <fl>verb</fl> <in><if>concerns</if></in> <in><if>concerned</if></in> <in><if>concern*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to relate to (something or someone) :to be about (something or someone) <vi>The novel <it>concerns</it> three soldiers.</vi> <vi>This study <it>concerns</it> the noise levels in cities.</vi></dt> <sn>2</sn> <dt>:to affect or involve (someone) :to be the business or interest of (someone) <vi>The problem <it>concerns</it> [=<it>affects</it>] us all.</vi> <vi>This conversation doesn't <it>concern</it> you.</vi> <snote>The phrase <phrase>To whom it may concern</phrase> is used at the beginning of a formal letter (such as a letter written to a company) when the name of the person who will read the letter is not known.</snote></dt> <sn>3</sn> <dt>:to make (someone) worried :to cause concern for (someone) <vi>Our mother's illness <it>concerns</it> us.</vi></dt></def> <dro><dre>concern yourself</dre> <def><dt>:to become involved or interested in something :to give your attention to something <vi>She can handle the problem alone. There's no need for you to <it>concern yourself</it>.</vi> <vi>There's no need for you to <it>concern yourself</it> with/in her problem.</vi> <vi>They shouldn't <it>concern themselves</it> with/about small details.</vi></dt></def></dro></entry>
+
+</entry_list>

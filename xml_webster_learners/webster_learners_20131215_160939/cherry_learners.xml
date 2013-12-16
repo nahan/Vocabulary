@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cherry"> <hw>cher*ry</hw> <sound><wav>cherry01.wav</wav></sound> <pr>ˈtʃeri</pr> <fl>noun</fl> <in><il>plural</il> <if>cher*ries</if></in> <def><sn>1 a</sn> <sgram>count</sgram> <dt>:a small round fruit that is usually red or black <dx>see color picture on page C5</dx></dt> <sn>b</sn> <sgram>count</sgram> <dt>:a tree on which this fruit grows <ca>called also <cat>cherry tree</cat></ca></dt> <sn>c</sn> <sgram>noncount</sgram> <dt>:the wood of a cherry tree <vi>The kitchen cabinets are made of <it>cherry</it>.</vi> <ca>called also <cat>cherry wood</cat></ca></dt> <sn>2</sn> <sgram>noncount</sgram> <dt>:a bright red color <ca>called also <cat>cherry red</cat></ca> <dx>see color picture on page C3</dx></dt></def> <uro><ure>cherry</ure> <fl>adjective</fl> <utxt><vi><it>cherry</it> juice/pie</vi> <vi>a <it>cherry</it> table [=a table made of cherry wood]</vi> <vi><it>cherry</it> [=<it>red</it>] lips</vi></utxt></uro></entry>
+
+	<entry id="cherry bomb"> <hw>cherry bomb</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bombs</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a round firecracker that makes a loud noise when it explodes</dt></def></entry>
+
+	<entry id="cherry-pick"> <hw>cher*ry–pick</hw> <sound><wav>cherr01s.wav</wav></sound> <pr>ˈtʃeriˌpɪk</pr> <fl>verb</fl> <in><if>cher*ry–picks</if></in> <in><if>cher*ry–picked</if></in> <in><if>cher*ry–pick*ing</if></in> <def><dt>:to pick or accept the best people or things in a group <wsgram>+ obj</wsgram> <vi>Hollywood's biggest stars can <it>cherry-pick</it> the best projects and directors.</vi> <wsgram>no obj</wsgram> <vi>elite colleges that can <it>cherry-pick</it> from the best students available</vi></dt></def></entry>
+
+	<entry id="cherry tomato"> <hw>cherry tomato</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -toes</if></in> <def><gram>count</gram> <dt>:a very small red or orange tomato or a plant that produces such tomatoes</dt></def></entry>
+
+</entry_list>

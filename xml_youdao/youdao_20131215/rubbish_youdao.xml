@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rubbish]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[垃圾]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['rʌbɪʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 垃圾，废物；废话]]></ex>
+
+                    <ex><![CDATA[adj. 毫无价值的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[rubbish]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾]]></ex>
+
+                            <ex><![CDATA[废物]]></ex>
+
+                            <ex><![CDATA[废话]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rubbish Shoot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾桶]]></ex>
+
+                            <ex><![CDATA[垃圾筒]]></ex>
+
+                            <ex><![CDATA[垃圾滑槽]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rubbish disposal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾处置]]></ex>
+
+                            <ex><![CDATA[垃圾处理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

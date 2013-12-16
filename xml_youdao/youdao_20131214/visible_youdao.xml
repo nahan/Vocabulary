@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[visible]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[可见]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ˈvɪzəbl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 可见物；进出口贸易中的有形项目]]></ex>
+
+                    <ex><![CDATA[adj. 明显的；看得见的；现有的；可得到的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Visible]]></key>
+
+            <value>
+
+                            <ex><![CDATA[可见]]></ex>
+
+                            <ex><![CDATA[看得见]]></ex>
+
+                            <ex><![CDATA[可见性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Visible Secret]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幽灵人间]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[visible trade]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有形贸易]]></ex>
+
+                            <ex><![CDATA[有形商业]]></ex>
+
+                            <ex><![CDATA[无形商业]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lucky]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[幸运的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lʌkɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 幸运的；侥幸的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Lucky]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幸运]]></ex>
+
+                            <ex><![CDATA[幸运儿]]></ex>
+
+                            <ex><![CDATA[吉祥]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[lucky dog]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幸运儿]]></ex>
+
+                            <ex><![CDATA[耳朵大有福]]></ex>
+
+                            <ex><![CDATA[幸运狗]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lucky Luciano]]></key>
+
+            <value>
+
+                            <ex><![CDATA[查理·卢西安诺]]></ex>
+
+                            <ex><![CDATA[教父之祖]]></ex>
+
+                            <ex><![CDATA[幸运的卢恰诺]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

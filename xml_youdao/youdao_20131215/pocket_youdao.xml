@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pocket]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[口袋里]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pɒkɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 口袋；钱；容器]]></ex>
+
+                    <ex><![CDATA[adj. 小型的，袖珍的；金钱上的]]></ex>
+
+                    <ex><![CDATA[vt. 隐藏；忍受；将…放入衣袋]]></ex>
+
+                    <ex><![CDATA[vi. 形成袋或囊]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pocket]]></key>
+
+            <value>
+
+                            <ex><![CDATA[口袋]]></ex>
+
+                            <ex><![CDATA[衣袋]]></ex>
+
+                            <ex><![CDATA[囊中]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[POCKET FLAP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[袋盖]]></ex>
+
+                            <ex><![CDATA[服装部位英语]]></ex>
+
+                            <ex><![CDATA[袋掀]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[POCKET COVER]]></key>
+
+            <value>
+
+                            <ex><![CDATA[袋盖]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

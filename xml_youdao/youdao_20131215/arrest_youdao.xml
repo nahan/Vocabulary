@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[arrest]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[逮捕]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'rest]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 逮捕；监禁]]></ex>
+
+                    <ex><![CDATA[vt. 逮捕；阻止；吸引]]></ex>
+
+                    <ex><![CDATA[n. (Arrest)人名；(德)阿雷斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Arrest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[逮捕]]></ex>
+
+                            <ex><![CDATA[拘留]]></ex>
+
+                            <ex><![CDATA[拘捕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Arrest warrant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拘捕令]]></ex>
+
+                            <ex><![CDATA[逮捕证]]></ex>
+
+                            <ex><![CDATA[逮捕令]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[House arrest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[软禁]]></ex>
+
+                            <ex><![CDATA[天使小绑匪]]></ex>
+
+                            <ex><![CDATA[本宅软禁]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[normally]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[正常情况下]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nɔːm(ə)lɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 正常地；通常地，一般地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[normally]]></key>
+
+            <value>
+
+                            <ex><![CDATA[通常地]]></ex>
+
+                            <ex><![CDATA[正常地]]></ex>
+
+                            <ex><![CDATA[平常地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Normally white]]></key>
+
+            <value>
+
+                            <ex><![CDATA[常白]]></ex>
+
+                            <ex><![CDATA[正常白]]></ex>
+
+                            <ex><![CDATA[以寻常白]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[normally closedsolenoidvalve]]></key>
+
+            <value>
+
+                            <ex><![CDATA[常关式电磁阀]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

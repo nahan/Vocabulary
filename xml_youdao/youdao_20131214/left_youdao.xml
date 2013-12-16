@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[left]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[离开了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[left]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 左边；左派；激进分子]]></ex>
+
+                    <ex><![CDATA[v. 离开（leave的过去式）]]></ex>
+
+                    <ex><![CDATA[adj. 左边的；左派的；剩下的]]></ex>
+
+                    <ex><![CDATA[adv. 在左面]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[left]]></key>
+
+            <value>
+
+                            <ex><![CDATA[左边]]></ex>
+
+                            <ex><![CDATA[向左]]></ex>
+
+                            <ex><![CDATA[左对齐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[keep left]]></key>
+
+            <value>
+
+                            <ex><![CDATA[靠左]]></ex>
+
+                            <ex><![CDATA[不准右转]]></ex>
+
+                            <ex><![CDATA[靠左行驶]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Left baggage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[行李寄存]]></ex>
+
+                            <ex><![CDATA[行李寄放]]></ex>
+
+                            <ex><![CDATA[行李存放]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

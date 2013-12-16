@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[leaf]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[叶]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[liːf]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 叶子；（书籍等的）一张；扇页]]></ex>
+
+                    <ex><![CDATA[vt. 翻…的页，匆匆翻阅]]></ex>
+
+                    <ex><![CDATA[vi. 生叶；翻书页]]></ex>
+
+                    <ex><![CDATA[n. (Leaf)人名；(英)利夫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Leaf]]></key>
+
+            <value>
+
+                            <ex><![CDATA[叶子]]></ex>
+
+                            <ex><![CDATA[叶]]></ex>
+
+                            <ex><![CDATA[树叶]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bay leaf]]></key>
+
+            <value>
+
+                            <ex><![CDATA[月桂叶]]></ex>
+
+                            <ex><![CDATA[香叶]]></ex>
+
+                            <ex><![CDATA[月桂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Leaf muntjac]]></key>
+
+            <value>
+
+                            <ex><![CDATA[叶麂]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

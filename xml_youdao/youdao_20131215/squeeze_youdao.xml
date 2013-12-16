@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[squeeze]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[挤压]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skwiːz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 压榨；紧握；拥挤；佣金]]></ex>
+
+                    <ex><![CDATA[vt. 挤；紧握；勒索]]></ex>
+
+                    <ex><![CDATA[vi. 压榨]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[squeeze]]></key>
+
+            <value>
+
+                            <ex><![CDATA[压榨]]></ex>
+
+                            <ex><![CDATA[挤压]]></ex>
+
+                            <ex><![CDATA[挤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Squeeze theorem]]></key>
+
+            <value>
+
+                            <ex><![CDATA[夹挤定理]]></ex>
+
+                            <ex><![CDATA[迫近定理]]></ex>
+
+                            <ex><![CDATA[夹逼准则]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[squeeze casting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[高压铸造]]></ex>
+
+                            <ex><![CDATA[压挤铸造]]></ex>
+
+                            <ex><![CDATA[挤压铸造]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

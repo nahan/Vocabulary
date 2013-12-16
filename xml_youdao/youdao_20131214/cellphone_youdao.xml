@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[cellphone]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[手机]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sel,fəʊn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 蜂窝式便携无线电话；大哥大]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[cellphone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[手机]]></ex>
+
+                            <ex><![CDATA[移动电话]]></ex>
+
+                            <ex><![CDATA[行动电话]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Romantic Cellphone]]></key>
+
+            <value>
+
+                            <ex><![CDATA[浪漫手机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[CELLPHONE CHAIN]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电话绳]]></ex>
+
+                            <ex><![CDATA[手机链]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

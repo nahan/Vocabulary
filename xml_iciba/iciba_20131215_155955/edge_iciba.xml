@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>edge</key>
+
+<ps>edʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/31/17/31172ebec6274ae135c30d3bdba8858a.mp3</pron>
+
+<ps>ɛdʒ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/09/03/09039bd1628a3c1b25fda3134a4fe050.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>边；优势；（悬崖、峭壁的）边缘，端；锋利，尖锐；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>在…上加边界；使渐进；给（刀刃）磨边，使锋利；修整；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>慢慢向前移动，侧身移动；
+
+</acceptation>
+
+<sent><orig>
+
+Only cdma2000 1X EV-DO or EDGE,which adopts TDMA method,can provide high speed wireless access R_b.
+
+</orig>
+
+<trans>
+
+只有采用TDMA（时分多址）方式的cdm a2000 1XEV-DO或EDGE方式才能提供高速无线接入。
+
+</trans></sent>
+
+<sent><orig>
+
+Is the EDGE OS software upgradeable?
+
+</orig>
+
+<trans>
+
+EDGE的操作系统是可以升级的吗？
+
+</trans></sent>
+
+<sent><orig>
+
+Are any custom files or software required in order to manage files for EDGE?
+
+</orig>
+
+<trans>
+
+EDGE卡的文件管理须要特制程序吗？
+
+</trans></sent>
+
+<sent><orig>
+
+The mobile video of this application system was proposed based on EDGE network.
+
+</orig>
+
+<trans>
+
+在这个系统里面，移动视频是通过EDGE网络传输。
+
+</trans></sent>
+
+<sent><orig>
+
+EDGE is the abbreviation of Enhanced Data Rate for GSM Evolution.
+
+</orig>
+
+<trans>
+
+EDGE是英文Enhanced Data Rate for GSM Evolution的缩写，即增强型数据速率GSM演进技术。
+
+</trans></sent>
+
+</dict>

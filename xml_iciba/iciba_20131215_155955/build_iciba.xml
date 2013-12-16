@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>build</key>
+
+<ps>bɪld</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6d/98/6d9843425cd2bb533b0962df1837309c.mp3</pron>
+
+<ps>bɪld</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b0/da/b0da275520918e23dd615e2a747528f1.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>建造，构筑；建立；开发；为…建立基础；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>建造，营造；扩大，扩展；发展，达到；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>体格，构造；〈俚〉优美的体型，肉体美；
+
+</acceptation>
+
+<sent><orig>
+
+If the command is not specified, Boost.Build will search for a binary named hp_cxx in.
+
+</orig>
+
+<trans>
+
+如果未指定编译器命令，Boost.Build将在中搜索名为hp_cxx的二进制文件。
+
+</trans></sent>
+
+<sent><orig>
+
+If the command is not specified, Boost.Build will search for a binary named como in.
+
+</orig>
+
+<trans>
+
+如果未指定编译器命令，Boost.Build将在中搜索名为como的二进制文件。
+
+</trans></sent>
+
+<sent><orig>
+
+The outline of BOT styleBOT is called Build-Operate-Transfer for short, we often call it BOT style.
+
+</orig>
+
+<trans>
+
+BOT是英文Build-Operate-Transfer的简称，即“建造-经营-转让”，一般称这种投资方式为BOT方式。
+
+</trans></sent>
+
+<sent><orig>
+
+If the command is not specified, Boost.Build will search for a binary named bcc32 in.
+
+</orig>
+
+<trans>
+
+如果未指定编译器命令，Boost.Build将在中搜索名为bcc32的二进制文件。
+
+</trans></sent>
+
+<sent><orig>
+
+Finally, off-line analyse of acquired data, based on Borland C++ Build, is introduced.
+
+</orig>
+
+<trans>
+
+最后简要叙述了在Borland C++ Build平台上实现采集数据的离线显示。
+
+</trans></sent>
+
+</dict>

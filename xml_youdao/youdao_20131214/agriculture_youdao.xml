@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[agriculture]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[农业]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ægrɪkʌltʃə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 农业；农耕；农业生产；农艺，农学]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Agriculture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[农业]]></ex>
+
+                            <ex><![CDATA[农学]]></ex>
+
+                            <ex><![CDATA[农艺]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Subsistence agriculture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自给农业]]></ex>
+
+                            <ex><![CDATA[温饱型农业]]></ex>
+
+                            <ex><![CDATA[少有余粮的农场经营]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[white agriculture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白色农业]]></ex>
+
+                            <ex><![CDATA[色农业]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[that]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[那]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ðæt; ðət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 因为；以至于]]></ex>
+
+                    <ex><![CDATA[adj. 那；那个]]></ex>
+
+                    <ex><![CDATA[pron. 那；那个]]></ex>
+
+                    <ex><![CDATA[adv. 那么；那样]]></ex>
+
+                    <ex><![CDATA[n. (That)人名；(德)塔特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[That]]></key>
+
+            <value>
+
+                            <ex><![CDATA[那个]]></ex>
+
+                            <ex><![CDATA[那种]]></ex>
+
+                            <ex><![CDATA[指出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[so that]]></key>
+
+            <value>
+
+                            <ex><![CDATA[以便]]></ex>
+
+                            <ex><![CDATA[结果是]]></ex>
+
+                            <ex><![CDATA[所以]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[that is]]></key>
+
+            <value>
+
+                            <ex><![CDATA[也就是说]]></ex>
+
+                            <ex><![CDATA[就是说]]></ex>
+
+                            <ex><![CDATA[即]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[beginning]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[开始]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[bɪ'gɪnɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 开始；起点]]></ex>
+
+                    <ex><![CDATA[v. 开始；创建（begin的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[beginning]]></key>
+
+            <value>
+
+                            <ex><![CDATA[开始]]></ex>
+
+                            <ex><![CDATA[开端]]></ex>
+
+                            <ex><![CDATA[初期]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Beginning]]></key>
+
+            <value>
+
+                            <ex><![CDATA[开端]]></ex>
+
+                            <ex><![CDATA[降临]]></ex>
+
+                            <ex><![CDATA[原点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[beginning rhyme]]></key>
+
+            <value>
+
+                            <ex><![CDATA[首韵]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

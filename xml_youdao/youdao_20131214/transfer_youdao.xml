@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[transfer]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[转移]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[træns'fɜː; trɑːns-; -nz-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 转让；转移；传递；过户]]></ex>
+
+                    <ex><![CDATA[vt. 使转移；调任]]></ex>
+
+                    <ex><![CDATA[vi. 转让；转学；换车]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[transfer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[转移]]></ex>
+
+                            <ex><![CDATA[转账]]></ex>
+
+                            <ex><![CDATA[转让]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Transfer function]]></key>
+
+            <value>
+
+                            <ex><![CDATA[传递函数]]></ex>
+
+                            <ex><![CDATA[转移函数]]></ex>
+
+                            <ex><![CDATA[转换函数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Telegraphic Transfer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电汇]]></ex>
+
+                            <ex><![CDATA[触电被击]]></ex>
+
+                            <ex><![CDATA[主要有电汇]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

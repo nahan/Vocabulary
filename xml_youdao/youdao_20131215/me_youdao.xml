@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[me]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[我]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[miː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 自我；极端自私的人；自我的一部分]]></ex>
+
+                    <ex><![CDATA[pron. 我（宾格）]]></ex>
+
+                    <ex><![CDATA[n. (Me)人名；(日)马(姓)；(朝)袂；(阿拉伯、柬、老)梅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[ME]]></key>
+
+            <value>
+
+                            <ex><![CDATA[制造工程师(Manufacturing Engineer)]]></ex>
+
+                            <ex><![CDATA[我]]></ex>
+
+                            <ex><![CDATA[工程硕士]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Follow Me]]></key>
+
+            <value>
+
+                            <ex><![CDATA[跟我学]]></ex>
+
+                            <ex><![CDATA[跟着我]]></ex>
+
+                            <ex><![CDATA[跟我来]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[About Me]]></key>
+
+            <value>
+
+                            <ex><![CDATA[关于我]]></ex>
+
+                            <ex><![CDATA[个人资料]]></ex>
+
+                            <ex><![CDATA[公告]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

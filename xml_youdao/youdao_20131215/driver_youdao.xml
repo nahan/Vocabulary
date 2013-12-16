@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[driver]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[司机]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['draɪvə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 驾驶员；驱动程序；起子；传动器]]></ex>
+
+                    <ex><![CDATA[n. (Driver)人名；(德)德里弗；(英)德赖弗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Driver]]></key>
+
+            <value>
+
+                            <ex><![CDATA[司机]]></ex>
+
+                            <ex><![CDATA[驱动程序]]></ex>
+
+                            <ex><![CDATA[驾驶员]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Driver Genius]]></key>
+
+            <value>
+
+                            <ex><![CDATA[驱动精灵]]></ex>
+
+                            <ex><![CDATA[驱动备份]]></ex>
+
+                            <ex><![CDATA[驱动程序备份工具]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[cab driver]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出租车司机]]></ex>
+
+                            <ex><![CDATA[计程车司机]]></ex>
+
+                            <ex><![CDATA[机车司机]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="battery[1]"> <hw highlight="yes" hindex="1">bat*tery</hw> <sound><wav>batter03.wav</wav></sound> <pr>ˈbætəri</pr> <fl>noun</fl> <in><il>plural</il> <if>bat*ter*ies</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:a device that is placed inside a machine (such as a clock, toy, or car) to supply it with electricity <vi>I bought new <it>batteries</it> for the flashlights.</vi> <vi>a car <it>battery</it></vi> <vi><it>battery</it>-powered computers</vi> <vi>a <phrase>dead battery</phrase> = (<it>Brit</it>) a <phrase>flat battery</phrase> [=a battery that has no more electricity]</vi> <dx>see picture at <dxt>car</dxt></dx></dt> <sn>2</sn> <sgram>count</sgram> <dt>:a usually large group of similar people, things, or ideas that work together, are used together, etc. <vi>a <it>battery</it> of tests</vi> <vi>The operation was performed by a <it>battery</it> of doctors.</vi></dt> <sn>3</sn> <sgram>count</sgram> <dt>:a group of two or more big guns used by the military <vi>an artillery <it>battery</it></vi></dt> <sn>4</sn> <sgram>noncount</sgram> <ssl>law</ssl> <dt>:the crime of hitting or touching someone in a way that is meant to cause harm or injury <vi>He was found guilty of <it>battery</it>.</vi> <dx>see also <dxt>assault and battery</dxt></dx></dt> <sn>5</sn> <sgram>count</sgram> <ssl>baseball</ssl> <dt>:the pitcher and catcher on a particular team</dt></def> <dro><dre>recharge your batteries</dre> <dx>see <dxt>recharge</dxt></dx></dro></entry>
+
+	<entry id="battery[2]"> <hw hindex="2">battery</hw> <altpr>ˈbætəri</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><sl>Brit</sl> <dt>:relating to or produced by a type of farming in which animals (such as chickens) are kept in small cages <vi>a <it>battery</it> farm</vi> <vi><it>battery</it> chickens versus free-range chickens</vi></dt></def></entry>
+
+	<entry id="assault and battery"> <hw>assault and battery</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>law</sl> <dt>:the crime of threatening and physically hitting or attacking someone</dt></def></entry>
+
+	<entry id="storage battery"> <hw>storage battery</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -teries</if></in> <def><gram>count</gram> <dt>:a type of battery that can be given a new charge by passing an electric current through it <ca>called also <cat>storage cell</cat></ca></dt></def></entry>
+
+</entry_list>

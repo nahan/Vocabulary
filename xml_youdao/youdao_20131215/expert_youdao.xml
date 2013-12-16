@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[expert]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[专家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ekspɜːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 专家；行家；能手]]></ex>
+
+                    <ex><![CDATA[adj. 熟练的；内行的；老练的]]></ex>
+
+                    <ex><![CDATA[vt. 当专家；在…中当行家]]></ex>
+
+                    <ex><![CDATA[n. (Expert)人名；(法)埃克斯佩]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[expert]]></key>
+
+            <value>
+
+                            <ex><![CDATA[专家]]></ex>
+
+                            <ex><![CDATA[专家级]]></ex>
+
+                            <ex><![CDATA[能手]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Script Expert]]></key>
+
+            <value>
+
+                            <ex><![CDATA[脚本大师]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[expert conclusion]]></key>
+
+            <value>
+
+                            <ex><![CDATA[鉴定结论]]></ex>
+
+                            <ex><![CDATA[专家结论]]></ex>
+
+                            <ex><![CDATA[判定结论]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[till]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[直到]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 直到]]></ex>
+
+                    <ex><![CDATA[conj. 直到...为止]]></ex>
+
+                    <ex><![CDATA[n. [地理][水文] 冰碛；放钱的抽屉；备用现金]]></ex>
+
+                    <ex><![CDATA[vt. 耕种；犁]]></ex>
+
+                    <ex><![CDATA[vi. 耕种；耕耘]]></ex>
+
+                    <ex><![CDATA[n. (Till)人名；(法)蒂伊；(匈、德、捷)蒂尔；(英)蒂尔(女子教名Matilda的昵称)]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Till]]></key>
+
+            <value>
+
+                            <ex><![CDATA[直到]]></ex>
+
+                            <ex><![CDATA[爱的誓言]]></ex>
+
+                            <ex><![CDATA[提尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Till Eulenspiegel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蒂尔的恶作剧]]></ex>
+
+                            <ex><![CDATA[狄尔的恶作剧]]></ex>
+
+                            <ex><![CDATA[特尔欧伊连斯皮格]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[flow till]]></key>
+
+            <value>
+
+                            <ex><![CDATA[运动冰碛]]></ex>
+
+                            <ex><![CDATA[冰碛土]]></ex>
+
+                            <ex><![CDATA[流碛]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

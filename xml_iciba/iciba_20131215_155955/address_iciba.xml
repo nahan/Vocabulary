@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>address</key>
+
+<ps>ə'dres</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/88/4d/884d9804999fc47a3c2694e49ad2536a.mp3</pron>
+
+<ps>əˈdrɛs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/88/4d/884d9804999fc47a3c2694e49ad2536a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>（收件人的）称呼和地址；演讲，演说；谈吐；殷勤，求爱；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>忙于，专注于；讲演；处理；在…写姓名地址；
+
+</acceptation>
+
+<sent><orig>
+
+A:All right. Which address shall I give you, my home address or hotel address here?
+
+</orig>
+
+<trans>
+
+好的，该给你哪一个地址，我家的地址还是这里的饭店地址？
+
+</trans></sent>
+
+<sent><orig>
+
+Office address proof if office address is selected as correspondence address.
+
+</orig>
+
+<trans>
+
+如选择以公司地址为通讯地址，请附上公司地址证明。
+
+</trans></sent>
+
+<sent><orig>
+
+On the Internet, the world address always refers to an electronic address, not a postal address.
+
+</orig>
+
+<trans>
+
+在因特网上，地址这个词总是指的是某个电子地址，并非某个邮政地址。
+
+</trans></sent>
+
+<sent><orig>
+
+In the Address box, type a memory address or expression that evaluates to a memory address.
+
+</orig>
+
+<trans>
+
+在“地址”框中，键入内存地址或计算结果为内存地址的表达式。
+
+</trans></sent>
+
+<sent><orig>
+
+I guess it got sent to the billing address as opposed to the shipping address.
+
+</orig>
+
+<trans>
+
+我猜是送货的家伙把投递地址和付款人地址搞混了。
+
+</trans></sent>
+
+</dict>

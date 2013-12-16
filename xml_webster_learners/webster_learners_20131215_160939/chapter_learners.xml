@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chapter"> <hw highlight="yes">chap*ter</hw> <sound><wav>chapte01.wav</wav></sound> <pr>ˈtʃæptɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>chap*ters</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:one of the main sections of a book <vi><it>Chapter</it> three deals with the country's economy.</vi> <vi>Please read the first two <it>chapters</it> of your textbook for our next class.</vi></dt> <sn>2</sn> <dt>:a period of time that is very different from the period of time before it <vi>Becoming a parent opened up a whole new <it>chapter</it> in my life.</vi> <vi>a difficult <it>chapter</it> in European history</vi></dt> <sn>3</sn> <dt>:the people in a certain area who make up one section of a large organization <vi>local/regional <it>chapters</it> [=<it>branches</it>] of the American Red Cross</vi></dt></def> <dro><dre>a chapter of accidents</dre> <def><sl>Brit</sl> <sl>informal</sl> <dt>:a series of bad or unfortunate events</dt></def></dro> <dro><dre>chapter and verse</dre> <def><dt>:exact information or details about something <vi>He can give <it>chapter and verse</it> about/on the dangers of smoking.</vi></dt></def></dro></entry>
+
+	<entry id="verse"> <hw>verse</hw> <sound><wav>verse001.wav</wav></sound> <pr>ˈvɚs</pr> <fl>noun</fl> <in><il>plural</il> <if>vers*es</if></in> <def><sn>1</sn> <sgram>noncount</sgram> <dt>:writing in which words are arranged in a rhythmic pattern :<sx>poetry</sx> <vi>The epic tale was written in <it>verse</it>.</vi> <dx>see also <dxt>blank verse</dxt> <dxt>free verse</dxt></dx></dt> <sn>2</sn> <sgram>count</sgram> <dt>:a part of a poem or song :<sx>stanza</sx> <vi>The second <it>verse</it> is sung the same way as the first.</vi></dt> <sn>3</sn> <sgram>count</sgram> <dt>:one of the parts of a chapter of the Bible</dt></def> <dro><dre>chapter and verse</dre> <dx>see <dxt>chapter</dxt></dx></dro></entry>
+
+</entry_list>

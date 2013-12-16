@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[impress]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[留下深刻印象]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪm'pres]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 印象，印记；特征，痕迹]]></ex>
+
+                    <ex><![CDATA[vi. 给人印象]]></ex>
+
+                    <ex><![CDATA[vt. 盖印；强征；传送；给予某人深刻印象]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[IMPRESS]]></key>
+
+            <value>
+
+                            <ex><![CDATA[印象之美]]></ex>
+
+                            <ex><![CDATA[映派]]></ex>
+
+                            <ex><![CDATA[印象]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Impress IC]]></key>
+
+            <value>
+
+                            <ex><![CDATA[印象之美]]></ex>
+
+                            <ex><![CDATA[集中护理紧致系列]]></ex>
+
+                            <ex><![CDATA[集中护理美白系列]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[impress me]]></key>
+
+            <value>
+
+                            <ex><![CDATA[打动我]]></ex>
+
+                            <ex><![CDATA[让我]]></ex>
+
+                            <ex><![CDATA[给我留下印象]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

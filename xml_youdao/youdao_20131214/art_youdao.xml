@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[art]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[艺术]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɑːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 艺术；美术；艺术品]]></ex>
+
+                    <ex><![CDATA[v. 是（be的变体）]]></ex>
+
+                    <ex><![CDATA[adj. 艺术的；艺术品的]]></ex>
+
+                    <ex><![CDATA[n. (Art)人名；(泰、柬)阿；(英)阿特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Art]]></key>
+
+            <value>
+
+                            <ex><![CDATA[艺术]]></ex>
+
+                            <ex><![CDATA[美术]]></ex>
+
+                            <ex><![CDATA[技术]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Art Nouveau]]></key>
+
+            <value>
+
+                            <ex><![CDATA[新艺术运动]]></ex>
+
+                            <ex><![CDATA[新艺术]]></ex>
+
+                            <ex><![CDATA[新艺术主义]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Art Director]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美术指导]]></ex>
+
+                            <ex><![CDATA[艺术总监]]></ex>
+
+                            <ex><![CDATA[艺术指导]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

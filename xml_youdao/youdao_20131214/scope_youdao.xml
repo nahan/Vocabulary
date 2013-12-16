@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[scope]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[范围]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[skəʊp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 范围；余地；视野；眼界；导弹射程]]></ex>
+
+                    <ex><![CDATA[vt. 审视]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[scope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[范围]]></ex>
+
+                            <ex><![CDATA[适用范围]]></ex>
+
+                            <ex><![CDATA[作用域]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Business Scope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[业务范围]]></ex>
+
+                            <ex><![CDATA[经营范围]]></ex>
+
+                            <ex><![CDATA[商业范围]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Project Scope]]></key>
+
+            <value>
+
+                            <ex><![CDATA[项目范围]]></ex>
+
+                            <ex><![CDATA[工作范围]]></ex>
+
+                            <ex><![CDATA[专案范围]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

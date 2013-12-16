@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="climate"> <hw highlight="yes">cli*mate</hw> <sound><wav>climat01.wav</wav></sound> <pr>ˈklaɪmət</pr> <fl>noun</fl> <in><il>plural</il> <if>cli*mates</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:a region with particular weather patterns or conditions <vi>living in a cold/dry/mild/hot <it>climate</it></vi> <vi>These trees only grow in humid <it>climates</it>.</vi></dt> <sn>b</sn> <dt>:the usual weather conditions in a particular place or region <vi>The country's <it>climate</it> is ideal for growing grapes.</vi> <vi>the humid <it>climate</it> of Malaysia</vi> <vi>increasing concerns about <phrase>climate change</phrase> [=changes in the Earth's weather patterns]</vi></dt> <sn>2</sn> <dt>:the usual or most widespread mood or conditions in a place <vi>A <it>climate</it> of fear prevails in the city.</vi> <vi>the country's changing economic/political <it>climate</it></vi> <vi>The company is trying to develop a positive <it>climate</it> for innovation.</vi></dt></def> <uro><ure>cli*mat*ic</ure> <sound><wav>climat02.wav</wav></sound> <pr>klaɪˈmætɪk</pr> <fl>adjective</fl> <utxt><vi>The <it>climatic</it> conditions in the region make it an ideal place to grow grapes.</vi> <snotebox>Do not confuse <it>climatic</it> with <it>climactic</it>.</snotebox></utxt></uro></entry>
+
+</entry_list>

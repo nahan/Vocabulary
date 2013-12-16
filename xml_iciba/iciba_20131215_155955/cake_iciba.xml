@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>cake</key>
+
+<ps>keɪk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/6e/4b/6e4bc26a0ef7e51ff1c24b994401c1e7.mp3</pron>
+
+<ps>kek</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/a1/b8/a1b8585122e1ad60623d6a74d3eb3b6a.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>蛋糕；糕饼；块状物；沉积物；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>（使）结块；（使）胶；涂厚厚的一层；
+
+</acceptation>
+
+<sent><orig>
+
+When an Englishman say ' cake', he means sweet cake.
+
+</orig>
+
+<trans>
+
+英国人说‘cake’的时候，指的是甜的蛋糕。
+
+</trans></sent>
+
+<sent><orig>
+
+Is there any way to turn off Cake's 'debugging mode'? Is there a main configuration file?
+
+</orig>
+
+<trans>
+
+有没有办法可以关闭Cake的‘debuggin模式’？有没有一个主配置文件？
+
+</trans></sent>
+
+<sent><orig>
+
+For desserts, we have fruit cake, cream cake and chestnut cake.
+
+</orig>
+
+<trans>
+
+至于甜食，我们有水果蛋糕、奶油蛋糕和粟子蛋糕。
+
+</trans></sent>
+
+<sent><orig>
+
+The cook baked cake. The cake was baked too long cake is as hard as rock.
+
+</orig>
+
+<trans>
+
+厨子烤了一块饼，饼烤的时间矿长，硬得像石头。
+
+</trans></sent>
+
+<sent><orig>
+
+For dessert, we have fruit cake, cream cake and chestnut cake.
+
+</orig>
+
+<trans>
+
+至于甜食，我们有水果蛋糕、奶油蛋糕和栗子蛋糕。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chart[1]"> <hw highlight="yes" hindex="1">chart</hw> <sound><wav>chart001.wav</wav></sound> <pr>ˈtʃɑɚt</pr> <fl>noun</fl> <in><il>plural</il> <if>charts</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:information in the form of a table, diagram, etc. <vi>a <it>chart</it> showing the number of cars sold each month</vi> <dx>see also <dxt>bar chart</dxt> <dxt>flow chart</dxt> <dxt>pie chart</dxt></dx></dt> <sn>b</sn> <dt>:a record of information about a medical patient <vi>The doctor consulted the patient's <it>chart</it>.</vi> <dx>see picture at <dxt>hospital</dxt></dx></dt> <sn>2</sn> <dt>:a map of an area (such as the sky or ocean) used by pilots, sailors, etc.</dt> <sn>3</sn> <dt>:a list that shows which music recordings have sold the most during a recent period of time <vi>a <phrase>chart-topper</phrase> [=a recording that is bought more than any other recording during a particular time]</vi> <un>usually plural</un> <un>usually used with <it>the</it></un> <vi>The record went to the top of <it>the charts</it>.</vi> <vi><it>the</it> country music <it>charts</it></vi></dt></def></entry>
+
+	<entry id="chart[2]"> <hw highlight="yes" hindex="2">chart</hw> <altpr>ˈtʃɑɚt</altpr> <fl>verb</fl> <in><if>charts</if></in> <in><if>chart*ed</if></in> <in><if>chart*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to make a chart of (an area) <vi>They <it>charted</it> the bay.</vi></dt> <sd>also</sd> <dt>:to mark (something) on a chart <vi>They <it>charted</it> the course of the ship.</vi></dt> <sn>2</sn> <dt>:to make a plan for (something) <vi>She wanted to <it>chart</it> her own career path.</vi> <vi>He will try to <it>chart</it> a new course for the company.</vi></dt> <sn>3</sn> <dt>:to note the changes, progress, etc., in (something) <vi>a book that <it>charts</it> [=<it>chronicles</it>] the rise and fall of the Roman Empire</vi> <vi>analysts <it>charting</it> trends in the stock market</vi></dt></def></entry>
+
+	<entry id="bar chart"> <hw>bar chart</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ charts</if></in> <def><gram>count</gram> <dt>:<sx>bar graph</sx></dt></def></entry>
+
+	<entry id="eye chart"> <hw>eye chart</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ charts</if></in> <def><gram>count</gram> <dt>:a chart that has numbers and letters of different sizes and that is used for testing someone's vision</dt></def></entry>
+
+	<entry id="flip chart"> <hw>flip chart</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ charts</if></in> <def><gram>count</gram> <dt>:a chart that consists of a series of large pieces of paper which are attached at the top and which are used to present information to an audience by turning over one piece of paper at a time</dt></def></entry>
+
+	<entry id="flow chart"> <hw>flow chart</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ charts</if></in> <def><gram>count</gram> <dt>:a chart that shows each step of a process using special symbols that are connected by lines</dt></def></entry>
+
+	<entry id="pie chart"> <art><artref id="pie_chart_rev.eps"/><capt/><dim>72,82</dim></art> <hw>pie chart</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ charts</if></in> <def><gram>count</gram> <dt>:a chart consisting of a circle that is divided into parts to show the size of the different amounts that are a part of a whole amount</dt></def></entry>
+
+</entry_list>

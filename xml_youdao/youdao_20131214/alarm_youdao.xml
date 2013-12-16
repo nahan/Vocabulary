@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[alarm]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[报警]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'lɑːm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 闹钟；警报，警告器；惊慌]]></ex>
+
+                    <ex><![CDATA[vt. 警告；使惊恐]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Alarm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[报警]]></ex>
+
+                            <ex><![CDATA[警报]]></ex>
+
+                            <ex><![CDATA[惊恐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Alarm Clock]]></key>
+
+            <value>
+
+                            <ex><![CDATA[闹钟]]></ex>
+
+                            <ex><![CDATA[复位时钟]]></ex>
+
+                            <ex><![CDATA[闹表]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[false alarm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[误报警]]></ex>
+
+                            <ex><![CDATA[误报]]></ex>
+
+                            <ex><![CDATA[假警报]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>settlement</key>
+
+<ps>ˈsetlmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/fb/64/fb64f9242357063fd095d17519d6bed8.mp3</pron>
+
+<ps>ˈsɛtlmənt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/67/67/6767f5cda48efdfadbb9f7bfbad56ebb.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>解决；结算；&lt;律&gt;金钱或财产的转让（契约）；沉淀；定居点；
+
+</acceptation>
+
+<sent><orig>
+
+We accept this interim settlement, without prejudice to our claim for a full settlement later on.
+
+</orig>
+
+<trans>
+
+我们接受这次暂时的和解，但这不影响我们继续寻求彻底解决问题的要求。
+
+</trans></sent>
+
+<sent><orig>
+
+The net credit or net debit position at settlement time is called the net settlement position.
+
+</orig>
+
+<trans>
+
+在结算时间计算出的净贷记或借记余额称为净结算余额。
+
+</trans></sent>
+
+<sent><orig>
+
+The punching settlement is used as the initial parameter for calculating pile shaft compression settlement.
+
+</orig>
+
+<trans>
+
+并利用桩端刺入沉降作为初始参数来计算桩身压缩沉降。
+
+</trans></sent>
+
+<sent><orig>
+
+The Cash settlement amount will be payable in the Settlement Currency.
+
+</orig>
+
+<trans>
+
+现金结算金额将支付结算货币。
+
+</trans></sent>
+
+<sent><orig>
+
+When petitioning for a settlement, the debtor shall submit a draft settlement agreement.
+
+</orig>
+
+<trans>
+
+债务人申请和解，应当提出和解协议草案。
+
+</trans></sent>
+
+</dict>

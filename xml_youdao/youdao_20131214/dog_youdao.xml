@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[dog]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[狗]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɒg]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 狗；丑女人；卑鄙的人；(俚)朋友]]></ex>
+
+                    <ex><![CDATA[vt. 跟踪；尾随]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Dog]]></key>
+
+            <value>
+
+                            <ex><![CDATA[狗]]></ex>
+
+                            <ex><![CDATA[犬]]></ex>
+
+                            <ex><![CDATA[雄狗]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Dog Captain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[道格队长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[dog clutch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爪扣]]></ex>
+
+                            <ex><![CDATA[犬齿式离合器]]></ex>
+
+                            <ex><![CDATA[爪形离合器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

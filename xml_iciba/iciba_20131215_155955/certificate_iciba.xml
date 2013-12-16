@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>certificate</key>
+
+<ps>sə'tɪfɪkət</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/df/de/dfdee9e07e0c0438712d6e3fd65f2e88.mp3</pron>
+
+<ps>sər'tɪfɪkət</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e0/d3/e0d30cef5c6139275b58b525001b413c.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>证明书；文凭，结业证书；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>发给证明书；用证书证明（或认可）；
+
+</acceptation>
+
+<sent><orig>
+
+One original and one copy of the certificate of origin, phytosanitary certificate, and non-wooden packing certificate.
+
+</orig>
+
+<trans>
+
+产地证明、植物检疫证明和非木质包装证明正本和副本各一份。
+
+</trans></sent>
+
+<sent><orig>
+
+Original certificate of whole China-made vehicle; original import certificate of imported vehicle; original chassis certificate.
+
+</orig>
+
+<trans>
+
+国产机动车整车出厂合格证明原件或进口机动车进口凭证原件，有底盘合格证的须提供原件。
+
+</trans></sent>
+
+<sent><orig>
+
+Final Payment Certificate &quot; means the payment certificate issued under Sub-Clause 14.13 [Issue of Final Certificate].&quot;
+
+</orig>
+
+<trans>
+
+4“最终支付证书”指按照第14.13款[最终支付证书的颁发]颁发的支付证书。
+
+</trans></sent>
+
+<sent><orig>
+
+Existing Grid security certificate models include: centralized CA (Certificate Authority)model, multi-CA model and crossed certificate model.
+
+</orig>
+
+<trans>
+
+现有的网格安全认证模型有集中式层次认证模型、多CA结构的模型和混合交叉认证模型。
+
+</trans></sent>
+
+<sent><orig>
+
+The certificate revocation list for this certificate authority that issued this site's certificate has expired.
+
+</orig>
+
+<trans>
+
+发出此网站证书的证书权威的证书撤消列表已过期。
+
+</trans></sent>
+
+</dict>

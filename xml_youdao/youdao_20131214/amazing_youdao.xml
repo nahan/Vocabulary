@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[amazing]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[令人惊异的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'meɪzɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 令人惊异的]]></ex>
+
+                    <ex><![CDATA[v. 使吃惊（amaze的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Amazing]]></key>
+
+            <value>
+
+                            <ex><![CDATA[惊人]]></ex>
+
+                            <ex><![CDATA[惊艳]]></ex>
+
+                            <ex><![CDATA[令人惊讶的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Amazing Breaker]]></key>
+
+            <value>
+
+                            <ex><![CDATA[惊艳爆破]]></ex>
+
+                            <ex><![CDATA[冰雕爆破者]]></ex>
+
+                            <ex><![CDATA[冰雕爆破]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Amazing Origami]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不可思议的折纸]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

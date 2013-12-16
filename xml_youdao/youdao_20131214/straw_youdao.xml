@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[straw]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[稻草]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[strɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 稻草；吸管；一文不值的东西]]></ex>
+
+                    <ex><![CDATA[adj. 稻草的；无价值的]]></ex>
+
+                    <ex><![CDATA[n. (Straw)人名；(英)斯特劳]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[straw]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吸管]]></ex>
+
+                            <ex><![CDATA[秸秆]]></ex>
+
+                            <ex><![CDATA[稻草]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Drinking straw]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吸管]]></ex>
+
+                            <ex><![CDATA[饮用麦管]]></ex>
+
+                            <ex><![CDATA[正式名称为]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Straw Millionaire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[稻草富翁]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

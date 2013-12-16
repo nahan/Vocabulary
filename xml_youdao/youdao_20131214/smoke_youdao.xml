@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[smoke]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[烟]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sməʊk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 烟；抽烟；无常的事物]]></ex>
+
+                    <ex><![CDATA[vt. 吸烟；抽]]></ex>
+
+                    <ex><![CDATA[vi. 冒烟，吸烟；抽烟；弥漫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Smoke]]></key>
+
+            <value>
+
+                            <ex><![CDATA[烟]]></ex>
+
+                            <ex><![CDATA[烟雾]]></ex>
+
+                            <ex><![CDATA[吸烟]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Smoke point]]></key>
+
+            <value>
+
+                            <ex><![CDATA[冒烟点]]></ex>
+
+                            <ex><![CDATA[吸烟处]]></ex>
+
+                            <ex><![CDATA[发烟点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Smoke prevention]]></key>
+
+            <value>
+
+                            <ex><![CDATA[防烟]]></ex>
+
+                            <ex><![CDATA[防烟法]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

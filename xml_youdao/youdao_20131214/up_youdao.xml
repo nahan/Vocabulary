@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[up]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 在…之上；向…的较高处]]></ex>
+
+                    <ex><![CDATA[n. 上升；繁荣]]></ex>
+
+                    <ex><![CDATA[adj. 涨的；起床的；向上的]]></ex>
+
+                    <ex><![CDATA[adv. 起来；上涨；向上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[飞屋环游记]]></ex>
+
+                            <ex><![CDATA[向上]]></ex>
+
+                            <ex><![CDATA[起来]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[make up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[构成]]></ex>
+
+                            <ex><![CDATA[弥补]]></ex>
+
+                            <ex><![CDATA[化妆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[turn up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出现]]></ex>
+
+                            <ex><![CDATA[开大]]></ex>
+
+                            <ex><![CDATA[来到]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

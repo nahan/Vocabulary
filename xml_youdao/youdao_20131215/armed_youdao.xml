@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[armed]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[武装]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɑːmd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 武装的；有扶手的；有防卫器官的（指动物）]]></ex>
+
+                    <ex><![CDATA[n. (Armed)人名；(科摩)阿米德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[armed]]></key>
+
+            <value>
+
+                            <ex><![CDATA[武装的]]></ex>
+
+                            <ex><![CDATA[全副武装]]></ex>
+
+                            <ex><![CDATA[持械]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Armed forces]]></key>
+
+            <value>
+
+                            <ex><![CDATA[武装力量]]></ex>
+
+                            <ex><![CDATA[武装部队]]></ex>
+
+                            <ex><![CDATA[陆海空三军]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Armed neutrality]]></key>
+
+            <value>
+
+                            <ex><![CDATA[武装中立]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

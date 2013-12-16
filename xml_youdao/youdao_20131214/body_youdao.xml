@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[body]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[身体]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['bɒdɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 身体；主体；大量；团体；主要部分]]></ex>
+
+                    <ex><![CDATA[vt. 赋以形体]]></ex>
+
+                    <ex><![CDATA[n. (Body)人名；(英、法、罗)博迪]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Body]]></key>
+
+            <value>
+
+                            <ex><![CDATA[身体]]></ex>
+
+                            <ex><![CDATA[体]]></ex>
+
+                            <ex><![CDATA[阀体]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Inclusion body]]></key>
+
+            <value>
+
+                            <ex><![CDATA[包涵体]]></ex>
+
+                            <ex><![CDATA[包含体]]></ex>
+
+                            <ex><![CDATA[内含体]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[body check]]></key>
+
+            <value>
+
+                            <ex><![CDATA[阻挡]]></ex>
+
+                            <ex><![CDATA[身体阻挡]]></ex>
+
+                            <ex><![CDATA[身体检查]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

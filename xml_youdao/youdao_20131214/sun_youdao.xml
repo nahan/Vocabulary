@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sun]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[太阳]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sʌn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 太阳]]></ex>
+
+                    <ex><![CDATA[vt. 使晒]]></ex>
+
+                    <ex><![CDATA[vi. 晒太阳]]></ex>
+
+                    <ex><![CDATA[n. (Sun)人名；(中)孙(普通话·威妥玛)；(柬)孙；(缅)素；(土)松]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sun]]></key>
+
+            <value>
+
+                            <ex><![CDATA[太阳]]></ex>
+
+                            <ex><![CDATA[奇迹世界(Soul Of The Ultimate Nation)]]></ex>
+
+                            <ex><![CDATA[阳光]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[SUN]]></key>
+
+            <value>
+
+                            <ex><![CDATA[Soul of the Ultimate Nation]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Morning Sun]]></key>
+
+            <value>
+
+                            <ex><![CDATA[朝阳]]></ex>
+
+                            <ex><![CDATA[向阳]]></ex>
+
+                            <ex><![CDATA[清晨]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

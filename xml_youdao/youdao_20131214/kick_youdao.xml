@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[kick]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[踢]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kɪk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 踢；反冲，后座力]]></ex>
+
+                    <ex><![CDATA[vt. 踢；反冲，朝后座]]></ex>
+
+                    <ex><![CDATA[vi. 踢；反冲]]></ex>
+
+                    <ex><![CDATA[n. (Kick)人名；(德)基克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Kick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[脚法]]></ex>
+
+                            <ex><![CDATA[一脚]]></ex>
+
+                            <ex><![CDATA[踢出]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[goal kick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[球门球]]></ex>
+
+                            <ex><![CDATA[球门发球]]></ex>
+
+                            <ex><![CDATA[足球门球]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bicycle kick]]></key>
+
+            <value>
+
+                            <ex><![CDATA[倒挂]]></ex>
+
+                            <ex><![CDATA[脚踏车式踢击]]></ex>
+
+                            <ex><![CDATA[倒勾球]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

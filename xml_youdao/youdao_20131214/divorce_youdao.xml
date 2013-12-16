@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[divorce]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[离婚]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'vɔːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 离婚；分离]]></ex>
+
+                    <ex><![CDATA[vt. 使离婚，使分离；与…离婚]]></ex>
+
+                    <ex><![CDATA[vi. 离婚]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Divorce]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离婚]]></ex>
+
+                            <ex><![CDATA[分开]]></ex>
+
+                            <ex><![CDATA[离婚之痛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[divorce rate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离婚率]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[divorce certificate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离婚证]]></ex>
+
+                            <ex><![CDATA[离婚证明书]]></ex>
+
+                            <ex><![CDATA[离婚证书]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

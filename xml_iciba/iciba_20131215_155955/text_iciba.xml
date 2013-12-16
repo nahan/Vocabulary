@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>text</key>
+
+<ps>tekst</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/26/db/26dbb1063da50734e15c57c9995da7e9.mp3</pron>
+
+<ps>tɛkst</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/1c/b2/1cb251ec0d568de6a929b520c4aed8d1.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>文本，原文；课文，教科书；主题；版本；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>发短信；
+
+</acceptation>
+
+<sent><orig>
+
+J-TEXT Tokamak is an experimental facility designed for fusion research.
+
+</orig>
+
+<trans>
+
+TEXT托卡马克是用来研究热核聚变的实验装置。
+
+</trans></sent>
+
+<sent><orig>
+
+The method FormatResponse is overidden to return the string in the variable Text formatted as HTML.
+
+</orig>
+
+<trans>
+
+FormatResponse方法被覆盖来返回使用HTML格式化后的Text变量中的字符串。
+
+</trans></sent>
+
+<sent><orig>
+
+The third library is libTutf, a Unicode library, which allows transferring text from and to unicode.
+
+</orig>
+
+<trans>
+
+第三个程序库是libTutf,一个允许在unicode（万国码）和文字(text)之间互相转换的Unicode程序库。
+
+</trans></sent>
+
+<sent><orig>
+
+This is BRREW developed a program to simulate the TEXT, a menu!
+
+</orig>
+
+<trans>
+
+这是用BRREW开发的一个程序，能够模拟TEXT,有菜单！
+
+</trans></sent>
+
+<sent><orig>
+
+Text automatic abstraction text classification text clustering and text retrieving are important text processing technologies.
+
+</orig>
+
+<trans>
+
+文本摘要、分类、聚类和检索是文本处理领域中的重要技术。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[gentleman]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[绅士]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dʒent(ə)lmən]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 先生；绅士；有身分的人]]></ex>
+
+                    <ex><![CDATA[n. (Gentleman)人名；(英)金特尔曼]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Gentleman]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绅士]]></ex>
+
+                            <ex><![CDATA[先生]]></ex>
+
+                            <ex><![CDATA[有教养的人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Compassionate Gentleman]]></key>
+
+            <value>
+
+                            <ex><![CDATA[富于同情心的绅士]]></ex>
+
+                            <ex><![CDATA[慈悲的绅士]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[fine gentleman]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花花公子]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

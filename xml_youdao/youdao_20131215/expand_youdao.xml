@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[expand]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[扩大]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk'spænd; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 扩张；使膨胀；详述]]></ex>
+
+                    <ex><![CDATA[vi. 发展；张开，展开]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[expand]]></key>
+
+            <value>
+
+                            <ex><![CDATA[扩大]]></ex>
+
+                            <ex><![CDATA[膨胀]]></ex>
+
+                            <ex><![CDATA[展开]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Expand All]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全部展开]]></ex>
+
+                            <ex><![CDATA[展开所有]]></ex>
+
+                            <ex><![CDATA[全部扩展开]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[expand enrollment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[扩招]]></ex>
+
+                            <ex><![CDATA[扩大招生]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

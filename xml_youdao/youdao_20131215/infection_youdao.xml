@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[infection]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[感染]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'fekʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 感染；传染；影响；传染病]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Infection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[感染]]></ex>
+
+                            <ex><![CDATA[传染]]></ex>
+
+                            <ex><![CDATA[传染病]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Opportunistic infection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[机会性感染]]></ex>
+
+                            <ex><![CDATA[机遇性感染]]></ex>
+
+                            <ex><![CDATA[条件性感染]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[latent infection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[潜伏感染]]></ex>
+
+                            <ex><![CDATA[潜伏性感染]]></ex>
+
+                            <ex><![CDATA[潜伏侵染]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="construct[1]"> <hw highlight="yes" hindex="1">con*struct</hw> <sound><wav>constr10.wav</wav></sound> <pr>kənˈstrʌkt</pr> <fl>verb</fl> <in><if>con*structs</if></in> <in><if>con*struct*ed</if></in> <in><if>con*struct*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to build or make (something physical, such as a road, bridge, or building) <vi>They plan to <it>construct</it> a barn behind the house.</vi> <vi>a newly <it>constructed</it> bridge/building</vi> <vi>The table is <it>constructed</it> [=<it>made</it>] of wood and steel.</vi></dt> <sn>2</sn> <dt>:to make or create (something, such as a story or theory) by organizing ideas, words, etc. <vi>The author <it>constructs</it> all the stories around one theme.</vi> <vi>a well-<it>constructed</it> argument</vi></dt> <sn>3</sn> <ssl>mathematics</ssl> <dt>:to draw (a shape) according to a set of instructions or rules <vi><it>Construct</it> a triangle that has sides of equal length.</vi></dt></def> <uro><ure>con*struc*tor</ure> <sound><wav>constr12.wav</wav></sound> <pr>kənˈstrʌktɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>con*struc*tors</if></in> <gram>count</gram> <utxt><vi>a <it>constructor</it> of sound arguments</vi></utxt></uro></entry>
+
+	<entry id="construct[2]"> <hw hindex="2">construct</hw> <altpr>kənˈstrʌkt</altpr> <fl>noun</fl> <in><il>plural</il> <if>constructs</if></in> <def><gram>count</gram> <sl>formal</sl> <dt>:something (such as an idea or a theory) that is formed in people's minds <vi>He argues that time is a subjective <it>construct</it> with no objective existence.</vi> <vi>Class distinctions are a <phrase>social construct</phrase>. [=an idea that has been created and accepted by the people in a society]</vi></dt></def></entry>
+
+</entry_list>

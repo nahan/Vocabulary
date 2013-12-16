@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[field]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[场]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[fiːld]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 领域；牧场；旷野；战场；运动场]]></ex>
+
+                    <ex><![CDATA[adj. 扫描场；田赛的；野生的]]></ex>
+
+                    <ex><![CDATA[vt. 把暴晒于场上；使上场]]></ex>
+
+                    <ex><![CDATA[vi. 担任场外队员]]></ex>
+
+                    <ex><![CDATA[n. (Field)人名；(英、法、德、葡)菲尔德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Field]]></key>
+
+            <value>
+
+                            <ex><![CDATA[字段]]></ex>
+
+                            <ex><![CDATA[场]]></ex>
+
+                            <ex><![CDATA[田地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Electric field]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电场]]></ex>
+
+                            <ex><![CDATA[有电荷接近或周围磁场强度有变化的区域]]></ex>
+
+                            <ex><![CDATA[电场电场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Paddy field]]></key>
+
+            <value>
+
+                            <ex><![CDATA[稻田]]></ex>
+
+                            <ex><![CDATA[水田]]></ex>
+
+                            <ex><![CDATA[水稻田]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

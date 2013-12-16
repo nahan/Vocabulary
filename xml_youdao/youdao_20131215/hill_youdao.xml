@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hill]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[山]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 小山；丘陵；斜坡；山冈]]></ex>
+
+                    <ex><![CDATA[n. (Hill)人名；(法、西)伊尔；(德、英、匈、捷、罗、芬、瑞典)希尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[hill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小山]]></ex>
+
+                            <ex><![CDATA[丘]]></ex>
+
+                            <ex><![CDATA[丘陵]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fortress Hill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[炮台山]]></ex>
+
+                            <ex><![CDATA[地铁站]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Penang Hill]]></key>
+
+            <value>
+
+                            <ex><![CDATA[升旗山]]></ex>
+
+                            <ex><![CDATA[槟榔山]]></ex>
+
+                            <ex><![CDATA[槟城山]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

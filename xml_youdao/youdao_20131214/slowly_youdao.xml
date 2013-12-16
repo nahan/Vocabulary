@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[slowly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[慢慢地]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sləʊlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 缓慢地，慢慢地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Slowly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[慢慢]]></ex>
+
+                            <ex><![CDATA[缓慢地]]></ex>
+
+                            <ex><![CDATA[慢慢来]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Go slowly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放慢脚步]]></ex>
+
+                            <ex><![CDATA[慢慢来]]></ex>
+
+                            <ex><![CDATA[不慌不忙]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Deliberate slowly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[决策要慢]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

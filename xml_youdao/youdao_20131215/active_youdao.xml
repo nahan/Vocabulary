@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[active]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[活跃的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['æktɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 主动语态；积极分子]]></ex>
+
+                    <ex><![CDATA[adj. 积极的；活跃的；主动的；有效的；现役的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[active]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活动的]]></ex>
+
+                            <ex><![CDATA[主动的]]></ex>
+
+                            <ex><![CDATA[活跃]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Active site]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活性位点]]></ex>
+
+                            <ex><![CDATA[活性部位]]></ex>
+
+                            <ex><![CDATA[活性中心]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Active assets]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活动资产]]></ex>
+
+                            <ex><![CDATA[有收益资产]]></ex>
+
+                            <ex><![CDATA[流动资产]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

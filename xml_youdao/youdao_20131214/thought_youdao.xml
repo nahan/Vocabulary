@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[thought]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[认为]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[θɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 思想；思考；想法；关心]]></ex>
+
+                    <ex><![CDATA[v. 想，思考；认为（think的过去式和过去分词）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Thought]]></key>
+
+            <value>
+
+                            <ex><![CDATA[思想]]></ex>
+
+                            <ex><![CDATA[思维]]></ex>
+
+                            <ex><![CDATA[想着]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Thought Police]]></key>
+
+            <value>
+
+                            <ex><![CDATA[思想警察]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[New thought]]></key>
+
+            <value>
+
+                            <ex><![CDATA[新思想]]></ex>
+
+                            <ex><![CDATA[新思维]]></ex>
+
+                            <ex><![CDATA[新思潮]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

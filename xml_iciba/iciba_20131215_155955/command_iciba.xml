@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>command</key>
+
+<ps>kə'mɑ:nd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/1d/cc/1dccadfed7bcbb036c56a4afb97e906f.mp3</pron>
+
+<ps>kəˈmænd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/1d/cc/1dccadfed7bcbb036c56a4afb97e906f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>命令，指挥；司令部，指挥部；[计算机]指令；控制力；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>指挥，控制，命令；命令；应得，值得；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>给出命令；命令，指令；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>指挥的，根据命令（或要求）而作的；
+
+</acceptation>
+
+<sent><orig>
+
+By default, DOS uses the file COMMAND. COM as the command processor.
+
+</orig>
+
+<trans>
+
+在默认情况下，DOS利用文件COMMAND. COM作为命令处理程序。
+
+</trans></sent>
+
+<sent><orig>
+
+By default, dos uses the file COMMAND. COM as the command processor.
+
+</orig>
+
+<trans>
+
+在默认情况下，DOS利用文件COMMAND.COM作为命令处理程序。
+
+</trans></sent>
+
+<sent><orig>
+
+Compare tell, order, instruct, direct, command.
+
+</orig>
+
+<trans>
+
+试比较tell、 order、 instruct、 direct、 command这五个词。
+
+</trans></sent>
+
+<sent><orig>
+
+In Command Line, specify a command as if you were specifying it at the command prompt.
+
+</orig>
+
+<trans>
+
+在“命令行”中，指定一个命令，就像在命令提示符处指定命令一样。
+
+</trans></sent>
+
+<sent><orig>
+
+In command mode, the system is ready to accept any command in the command libraries.
+
+</orig>
+
+<trans>
+
+在命令方式下，系统随时可以接受命令库中的任何命令。
+
+</trans></sent>
+
+</dict>

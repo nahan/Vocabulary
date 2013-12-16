@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[of]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɒv; (ə)v]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 关于；属于；…的；由…组成的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[表示偏正关系]]></ex>
+
+                            <ex><![CDATA[关断状态]]></ex>
+
+                            <ex><![CDATA[表示结构]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[think of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[想起]]></ex>
+
+                            <ex><![CDATA[认为]]></ex>
+
+                            <ex><![CDATA[想到]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Of course]]></key>
+
+            <value>
+
+                            <ex><![CDATA[当然]]></ex>
+
+                            <ex><![CDATA[自然]]></ex>
+
+                            <ex><![CDATA[无疑]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

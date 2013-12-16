@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[assistant]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[助理]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ə'sɪst(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 助手，助理，助教]]></ex>
+
+                    <ex><![CDATA[adj. 辅助的，助理的；有帮助的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[assistant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[助手]]></ex>
+
+                            <ex><![CDATA[助理]]></ex>
+
+                            <ex><![CDATA[助教]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Assistant Director]]></key>
+
+            <value>
+
+                            <ex><![CDATA[助理导演]]></ex>
+
+                            <ex><![CDATA[副导演]]></ex>
+
+                            <ex><![CDATA[助理局长]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Assistant Engineer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[助理工程师]]></ex>
+
+                            <ex><![CDATA[助工]]></ex>
+
+                            <ex><![CDATA[助理录音技师]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

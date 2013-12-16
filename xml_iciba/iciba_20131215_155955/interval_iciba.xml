@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>interval</key>
+
+<ps>ˈintəvəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/d2/e1/d2e16d3f793e62737a6cdf2d54b0d9c1.mp3</pron>
+
+<ps>ˈɪntəvəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d2/e1/d2e16d3f793e62737a6cdf2d54b0d9c1.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>间隔；幕间休息；（数学）区间；
+
+</acceptation>
+
+<sent><orig>
+
+In statistics a confidence interval (CI) is an interval estimate of a population parameter.
+
+</orig>
+
+<trans>
+
+在统计学里，置信区间指的是对于某一群体参数的区间估计。
+
+</trans></sent>
+
+<sent><orig>
+
+Drag this Interval marker to a Timeline shape and then choose Configure Interval.
+
+</orig>
+
+<trans>
+
+将此间隔标记拖到时间线形状上，然后选择“配置间隔”。
+
+</trans></sent>
+
+<sent><orig>
+
+A harmonic interval is the interval between two notes sounded simultaneously.
+
+</orig>
+
+<trans>
+
+同时发声的两个音之间的音程为和声音程。
+
+</trans></sent>
+
+<sent><orig>
+
+A melodic interval is the interval between two notes sounded in succession, as in a melody.
+
+</orig>
+
+<trans>
+
+旋律音程为在旋律中先后发声的两个音之间的音程。
+
+</trans></sent>
+
+<sent><orig>
+
+In the method time interval coupling pair decoupling substitutes time interval decoupling during the optimizing prose.
+
+</orig>
+
+<trans>
+
+为此，该文提出偶对优化潮流方法，在优化过程中，用时段偶对解耦替代时段解耦。
+
+</trans></sent>
+
+</dict>

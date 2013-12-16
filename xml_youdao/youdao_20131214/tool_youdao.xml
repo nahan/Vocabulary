@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tool]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[工具]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tuːl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 工具，用具；器械，机床；手段]]></ex>
+
+                    <ex><![CDATA[vt. 用工具给……加工]]></ex>
+
+                    <ex><![CDATA[vi. 使用工具；用机床装备工厂]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tool]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工具]]></ex>
+
+                            <ex><![CDATA[刀具]]></ex>
+
+                            <ex><![CDATA[工具乐队]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Machine tool]]></key>
+
+            <value>
+
+                            <ex><![CDATA[机床]]></ex>
+
+                            <ex><![CDATA[工作母机]]></ex>
+
+                            <ex><![CDATA[机械工具]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tool steel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[工具钢]]></ex>
+
+                            <ex><![CDATA[切削工具钢]]></ex>
+
+                            <ex><![CDATA[东西钢]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

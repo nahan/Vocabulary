@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[visit]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[访问]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['vɪzɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 访问；参观；逗留]]></ex>
+
+                    <ex><![CDATA[vt. 访问；参观；视察]]></ex>
+
+                    <ex><![CDATA[vi. 访问；暂住；闲谈]]></ex>
+
+                    <ex><![CDATA[n. (Visit)人名；(老)维西；(泰)威实]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Visit]]></key>
+
+            <value>
+
+                            <ex><![CDATA[访问]]></ex>
+
+                            <ex><![CDATA[参观]]></ex>
+
+                            <ex><![CDATA[拜访]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[visit sb]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拜访某人]]></ex>
+
+                            <ex><![CDATA[拜访]]></ex>
+
+                            <ex><![CDATA[造访某人]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[visit museums]]></key>
+
+            <value>
+
+                            <ex><![CDATA[参观博物馆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

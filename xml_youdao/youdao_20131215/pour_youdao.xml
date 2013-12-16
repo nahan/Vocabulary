@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pour]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[为了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 倾泻；流出；骤雨]]></ex>
+
+                    <ex><![CDATA[vt. 灌，注；倒；倾泻；倾吐]]></ex>
+
+                    <ex><![CDATA[vi. 倾泻；涌流；斟茶]]></ex>
+
+                    <ex><![CDATA[n. (Pour)人名；(伊朗)普尔；(捷)保尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[pour]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蜂涌而来]]></ex>
+
+                            <ex><![CDATA[倾泻]]></ex>
+
+                            <ex><![CDATA[倾倒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pour Steel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[浇注钢水]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pour in]]></key>
+
+            <value>
+
+                            <ex><![CDATA[倾倒]]></ex>
+
+                            <ex><![CDATA[涌入]]></ex>
+
+                            <ex><![CDATA[大量涌入]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>aspect</key>
+
+<ps>'æspekt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/44/1e/441e84f26cf2647c796e89667dbfd41d.mp3</pron>
+
+<ps>ˈæspɛkt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e6/7e/e67e20d1ede0aa95923794d188c65fe0.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>方面；面貌；方位，方向；形势；
+
+</acceptation>
+
+<sent><orig>
+
+Aspect-Oriented Programming(AOP) localize implementation of crosscutting concern by encapsulating them in an independent module called &quot;aspect&quot;.
+
+</orig>
+
+<trans>
+
+面向方面的编程技术解决了横切关注点的模块化问题，它提供了一个叫做方面(aspect)的程序结构，将横切关注点封装在一个独立的模块里。
+
+</trans></sent>
+
+<sent><orig>
+
+Aspect-Oriented Programming is a technique for separation of crosscutting concerns.
+
+</orig>
+
+<trans>
+
+面向切面编程(Aspect-Oriented Programming,简称AOP)作为一种新的编程技术正日益引起人们的关注。
+
+</trans></sent>
+
+<sent><orig>
+
+Aspect-Oriented Programming is a new idea of programming.
+
+</orig>
+
+<trans>
+
+面向方面编程(Aspect Oriented Programming)是近年来新兴的一种编程思想。
+
+</trans></sent>
+
+<sent><orig>
+
+Interest in future aspect comes from failure to appreciate the already aspect of Christ.
+
+</orig>
+
+<trans>
+
+对将来的事感兴趣，是因没有体会基督的[已临]层面。
+
+</trans></sent>
+
+<sent><orig>
+
+A distributed perspective on leadership involves two aspects: the leader-plus aspect and the practice aspect.
+
+</orig>
+
+<trans>
+
+分布式领导力观点包括两个方面：建立分布式领导力框架和领导力实践。
+
+</trans></sent>
+
+</dict>

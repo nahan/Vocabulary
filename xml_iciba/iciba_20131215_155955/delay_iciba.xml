@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>delay</key>
+
+<ps>dɪ'leɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d0/59/d059da3fbb810934b947a5ec4130e7c6.mp3</pron>
+
+<ps>dɪˈle</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/72/43/7243f8be75253afbadf7477867021f8b.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>延迟，拖延；耽搁；被耽搁或推迟的时间；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>延期，推迟；耽搁；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>延缓，延期；
+
+</acceptation>
+
+<sent><orig>
+
+This paper roundly analyzed the classic single airport ground-delay policy(GDP) model and multi-airport ground-delay policy(GDP) mode.
+
+</orig>
+
+<trans>
+
+系统地分析了单机场和多机场地面等待策略GDP(Ground-Delay Policy)经典模型。
+
+</trans></sent>
+
+<sent><orig>
+
+An iambic foot consists of an unstressed syllable followed by a stressed syllable as in'delay'.
+
+</orig>
+
+<trans>
+
+抑扬格诗中的音步是由非重读音节后跟着一个重读音节组成的，例如“delay”。
+
+</trans></sent>
+
+<sent><orig>
+
+In a DAW environment, one method is to generate a dedicated delay-effect track.
+
+</orig>
+
+<trans>
+
+在DAW的环境中，完成以上的方法是生成一个专门加入DELAY-EFFECT的轨道。
+
+</trans></sent>
+
+<sent><orig>
+
+Generally, compared with on-line DELAY-SPT algorithm, the algorithm based on two-step rolling is superior.
+
+</orig>
+
+<trans>
+
+一般情况下，与在线算法DELAY-SPT比较，滚动调度算法是比较优的。
+
+</trans></sent>
+
+<sent><orig>
+
+The sixth part focuses on the relationship among stopped delay delay and control delay.
+
+</orig>
+
+<trans>
+
+在论文的第六部分主要讨论了停车延误和控制延误的关系。
+
+</trans></sent>
+
+</dict>

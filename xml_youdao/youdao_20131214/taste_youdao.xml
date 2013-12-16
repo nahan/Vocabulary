@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[taste]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[味道]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[teɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 味道；品味；审美]]></ex>
+
+                    <ex><![CDATA[vt. 尝；体验]]></ex>
+
+                    <ex><![CDATA[vi. 尝起来；有…的味道]]></ex>
+
+                    <ex><![CDATA[n. (Taste)人名；(法)塔斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Taste]]></key>
+
+            <value>
+
+                            <ex><![CDATA[味道]]></ex>
+
+                            <ex><![CDATA[味觉]]></ex>
+
+                            <ex><![CDATA[品尝]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Taste receptor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[味觉感受器]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[taste of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有]]></ex>
+
+                            <ex><![CDATA[的味道]]></ex>
+
+                            <ex><![CDATA[体验]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

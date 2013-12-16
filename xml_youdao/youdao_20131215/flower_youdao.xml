@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[flower]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[花]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['flaʊə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 花；精华；开花植物]]></ex>
+
+                    <ex><![CDATA[vt. 使开花；用花装饰]]></ex>
+
+                    <ex><![CDATA[vi. 成熟，发育；开花；繁荣；旺盛]]></ex>
+
+                    <ex><![CDATA[n. (Flower)人名；(英)弗劳尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Flower]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花]]></ex>
+
+                            <ex><![CDATA[花朵]]></ex>
+
+                            <ex><![CDATA[花卉壁纸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Flower shop]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花店]]></ex>
+
+                            <ex><![CDATA[橙时光花店]]></ex>
+
+                            <ex><![CDATA[魅力花店]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Flower Reaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花之连锁]]></ex>
+
+                            <ex><![CDATA[花之锁链]]></ex>
+
+                            <ex><![CDATA[花朵连锁反应]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

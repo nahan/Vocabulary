@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[exciting]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[令人兴奋的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪk'saɪtɪŋ; ek-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 令人兴奋的；使人激动的]]></ex>
+
+                    <ex><![CDATA[v. 激动；刺激（excite的ing形式）；唤起]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[exciting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[令人兴奋的]]></ex>
+
+                            <ex><![CDATA[激动人心]]></ex>
+
+                            <ex><![CDATA[令人激动的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[exciting lamp]]></key>
+
+            <value>
+
+                            <ex><![CDATA[激励灯]]></ex>
+
+                            <ex><![CDATA[激励管]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[very exciting]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非常令人兴奋]]></ex>
+
+                            <ex><![CDATA[很刺激]]></ex>
+
+                            <ex><![CDATA[非常精彩]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

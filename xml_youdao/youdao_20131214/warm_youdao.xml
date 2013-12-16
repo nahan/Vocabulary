@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[warm]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[温暖的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wɔːm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 取暖；加热]]></ex>
+
+                    <ex><![CDATA[adj. 温暖的；热情的]]></ex>
+
+                    <ex><![CDATA[vt. 使…兴奋；使…温暖；使…感兴趣]]></ex>
+
+                    <ex><![CDATA[vi. 同情；激动；变温暖]]></ex>
+
+                    <ex><![CDATA[n. (Warm)人名；(英)沃姆；(德)瓦姆]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[warm]]></key>
+
+            <value>
+
+                            <ex><![CDATA[温暖的]]></ex>
+
+                            <ex><![CDATA[暖和的]]></ex>
+
+                            <ex><![CDATA[温馨]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Warm Iron]]></key>
+
+            <value>
+
+                            <ex><![CDATA[温烫]]></ex>
+
+                            <ex><![CDATA[中低温熨烫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Warm Bodies]]></key>
+
+            <value>
+
+                            <ex><![CDATA[温暖的尸体]]></ex>
+
+                            <ex><![CDATA[血肉之躯]]></ex>
+
+                            <ex><![CDATA[僵尸哪有这麽帅]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

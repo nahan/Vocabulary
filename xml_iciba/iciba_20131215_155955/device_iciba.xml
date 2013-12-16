@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>device</key>
+
+<ps>dɪˈvaɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/12/d1/12d1ee24d7b4055051ed8e9fb31e01f6.mp3</pron>
+
+<ps>dɪˈvaɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/91/3f/913f9c49dcb544e2087cee284f4a00b7.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>装置，设备；方法；策略；手段；
+
+</acceptation>
+
+<sent><orig>
+
+Device objects can have names that conventionally live in the \Device directory.
+
+</orig>
+
+<trans>
+
+设备对象可以具有在路径\Device中历来存在的名称。
+
+</trans></sent>
+
+<sent><orig>
+
+The device name in the device.INF or media.INI file is too long.
+
+</orig>
+
+<trans>
+
+在device.inf或media.ini文件中的设备名称太长。
+
+</trans></sent>
+
+<sent><orig>
+
+For device you substitute the name, or the IP address, of your device.
+
+</orig>
+
+<trans>
+
+对于device,你要用设备的名称或者IP地址来替换。
+
+</trans></sent>
+
+<sent><orig>
+
+With the DSF(Device Security Framework) Infrastructure and SDK, applications can now be made &quot;Device-Aware&quot;.
+
+</orig>
+
+<trans>
+
+设备端安全架构(Device Security Framework)简称DSF,是为开发有安全需要的应用程序提供开发类库和安全架构。
+
+</trans></sent>
+
+<sent><orig>
+
+The device includes sliver feeding device, alkali impregnating device, mercerizing device, rinsing and drying device.
+
+</orig>
+
+<trans>
+
+该装置包括棉条喂入装置、碱液浸渍装置、丝光装置、水洗和烘干装置。
+
+</trans></sent>
+
+</dict>

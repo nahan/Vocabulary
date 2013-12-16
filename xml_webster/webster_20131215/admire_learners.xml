@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="admire"> <hw highlight="yes">ad*mire</hw> <sound><wav>admire01.wav</wav></sound> <pr>ədˈmajɚ</pr> <fl>verb</fl> <in><if>ad*mires</if></in> <in><if>ad*mired</if></in> <in><if>ad*mir*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to feel respect or approval for (someone or something) <vi>I <it>admired</it> the way he handled the crisis. = I <it>admired</it> how he handled the crisis.</vi> <vi>We all <it>admire</it> her courage. = We all <it>admire</it> her for her courage. = She is much <it>admired</it> for her courage.</vi></dt> <sn>2</sn> <dt>:to look at (something or someone) with enjoyment <vi>We gazed out the window and <it>admired</it> the scenery.</vi></dt></def> <uro><ure>ad*mir*er</ure> <fl>noun</fl> <in><il>plural</il> <if>ad*mir*ers</if></in> <gram>count</gram> <utxt><vi>an <it>admirer</it> of modern art</vi> <vi>a beautiful woman who has many <it>admirers</it></vi></utxt></uro> <uro><ure>admiring</ure> <fl>adjective</fl> <gram>more admiring; most admiring</gram> <utxt><vi>She received many <it>admiring</it> glances as she walked into the room.</vi></utxt></uro> <uro><ure>ad*mir*ing*ly</ure> <sound><wav>admire02.wav</wav></sound> <pr>ədˈmaɪrɪŋli</pr> <fl>adverb</fl></uro></entry>
+
+</entry_list>

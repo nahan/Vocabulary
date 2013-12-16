@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[infant]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[婴儿]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɪnf(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 婴儿；幼儿；未成年人]]></ex>
+
+                    <ex><![CDATA[adj. 婴儿的；幼稚的；初期的；未成年的]]></ex>
+
+                    <ex><![CDATA[n. (Infant)人名；(英)因方特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Infant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[婴儿]]></ex>
+
+                            <ex><![CDATA[幼儿]]></ex>
+
+                            <ex><![CDATA[婴幼儿]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Infant school]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幼儿学校]]></ex>
+
+                            <ex><![CDATA[幼儿园]]></ex>
+
+                            <ex><![CDATA[儿童学校]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Infant mortality]]></key>
+
+            <value>
+
+                            <ex><![CDATA[婴儿死亡率]]></ex>
+
+                            <ex><![CDATA[早期故障期]]></ex>
+
+                            <ex><![CDATA[早期失效]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

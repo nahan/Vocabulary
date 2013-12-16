@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>idea</key>
+
+<ps>aɪ'dɪə</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c2/c8/c2c8fe21f440e066cbe09497f7c483e7.mp3</pron>
+
+<ps>aɪˈdiə</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/1c/ba/1cba77c39b4d0a81024a7aada3655a28.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>主意，想法；[哲]理念，观念；[乐]乐句；模糊想法；
+
+</acceptation>
+
+<sent><orig>
+
+IDEA is a symmetrical block cipher. End-to-end encryption based on IDEA is presented and analyzed.
+
+</orig>
+
+<trans>
+
+分析了基于分组密码算法IDEA设计的端-端加密系统。
+
+</trans></sent>
+
+<sent><orig>
+
+Another popular secret-key cryptosystem is the International Data Encryption Algorithm (IDEA).
+
+</orig>
+
+<trans>
+
+另一个流行的秘密密钥加密系统是国际数据加密算法(IDEA)。
+
+</trans></sent>
+
+<sent><orig>
+
+IDEA works on 64 bit data blocks with a 128 bit key.
+
+</orig>
+
+<trans>
+
+IDEA用128位密钥处理64位数据块。
+
+</trans></sent>
+
+<sent><orig>
+
+Base on priority and development plan, follow up IDEA implementation.
+
+</orig>
+
+<trans>
+
+按照优先顺序和开发计划，跟踪IDEA的实施情况。
+
+</trans></sent>
+
+<sent><orig>
+
+IDEA is licensed by Ascom Systec in Switzerland, and is not affected by U.S. export restrictions.
+
+</orig>
+
+<trans>
+
+idea由瑞士的AscomSystec公司授予许可证，它不受美国出口限制的影响。
+
+</trans></sent>
+
+</dict>

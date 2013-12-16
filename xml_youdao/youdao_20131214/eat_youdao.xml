@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[eat]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[吃]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[iːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 吃，喝；腐蚀；烦扰]]></ex>
+
+                    <ex><![CDATA[vi. 进食；腐蚀，侵蚀]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Eat]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吃饭]]></ex>
+
+                            <ex><![CDATA[不吃]]></ex>
+
+                            <ex><![CDATA[进食]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[eat up]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吃光]]></ex>
+
+                            <ex><![CDATA[吃完]]></ex>
+
+                            <ex><![CDATA[耗尽]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[eat lunch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吃午饭]]></ex>
+
+                            <ex><![CDATA[吃中午饭]]></ex>
+
+                            <ex><![CDATA[吃午餐]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

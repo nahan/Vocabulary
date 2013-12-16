@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[silent]]></query>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['saɪlənt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 无声电影]]></ex>
+
+                    <ex><![CDATA[adj. 沉默的；寂静的；无记载的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Silent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无声]]></ex>
+
+                            <ex><![CDATA[寂静]]></ex>
+
+                            <ex><![CDATA[沉默的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Silent love]]></key>
+
+            <value>
+
+                            <ex><![CDATA[微笑的弧度]]></ex>
+
+                            <ex><![CDATA[默默的情怀]]></ex>
+
+                            <ex><![CDATA[听不到的说话]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Silent Wedding]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无声婚礼]]></ex>
+
+                            <ex><![CDATA[安静的婚礼]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

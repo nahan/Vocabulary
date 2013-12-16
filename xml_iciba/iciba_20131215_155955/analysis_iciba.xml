@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>analysis</key>
+
+<ps>əˈnæləsɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f9/ea/f9eac5fc419e5717790ed55b0f7d6fb0.mp3</pron>
+
+<ps>əˈnælɪsɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/3b/67/3b671c883959a8ef434b85a104c293d4.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>分析，分解；梗概，要略；[数]解析；验定；
+
+</acceptation>
+
+<sent><orig>
+
+The risk analysis methods include BEP analysis,sensitivity analysis and probability analysis.
+
+</orig>
+
+<trans>
+
+风险分析的方法主要有盈亏平衡分析、敏感性分析和概率分析三种。
+
+</trans></sent>
+
+<sent><orig>
+
+For example, event tree analysis, security checklist analysis, event tree analysis, fault tree analysis etc.
+
+</orig>
+
+<trans>
+
+如预先危害分析、安全检查表、事故树分析、故障树分析等等。
+
+</trans></sent>
+
+<sent><orig>
+
+Exploratory Analysis is a system analysis methodology summarized from Rand strategy analysis.
+
+</orig>
+
+<trans>
+
+探索性分析方法是Rand公司在战略分析中总结出的一种定量系统分析方法，是进行高层策略分析的重要方法。
+
+</trans></sent>
+
+<sent><orig>
+
+The concepts, analysis principles, development and applications of exergy analysis and energy analysis were reviewed.
+
+</orig>
+
+<trans>
+
+阐述了火用分析和能值分析的基本概念及其分析原理、发展和应用。
+
+</trans></sent>
+
+<sent><orig>
+
+Methods System analysis, analysis hierarchy process, and reliability analysis method were used.
+
+</orig>
+
+<trans>
+
+方法研究中运用了系统分析方法、层次分析法和可靠性分析方法等。
+
+</trans></sent>
+
+</dict>

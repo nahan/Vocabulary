@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[quote]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[报价]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kwəʊt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 引用]]></ex>
+
+                    <ex><![CDATA[vi. 报价；引用；引证]]></ex>
+
+                    <ex><![CDATA[vt. 报价；引述；举证]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Quote]]></key>
+
+            <value>
+
+                            <ex><![CDATA[报价]]></ex>
+
+                            <ex><![CDATA[引用]]></ex>
+
+                            <ex><![CDATA[服务报价]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[close quote]]></key>
+
+            <value>
+
+                            <ex><![CDATA[引号的下一半]]></ex>
+
+                            <ex><![CDATA[右引号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Brainy Quote]]></key>
+
+            <value>
+
+                            <ex><![CDATA[智慧引用]]></ex>
+
+                            <ex><![CDATA[智者说]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

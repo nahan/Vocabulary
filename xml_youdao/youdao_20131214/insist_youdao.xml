@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[insist]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[坚持]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'sɪst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 坚持，强调]]></ex>
+
+                    <ex><![CDATA[vt. 坚持，强调]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[insist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坚持]]></ex>
+
+                            <ex><![CDATA[坚决认为]]></ex>
+
+                            <ex><![CDATA[坚持要求]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mo insist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[莫强求]]></ex>
+
+                            <ex><![CDATA[莫坚持]]></ex>
+
+                            <ex><![CDATA[袁武议员坚持]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Insist now]]></key>
+
+            <value>
+
+                            <ex><![CDATA[坚持现在]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[despite]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[尽管]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'spaɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 尽管，不管]]></ex>
+
+                    <ex><![CDATA[n. 轻视；憎恨；侮辱]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[despite]]></key>
+
+            <value>
+
+                            <ex><![CDATA[尽管]]></ex>
+
+                            <ex><![CDATA[不管]]></ex>
+
+                            <ex><![CDATA[尽管如此]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[despite prep]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不管]]></ex>
+
+                            <ex><![CDATA[不顾]]></ex>
+
+                            <ex><![CDATA[尽管]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[despite whichle]]></key>
+
+            <value>
+
+                            <ex><![CDATA[毕竟]]></ex>
+
+                            <ex><![CDATA[虽然那样]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

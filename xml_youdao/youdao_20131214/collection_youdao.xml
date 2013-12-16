@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[collection]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[集合]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kə'lekʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 采集，聚集；[税收] 征收；收藏品；募捐]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Collection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[托收]]></ex>
+
+                            <ex><![CDATA[收藏]]></ex>
+
+                            <ex><![CDATA[收藏品]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[data collection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[数据收集]]></ex>
+
+                            <ex><![CDATA[数据采集]]></ex>
+
+                            <ex><![CDATA[数据搜集]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Garbage Collection]]></key>
+
+            <value>
+
+                            <ex><![CDATA[垃圾收集]]></ex>
+
+                            <ex><![CDATA[垃圾回收]]></ex>
+
+                            <ex><![CDATA[无用单元收集]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

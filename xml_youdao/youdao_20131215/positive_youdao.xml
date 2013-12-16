@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[positive]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[积极的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pɒzɪtɪv]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 正数；[摄] 正片]]></ex>
+
+                    <ex><![CDATA[adj. 积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[positive]]></key>
+
+            <value>
+
+                            <ex><![CDATA[积极的]]></ex>
+
+                            <ex><![CDATA[正面]]></ex>
+
+                            <ex><![CDATA[肯定的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[positive feedback]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正反馈]]></ex>
+
+                            <ex><![CDATA[正回馈]]></ex>
+
+                            <ex><![CDATA[正回输]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Positive psychology]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正面心理学]]></ex>
+
+                            <ex><![CDATA[积极心理学]]></ex>
+
+                            <ex><![CDATA[正向心理学]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

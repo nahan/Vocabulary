@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[touch]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[联系]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tʌtʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 接触；触觉；格调；少许]]></ex>
+
+                    <ex><![CDATA[vt. 接触；触动；使轻度受害]]></ex>
+
+                    <ex><![CDATA[vi. 触摸；涉及；接近；提到]]></ex>
+
+                    <ex><![CDATA[n. (Touch)人名；(柬)杜；(英)陶奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[touch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[触摸]]></ex>
+
+                            <ex><![CDATA[邻家女孩]]></ex>
+
+                            <ex><![CDATA[棒球英豪]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[touch screen]]></key>
+
+            <value>
+
+                            <ex><![CDATA[触摸屏]]></ex>
+
+                            <ex><![CDATA[触摸式屏幕]]></ex>
+
+                            <ex><![CDATA[触感屏幕]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[iPod touch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[第四代]]></ex>
+
+                            <ex><![CDATA[兼容]]></ex>
+
+                            <ex><![CDATA[苹果的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

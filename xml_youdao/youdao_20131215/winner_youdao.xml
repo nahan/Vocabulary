@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[winner]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[赢家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['wɪnə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 胜利者]]></ex>
+
+                    <ex><![CDATA[n. (Winner)人名；(英、德、瑞典)温纳]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[winner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[获胜者]]></ex>
+
+                            <ex><![CDATA[胜利者]]></ex>
+
+                            <ex><![CDATA[赢家]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sight Winner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胜眼光]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Outstanding Winner]]></key>
+
+            <value>
+
+                            <ex><![CDATA[特等奖]]></ex>
+
+                            <ex><![CDATA[建模竞赛杰出奖]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

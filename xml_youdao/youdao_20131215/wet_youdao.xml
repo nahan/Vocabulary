@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[wet]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[湿]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wet]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 雨天；湿气]]></ex>
+
+                    <ex><![CDATA[adj. [气象][物] 潮湿的；有雨的]]></ex>
+
+                    <ex><![CDATA[vt. 弄湿]]></ex>
+
+                    <ex><![CDATA[vi. 变湿]]></ex>
+
+                    <ex><![CDATA[n. (Wet)人名；(英、纳米、南非)韦特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[wet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[湿的]]></ex>
+
+                            <ex><![CDATA[潮湿的]]></ex>
+
+                            <ex><![CDATA[效果声信号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[wet station]]></key>
+
+            <value>
+
+                            <ex><![CDATA[沾湿台]]></ex>
+
+                            <ex><![CDATA[湿式洗涤站]]></ex>
+
+                            <ex><![CDATA[沾濡台]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[wet process]]></key>
+
+            <value>
+
+                            <ex><![CDATA[湿法]]></ex>
+
+                            <ex><![CDATA[湿制程]]></ex>
+
+                            <ex><![CDATA[湿式制程]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

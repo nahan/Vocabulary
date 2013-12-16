@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>tension</key>
+
+<ps>'tenʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/67/46/67464dc5f8e402fea64bf14d0785a915.mp3</pron>
+
+<ps>ˈtɛnʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/e8/98/e898d89009a546a297b8139496c62fea.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>紧张，不安；紧张气氛；[物]张力，拉力；矛盾；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>紧张；使紧张；
+
+</acceptation>
+
+<sent><orig>
+
+Tension is a mutual pulling force. It can be divided into internal tension and external tension.
+
+</orig>
+
+<trans>
+
+张力是一种相互牵引力，它可以分为内部张力和外部张力。
+
+</trans></sent>
+
+<sent><orig>
+
+The tension sensor and the transmitting instrument construct tension closed-loop control, it make the tension invariable.
+
+</orig>
+
+<trans>
+
+松紧架、角位移传感器组成张力闭环控制实现恒张力控制。
+
+</trans></sent>
+
+<sent><orig>
+
+All four sections of tension through vector-fed motors to implement automatic tension control.
+
+</orig>
+
+<trans>
+
+所有四段压力均堵住互换矢量变频电机来达成压力被迫把持。
+
+</trans></sent>
+
+<sent><orig>
+
+The effect of tension on arm of force was studied that: forward tension can enhance armforce.
+
+</orig>
+
+<trans>
+
+连轧过程张力是最主要的因素，研究了张力对力臂的影响规律：前张力使力臂增加。
+
+</trans></sent>
+
+<sent><orig>
+
+Interfacial tension is the surface tension at the interface between two liquids.
+
+</orig>
+
+<trans>
+
+界面张力是两种液体之间界面上的表面张力。
+
+</trans></sent>
+
+</dict>

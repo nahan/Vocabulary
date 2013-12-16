@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>depend</key>
+
+<ps>dɪ'pend</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/2a/63/2a639cd80887b17b8a90bf5e2911453e.mp3</pron>
+
+<ps>dɪˈpɛnd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/63/34/6334ae0f062c466145cf2dc022e0359a.mp3</pron>
+
+<pos>vi.</pos>
+
+<acceptation>依靠；依赖；信赖；决定于；
+
+</acceptation>
+
+<sent><orig>
+
+Depend upon Abstractions. Do not depend upon concretions.
+
+</orig>
+
+<trans>
+
+依赖抽象，不要依赖具体。
+
+</trans></sent>
+
+<sent><orig>
+
+It will depend on you, and it could depend on no better man.
+
+</orig>
+
+<trans>
+
+这得要靠你了，你是最可靠的人。
+
+</trans></sent>
+
+<sent><orig>
+
+You may depend on his coming(depend on him to come).
+
+</orig>
+
+<trans>
+
+他准会来的。
+
+</trans></sent>
+
+<sent><orig>
+
+Depend upon abstractions. Do not depend upon concrete classes.
+
+</orig>
+
+<trans>
+
+要依赖抽象，不要依赖具体类。
+
+</trans></sent>
+
+<sent><orig>
+
+A. High level modules should not depend upon low level modules. Both should depend upon abstractions.
+
+</orig>
+
+<trans>
+
+上层模块应该不依赖于下层模块，它们都依赖于抽象。
+
+</trans></sent>
+
+</dict>

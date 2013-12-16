@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>exception</key>
+
+<ps>ɪkˈsepʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/12/19/1219c2710681a1102986b12033356c27.mp3</pron>
+
+<ps>ɪkˈsɛpʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/42/55/42552b1f133f9f8eb406d4f306ea9fd1.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>例外，除外；反对，批评；[法律]异议，反对；
+
+</acceptation>
+
+<sent><orig>
+
+Data reads and writes to an execute-only segment will generate an exception.
+
+</orig>
+
+<trans>
+
+在只执行段中读写数据，会产生一个异常(exception)。
+
+</trans></sent>
+
+<sent><orig>
+
+If exception occurs, the statement's exception block disposes of the string list, then re-raises the exception.
+
+</orig>
+
+<trans>
+
+如果异常发生，那么语句的异常块将释放串列表，然后再引发异常。
+
+</trans></sent>
+
+<sent><orig>
+
+Note that the exception may be a runtime exception a checked exception, or an error.
+
+</orig>
+
+<trans>
+
+记录这个异常可能是一个运行期异常，检查期异常，或者是一个错误。
+
+</trans></sent>
+
+<sent><orig>
+
+Whenever exception occurs, the kernel searches the list of exception frames for an exception handler.
+
+</orig>
+
+<trans>
+
+无论什么时候异常发生，这个内核位一个异常处理器搜索这个异常结构的列表。
+
+</trans></sent>
+
+<sent><orig>
+
+The Exception Assistant dialog box appears when a run-time exception is thrown.
+
+</orig>
+
+<trans>
+
+“异常助手”对话框在引发运行时异常时出现。
+
+</trans></sent>
+
+</dict>

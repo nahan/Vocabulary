@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sudden]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[突然]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sʌd(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 突然发生的事]]></ex>
+
+                    <ex><![CDATA[adj. 突然的，意外的；快速的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[sudden]]></key>
+
+            <value>
+
+                            <ex><![CDATA[突然的]]></ex>
+
+                            <ex><![CDATA[突如其来]]></ex>
+
+                            <ex><![CDATA[突发性]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sudden Weekly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[忽然1周]]></ex>
+
+                            <ex><![CDATA[忽然一周]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sudden Feelings]]></key>
+
+            <value>
+
+                            <ex><![CDATA[灵悟]]></ex>
+
+                            <ex><![CDATA[突发感概]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

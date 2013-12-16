@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[empire]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[帝国]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['empaɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 帝国；帝王统治，君权]]></ex>
+
+                    <ex><![CDATA[n. (Empire)人名；(法)昂皮尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Empire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[帝国]]></ex>
+
+                            <ex><![CDATA[牌技帝国]]></ex>
+
+                            <ex><![CDATA[黑金帝国]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Kushan Empire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[贵霜帝国]]></ex>
+
+                            <ex><![CDATA[贵霜王朝]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[German Empire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[德意志帝国]]></ex>
+
+                            <ex><![CDATA[德意志联盟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

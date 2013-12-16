@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>connection</key>
+
+<ps>kəˈnekʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/26/53/2653865a7b146d85c80d5591a3befa2c.mp3</pron>
+
+<ps>kəˈnɛkʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/47/17/4717d53ebfdfea8477f780ec66151dcb.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>连接；联系，关系；连接点；亲戚；
+
+</acceptation>
+
+<sent><orig>
+
+Star Connection See Wye Connection.
+
+</orig>
+
+<trans>
+
+星形连接参见Y形连接。
+
+</trans></sent>
+
+<sent><orig>
+
+This is not the same as a broken connection which would cause a connection reset error.
+
+</orig>
+
+<trans>
+
+这与导致连扌妾复位菂错误葰致菂断开菂连扌妾不同。
+
+</trans></sent>
+
+<sent><orig>
+
+Connection pooling allows an application to reuse open connection handles, which saves round-trips to the server.
+
+</orig>
+
+<trans>
+
+连接池允许应用程序重用打开连接句柄，此操作将节省到服务器的往返过程。
+
+</trans></sent>
+
+<sent><orig>
+
+Click the Test Connection button to verify that the connection exists.
+
+</orig>
+
+<trans>
+
+单击“测试连接”按钮以验证连接是否存在。
+
+</trans></sent>
+
+<sent><orig>
+
+Unknown connection option in connection string: provider.
+
+</orig>
+
+<trans>
+
+这个连接字符串有问题吗？
+
+</trans></sent>
+
+</dict>

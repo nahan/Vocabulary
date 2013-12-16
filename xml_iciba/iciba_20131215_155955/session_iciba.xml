@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>session</key>
+
+<ps>ˈseʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/19/d3/19d3d79cbcde74d1c99351f847d1fda3.mp3</pron>
+
+<ps>ˈsɛʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/21/d6/21d6f40cfb511982e4424e0e250a9557.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>开会，会议；（法庭的）开庭；会期，学期；（进行某活动连续的）一段时间；
+
+</acceptation>
+
+<sent><orig>
+
+Like the Dow, broader stock indicators also advanced for the third straight session.
+
+</orig>
+
+<trans>
+
+和道琼斯一样，宏观经济指标也连续第三个季度(session)上涨。
+
+</trans></sent>
+
+<sent><orig>
+
+It's a handy place to check for an active session or inspect user permissions.
+
+</orig>
+
+<trans>
+
+在该函数中session的活动状态或者用户权限的处理是非常方便的。
+
+</trans></sent>
+
+<sent><orig>
+
+At first, I opened and closed its Session object for each DAO method.
+
+</orig>
+
+<trans>
+
+一开始我在每个DAO的方法中opened和closed他们的Session对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Is the class teacher and teachers have not reached the turning Session variables page.
+
+</orig>
+
+<trans>
+
+主要是班主任和教师的Session变量没有传到转向的页面中。
+
+</trans></sent>
+
+<sent><orig>
+
+We store the state of the decoding process in a session attribute.
+
+</orig>
+
+<trans>
+
+我们在session的属性中存储解码过程的状态信息。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>search</key>
+
+<ps>sɜ:tʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/06/a9/06a943c59f33a34bb5924aaf72cd2995.mp3</pron>
+
+<ps>sɚtʃ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/06/a9/06a943c59f33a34bb5924aaf72cd2995.mp3</pron>
+
+<pos>v.</pos>
+
+<acceptation>搜寻，搜索；调查；搜查；探求；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>搜索；调查；探求；
+
+</acceptation>
+
+<sent><orig>
+
+Find a matching string SEARCH, and the word in the sentence position hexadecimal number displayed.
+
+</orig>
+
+<trans>
+
+查找匹配字符串SEARCH,并把该字在句子中的位置用十六进制数显示出来。
+
+</trans></sent>
+
+<sent><orig>
+
+But regardless of searches the technology is complex, search Classified search, index search and bookmark search.
+
+</orig>
+
+<trans>
+
+搜索引擎是一门技术，它是由搜索器、索引器、检索器和用户接口四个部分组成，这四个部分各尽所能，保证搜索引擎的正常工作。
+
+</trans></sent>
+
+<sent><orig>
+
+There are two basic search methods, namely, tree-type search and linear search.
+
+</orig>
+
+<trans>
+
+搜索方式有两种基本的方式，即树式搜索和线式搜索。
+
+</trans></sent>
+
+<sent><orig>
+
+Search strategy has largely blind search and heuristic search two categories.
+
+</orig>
+
+<trans>
+
+搜索策略大体有盲目搜索和启发式搜索两大类。
+
+</trans></sent>
+
+<sent><orig>
+
+SEARCH: Both full-text search engines and ones that search descriptions of documents and other content.
+
+</orig>
+
+<trans>
+
+搜索层：全文搜索引擎和搜索文档描述和其他内容的搜索引擎。
+
+</trans></sent>
+
+</dict>

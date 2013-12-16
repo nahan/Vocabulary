@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>cat</key>
+
+<ps>kæt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/1c/f3/1cf3980c4529878b690ded143c409664.mp3</pron>
+
+<ps>kæt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d0/77/d077f244def8a70e5ea758bd8352fcd8.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>猫；猫科动物；狠毒的女人；爵士乐爱好者；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>把（锚）吊放在锚架上；〈俚〉寻欢，宿娼；
+
+</acceptation>
+
+<sent><orig>
+
+In &quot;the black cat&quot;the adjective &quot;black&quot; modifies the noun &quot;cat&quot;.
+
+</orig>
+
+<trans>
+
+在the black cat这一词组中，形容词black修饰名词cat。
+
+</trans></sent>
+
+<sent><orig>
+
+The Computer Aided Test (CAT) workstation is a new type of CAT system.
+
+</orig>
+
+<trans>
+
+计算机辅助测试(CAT)工作站是一个集各种电参数的测试、仪器系统的硬件软件开发、仿真和调试、系统的状态显示和故障诊断以及文本编辑于一体的一个集成测试环境。
+
+</trans></sent>
+
+<sent><orig>
+
+Designating the vowel a as pronounced in bad or cat.
+
+</orig>
+
+<trans>
+
+指如bad或cat中元音a的发音。
+
+</trans></sent>
+
+<sent><orig>
+
+Programmable switch matrix is the key unit in computer aided test (CAT) system.
+
+</orig>
+
+<trans>
+
+可编程开关阵列是计算机辅助测试(CAT)系统的关键部件。
+
+</trans></sent>
+
+<sent><orig>
+
+This is a CAT system that uses popular VI technology.
+
+</orig>
+
+<trans>
+
+试验台测控系统为计算机辅助测试(CAT)系统，采用目前流行的虚拟仪器技术开发。
+
+</trans></sent>
+
+</dict>

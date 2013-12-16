@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[grandfather]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[祖父]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['græn(d)fɑːðə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 祖父；始祖]]></ex>
+
+                    <ex><![CDATA[vt. 不受新规定限制]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[grandfather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[祖父]]></ex>
+
+                            <ex><![CDATA[爷爷]]></ex>
+
+                            <ex><![CDATA[外祖父]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[My Grandfather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[我的爷爷]]></ex>
+
+                            <ex><![CDATA[我的外公]]></ex>
+
+                            <ex><![CDATA[我的祖父]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Your grandfather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[你爷爷]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

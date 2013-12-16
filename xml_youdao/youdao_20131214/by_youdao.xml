@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[by]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[通过]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[baɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[prep. 通过；被；依据；经由；在附近；在……之前]]></ex>
+
+                    <ex><![CDATA[adv. 通过；经过；附近；[互联网] 白俄罗斯的国家代码顶级域名]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[by]]></key>
+
+            <value>
+
+                            <ex><![CDATA[白俄罗斯]]></ex>
+
+                            <ex><![CDATA[过路人]]></ex>
+
+                            <ex><![CDATA[相当于“拿”]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[by chance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[偶然]]></ex>
+
+                            <ex><![CDATA[碰巧]]></ex>
+
+                            <ex><![CDATA[偶尔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[by accident]]></key>
+
+            <value>
+
+                            <ex><![CDATA[偶然]]></ex>
+
+                            <ex><![CDATA[偶尔]]></ex>
+
+                            <ex><![CDATA[意外地]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

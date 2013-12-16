@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>growth</key>
+
+<ps>ɡrəʊθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/5f/f5/5ff58d62c15f28a3f16d0bbe332a1439.mp3</pron>
+
+<ps>ɡroθ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5f/f5/5ff58d62c15f28a3f16d0bbe332a1439.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>生长；增长；一茬植株；肿块，肿瘤；
+
+</acceptation>
+
+<sent><orig>
+
+FP-Growth algorithm adopts pattern fragment growth method and only scans database twice.
+
+</orig>
+
+<trans>
+
+FP-Growth算法是一种基于模式增长的频繁模式挖掘算法，避免了大量候选项集的产生，只需要两次扫描数据库。
+
+</trans></sent>
+
+<sent><orig>
+
+It has been proven that FP-growth algorithm is better than Apriori algorithm.
+
+</orig>
+
+<trans>
+
+实验和研究证明FP-growth算法优于Apriori算法。
+
+</trans></sent>
+
+<sent><orig>
+
+The famous algorithms to find the frequent itemsets include Apriori and FP-growth.
+
+</orig>
+
+<trans>
+
+经典的生成频繁项目集集合的算法包括Apriori算法和FP-growth算法。
+
+</trans></sent>
+
+<sent><orig>
+
+The mechanism of crystal growth has been revealed that is a typical multi-two-dimensional nucleation-layer growth-quasi-normal growth.
+
+</orig>
+
+<trans>
+
+揭示了该晶体是一种典型的多二维成核-层生长-准法向生长机制。
+
+</trans></sent>
+
+<sent><orig>
+
+The growth period, nitrogen fixation, growth condition and other growth characteristics of Nostoc. sp were studied.
+
+</orig>
+
+<trans>
+
+摘要研究了念珠藻的生长周期、固氮特性、生长条件等生长特性。
+
+</trans></sent>
+
+</dict>

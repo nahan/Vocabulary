@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[equipment]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[设备]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪ'kwɪpm(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 设备，装备；器材]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Equipment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[设备]]></ex>
+
+                            <ex><![CDATA[装备]]></ex>
+
+                            <ex><![CDATA[设备信息]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[common equipment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[常用设备]]></ex>
+
+                            <ex><![CDATA[常用装备]]></ex>
+
+                            <ex><![CDATA[经常使用装备]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[electrical equipment]]></key>
+
+            <value>
+
+                            <ex><![CDATA[电气设备]]></ex>
+
+                            <ex><![CDATA[电器设备]]></ex>
+
+                            <ex><![CDATA[电力设备]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

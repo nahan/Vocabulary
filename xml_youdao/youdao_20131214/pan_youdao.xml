@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pan]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[潘]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pæn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 平底锅；盘状的器皿；淘盘子，金盘，秤盘]]></ex>
+
+                    <ex><![CDATA[vi. 淘金；在淘洗中收获金子]]></ex>
+
+                    <ex><![CDATA[vt. 淘金；在浅锅中烹调（食物）；[非正式用语]严厉的批评]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[PAN]]></key>
+
+            <value>
+
+                            <ex><![CDATA[聚丙烯腈]]></ex>
+
+                            <ex><![CDATA[平底锅]]></ex>
+
+                            <ex><![CDATA[摇镜头]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Peter Pan]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小飞侠]]></ex>
+
+                            <ex><![CDATA[彼得潘]]></ex>
+
+                            <ex><![CDATA[彼得·潘]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pan flute]]></key>
+
+            <value>
+
+                            <ex><![CDATA[排笛]]></ex>
+
+                            <ex><![CDATA[排箫]]></ex>
+
+                            <ex><![CDATA[排萧]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

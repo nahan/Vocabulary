@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[meanwhile]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[与此同时]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['miːnwaɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 其间，其时]]></ex>
+
+                    <ex><![CDATA[adv. 同时，其间]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[meanwhile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[同时]]></ex>
+
+                            <ex><![CDATA[其间]]></ex>
+
+                            <ex><![CDATA[与此同时]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[meanwhile ad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[同时]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[T   Meanwhile]]></key>
+
+            <value>
+
+                            <ex><![CDATA[自赏摇滚]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

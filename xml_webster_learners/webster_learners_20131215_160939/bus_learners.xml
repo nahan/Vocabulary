@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bus[1]"> <hw highlight="yes" hindex="1">bus</hw> <sound><wav>bus00001.wav</wav></sound> <pr>ˈbʌs</pr> <fl>noun</fl> <in><il>plural</il> <if>bus*es</if> <il>also US</il> <if>bus*ses</if></in> <def><dt>:a large vehicle that is used for carrying passengers especially along a particular route at particular times <wsgram>count</wsgram> <vi>She boarded a <it>bus</it> in Nashville.</vi> <wsgram>noncount</wsgram> <vi>I usually go to work <phrase>by bus</phrase>. = I usually <phrase>take the bus</phrase> to work.</vi> <vi>Are you traveling by train or <it>by bus</it>?</vi> <un>often used before another noun <vi>a <it>bus</it> driver</vi> <vi>a <it>bus</it> station</vi> <vi>waiting at the <phrase>bus stop</phrase> [=one of the places where a bus stops for passengers to get on or off]</vi></un> <dx>see also <dxt>school bus</dxt></dx></dt></def></entry>
+
+	<entry id="bus[2]"> <hw hindex="2">bus</hw> <altpr>ˈbʌs</altpr> <fl>verb</fl> <in><if>buses</if> <il>also US</il> <if>busses</if></in> <in><if>bused</if> <il>also US</il> <if>bussed</if></in> <in><if>bus*ing</if> <il>also US</il> <if>bus*sing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to transport (someone) in a bus <un>often used as <it>(be) bused</it> <vi>Students from the other college <it>were bused</it> in for the game.</vi> <vi>The children <it>are bused</it> to school.</vi></un></dt> <sn>2</sn> <ssl>US</ssl> <sn>a</sn> <dt>:to remove dirty dishes from (a table at a restaurant) <vi>He <it>buses</it> tables at the local diner.</vi></dt> <sn>b</sn> <dt>:to remove (something, such as dirty dishes) <vi>We're supposed to <it>bus</it> [=<it>clear</it>] our own trays.</vi></dt></def></entry>
+
+	<entry id="school bus"> <hw>school bus</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ buses</if></in> <def><gram>count</gram> <dt>:a bus for carrying children to and from a school</dt></def></entry>
+
+</entry_list>

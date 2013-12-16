@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>face</key>
+
+<ps>feɪs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/2a/b8/2ab8a23c8c7b8779cd9fecb335b21d49.mp3</pron>
+
+<ps>fes</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/d5/ca/d5ca322453f2986b752e58b11af83d96.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>面容；表面；脸；方面；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>面对；面向…；正视；承认；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>（感到不能）对付；（明知不好办而）交谈；必须对付（某情况）；面临…；
+
+</acceptation>
+
+<sent><orig>
+
+Each face object has a single glyph slot object that can be accessed as face- &gt;glyph.
+
+</orig>
+
+<trans>
+
+每一个face对象都有一个字形槽对象，可以通过face-&gt;glyph来访问。
+
+</trans></sent>
+
+<sent><orig>
+
+A voucher of RMB100 for FACE Restaurant will be issued to each order during this promotion.
+
+</orig>
+
+<trans>
+
+促销期间每笔订单将获得一张FACE餐厅的100元用餐代金券。
+
+</trans></sent>
+
+<sent><orig>
+
+Animal statues in face of the other dragons, beasts face, face riding birds and baby animals.
+
+</orig>
+
+<trans>
+
+动物石像中的另一类是人面龙、人面兽、人面鸟和骑兽娃娃。
+
+</trans></sent>
+
+<sent><orig>
+
+Place mask onto face, gently press mask on face until it fits the face.
+
+</orig>
+
+<trans>
+
+将面膜敷于面部，用手指轻压使其充分贴紧面部。
+
+</trans></sent>
+
+<sent><orig>
+
+Face detection technology mainly includes algorithms based on face knowledge, template matching and face learning.
+
+</orig>
+
+<trans>
+
+目前的人脸检测技术主要包括基于知识、模板匹配和基于学习的人脸检测算法。
+
+</trans></sent>
+
+</dict>

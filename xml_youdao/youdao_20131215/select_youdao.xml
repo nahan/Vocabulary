@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[select]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[选择]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɪ'lekt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 被挑选者；精萃]]></ex>
+
+                    <ex><![CDATA[adj. 精选的；挑选出来的；极好的]]></ex>
+
+                    <ex><![CDATA[vt. 挑选；选拔]]></ex>
+
+                    <ex><![CDATA[vi. 挑选]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Select]]></key>
+
+            <value>
+
+                            <ex><![CDATA[选择]]></ex>
+
+                            <ex><![CDATA[挑选]]></ex>
+
+                            <ex><![CDATA[选拔]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[select all]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全选]]></ex>
+
+                            <ex><![CDATA[选择所有]]></ex>
+
+                            <ex><![CDATA[全部选择]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Patch Select]]></key>
+
+            <value>
+
+                            <ex><![CDATA[面片选择修改器]]></ex>
+
+                            <ex><![CDATA[面片选择]]></ex>
+
+                            <ex><![CDATA[可以以子物体级选择物体的顶点]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

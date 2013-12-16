@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[adviser]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[顾问]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[əd'vaɪzə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 顾问；劝告者；指导教师（等于advisor）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Adviser]]></key>
+
+            <value>
+
+                            <ex><![CDATA[顾问]]></ex>
+
+                            <ex><![CDATA[高级顾问]]></ex>
+
+                            <ex><![CDATA[指导教授]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Systems Adviser]]></key>
+
+            <value>
+
+                            <ex><![CDATA[系统顾问]]></ex>
+
+                            <ex><![CDATA[体系参谋]]></ex>
+
+                            <ex><![CDATA[系统参谋]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[technical adviser]]></key>
+
+            <value>
+
+                            <ex><![CDATA[技术顾问]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

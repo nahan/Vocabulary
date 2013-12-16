@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[weak]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[弱]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wiːk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. [经] 疲软的；虚弱的；无力的；不牢固的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[weak]]></key>
+
+            <value>
+
+                            <ex><![CDATA[虚弱的]]></ex>
+
+                            <ex><![CDATA[弱的]]></ex>
+
+                            <ex><![CDATA[疲软]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[weak acid]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弱酸]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Weak formulation]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拉克斯]]></ex>
+
+                            <ex><![CDATA[米尔格拉姆定理]]></ex>
+
+                            <ex><![CDATA[弱公式化]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

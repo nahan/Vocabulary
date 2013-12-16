@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hell]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[地狱]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hel]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 地狱；究竟（作加强语气词）；训斥；黑暗势力]]></ex>
+
+                    <ex><![CDATA[vi. 过放荡生活；飞驰]]></ex>
+
+                    <ex><![CDATA[int. 该死；见鬼（表示惊奇、烦恼、厌恶、恼怒、失望等）]]></ex>
+
+                    <ex><![CDATA[n. (Hell)人名；(柬)海；(西)埃利；(德、匈、捷、罗、芬、瑞典)黑尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Hell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[地狱]]></ex>
+
+                            <ex><![CDATA[阴间]]></ex>
+
+                            <ex><![CDATA[情狱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[DLL Hell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[DLL地狱]]></ex>
+
+                            <ex><![CDATA[消除]]></ex>
+
+                            <ex><![CDATA[动态库地狱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[From Hell]]></key>
+
+            <value>
+
+                            <ex><![CDATA[来自地狱]]></ex>
+
+                            <ex><![CDATA[屠出地狱]]></ex>
+
+                            <ex><![CDATA[开膛手]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

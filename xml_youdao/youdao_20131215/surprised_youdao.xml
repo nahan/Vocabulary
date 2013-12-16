@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[surprised]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[惊讶]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɚ'praɪzd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[v. 使惊奇（surprise的过去分词形式）]]></ex>
+
+                    <ex><![CDATA[adj. 感到惊讶的，出人意料的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Surprised]]></key>
+
+            <value>
+
+                            <ex><![CDATA[惊讶]]></ex>
+
+                            <ex><![CDATA[感到惊讶的]]></ex>
+
+                            <ex><![CDATA[惊奇的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[very surprised]]></key>
+
+            <value>
+
+                            <ex><![CDATA[非常惊奇]]></ex>
+
+                            <ex><![CDATA[吃惊的]]></ex>
+
+                            <ex><![CDATA[惊奇的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pleasntly Surprised]]></key>
+
+            <value>
+
+                            <ex><![CDATA[惊喜]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

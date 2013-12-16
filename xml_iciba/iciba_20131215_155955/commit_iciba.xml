@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>commit</key>
+
+<ps>kə'mɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/9a/e1/9ae1cf3c5a50c3d3564db008e1150a9d.mp3</pron>
+
+<ps>kəˈmɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/ff/fc/fffca4d67ea0a788813031b8bbc3b329.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>犯罪，做错事；把…托付给；保证（做某事、遵守协议或遵从安排等）；承诺，使…承担义务；
+
+</acceptation>
+
+<sent><orig>
+
+When a user enters the SQL command COMMIT, all changes in that transaction are made permanent.
+
+</orig>
+
+<trans>
+
+当用户使用sql的提交命令commit时，一个事务处理中对数据的全部变更将成为永久性的。
+
+</trans></sent>
+
+<sent><orig>
+
+If you do not commit adultery but do commit murder, you have become a lawbreaker.
+
+</orig>
+
+<trans>
+
+你就是不奸淫，却杀人，仍是成了犯律法的。
+
+</trans></sent>
+
+<sent><orig>
+
+Now you're on another commit, between the one you just tested and your bad commit.
+
+</orig>
+
+<trans>
+
+现在你在另外一个提交上了，在你刚刚测试过的和一个错误提交的中点处。
+
+</trans></sent>
+
+<sent><orig>
+
+I don't think that he would commit robbery, much less would he commit Violent robbery.
+
+</orig>
+
+<trans>
+
+我认为他不会抢劫，更不用说暴力抢劫了。
+
+</trans></sent>
+
+<sent><orig>
+
+Why mental disease won't commIt'suicide, and can normal person commIt'suicide?
+
+</orig>
+
+<trans>
+
+为什么精神病不会自杀，而正常人会自杀啊？
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[media]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[媒体]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['miːdɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 媒体；媒质（medium的复数）；血管中层；浊塞音；中脉]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Media]]></key>
+
+            <value>
+
+                            <ex><![CDATA[媒体]]></ex>
+
+                            <ex><![CDATA[传媒]]></ex>
+
+                            <ex><![CDATA[美的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mass media]]></key>
+
+            <value>
+
+                            <ex><![CDATA[大众媒体]]></ex>
+
+                            <ex><![CDATA[大众传媒]]></ex>
+
+                            <ex><![CDATA[大众传播学]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[social media]]></key>
+
+            <value>
+
+                            <ex><![CDATA[社会化媒体]]></ex>
+
+                            <ex><![CDATA[社交媒体]]></ex>
+
+                            <ex><![CDATA[社会媒体]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[snap]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[提前]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[snæp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 猛咬；劈啪声；突然折断]]></ex>
+
+                    <ex><![CDATA[adj. 突然的]]></ex>
+
+                    <ex><![CDATA[vt. 突然折断，拉断；猛咬；啪地关上]]></ex>
+
+                    <ex><![CDATA[vi. 咬；厉声说；咯嗒一声关上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[SNAP]]></key>
+
+            <value>
+
+                            <ex><![CDATA[急钮]]></ex>
+
+                            <ex><![CDATA[对齐]]></ex>
+
+                            <ex><![CDATA[捕捉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Object Snap]]></key>
+
+            <value>
+
+                            <ex><![CDATA[仅使用自动捕捉]]></ex>
+
+                            <ex><![CDATA[对象捕捉]]></ex>
+
+                            <ex><![CDATA[物件锁点]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Pokemon Snap]]></key>
+
+            <value>
+
+                            <ex><![CDATA[口袋妖怪]]></ex>
+
+                            <ex><![CDATA[口袋魔鬼]]></ex>
+
+                            <ex><![CDATA[皮卡丘写真]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

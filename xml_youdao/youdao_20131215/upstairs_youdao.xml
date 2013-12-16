@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[upstairs]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[楼上]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌp'steəz]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 楼上]]></ex>
+
+                    <ex><![CDATA[adj. 楼上的]]></ex>
+
+                    <ex><![CDATA[adv. 在楼上，向楼上；上楼；往楼上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[UPSTAIRS]]></key>
+
+            <value>
+
+                            <ex><![CDATA[楼上]]></ex>
+
+                            <ex><![CDATA[由此上楼]]></ex>
+
+                            <ex><![CDATA[在楼上]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[walk upstairs]]></key>
+
+            <value>
+
+                            <ex><![CDATA[上楼梯]]></ex>
+
+                            <ex><![CDATA[走上楼]]></ex>
+
+                            <ex><![CDATA[楼上步行]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Suning upstairs]]></key>
+
+            <value>
+
+                            <ex><![CDATA[苏宁电器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

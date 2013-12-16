@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[tent]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[帐篷]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[tent]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 帐篷；住处；帷幕]]></ex>
+
+                    <ex><![CDATA[vt. 用帐篷遮盖；使在帐篷里住宿]]></ex>
+
+                    <ex><![CDATA[vi. 住帐蓬；暂时居住]]></ex>
+
+                    <ex><![CDATA[n. (Tent)人名；(罗、瑞典)滕特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Tent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[帐篷]]></ex>
+
+                            <ex><![CDATA[帐幕]]></ex>
+
+                            <ex><![CDATA[摊贩]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[crib tent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有帐婴儿床]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[tent introducer]]></key>
+
+            <value>
+
+                            <ex><![CDATA[塞条导引器]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

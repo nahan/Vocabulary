@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="airport"> <hw highlight="yes">air*port</hw> <sound><wav>airpor01.wav</wav></sound> <pr>ˈeɚˌpoɚt</pr> <fl>noun</fl> <in><il>plural</il> <if>air*ports</if></in> <def><gram>count</gram> <dt>:a place where aircraft land and take off and where there are buildings for passengers to wait in and for aircraft to be sheltered</dt></def></entry>
+
+</entry_list>

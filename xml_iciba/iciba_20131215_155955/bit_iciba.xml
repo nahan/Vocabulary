@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>bit</key>
+
+<ps>bɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b8/1e/b81e80368e886bcca5461a713d06117a.mp3</pron>
+
+<ps>bɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f6/71/f67169dfbf72c4ca285e9ee12e3e9ac5.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>一点，一块；少量，少许；一会儿，一转眼；[计] 比特（二进位制信息单位）；
+
+</acceptation>
+
+<pos>adj.</pos>
+
+<acceptation>很小的，微不足道的；
+
+</acceptation>
+
+<pos>adv.</pos>
+
+<acceptation>[口语]相当，有点儿，或多或少，多少[a bit to的省略]；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>给（马）上嚼子；上衔铁；抑制；制约；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>咬，叮( bite的过去式)；刺痛；咬饵；有咬（或叮）的习性；
+
+</acceptation>
+
+<sent><orig>
+
+At each offset in the file the 32-bit rolling checksum and its 16-bit hash are calculated.
+
+</orig>
+
+<trans>
+
+文件中的每个偏移都会被计算32-bit的滚动校验和及它的16-bit的hash值。
+
+</trans></sent>
+
+<sent><orig>
+
+Distributed BIT-system is proposed after study to the test background and requirement of radar counter equipment.
+
+</orig>
+
+<trans>
+
+在研究雷达对抗装备测试背景及测试需求的基础上，提出分布式机内自检(BIT)系统。
+
+</trans></sent>
+
+<sent><orig>
+
+The core processor is 32-bit micro processor based on the SPARC V8 specification.
+
+</orig>
+
+<trans>
+
+微处理器是基于SPRARC V8规范的32-bit微处理器。
+
+</trans></sent>
+
+<sent><orig>
+
+I am particularly pleased that we agreed to launch negotiations of a bilateral investment treaty (BIT).
+
+</orig>
+
+<trans>
+
+我尤其感到欣慰的是，我们同意启动双边投资协定(BIT)的谈判。
+
+</trans></sent>
+
+<sent><orig>
+
+Currently, I serve as manager for BIT Company's Information Industry division.
+
+</orig>
+
+<trans>
+
+目前，我任职于BIT公司信息产业部经理。
+
+</trans></sent>
+
+</dict>

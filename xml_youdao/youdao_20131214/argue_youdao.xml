@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[argue]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[认为]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɑːgjuː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vi. 争论，辩论；提出理由]]></ex>
+
+                    <ex><![CDATA[vt. 辩论，争论；证明；说服]]></ex>
+
+                    <ex><![CDATA[n. (Argue)人名；(英、法)阿格]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[argue]]></key>
+
+            <value>
+
+                            <ex><![CDATA[争论]]></ex>
+
+                            <ex><![CDATA[辩论]]></ex>
+
+                            <ex><![CDATA[争辩]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[argue about]]></key>
+
+            <value>
+
+                            <ex><![CDATA[争论]]></ex>
+
+                            <ex><![CDATA[争辩]]></ex>
+
+                            <ex><![CDATA[议论某事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[argue for]]></key>
+
+            <value>
+
+                            <ex><![CDATA[支持]]></ex>
+
+                            <ex><![CDATA[论证]]></ex>
+
+                            <ex><![CDATA[赞成]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

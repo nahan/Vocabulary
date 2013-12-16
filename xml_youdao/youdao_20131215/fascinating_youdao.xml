@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fascinating]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[迷人的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fæsɪneɪtɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 迷人的；吸引人的；使人神魂颠倒的]]></ex>
+
+                    <ex><![CDATA[v. 使…着迷；使…陶醉（fascinate的ing形式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fascinating]]></key>
+
+            <value>
+
+                            <ex><![CDATA[迷人的]]></ex>
+
+                            <ex><![CDATA[吸引人的]]></ex>
+
+                            <ex><![CDATA[极好的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fascinating Affairs]]></key>
+
+            <value>
+
+                            <ex><![CDATA[花心红杏]]></ex>
+
+                            <ex><![CDATA[年花心红杏]]></ex>
+
+                            <ex><![CDATA[年]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fascinating Debra]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有趣的黛布拉]]></ex>
+
+                            <ex><![CDATA[有趣儿的黛布拉]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

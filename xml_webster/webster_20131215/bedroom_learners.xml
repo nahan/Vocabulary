@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="bedroom[1]"> <hw hindex="1">bed*room</hw> <sound><wav>bedroo01.wav</wav></sound> <pr>ˈbɛdˌru:m</pr> <fl>noun</fl> <in><il>plural</il> <if>bed*rooms</if></in> <def><gram>count</gram> <dt>:a room used for sleeping <vi>a house with three <it>bedrooms</it> = a 3-<it>bedroom</it> house</vi> <vi>a spare/guest <it>bedroom</it></vi> <vi>a large <phrase>master bedroom</phrase> [=a large bedroom that is the main bedroom in a house]</vi></dt></def> <uro><ure>bedroomed</ure> <fl>adjective</fl> <sl>Brit</sl> <utxt><un>used in combination <vi>a three-<it>bedroomed</it> house</vi></un></utxt></uro></entry>
+
+	<entry id="bedroom[2]"> <hw hindex="2">bedroom</hw> <altpr>ˈbɛdˌru:m</altpr> <fl>adjective</fl> <lb>always used before a noun</lb> <def><sn>1</sn> <ssl>US</ssl> <dt>:lived in by people who go to another town or city to work <vi>They live in a <phrase>bedroom community</phrase> [=(<it>Brit</it>) <it>dormitory town</it>] just outside of the city.</vi></dt> <sn>2</sn> <dt>:dealing with sexual relationships <vi>The play is a <it>bedroom</it> farce about a middle-aged couple.</vi> <vi><it>bedroom</it> humor</vi></dt> <sn>3</sn> <ssl>informal</ssl> <dt>:showing sexual attraction <vi>She looked at him with <phrase>bedroom eyes</phrase>.</vi></dt></def></entry>
+
+</entry_list>

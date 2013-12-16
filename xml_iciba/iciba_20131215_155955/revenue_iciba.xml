@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>revenue</key>
+
+<ps>'revənju:</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f4/33/f43372fb26b09aaba5f978672e4f3264.mp3</pron>
+
+<ps>ˈrevənju</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/67/36/67362dfbd0dff9f78a232b5460a99a7d.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>（国家的）岁入，税收，（土地，财产等的）收入，收益，所得，（个人的）固定收入；[复数]总收入；税务署，〈美俚〉税务官；税务局；
+
+</acceptation>
+
+<sent><orig>
+
+This constructor uses the constructor initializer list to initialize the units_sold and revenue members.
+
+</orig>
+
+<trans>
+
+这个构造函数使用构造函数初始化列表来初始化units_sold和revenue成员。
+
+</trans></sent>
+
+<sent><orig>
+
+Business model is a Method the revenue goal and earn the profit for the enterprise.
+
+</orig>
+
+<trans>
+
+商业模式是一个事业(abusiness)创造营收(revenue)与利润(profit)的手段与方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Operating revenue: indicating sales revenue, service revenue, income from business activities, other operating revenue, etc.
+
+</orig>
+
+<trans>
+
+四营业收入类：指销货收入、劳务收入、业务收入、其他营业收入等项。
+
+</trans></sent>
+
+<sent><orig>
+
+Sales revenue, service revenue, and investment revenue are subdivisions of revenue.
+
+</orig>
+
+<trans>
+
+收入可细分为销售收入、服务收入、投资收入等。
+
+</trans></sent>
+
+<sent><orig>
+
+The revenue collected from the housing contract tax and land contract tax against the total revenue.
+
+</orig>
+
+<trans>
+
+总收入额中房屋契税的收入额和土地契税的收入额。
+
+</trans></sent>
+
+</dict>

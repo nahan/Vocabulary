@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[festival]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[节日]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['festɪv(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 节日；庆祝，纪念活动；欢乐]]></ex>
+
+                    <ex><![CDATA[adj. 节日的，喜庆的；快乐的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Festival]]></key>
+
+            <value>
+
+                            <ex><![CDATA[节日]]></ex>
+
+                            <ex><![CDATA[音乐节]]></ex>
+
+                            <ex><![CDATA[佳节]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Festival Walk]]></key>
+
+            <value>
+
+                            <ex><![CDATA[又一城]]></ex>
+
+                            <ex><![CDATA[九龙塘]]></ex>
+
+                            <ex><![CDATA[车站便直通又一乡]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Lucerne Festival]]></key>
+
+            <value>
+
+                            <ex><![CDATA[琉森音乐节]]></ex>
+
+                            <ex><![CDATA[音乐节]]></ex>
+
+                            <ex><![CDATA[琉森节]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

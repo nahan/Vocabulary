@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>logical</key>
+
+<ps>ˈlɒdʒɪkl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/53/e3/53e3d2a0a8fbb6f24f951be12640ca07.mp3</pron>
+
+<ps>ˈlɑdʒɪkəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/78/ae/78ae2000a3964dd5a903ab9fc5f460f8.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>逻辑（上）的；符合逻辑的；推理正确的；合乎常理的；
+
+</acceptation>
+
+<sent><orig>
+
+The unit can directly program the logical control module and set parameters based on logical sequence.
+
+</orig>
+
+<trans>
+
+此装置可以根据逻辑时序图直接对逻辑控制模块进行编程和参数设置。
+
+</trans></sent>
+
+<sent><orig>
+
+Logical positivist's verifiability principle and Popper's falsifiability principle is an absolute and logical criteria.
+
+</orig>
+
+<trans>
+
+逻辑实证主义的可证实标准和波普的可否证标准，提出了绝对的、逻辑的划界标准。
+
+</trans></sent>
+
+<sent><orig>
+
+Concepts, as a logical matter, are defined entirely in terms of logical predicates.
+
+</orig>
+
+<trans>
+
+作为一件逻辑事，概念完全以逻辑谓语被定义。
+
+</trans></sent>
+
+<sent><orig>
+
+The logical operation which makes use of the AND operator or logical product.
+
+</orig>
+
+<trans>
+
+使用AND运算符或逻辑乘积的逻辑运算。
+
+</trans></sent>
+
+<sent><orig>
+
+The logical operation which makes use of the operator or logical product.
+
+</orig>
+
+<trans>
+
+使用and运算符或逻辑乘积的逻辑运算。
+
+</trans></sent>
+
+</dict>

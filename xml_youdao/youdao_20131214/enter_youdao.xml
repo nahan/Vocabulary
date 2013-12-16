@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[enter]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[输入]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['entə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. [计] 输入；回车]]></ex>
+
+                    <ex><![CDATA[vt. 进入；开始；参加]]></ex>
+
+                    <ex><![CDATA[vi. 参加，登场；进去]]></ex>
+
+                    <ex><![CDATA[n. (Enter)人名；(英)恩特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Enter]]></key>
+
+            <value>
+
+                            <ex><![CDATA[回车键]]></ex>
+
+                            <ex><![CDATA[回车]]></ex>
+
+                            <ex><![CDATA[进入]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[enter into]]></key>
+
+            <value>
+
+                            <ex><![CDATA[进入]]></ex>
+
+                            <ex><![CDATA[参加]]></ex>
+
+                            <ex><![CDATA[开始从事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Enter Code]]></key>
+
+            <value>
+
+                            <ex><![CDATA[猪猪答题]]></ex>
+
+                            <ex><![CDATA[输入密码]]></ex>
+
+                            <ex><![CDATA[验证码]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

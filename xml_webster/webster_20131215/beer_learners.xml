@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="beer"> <hw>beer</hw> <sound><wav>beer0001.wav</wav></sound> <pr>ˈbiɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>beers</if></in> <def><sn>1</sn> <dt>:an alcoholic drink made from malt and flavored with hops <wsgram>noncount</wsgram> <vi>Would you like <it>beer</it> with dinner?</vi> <vi>The pub brews its own <it>beer</it>.</vi> <vi>a glass of <it>beer</it></vi> <vi>a <it>beer</it> mug</vi> <wsgram>count</wsgram> <vi>I'll have a <it>beer</it>, please.</vi> <vi>a couple of cold <it>beers</it></vi></dt> <sn>2</sn> <sgram>noncount</sgram> <dt>:a drink made from roots or other parts of plants <vi>a glass of birch/ginger <it>beer</it></vi> <dx>see also <dxt>root beer</dxt></dx></dt></def> <uro><ure>beery</ure> <sound><wav>beery001.wav</wav></sound> <pr>ˈbiri</pr> <fl>adjective</fl> <in><if>beer*i*er</if></in> <in><if>beer*i*est</if></in> <utxt><vi>a <it>beery</it> flavor/smell</vi> <vi>a <it>beery</it> tavern</vi></utxt></uro></entry>
+
+	<entry id="bier"> <hw>bier</hw> <sound><wav>bier0001.wav</wav></sound> <pr>ˈbiɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>biers</if></in> <def><gram>count</gram> <dt>:a table or platform on which a coffin or dead body is placed at a funeral</dt></def></entry>
+
+	<entry id="beer belly"> <hw>beer belly</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ bellies</if></in> <def><gram>count</gram> <sl>informal</sl> <dt>:a fat belly caused by drinking a lot of beer <vi>a middle-aged man with a big <it>beer belly</it></vi> <ca>called also <cat>beer gut</cat></ca></dt></def></entry>
+
+	<entry id="beer mat"> <hw>beer mat</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ mats</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:a small piece of material placed under a glass of beer to protect the bar or table beneath it <dx>compare <dxt>coaster</dxt></dx></dt></def></entry>
+
+	<entry id="root beer"> <hw>root beer</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ beers</if></in> <def><gram>count, noncount</gram> <dt>:a sweet, brown drink that is flavored with roots and herbs and that contains bubbles <vi>a bottle of <it>root beer</it></vi></dt></def></entry>
+
+	<entry id="small beer"> <hw>small beer</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>Brit</sl> <sl>informal</sl> <dt>:<sx>small potatoes</sx></dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pepper]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[胡椒]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pepə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 胡椒；辣椒；胡椒粉]]></ex>
+
+                    <ex><![CDATA[vt. 加胡椒粉于；使布满]]></ex>
+
+                    <ex><![CDATA[n. (Pepper)人名；(英、德、意)佩珀]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pepper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[胡椒]]></ex>
+
+                            <ex><![CDATA[辣椒]]></ex>
+
+                            <ex><![CDATA[胡椒粉]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Red pepper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[红椒]]></ex>
+
+                            <ex><![CDATA[红辣椒]]></ex>
+
+                            <ex><![CDATA[辣椒]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bell pepper]]></key>
+
+            <value>
+
+                            <ex><![CDATA[菜椒]]></ex>
+
+                            <ex><![CDATA[甜椒]]></ex>
+
+                            <ex><![CDATA[灯笼椒]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

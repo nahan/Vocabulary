@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[fortunate]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[幸运的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fɔːtʃ(ə)nət]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 幸运的；侥幸的；吉祥的；带来幸运的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[fortunate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幸运的]]></ex>
+
+                            <ex><![CDATA[侥幸的]]></ex>
+
+                            <ex><![CDATA[吉祥的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fortunate Son]]></key>
+
+            <value>
+
+                            <ex><![CDATA[幸运之子]]></ex>
+
+                            <ex><![CDATA[迈克懂事了]]></ex>
+
+                            <ex><![CDATA[幸运的儿子]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Seeking Fortunate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[搜寻财富的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

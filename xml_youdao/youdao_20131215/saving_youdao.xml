@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[saving]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[储蓄]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['seɪvɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 节约；挽救；存款]]></ex>
+
+                    <ex><![CDATA[prep. 考虑到；除...之外]]></ex>
+
+                    <ex><![CDATA[adj. 节约的；挽救的；补偿的；保留的]]></ex>
+
+                    <ex><![CDATA[n. (Saving)人名；(瑞典)萨温]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Saving]]></key>
+
+            <value>
+
+                            <ex><![CDATA[储蓄]]></ex>
+
+                            <ex><![CDATA[节约]]></ex>
+
+                            <ex><![CDATA[节省]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Saving Myself]]></key>
+
+            <value>
+
+                            <ex><![CDATA[将好的留给你]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Saving animals]]></key>
+
+            <value>
+
+                            <ex><![CDATA[拯救动物]]></ex>
+
+                            <ex><![CDATA[英语作文]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

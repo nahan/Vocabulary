@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[aim]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[目的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[eɪm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 目的；目标；对准]]></ex>
+
+                    <ex><![CDATA[vt. 目的在于；引导；把…对准]]></ex>
+
+                    <ex><![CDATA[vi. 打算；对准目标；瞄准]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[AIM]]></key>
+
+            <value>
+
+                            <ex><![CDATA[AOL即时通讯(Aol Instant Messenger)]]></ex>
+
+                            <ex><![CDATA[另类投资市场(Alternative Investment Market)]]></ex>
+
+                            <ex><![CDATA[目标]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[aim of]]></key>
+
+            <value>
+
+                            <ex><![CDATA[致力于]]></ex>
+
+                            <ex><![CDATA[瞄准]]></ex>
+
+                            <ex><![CDATA[旨在]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Ability Aim]]></key>
+
+            <value>
+
+                            <ex><![CDATA[能力目标]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

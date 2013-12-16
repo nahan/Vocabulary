@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>closed</key>
+
+<ps>kləʊzd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/34/9e/349e686330723975502e9ef4f939a5ac.mp3</pron>
+
+<ps>klozd</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/34/9e/349e686330723975502e9ef4f939a5ac.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>关闭着的，封闭着的；密闭着的，保密的；&lt;美&gt;准备好了的，定了契约的；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>“close”的过去式和过去分词；
+
+</acceptation>
+
+<sent><orig>
+
+At first, I opened and closed its Session object for each DAO method.
+
+</orig>
+
+<trans>
+
+一开始我在每个DAO的方法中opened和closed他们的Session对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Through the simulation experiments, it checks the validity of the closed-loop subspace model identification.
+
+</orig>
+
+<trans>
+
+通过仿真实验，验证了闭环子空间模型辨识(closed-loopSMI)算法的有效性。
+
+</trans></sent>
+
+<sent><orig>
+
+An isolated system is obviously a closed system, but not every closed system is isolated.
+
+</orig>
+
+<trans>
+
+显然，一个隔离体系就是一个封闭体系，但并非每个封闭体系都是隔离的。
+
+</trans></sent>
+
+<sent><orig>
+
+Are you closed to the general public, or are you just closed to everybody?
+
+</orig>
+
+<trans>
+
+你们关门不让大众进来还是不让所有的人进来？
+
+</trans></sent>
+
+<sent><orig>
+
+I closed on my finger and made it bleed when I closed the window.
+
+</orig>
+
+<trans>
+
+我关窗子时挤破了手指。
+
+</trans></sent>
+
+</dict>

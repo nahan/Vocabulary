@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[nurse]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[护士]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[nɜːs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 护士；奶妈，保姆]]></ex>
+
+                    <ex><![CDATA[vt. 看护，护理；照顾；培养；给…喂奶]]></ex>
+
+                    <ex><![CDATA[vi. 照料，护理；喂奶；当保姆]]></ex>
+
+                    <ex><![CDATA[n. (Nurse)人名；(英)纳斯]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[nurse]]></key>
+
+            <value>
+
+                            <ex><![CDATA[护士]]></ex>
+
+                            <ex><![CDATA[护理]]></ex>
+
+                            <ex><![CDATA[保姆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Nurse Anesthesia]]></key>
+
+            <value>
+
+                            <ex><![CDATA[护理麻醉学]]></ex>
+
+                            <ex><![CDATA[护理麻醉]]></ex>
+
+                            <ex><![CDATA[麻醉护理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Nurse Anesthetist]]></key>
+
+            <value>
+
+                            <ex><![CDATA[护士麻醉师]]></ex>
+
+                            <ex><![CDATA[护理麻醉师]]></ex>
+
+                            <ex><![CDATA[麻醉护士]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

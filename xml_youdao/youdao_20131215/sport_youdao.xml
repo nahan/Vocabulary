@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sport]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[体育运动]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[spɔːt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 运动；游戏；娱乐；运动会；玩笑]]></ex>
+
+                    <ex><![CDATA[adj. 运动的]]></ex>
+
+                    <ex><![CDATA[vt. 游戏；参加体育运动；夸耀]]></ex>
+
+                    <ex><![CDATA[vi. 游戏]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Sport]]></key>
+
+            <value>
+
+                            <ex><![CDATA[运动]]></ex>
+
+                            <ex><![CDATA[体育]]></ex>
+
+                            <ex><![CDATA[运动版]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sport management]]></key>
+
+            <value>
+
+                            <ex><![CDATA[体育管理]]></ex>
+
+                            <ex><![CDATA[运动管理]]></ex>
+
+                            <ex><![CDATA[体育管理学]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sport psychology]]></key>
+
+            <value>
+
+                            <ex><![CDATA[运动心理学]]></ex>
+
+                            <ex><![CDATA[体育心理学]]></ex>
+
+                            <ex><![CDATA[心理学]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

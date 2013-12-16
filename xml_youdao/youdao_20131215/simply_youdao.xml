@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[simply]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[简单的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sɪmplɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 简单地；仅仅；简直；朴素地；坦白地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Simply]]></key>
+
+            <value>
+
+                            <ex><![CDATA[简直]]></ex>
+
+                            <ex><![CDATA[简单地]]></ex>
+
+                            <ex><![CDATA[无非]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Simply Red]]></key>
+
+            <value>
+
+                            <ex><![CDATA[就是红合唱团]]></ex>
+
+                            <ex><![CDATA[纯红乐队]]></ex>
+
+                            <ex><![CDATA[红合唱团]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Live simply]]></key>
+
+            <value>
+
+                            <ex><![CDATA[活得简单]]></ex>
+
+                            <ex><![CDATA[生活简单]]></ex>
+
+                            <ex><![CDATA[活得随意一点]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

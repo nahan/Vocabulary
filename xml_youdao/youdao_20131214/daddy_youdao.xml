@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[daddy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[爸爸]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dædɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 爸爸]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Daddy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爸爸]]></ex>
+
+                            <ex><![CDATA[男男生子]]></ex>
+
+                            <ex><![CDATA[爹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Puff Daddy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[吹牛老爹]]></ex>
+
+                            <ex><![CDATA[康姆斯]]></ex>
+
+                            <ex><![CDATA[吹法螺老爹]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Holy Daddy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[元卓的天使]]></ex>
+
+                            <ex><![CDATA[片]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

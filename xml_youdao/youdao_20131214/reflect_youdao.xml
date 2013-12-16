@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[reflect]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[反映]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rɪ'flekt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 反映；反射，照出；表达；显示;反省]]></ex>
+
+                    <ex><![CDATA[vi. 反射，映现；深思]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[reflect]]></key>
+
+            <value>
+
+                            <ex><![CDATA[反射]]></ex>
+
+                            <ex><![CDATA[反映]]></ex>
+
+                            <ex><![CDATA[体现]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Reflect Sheet]]></key>
+
+            <value>
+
+                            <ex><![CDATA[反射膜]]></ex>
+
+                            <ex><![CDATA[反射板]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Reflect Damage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[反射伤害]]></ex>
+
+                            <ex><![CDATA[伤害反射]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

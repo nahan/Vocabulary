@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>definition</key>
+
+<ps>ˌdefɪˈnɪʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f1/eb/f1eb958d234376c79113d0a0c71ef9e4.mp3</pron>
+
+<ps>ˌdɛfəˈnɪʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/30/61/30618b3b44fa316257d07e387759fae5.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>定义；规定，明确；[物]清晰度；解释；
+
+</acceptation>
+
+<sent><orig>
+
+Indicates the definition in a definition list. The definition is usually indented in the definition list.
+
+</orig>
+
+<trans>
+
+在定义列表中表示定义。定义通常在定义列表中缩进显示。
+
+</trans></sent>
+
+<sent><orig>
+
+Along sequence of activities definition, roles definition, templates definition, projects definition and chain models are established.
+
+</orig>
+
+<trans>
+
+建模过程则按照活动定义、角色定义、模板定义和项目的定义的顺序实现。
+
+</trans></sent>
+
+<sent><orig>
+
+First type definition returned in the list of partial type definition locations.
+
+</orig>
+
+<trans>
+
+分部类型定义位置列表中返回的第一个类型定义。
+
+</trans></sent>
+
+<sent><orig>
+
+So, using XML for data definition gives programmers more flexibility for data definition.
+
+</orig>
+
+<trans>
+
+所以，程序员使用XML可以更加方便地进行数据定义。
+
+</trans></sent>
+
+<sent><orig>
+
+Nonetheless, the definition does offer several advantages.It closely resembles the AMA's widely and easily understood definition.
+
+</orig>
+
+<trans>
+
+然而，这一定义确实有自己的优点。它继承了美国营销协会的定义，深入人心，容易理解。
+
+</trans></sent>
+
+</dict>

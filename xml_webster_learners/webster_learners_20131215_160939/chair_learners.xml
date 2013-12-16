@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="chair[1]"> <hw highlight="yes" hindex="1">chair</hw> <sound><wav>chair001.wav</wav></sound> <pr>ˈtʃeɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>chairs</if></in> <def><sn>1</sn> <sgram>count</sgram> <dt>:a seat for one person that has a back and usually four legs <vi>a <it>chair</it> by the window</vi> <vi>We'll need a table and four <it>chairs</it> for the dining room.</vi> <vi>Please <phrase>pull up a chair</phrase> [=bring a chair to where we are] and join us.</vi></dt> <sn>2</sn> <sgram>count</sgram> <sn>a</sn> <dt>:the person who is the leader of a department at a college or university <vi>He is now <it>chair</it> of the English department.</vi></dt> <sn>b</sn> <dt>:the person who is the leader of a meeting, organization, committee, or event <vi>She's <it>chair</it> of the school board this year.</vi> <vi>Address any questions to the committee <it>chair</it>.</vi> <dx>see also <dxt>chairman</dxt> <dxt>chairperson</dxt> <dxt>chairwoman</dxt></dx></dt> <sn>3</sn> <bnote>the chair</bnote> <ssl>US</ssl> <ssl>informal</ssl> <dt>:<sx>electric chair</sx> <vi>a murderer who was sentenced/sent to <it>the chair</it></vi></dt></def></entry>
+
+	<entry id="chair[2]"> <hw hindex="2">chair</hw> <altpr>ˈtʃeɚ</altpr> <fl>verb</fl> <in><if>chairs</if></in> <in><if>chaired</if></in> <in><if>chair*ing</if></in> <def><gram>+ obj</gram> <dt>:to be in charge of a meeting, organization, committee, or event :to be the chairperson of (something) <vi>He's been chosen to <it>chair</it> the task force on school violence.</vi></dt></def></entry>
+
+	<entry id="deck chair"> <hw>deck chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <dt>:a chair that can be folded up and that is used for sitting outside on the deck of a ship, on a beach, etc.</dt></def></entry>
+
+	<entry id="easy chair"> <hw>easy chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <dt>:a chair that is large, soft, and very comfortable</dt></def></entry>
+
+	<entry id="electric chair"> <hw>electric chair</hw> <fl>noun</fl> <def><gram>singular</gram> <dt>:a special chair in which a criminal who has been sentenced to death is killed by using a strong electric current</dt></def></entry>
+
+	<entry id="garden chair"> <hw>garden chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>lawn chair</sx></dt></def></entry>
+
+	<entry id="high chair"> <hw>high chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <dt>:a child's chair that has long legs so that the child sits at the height of a dining table</dt></def></entry>
+
+	<entry id="lawn chair"> <hw>lawn chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <sl>US</sl> <dt>:a light chair made to be used outside <ca>called also (<it>Brit</it>) <cat>garden chair</cat></ca></dt></def></entry>
+
+	<entry id="lounge chair"> <hw>lounge chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <sl>chiefly US</sl> <dt>:<sx>chaise longue</sx></dt></def></entry>
+
+	<entry id="rocking chair"> <hw>rocking chair</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ chairs</if></in> <def><gram>count</gram> <dt>:a chair that moves back and forth on rockers that are attached to its legs <dx>see picture at <dxt>living room</dxt></dx></dt></def></entry>
+
+</entry_list>

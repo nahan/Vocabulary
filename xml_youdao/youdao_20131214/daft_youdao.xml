@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[daft]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[愚蠢的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɑːft]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 癫狂的；愚笨的；狂闹的]]></ex>
+
+                    <ex><![CDATA[n. (Daft)人名；(英)达夫特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[daft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[愚蠢的]]></ex>
+
+                            <ex><![CDATA[傻的]]></ex>
+
+                            <ex><![CDATA[愚笨的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Doug Daft]]></key>
+
+            <value>
+
+                            <ex><![CDATA[达夫特]]></ex>
+
+                            <ex><![CDATA[杜达富]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[daft days]]></key>
+
+            <value>
+
+                            <ex><![CDATA[圣诞节前后的欢乐日子]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

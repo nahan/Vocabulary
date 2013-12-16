@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>sit</key>
+
+<ps>sɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/f1/b0/f1b0a580e3d28f4c7d1d8c0aa549f41e.mp3</pron>
+
+<ps>sit</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/87/d4/87d4eeb7dec7686410748d174c0e0a11.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>（使）坐；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>坐落；处在；（在…中）任职；（议会、委员会、法庭等）开会；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>使就座；
+
+</acceptation>
+
+<sent><orig>
+
+Also, pre-job planning, integrated team involvement, SIT and operational recommendations will be discussed.
+
+</orig>
+
+<trans>
+
+同时探讨了作业前设计、全员参与、SIT和作业建议。
+
+</trans></sent>
+
+<sent><orig>
+
+The fundamental electrical parameters of SIT and their relations are discussed.
+
+</orig>
+
+<trans>
+
+讨论了 SIT（静电感应晶体管 ）的基本电性能参数以及它们之间的关系 。
+
+</trans></sent>
+
+<sent><orig>
+
+Methods for improving the high current performance of static induction transistor (SIT) are presented.
+
+</orig>
+
+<trans>
+
+描述了改善静电感应晶体管(SIT)大电流特性的新方法。
+
+</trans></sent>
+
+<sent><orig>
+
+Only one patient in group A suffered mild side effect after SIT.
+
+</orig>
+
+<trans>
+
+A组SIT后仅 1例出现轻度副反应。
+
+</trans></sent>
+
+<sent><orig>
+
+A SIT-BJT model is proposed for static induction thyristors (SITh) operation in the blocking state.
+
+</orig>
+
+<trans>
+
+提出了一种描述静电感应晶闸管在阻断态时的工作机理的SIT-BJT等效模型。
+
+</trans></sent>
+
+</dict>

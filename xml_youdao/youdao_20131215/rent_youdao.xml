@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[rent]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[租金]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[rent]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 租金]]></ex>
+
+                    <ex><![CDATA[vt. 出租；租用；租借]]></ex>
+
+                    <ex><![CDATA[vi. 租；出租]]></ex>
+
+                    <ex><![CDATA[n. (Rent)人名；(瑞典)伦特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[rent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[租金]]></ex>
+
+                            <ex><![CDATA[吉屋出租]]></ex>
+
+                            <ex><![CDATA[房租]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[for rent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[出租]]></ex>
+
+                            <ex><![CDATA[房屋出租]]></ex>
+
+                            <ex><![CDATA[供出租]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[rent videos]]></key>
+
+            <value>
+
+                            <ex><![CDATA[租录像带]]></ex>
+
+                            <ex><![CDATA[租影碟]]></ex>
+
+                            <ex><![CDATA[租赁录像带]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

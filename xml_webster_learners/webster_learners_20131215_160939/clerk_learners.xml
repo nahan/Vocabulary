@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="clerk[1]"> <hw highlight="yes" hindex="1">clerk</hw> <sound><wav>clerk001.wav</wav><wav>clerk099.wav</wav></sound> <pr>ˈklɚk, <it>Brit</it> ˈklɑ:k</pr> <fl>noun</fl> <in><il>plural</il> <if>clerks</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person whose job is to keep track of records and documents for a business or office <vi>a bank/office <it>clerk</it></vi> <vi>a <phrase>law clerk</phrase> [=a person whose job is to assist a judge]</vi></dt> <sn>2</sn> <dt>:an elected or appointed official whose job is to take care of official papers and business for a court or government <vi>Have the court <it>clerk</it> file your request with the judge.</vi> <vi>a <phrase>city/town clerk</phrase> [=a person whose job is to record what happens at city or town meetings and to keep special information about the city or town]</vi></dt> <sn>3</sn> <ssl>US</ssl> <sn>a</sn> <dt>:a person who works in a store <vi>He works as a <it>clerk</it> in a local pet store.</vi> <vi>a grocery <it>clerk</it></vi> <vi>a sales <it>clerk</it> at a women's clothing store</vi></dt> <sn>b</sn> <dt>:a person who works at the main desk of a hotel assisting the people who are staying there <vi>a <phrase>hotel clerk</phrase> = a <phrase>desk clerk</phrase></vi></dt></def></entry>
+
+	<entry id="clerk[2]"> <hw hindex="2">clerk</hw> <altpr>ˈklɚk, <it>Brit</it> ˈklɑ:k</altpr> <fl>verb</fl> <in><if>clerks</if></in> <in><if>clerked</if></in> <in><if>clerk*ing</if></in> <def><gram>no obj</gram> <sl>US</sl> <dt>:to work as a clerk <un>usually used of law clerks <vi>After graduating from law school, she <it>clerked</it> for a judge for several years.</vi></un></dt></def></entry>
+
+</entry_list>

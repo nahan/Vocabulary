@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sore]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[痛]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sɔː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 溃疡，痛处；恨事，伤心事]]></ex>
+
+                    <ex><![CDATA[adj. 疼痛的，痛心的；剧烈的，极度的；恼火的，发怒的；厉害的，迫切的]]></ex>
+
+                    <ex><![CDATA[n. (Sore)人名；(法)索尔；(意)索雷]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[sore]]></key>
+
+            <value>
+
+                            <ex><![CDATA[疼痛的]]></ex>
+
+                            <ex><![CDATA[酸痛的]]></ex>
+
+                            <ex><![CDATA[疮]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sore  a]]></key>
+
+            <value>
+
+                            <ex><![CDATA[痛的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sore a]]></key>
+
+            <value>
+
+                            <ex><![CDATA[痛的]]></ex>
+
+                            <ex><![CDATA[疼痛的]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

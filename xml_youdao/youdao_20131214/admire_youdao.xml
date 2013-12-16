@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[admire]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[欣赏]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[əd'maɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 钦佩；赞美]]></ex>
+
+                    <ex><![CDATA[vi. 钦佩；称赞]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[admire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[钦佩]]></ex>
+
+                            <ex><![CDATA[羡慕]]></ex>
+
+                            <ex><![CDATA[赞美]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[extremely admire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[五体投地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[admire courage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[令人钦佩的勇气]]></ex>
+
+                            <ex><![CDATA[欣赏勇气]]></ex>
+
+                            <ex><![CDATA[佩服]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

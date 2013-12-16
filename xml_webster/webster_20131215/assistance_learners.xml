@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="assistance"> <hw>as*sis*tance</hw> <sound><wav>assist02.wav</wav></sound> <pr>əˈsɪstəns</pr> <fl>noun</fl> <def><gram>noncount</gram> <dt>:the act of helping or assisting someone :help or support <vi>Any <it>assistance</it> you can give me would be appreciated.</vi> <vi>I'll be happy to provide you with whatever <it>assistance</it> you may need.</vi> <vi>financial/cash <it>assistance</it></vi> <vi>The store salesperson asked her, “Do you need (any) <it>assistance</it>?”</vi> <vi>She offered her <it>assistance</it>.</vi> <vi>She asked, “Can I be <phrase>of (any) assistance</phrase>?” [=can I help you?]</vi> <vi>He wrote the story with his friend's <it>assistance</it>. = He wrote the story <phrase>with the assistance of</phrase> his friend. [=his friend helped him to write the story]</vi> <vi>Nobody <phrase>came to her assistance</phrase> [=nobody helped her] when her car broke down.</vi> <dx>see also <dxt>directory assistance</dxt></dx></dt></def></entry>
+
+	<entry id="directory assistance"> <hw>directory assistance</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>US</sl> <dt>:a service that people can call to get the telephone number for a person or organization :<sx>information</sx> <ca>called also (<it>Brit</it>) <cat>directory enquiries</cat></ca></dt></def></entry>
+
+	<entry id="public assistance"> <hw>public assistance</hw> <fl>noun</fl> <def><gram>noncount</gram> <sl>US</sl> <dt>:money that the government gives to people who are poor, old, or disabled <vi>Our family had to <phrase>go on public assistance</phrase> [=receive money from the government] when my parents lost their jobs.</vi></dt></def></entry>
+
+</entry_list>

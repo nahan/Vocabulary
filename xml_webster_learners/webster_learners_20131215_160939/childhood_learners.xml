@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="childhood"> <hw highlight="yes">child*hood</hw> <sound><wav>childh01.wav</wav></sound> <pr>ˈtʃajəldˌhʊd</pr> <fl>noun</fl> <in><il>plural</il> <if>child*hoods</if></in> <def><dt>:the period of time when a person is a child <wsgram>noncount</wsgram> <vi>I remember this place from (my) <it>childhood</it>.</vi> <vi>diseases that can occur in <it>childhood</it></vi> <wsgram>count</wsgram> <vi>Both men had unhappy <it>childhoods</it>.</vi> <un>often used before another noun <vi><it>childhood</it> heroes/friends/memories</vi> <vi>my <it>childhood</it> home</vi></un> <dx>see also <dxt>second childhood</dxt></dx></dt></def></entry>
+
+	<entry id="second childhood"> <hw>second childhood</hw> <fl>noun</fl> <def><gram>noncount</gram> <dt>:a time when an old person whose mind is failing begins to behave like a child again <vi>an old man going through his <it>second childhood</it></vi></dt></def></entry>
+
+</entry_list>

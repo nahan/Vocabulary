@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[weekend]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[周末]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[wiːk'end; 'wiː-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 周末，周末休假；周末聚会]]></ex>
+
+                    <ex><![CDATA[adj. 周末的，周末用的]]></ex>
+
+                    <ex><![CDATA[vi. 度周末]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Weekend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[周末]]></ex>
+
+                            <ex><![CDATA[周末假期]]></ex>
+
+                            <ex><![CDATA[双休日]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[My Weekend]]></key>
+
+            <value>
+
+                            <ex><![CDATA[我的周末]]></ex>
+
+                            <ex><![CDATA[我的周未]]></ex>
+
+                            <ex><![CDATA[我国周末]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Weekend Activities]]></key>
+
+            <value>
+
+                            <ex><![CDATA[周末活动]]></ex>
+
+                            <ex><![CDATA[周末有约]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

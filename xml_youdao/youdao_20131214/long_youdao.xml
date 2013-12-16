@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[long]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[长]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lɒŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 长时间；[语] 长音节；（服装的）长尺寸；长裤]]></ex>
+
+                    <ex><![CDATA[adj. 长的；过长的；做多头的；长时间的；冗长的，长音]]></ex>
+
+                    <ex><![CDATA[adv. 长期地；始终]]></ex>
+
+                    <ex><![CDATA[vi. 渴望；热望]]></ex>
+
+                    <ex><![CDATA[n. （英、法、德、瑞典）朗（人名）；（柬）隆（人名）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[long]]></key>
+
+            <value>
+
+                            <ex><![CDATA[长的]]></ex>
+
+                            <ex><![CDATA[长整型]]></ex>
+
+                            <ex><![CDATA[长时]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[long]]></key>
+
+            <value>
+
+                            <ex><![CDATA[长整形变量]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Long Distance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[情深说话未曾讲]]></ex>
+
+                            <ex><![CDATA[长途电话]]></ex>
+
+                            <ex><![CDATA[长距离]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

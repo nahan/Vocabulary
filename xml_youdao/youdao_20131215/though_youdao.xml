@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[though]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[虽然]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ðəʊ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 虽然；尽管]]></ex>
+
+                    <ex><![CDATA[prep. 但]]></ex>
+
+                    <ex><![CDATA[adv. 可是，虽然；不过；然而]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[though]]></key>
+
+            <value>
+
+                            <ex><![CDATA[虽然]]></ex>
+
+                            <ex><![CDATA[尽管]]></ex>
+
+                            <ex><![CDATA[即使]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[come though]]></key>
+
+            <value>
+
+                            <ex><![CDATA[经历]]></ex>
+
+                            <ex><![CDATA[阅历]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[get though]]></key>
+
+            <value>
+
+                            <ex><![CDATA[通过]]></ex>
+
+                            <ex><![CDATA[接通]]></ex>
+
+                            <ex><![CDATA[虽然得到]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

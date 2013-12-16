@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[architecture]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[体系结构]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɑːkɪtektʃə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 建筑学；建筑风格；建筑式样]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Architecture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[建筑]]></ex>
+
+                            <ex><![CDATA[建筑学]]></ex>
+
+                            <ex><![CDATA[体系结构]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Enterprise architecture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[企业架构]]></ex>
+
+                            <ex><![CDATA[企业体系结构]]></ex>
+
+                            <ex><![CDATA[企业总体架构]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Islamic architecture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[伊斯兰建筑]]></ex>
+
+                            <ex><![CDATA[中古伊斯兰建筑]]></ex>
+
+                            <ex><![CDATA[伊斯兰建筑物]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[married]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[结婚了]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mærɪd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 已婚者]]></ex>
+
+                    <ex><![CDATA[adj. 已婚的，有配偶的；婚姻的，夫妇的；密切结合的]]></ex>
+
+                    <ex><![CDATA[v. 结婚，与…结婚（marry的过去式）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[married]]></key>
+
+            <value>
+
+                            <ex><![CDATA[已婚]]></ex>
+
+                            <ex><![CDATA[完婚]]></ex>
+
+                            <ex><![CDATA[结了婚的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Just Married]]></key>
+
+            <value>
+
+                            <ex><![CDATA[新婚告急]]></ex>
+
+                            <ex><![CDATA[车窗贴]]></ex>
+
+                            <ex><![CDATA[玩串婚后事]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[married to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[和]]></ex>
+
+                            <ex><![CDATA[嫁给了]]></ex>
+
+                            <ex><![CDATA[已婚]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

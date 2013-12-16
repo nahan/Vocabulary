@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[strange]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[奇怪的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[streɪn(d)ʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 奇怪的；陌生的；外行的]]></ex>
+
+                    <ex><![CDATA[adv. 奇怪地；陌生地，冷淡地]]></ex>
+
+                    <ex><![CDATA[n. (Strange)人名；(英)斯特兰奇；(瑞典、塞)斯特朗格]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Strange]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奇怪]]></ex>
+
+                            <ex><![CDATA[陌生]]></ex>
+
+                            <ex><![CDATA[奇特]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Strange quark]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奇夸克]]></ex>
+
+                            <ex><![CDATA[奇异夸克]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Strange Circus]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奇异人生马戏团]]></ex>
+
+                            <ex><![CDATA[神秘马戏团]]></ex>
+
+                            <ex><![CDATA[奇妙马戏团]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

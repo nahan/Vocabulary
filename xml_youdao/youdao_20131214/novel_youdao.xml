@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[novel]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[小说]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['nɒv(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 小说]]></ex>
+
+                    <ex><![CDATA[adj. 新奇的；异常的]]></ex>
+
+                    <ex><![CDATA[n. (Novel)人名；(法、西、英)诺韦尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Novel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小说]]></ex>
+
+                            <ex><![CDATA[长篇小说]]></ex>
+
+                            <ex><![CDATA[新颖的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Historical novel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[历史小说]]></ex>
+
+                            <ex><![CDATA[演义]]></ex>
+
+                            <ex><![CDATA[历史翻译公司]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[sentimental novel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[言情小说]]></ex>
+
+                            <ex><![CDATA[伤感小说]]></ex>
+
+                            <ex><![CDATA[感伤小说]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

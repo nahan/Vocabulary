@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[living]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[生活]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['lɪvɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 生活；生存；生计]]></ex>
+
+                    <ex><![CDATA[v. 生活；居住（live的ing形式）；度过]]></ex>
+
+                    <ex><![CDATA[adj. 活的；现存的；活跃的；逼真的]]></ex>
+
+                    <ex><![CDATA[n. (Living)人名；(英)利文]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Living]]></key>
+
+            <value>
+
+                            <ex><![CDATA[生活]]></ex>
+
+                            <ex><![CDATA[活]]></ex>
+
+                            <ex><![CDATA[活着的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[living room]]></key>
+
+            <value>
+
+                            <ex><![CDATA[客厅]]></ex>
+
+                            <ex><![CDATA[起居室]]></ex>
+
+                            <ex><![CDATA[客厅家具]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Living Game]]></key>
+
+            <value>
+
+                            <ex><![CDATA[无壳蜗牛连环泡]]></ex>
+
+                            <ex><![CDATA[星里望留]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

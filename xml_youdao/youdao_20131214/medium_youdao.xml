@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[medium]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[媒介]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['miːdɪəm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 方法；媒体；媒介；中间物]]></ex>
+
+                    <ex><![CDATA[adj. 中间的，中等的；半生熟的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Medium]]></key>
+
+            <value>
+
+                            <ex><![CDATA[媒介]]></ex>
+
+                            <ex><![CDATA[中等]]></ex>
+
+                            <ex><![CDATA[介质]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[medium]]></key>
+
+            <value>
+
+                            <ex><![CDATA[培养基]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Medium frequency]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中频]]></ex>
+
+                            <ex><![CDATA[中频中频中频]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

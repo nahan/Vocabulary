@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[suggest]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[建议]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sə'dʒest]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 提议，建议；启发；使人想起；显示；暗示]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[suggest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[建议]]></ex>
+
+                            <ex><![CDATA[暗示]]></ex>
+
+                            <ex><![CDATA[提出等]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[suggest to]]></key>
+
+            <value>
+
+                            <ex><![CDATA[对某人提建议]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[pose suggest]]></key>
+
+            <value>
+
+                            <ex><![CDATA[揭示]]></ex>
+
+                            <ex><![CDATA[提请考虑]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

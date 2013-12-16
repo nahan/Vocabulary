@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[spare]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[备用]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[speə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 剩余；备用零件]]></ex>
+
+                    <ex><![CDATA[vt. 节约，吝惜；饶恕；分出，分让]]></ex>
+
+                    <ex><![CDATA[adj. 多余的；瘦的；少量的]]></ex>
+
+                    <ex><![CDATA[vi. 饶恕，宽恕；节约]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[spare]]></key>
+
+            <value>
+
+                            <ex><![CDATA[多余的]]></ex>
+
+                            <ex><![CDATA[备用的]]></ex>
+
+                            <ex><![CDATA[空闲的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[spare time]]></key>
+
+            <value>
+
+                            <ex><![CDATA[业余时间]]></ex>
+
+                            <ex><![CDATA[余暇]]></ex>
+
+                            <ex><![CDATA[闲暇时间]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[spare dies]]></key>
+
+            <value>
+
+                            <ex><![CDATA[模具备品]]></ex>
+
+                            <ex><![CDATA[模具有品]]></ex>
+
+                            <ex><![CDATA[生产模型有品]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

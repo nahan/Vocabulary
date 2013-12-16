@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="characterize"> <hw>char*ac*ter*ize</hw> <vr><vl>also Brit</vl> <va>char*ac*ter*ise</va> <sound><wav>charac08.wav</wav></sound> <pr>ˈkerɪktəˌraɪz</pr></vr> <fl>verb</fl> <in><if>char*ac*ter*iz*es</if></in> <in><if>char*ac*ter*ized</if></in> <in><if>char*ac*ter*iz*ing</if></in> <def><gram>+ obj</gram> <sl>somewhat formal</sl> <sn>1</sn> <dt>:to describe the character or special qualities of (someone or something) <vi>How would you <it>characterize</it> the situation/problem?</vi> <vi>I would <it>characterize</it> this as a positive change for our company.</vi> <vi>She had difficulty <it>characterizing</it> their relationship.</vi> <vi>His personality is hard to <it>characterize</it>.</vi> <vi>The newspaper article <it>characterizes</it> [=<it>portrays</it>] the people of the town as poor and uneducated.</vi></dt> <sn>2</sn> <dt>:to be a typical feature or quality of (someone or something) <vi>Humor and intelligence <it>characterize</it> [=<it>mark</it>, <it>distinguish</it>] his writing.</vi> <vi>Farms and large flat fields <it>characterize</it> most of the area.</vi> <vi>the beliefs that <it>characterized</it> Europe in the 15th century</vi> <un>often used as <it>(be) characterized</it> <vi>The disease <it>is characterized</it> by a rise in blood pressure.</vi></un></dt></def></entry>
+
+</entry_list>

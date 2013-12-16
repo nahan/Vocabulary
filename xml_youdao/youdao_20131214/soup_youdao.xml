@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[soup]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[汤]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[suːp]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 汤，羹；马力]]></ex>
+
+                    <ex><![CDATA[vt. 加速；增加马力]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Soup]]></key>
+
+            <value>
+
+                            <ex><![CDATA[汤]]></ex>
+
+                            <ex><![CDATA[靓汤]]></ex>
+
+                            <ex><![CDATA[汤类]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[onion soup]]></key>
+
+            <value>
+
+                            <ex><![CDATA[洋葱汤]]></ex>
+
+                            <ex><![CDATA[葱头汤]]></ex>
+
+                            <ex><![CDATA[洋葱浓汤]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Oyster soup]]></key>
+
+            <value>
+
+                            <ex><![CDATA[牡蛎汤]]></ex>
+
+                            <ex><![CDATA[蚵仔汤]]></ex>
+
+                            <ex><![CDATA[牝蛎汤]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

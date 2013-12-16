@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>simple</key>
+
+<ps>'sɪmpl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/c5/22/c522a279b6e63507f49996e0bad1122c.mp3</pron>
+
+<ps>ˈsɪmpəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8d/bd/8dbdda48fb8748d6746f1965824e966a.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>简单的；单纯的；易受骗的；天真的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>笨蛋；愚蠢的行为；出身低微者；
+
+</acceptation>
+
+<sent><orig>
+
+Keywords: turbulence model. SIMPLE method. wall function. Air distribution and numerical simulation.
+
+</orig>
+
+<trans>
+
+关键词湍流模型。SIMPLE方法。壁面函数。气流组织。数值模拟。
+
+</trans></sent>
+
+<sent><orig>
+
+On the non-staggered grid system, the discretization equations are solved with SIMPLE algorithm and PSIC method.
+
+</orig>
+
+<trans>
+
+在非交错网格体系下，气相用SIMPLE法求解，液相采用颗粒群轨道模型，并用PSIC算法对其进行数值求解。
+
+</trans></sent>
+
+<sent><orig>
+
+Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity.
+
+</orig>
+
+<trans>
+
+让简单事情变复杂是平庸；让复杂事情变简单，惊人地简单，是创造力。
+
+</trans></sent>
+
+<sent><orig>
+
+Simple, more simple, extreme simple state manager.
+
+</orig>
+
+<trans>
+
+简单，更简单，极端简单的国家经理。
+
+</trans></sent>
+
+<sent><orig>
+
+White simple as simple as thorough glass, simple and pure as the snow.
+
+</orig>
+
+<trans>
+
+简单的如同白纸，简单的如同透彻的玻璃，简单的如同纯洁的雪花。
+
+</trans></sent>
+
+</dict>

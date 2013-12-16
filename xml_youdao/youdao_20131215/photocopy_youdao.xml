@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[photocopy]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[复印]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['fəʊtəʊkɒpɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 复印件；影印]]></ex>
+
+                    <ex><![CDATA[vt. 影印]]></ex>
+
+                    <ex><![CDATA[vi. 影印，复印]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[photocopy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[影印]]></ex>
+
+                            <ex><![CDATA[副本]]></ex>
+
+                            <ex><![CDATA[影印件]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Photocopy Machine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[复印机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Passport photocopy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[护照复印件]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

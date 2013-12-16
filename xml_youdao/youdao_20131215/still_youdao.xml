@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[still]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[仍然]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[stɪl]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 仍然；但是；尽管如此]]></ex>
+
+                    <ex><![CDATA[n. 寂静；剧照；蒸馏室]]></ex>
+
+                    <ex><![CDATA[adj. 静止的，不动的；寂静的，平静的；不起泡的]]></ex>
+
+                    <ex><![CDATA[adv. 仍然；更；静止地]]></ex>
+
+                    <ex><![CDATA[vt. 蒸馏；使…静止；使…平静下来]]></ex>
+
+                    <ex><![CDATA[vi. 静止；平静；蒸馏]]></ex>
+
+                    <ex><![CDATA[n. (Still)人名；(英、芬、瑞典)斯蒂尔；(德)施蒂尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Still]]></key>
+
+            <value>
+
+                            <ex><![CDATA[仍然]]></ex>
+
+                            <ex><![CDATA[静止]]></ex>
+
+                            <ex><![CDATA[依然]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[still camera]]></key>
+
+            <value>
+
+                            <ex><![CDATA[照相机]]></ex>
+
+                            <ex><![CDATA[静物照相机]]></ex>
+
+                            <ex><![CDATA[静物摄影机]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Still wine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[静止葡萄酒]]></ex>
+
+                            <ex><![CDATA[静态葡萄酒]]></ex>
+
+                            <ex><![CDATA[无气葡萄酒]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

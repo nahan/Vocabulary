@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[justice]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[正义]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dʒʌstɪs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 司法，法律制裁；正义；法官，审判员]]></ex>
+
+                    <ex><![CDATA[n. (Justice)人名；(英)贾斯蒂斯，贾斯蒂丝(女名)]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[justice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正义]]></ex>
+
+                            <ex><![CDATA[公正]]></ex>
+
+                            <ex><![CDATA[公平正义]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Criminal justice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[司法正义]]></ex>
+
+                            <ex><![CDATA[刑事司法]]></ex>
+
+                            <ex><![CDATA[刑事审判]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Justice League]]></key>
+
+            <value>
+
+                            <ex><![CDATA[正义联盟]]></ex>
+
+                            <ex><![CDATA[超人正义联盟]]></ex>
+
+                            <ex><![CDATA[美国正义联盟]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

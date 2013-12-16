@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="agency"> <hw highlight="yes">agen*cy</hw> <sound><wav>agency01.wav</wav></sound> <pr>ˈeɪʤənsi</pr> <fl>noun</fl> <in><il>plural</il> <if>agen*cies</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a business that provides a particular service <vi>an insurance/travel/employment <it>agency</it></vi> <vi>a prominent ad <it>agency</it></vi></dt> <sn>2</sn> <dt>:a government department that is responsible for a particular activity, area, etc. <vi>federal law enforcement <it>agencies</it></vi> <vi>the federal <it>agency</it> in charge of printing money</vi> <vi>various government <it>agencies</it></vi></dt></def> <dro><dre>through the agency of</dre> <def><sl>formal</sl> <dt>:by using the help or services of (something or someone) <vi>The treaty was ratified <it>through the agency of</it> a neutral country.</vi></dt></def></dro></entry>
+
+	<entry id="employment agency"> <hw>employment agency</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cies</if></in> <def><gram>count</gram> <dt>:a company whose business is to find jobs for people <vi>He found work as a mechanic through an <it>employment agency</it>.</vi></dt></def></entry>
+
+	<entry id="news agency"> <hw>news agency</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cies</if></in> <def><gram>count</gram> <dt>:an organization that collects and gives news to newspapers, magazines, television news programs, and radio stations <ca>called also <cat>press agency</cat></ca></dt></def></entry>
+
+	<entry id="press agency"> <hw>press agency</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cies</if></in> <def><gram>count</gram> <dt>:<sx>news agency</sx></dt></def></entry>
+
+	<entry id="travel agency"> <hw>travel agency</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -cies</if></in> <def><gram>count</gram> <dt>:a business that helps to make arrangements for people who want to travel</dt></def></entry>
+
+	<entry id="free agent"> <hw>free agent</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ agents</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a person who is able to act freely without being controlled by someone else</dt> <sn>2</sn> <dt>:a professional athlete (such as a baseball player) who is free to sign a contract to play for any team</dt></def> <uro><ure>free agency</ure> <fl>noun</fl> <gram>noncount</gram> <utxt><vi>an athlete who has become eligible for <it>free agency</it></vi></utxt></uro></entry>
+
+</entry_list>

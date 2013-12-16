@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[crew]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[船员]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[kruː]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 队，组；全体人员，全体船员]]></ex>
+
+                    <ex><![CDATA[vt. 使当船员]]></ex>
+
+                    <ex><![CDATA[vi. 一起工作]]></ex>
+
+                    <ex><![CDATA[n. (Crew)人名；(英、西)克鲁]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[crew]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全体船员]]></ex>
+
+                            <ex><![CDATA[船员]]></ex>
+
+                            <ex><![CDATA[组员]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[crew cut]]></key>
+
+            <value>
+
+                            <ex><![CDATA[平头]]></ex>
+
+                            <ex><![CDATA[板儿寸]]></ex>
+
+                            <ex><![CDATA[板刷头]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The Crew]]></key>
+
+            <value>
+
+                            <ex><![CDATA[法外之徒]]></ex>
+
+                            <ex><![CDATA[职员表]]></ex>
+
+                            <ex><![CDATA[概念合辑]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[restaurant]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[餐厅]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['restrɒnt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 餐馆；[经] 饭店]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Restaurant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[餐馆]]></ex>
+
+                            <ex><![CDATA[餐厅]]></ex>
+
+                            <ex><![CDATA[饭店]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Restaurant Manager]]></key>
+
+            <value>
+
+                            <ex><![CDATA[饭店经理]]></ex>
+
+                            <ex><![CDATA[餐厅经理]]></ex>
+
+                            <ex><![CDATA[西餐厅经理]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Chinese restaurant]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中餐厅]]></ex>
+
+                            <ex><![CDATA[中餐馆]]></ex>
+
+                            <ex><![CDATA[中国餐馆]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

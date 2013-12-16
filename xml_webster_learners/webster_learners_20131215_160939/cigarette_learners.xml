@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cigarette"> <hw>cig*a*rette</hw> <sound><wav>cigare01.wav</wav></sound> <pr>ˌsɪgəˈrɛt</pr> <fl>noun</fl> <in><il>plural</il> <if>cig*a*rettes</if></in> <def><gram>count</gram> <dt>:a small roll of paper that is filled with cut tobacco and smoked <vi>a pack of <it>cigarettes</it></vi> <un>often used before another noun <vi>a <it>cigarette</it> butt/holder/lighter</vi> <vi><it>cigarette</it> smoke</vi></un></dt></def></entry>
+
+	<entry id="cigarette paper"> <hw>cigarette paper</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -ers</if></in> <def><gram>count</gram> <dt>:a small, thin piece of paper that is used for making a cigarette</dt></def></entry>
+
+</entry_list>

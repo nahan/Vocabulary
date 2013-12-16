@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[doctor]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[医生]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dɒktə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 医生；博士]]></ex>
+
+                    <ex><![CDATA[vt. 修理；窜改，伪造；为…治病；授以博士学位]]></ex>
+
+                    <ex><![CDATA[vi. 就医；行医]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Doctor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[医生]]></ex>
+
+                            <ex><![CDATA[博士]]></ex>
+
+                            <ex><![CDATA[大夫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Witch Doctor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巫医]]></ex>
+
+                            <ex><![CDATA[鼠来宝主题曲]]></ex>
+
+                            <ex><![CDATA[巫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Assistant Doctor]]></key>
+
+            <value>
+
+                            <ex><![CDATA[医士]]></ex>
+
+                            <ex><![CDATA[助理医生]]></ex>
+
+                            <ex><![CDATA[医助]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

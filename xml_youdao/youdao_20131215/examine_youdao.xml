@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[examine]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[检查]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪg'zæmɪn; eg-]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[vt. 检查；调查； 检测；考试]]></ex>
+
+                    <ex><![CDATA[vi. 检查；调查]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[examine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[检查]]></ex>
+
+                            <ex><![CDATA[诊察]]></ex>
+
+                            <ex><![CDATA[检验]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[examine verb]]></key>
+
+            <value>
+
+                            <ex><![CDATA[检查]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[performance examine]]></key>
+
+            <value>
+
+                            <ex><![CDATA[绩效考核]]></ex>
+
+                            <ex><![CDATA[绩效查核]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

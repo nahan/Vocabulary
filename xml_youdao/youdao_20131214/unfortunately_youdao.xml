@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[unfortunately]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[不幸的是]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʌnˈfɔːtʃənətli]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 不幸地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[unfortunately]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不幸地]]></ex>
+
+                            <ex><![CDATA[可惜]]></ex>
+
+                            <ex><![CDATA[很遗憾]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unfortunately ad]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不幸地]]></ex>
+
+                            <ex><![CDATA[倒霉地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Unfortunately not]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不幸的是]]></ex>
+
+                            <ex><![CDATA[倒霉的是]]></ex>
+
+                            <ex><![CDATA[不]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

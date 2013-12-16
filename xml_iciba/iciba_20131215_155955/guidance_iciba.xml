@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>guidance</key>
+
+<ps>ˈgaɪdns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/52/77/5277e80662fddbeb12648001ea176705.mp3</pron>
+
+<ps>ˈɡaɪdns</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/03/a5/03a535e4bbd074adc50a41ed0ea4b8a0.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>指导，引导；导航；领导；
+
+</acceptation>
+
+<sent><orig>
+
+The guidance generation is based on an iterative process between traffic prediction and candidate guidance strategies.
+
+</orig>
+
+<trans>
+
+导向生成是基于交通预测和欲选的导向策略之间的迭代。
+
+</trans></sent>
+
+<sent><orig>
+
+SD10 uses radio command guidance plus strap-down inertial and active radar guidance.
+
+</orig>
+
+<trans>
+
+SD10运用了无线命令导引加惯性主动雷达导引（翻译的不准确）。
+
+</trans></sent>
+
+<sent><orig>
+
+The third is to strengthen window guidance and policy guidance, efforts to optimize credIt'structure.
+
+</orig>
+
+<trans>
+
+三是加强窗口指导和政策引导，着力优化信贷结构。
+
+</trans></sent>
+
+<sent><orig>
+
+This guidance aligns process validation activities with the product lifecycle concept and with existing FDA guidance.
+
+</orig>
+
+<trans>
+
+本指南用产品生命周期的概念以及已经存在的FDA指南对工艺验证措施进行调整。
+
+</trans></sent>
+
+<sent><orig>
+
+The prediction-based guidance generation module provides anticipatory guidance using as input the state estimate.
+
+</orig>
+
+<trans>
+
+基于导向生成模块的预测，是利用状态估算作为输入，提供所期望的导向。
+
+</trans></sent>
+
+</dict>

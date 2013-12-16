@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>locate</key>
+
+<ps>ləʊ'keɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/0f/b0/0fb06b8668bc945364ab878956addceb.mp3</pron>
+
+<ps>ˈloˌket,loˈket</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/0f/b0/0fb06b8668bc945364ab878956addceb.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>位于；说出来源；查找…的地点；确定…的位置；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>定位；定居；
+
+</acceptation>
+
+<sent><orig>
+
+The local police are trying to locate the missing child.
+
+</orig>
+
+<trans>
+
+当地警察正努力寻找失踪小孩。
+
+</trans></sent>
+
+<sent><orig>
+
+Locate the target project directory and then select Paste on the Edit menu.
+
+</orig>
+
+<trans>
+
+定位到目标项目目录，然后选择“编辑”菜单上的“粘贴”。
+
+</trans></sent>
+
+<sent><orig>
+
+Locate the remaining materials needed to complete the glider. Once completed, traverse to the underground laboratory.
+
+</orig>
+
+<trans>
+
+找到完成滑翔机所需的剩下的零件。一旦完成，穿过地下的实验室。
+
+</trans></sent>
+
+<sent><orig>
+
+Using the Guess-Newton method to calculate linear least squre, locate the PD source.
+
+</orig>
+
+<trans>
+
+运用最小二乘法，利用声电信号的时延，进行定位计算，得到局部放电源的坐标。
+
+</trans></sent>
+
+<sent><orig>
+
+Her quest to locate Jeff and Zac had taken two years.
+
+</orig>
+
+<trans>
+
+追寻杰夫和扎克和下落已经花了她现年时间。
+
+</trans></sent>
+
+</dict>

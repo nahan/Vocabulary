@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[split]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[分裂]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[splɪt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 劈开；裂缝]]></ex>
+
+                    <ex><![CDATA[adj. 劈开的]]></ex>
+
+                    <ex><![CDATA[vt. 分离；使分离；劈开；离开；分解]]></ex>
+
+                    <ex><![CDATA[vi. 离开；被劈开；断绝关系]]></ex>
+
+                    <ex><![CDATA[]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[split]]></key>
+
+            <value>
+
+                            <ex><![CDATA[分裂]]></ex>
+
+                            <ex><![CDATA[分割]]></ex>
+
+                            <ex><![CDATA[斯普利特]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[stock split]]></key>
+
+            <value>
+
+                            <ex><![CDATA[股票分割]]></ex>
+
+                            <ex><![CDATA[股份拆细]]></ex>
+
+                            <ex><![CDATA[拆股]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[split hairs]]></key>
+
+            <value>
+
+                            <ex><![CDATA[细分头发]]></ex>
+
+                            <ex><![CDATA[斤斤计较]]></ex>
+
+                            <ex><![CDATA[吹毛求疵]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

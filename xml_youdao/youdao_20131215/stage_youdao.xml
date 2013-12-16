@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[stage]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[阶段]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[steɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 阶段；舞台；戏剧；驿站]]></ex>
+
+                    <ex><![CDATA[vt. 举行；上演；筹划]]></ex>
+
+                    <ex><![CDATA[vi. 举行；适于上演；乘驿车旅行]]></ex>
+
+                    <ex><![CDATA[n. (Stage)人名；(英)斯特奇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Stage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[舞台]]></ex>
+
+                            <ex><![CDATA[段]]></ex>
+
+                            <ex><![CDATA[阶段]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Group Stage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[小组赛]]></ex>
+
+                            <ex><![CDATA[分组赛]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[stage manager]]></key>
+
+            <value>
+
+                            <ex><![CDATA[舞台监督]]></ex>
+
+                            <ex><![CDATA[舞台监视]]></ex>
+
+                            <ex><![CDATA[阶段经理]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

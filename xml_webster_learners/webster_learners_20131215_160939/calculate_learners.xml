@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="calculate"> <hw highlight="yes">cal*cu*late</hw> <sound><wav>calcul02.wav</wav></sound> <pr>ˈkælkjəˌleɪt</pr> <fl>verb</fl> <in><if>cal*cu*lates</if></in> <in><if>cal*cu*lat*ed</if></in> <in><if>cal*cu*lat*ing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to find (a number, answer, etc.) by using mathematical processes <vi><it>calculate</it> the volume of a cylinder</vi> <vi><it>calculate</it> mass/area/distance/speed</vi> <vi>I need to <it>calculate</it> how long it will take me to drive to Chicago.</vi> <vi>We <it>calculated</it> the cost of new carpeting for the whole house.</vi></dt> <sn>2</sn> <dt>:to get a general idea about the value, size, or cost of (something) :<sx>estimate</sx> <vi>We need to <it>calculate</it> our chances of success before we invest more money in the business.</vi></dt></def></entry>
+
+</entry_list>

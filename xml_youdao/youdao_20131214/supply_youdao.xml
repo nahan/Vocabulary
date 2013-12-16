@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[supply]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[供应]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sə'plaɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 供给，补给；供应品]]></ex>
+
+                    <ex><![CDATA[vt. 供给，提供；补充]]></ex>
+
+                    <ex><![CDATA[vi. 供给；替代]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[supply]]></key>
+
+            <value>
+
+                            <ex><![CDATA[供给]]></ex>
+
+                            <ex><![CDATA[供应]]></ex>
+
+                            <ex><![CDATA[供应信息]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[supply logistics]]></key>
+
+            <value>
+
+                            <ex><![CDATA[供应物流]]></ex>
+
+                            <ex><![CDATA[供给物流]]></ex>
+
+                            <ex><![CDATA[供应]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[aggregate supply]]></key>
+
+            <value>
+
+                            <ex><![CDATA[总供给]]></ex>
+
+                            <ex><![CDATA[总体供应]]></ex>
+
+                            <ex><![CDATA[总供给量]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

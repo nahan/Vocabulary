@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[musical]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[音乐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mjuːzɪk(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 音乐片]]></ex>
+
+                    <ex><![CDATA[adj. 音乐的；悦耳的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Musical]]></key>
+
+            <value>
+
+                            <ex><![CDATA[音乐剧]]></ex>
+
+                            <ex><![CDATA[音乐的]]></ex>
+
+                            <ex><![CDATA[音乐片]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Musical saw]]></key>
+
+            <value>
+
+                            <ex><![CDATA[锯琴]]></ex>
+
+                            <ex><![CDATA[乐锯]]></ex>
+
+                            <ex><![CDATA[鬼魅般的锯琴]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Musical composition]]></key>
+
+            <value>
+
+                            <ex><![CDATA[音乐创作]]></ex>
+
+                            <ex><![CDATA[乐曲]]></ex>
+
+                            <ex><![CDATA[音乐作品]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

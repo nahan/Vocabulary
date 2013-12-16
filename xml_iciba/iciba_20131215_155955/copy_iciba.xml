@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>copy</key>
+
+<ps>'kɒpɪ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/12/cb/12cba3ee81cf4a793796a51b6327c678.mp3</pron>
+
+<ps>ˈkɑpi</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/12/cb/12cba3ee81cf4a793796a51b6327c678.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>复制品；一份；（报刊等的）稿件；准备排印的书面材料；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>复制；抄写；容许复制的；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>模仿；仿造…的样式或图案；抄写；复制；
+
+</acceptation>
+
+<sent><orig>
+
+The return type of copy is void, which states explicitly that no value is returned.
+
+</orig>
+
+<trans>
+
+copy函数的返回值类型为vold,它显式说明该函数不返回任何值。
+
+</trans></sent>
+
+<sent><orig>
+
+Please copy your passport and give its copy to me. Copy vt. n.
+
+</orig>
+
+<trans>
+
+请复印你的护照并给我两个副本。
+
+</trans></sent>
+
+<sent><orig>
+
+If the copy in the cache the as the server copy the cached copy is used.
+
+</orig>
+
+<trans>
+
+如果缓存中的副本和服务器副本一样新，则使用缓存的副本。
+
+</trans></sent>
+
+<sent><orig>
+
+Dark body copy on white background and light body copy on black background are passive.
+
+</orig>
+
+<trans>
+
+深色的字体点击右键触发白色背景而浅色触发黑色背景是消极的。
+
+</trans></sent>
+
+<sent><orig>
+
+Copy preparation: Marking on copy of the appropriate instructions for the compositor or for reproduction.
+
+</orig>
+
+<trans>
+
+原稿整理：在原稿上作适当的排字或复制指示。
+
+</trans></sent>
+
+</dict>

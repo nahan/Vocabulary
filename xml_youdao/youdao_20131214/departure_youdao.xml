@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[departure]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[离开]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[dɪ'pɑːtʃə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 离开；出发；违背]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[departure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离开]]></ex>
+
+                            <ex><![CDATA[出发]]></ex>
+
+                            <ex><![CDATA[启程]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[domestic departure]]></key>
+
+            <value>
+
+                            <ex><![CDATA[国内航班出站]]></ex>
+
+                            <ex><![CDATA[国内出发]]></ex>
+
+                            <ex><![CDATA[国内航班出港]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[departure from]]></key>
+
+            <value>
+
+                            <ex><![CDATA[离开]]></ex>
+
+                            <ex><![CDATA[违反]]></ex>
+
+                            <ex><![CDATA[违背]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

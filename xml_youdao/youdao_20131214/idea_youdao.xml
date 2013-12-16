@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[idea]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[想法]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[aɪ'dɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 想法；主意；概念]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Idea]]></key>
+
+            <value>
+
+                            <ex><![CDATA[想法]]></ex>
+
+                            <ex><![CDATA[理念]]></ex>
+
+                            <ex><![CDATA[主意]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[IDEA League]]></key>
+
+            <value>
+
+                            <ex><![CDATA[IDEA联盟]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Idea Box]]></key>
+
+            <value>
+
+                            <ex><![CDATA[灵感盒子]]></ex>
+
+                            <ex><![CDATA[员工意见箱]]></ex>
+
+                            <ex><![CDATA[奇思妙想]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

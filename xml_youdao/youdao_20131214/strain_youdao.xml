@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[strain]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[应变]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[streɪn]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 张力；拉紧；负担；扭伤；血缘]]></ex>
+
+                    <ex><![CDATA[vt. 拉紧；滥用；滤去；竭力]]></ex>
+
+                    <ex><![CDATA[vi. 拉紧；尽力]]></ex>
+
+                    <ex><![CDATA[n. (Strain)人名；(英)斯特兰]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Strain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[应变]]></ex>
+
+                            <ex><![CDATA[拉伤]]></ex>
+
+                            <ex><![CDATA[拉紧]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[linear strain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[线应变]]></ex>
+
+                            <ex><![CDATA[线性应变]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[breaking strain]]></key>
+
+            <value>
+
+                            <ex><![CDATA[断裂应变]]></ex>
+
+                            <ex><![CDATA[致断应变]]></ex>
+
+                            <ex><![CDATA[破坏应变]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

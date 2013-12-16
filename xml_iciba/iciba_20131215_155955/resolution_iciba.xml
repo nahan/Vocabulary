@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>resolution</key>
+
+<ps>ˌrezə'lu:ʃn</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/04/d2/04d2d28f599c810b430512d626f67e50.mp3</pron>
+
+<ps>ˌrɛzəˈluʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/b7/e1/b7e164b34ff76b1cda93a058604190da.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>决心；解决；坚决；分辨率；
+
+</acceptation>
+
+<sent><orig>
+
+RESOLUTION-the smallest portion of the signal that can be observed.
+
+</orig>
+
+<trans>
+
+分辨率(RESOLUTION)－仪器所能检测到的最小信号所占的比例分量。
+
+</trans></sent>
+
+<sent><orig>
+
+As screen resolution, the scanner's resolution, print resolution.
+
+</orig>
+
+<trans>
+
+如屏幕辨别率，扫描仪的辨别率，打印辨别率。
+
+</trans></sent>
+
+<sent><orig>
+
+Reconstruction of-resolution image refers to a higher resolution image from a sequence of low-resolution frames.
+
+</orig>
+
+<trans>
+
+超分辨率图像的重建是指从一组低分辨率图像重建出更高分辨率的图像。
+
+</trans></sent>
+
+<sent><orig>
+
+NOTE Resolution measurement metrics include resolving power, visual resolution, limiting resolution, SFR, MTF and OTF.
+
+</orig>
+
+<trans>
+
+简单地说分辨率就是对细节的分辨能力。
+
+</trans></sent>
+
+<sent><orig>
+
+Acoustic holography has attained a high lateral resolution but a poor axial resolution.
+
+</orig>
+
+<trans>
+
+感音全息摄影技术已经取得了较高的横向分辨率，但轴向分辨率并不理想。
+
+</trans></sent>
+
+</dict>

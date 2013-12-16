@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[shame]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[羞愧]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ʃeɪm]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 羞耻，羞愧；憾事，带来耻辱的人]]></ex>
+
+                    <ex><![CDATA[vt. 使丢脸，使羞愧]]></ex>
+
+                    <ex><![CDATA[n. (Shame)人名；(科特)沙梅]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Shame]]></key>
+
+            <value>
+
+                            <ex><![CDATA[羞耻]]></ex>
+
+                            <ex><![CDATA[羞愧]]></ex>
+
+                            <ex><![CDATA[耻辱]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[The shame]]></key>
+
+            <value>
+
+                            <ex><![CDATA[羞耻]]></ex>
+
+                            <ex><![CDATA[真是耻辱]]></ex>
+
+                            <ex><![CDATA[羞愧的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[feel shame]]></key>
+
+            <value>
+
+                            <ex><![CDATA[认为耻辱]]></ex>
+
+                            <ex><![CDATA[感到羞愧]]></ex>
+
+                            <ex><![CDATA[感到羞耻]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

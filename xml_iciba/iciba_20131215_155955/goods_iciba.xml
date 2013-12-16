@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>goods</key>
+
+<pos>n.</pos>
+
+<acceptation>商品，货物；动产；本领；合意的人；
+
+</acceptation>
+
+<sent><orig>
+
+Hubble Space Telescope image of the GOODS survey.
+
+</orig>
+
+<trans>
+
+哈勃太空望远镜的GOODS巡天照片。
+
+</trans></sent>
+
+<sent><orig>
+
+This approach provides most flexible and most efficient way of working with GOODS database.
+
+</orig>
+
+<trans>
+
+这种存储方式为我们提供了使用GOODS数据库最灵活也是最有效的方式。
+
+</trans></sent>
+
+<sent><orig>
+
+Suitable for long goods, circle goods, plate goods and irregular shape goods.
+
+</orig>
+
+<trans>
+
+适用于存放长物料、环行物料、板材和不规则货物，托臂可以是单面或双面。
+
+</trans></sent>
+
+<sent><orig>
+
+Add realize goods, browse the goods, to locate the goods, modify the goods, cargo delete function.
+
+</orig>
+
+<trans>
+
+实现添加货物、浏览货物、查找货物、修改货物、删除货物的功能。
+
+</trans></sent>
+
+<sent><orig>
+
+Be strict to follow up the warehouse procedure about goods receiving goods keeping and goods shipping.
+
+</orig>
+
+<trans>
+
+严格遵守仓库的操作程序，进行货物的收发和保存。
+
+</trans></sent>
+
+</dict>

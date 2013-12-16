@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>native</key>
+
+<ps>ˈneɪtɪv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/bc/6c/bc6c5de66a8e3e943ab1f2ba2cc3d1eb.mp3</pron>
+
+<ps>ˈnetɪv</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8e/5f/8e5f3adee38c8fccc13c1f3be0143796.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>本国的；土著的；天生的；天真的，纯朴的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>当地人；土著人；当地产的动（植）物；
+
+</acceptation>
+
+<sent><orig>
+
+Then tried to translate J2ME APIs into native codes and made the speed comparison.
+
+</orig>
+
+<trans>
+
+作者首先用代码优化的方式来减少程序占用的内存大小，然后尝试将部分J2ME的APIs native化，并比较了native化前后程序的执行速度。
+
+</trans></sent>
+
+<sent><orig>
+
+All questions are pre-tested on diverse samples of native and non-native speakers.
+
+</orig>
+
+<trans>
+
+所有的问题都经历了事先的测定，测评对象为多个本地及非本地测试人群的样本。
+
+</trans></sent>
+
+<sent><orig>
+
+Only when the blood native son flows back to his native place will It'stop boiling.
+
+</orig>
+
+<trans>
+
+原乡人的血，必须流返原乡，才会停止沸腾。
+
+</trans></sent>
+
+<sent><orig>
+
+Generally speaking, there is no obvious preference to either native-speaking or non-native English speaking teachers.
+
+</orig>
+
+<trans>
+
+总的来说，对于中国教师还是外籍教师学生没有明显的偏好。
+
+</trans></sent>
+
+<sent><orig>
+
+Native Speakers: Does the provider work with translators who are native speakers of the languages?
+
+</orig>
+
+<trans>
+
+母语译者：此公司是否雇用以译入语言为母语的翻译者？
+
+</trans></sent>
+
+</dict>

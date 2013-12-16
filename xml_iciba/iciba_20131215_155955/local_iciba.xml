@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>local</key>
+
+<ps>'ləʊkl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/f5/dd/f5ddaf0ca7929578b408c909429f68f2.mp3</pron>
+
+<ps>ˈlokəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/f5/dd/f5ddaf0ca7929578b408c909429f68f2.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>地方的；当地的，本地的；局部的；褊狭的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>慢车；本地居民（律师、教士、医生）；住处附近的当地酒店；本地新闻；
+
+</acceptation>
+
+<sent><orig>
+
+It comprises non-local academics, local academics and local professionals and businessmen.
+
+</orig>
+
+<trans>
+
+委员会的成员包括本地和非本地学者，以及本港的专业和商界人士。
+
+</trans></sent>
+
+<sent><orig>
+
+The local layer realized the local data acquisition, control local instrument and execute machine.
+
+</orig>
+
+<trans>
+
+现场执行层主要完成现场数据的采集，现场仪表和执行机构的控制功能。
+
+</trans></sent>
+
+<sent><orig>
+
+An efficient local implicit contact algorithm is given that only solves local contact equations contact forces.
+
+</orig>
+
+<trans>
+
+该文提出一种高效局部隐式接触算法，仅需求解局部接触方程组。
+
+</trans></sent>
+
+<sent><orig>
+
+Motorola will continue to work with local partners to create a comprehensive local supply chain.
+
+</orig>
+
+<trans>
+
+摩托罗拉将继续发展与本地合作伙伴的合作，建立完善的供应链体系。
+
+</trans></sent>
+
+<sent><orig>
+
+Put an ad in your local yellow pages to get some local customers.
+
+</orig>
+
+<trans>
+
+在本地的黄页簿或者黄页站点上发布自己的信息来得到一些老客户。
+
+</trans></sent>
+
+</dict>

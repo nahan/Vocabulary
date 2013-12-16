@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[honey]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[蜂蜜]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['hʌnɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 蜂蜜；宝贝；甜蜜]]></ex>
+
+                    <ex><![CDATA[adj. 甘美的；蜂蜜似的]]></ex>
+
+                    <ex><![CDATA[vt. 对…说甜言蜜语；加蜜使甜]]></ex>
+
+                    <ex><![CDATA[vi. 奉承；说甜言蜜语]]></ex>
+
+                    <ex><![CDATA[n. (Honey)人名；(英)霍尼]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Honey]]></key>
+
+            <value>
+
+                            <ex><![CDATA[蜂蜜]]></ex>
+
+                            <ex><![CDATA[汉妮]]></ex>
+
+                            <ex><![CDATA[王心凌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Cutie Honey]]></key>
+
+            <value>
+
+                            <ex><![CDATA[甜心战士]]></ex>
+
+                            <ex><![CDATA[亚由美]]></ex>
+
+                            <ex><![CDATA[幸田来未]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Comb honey]]></key>
+
+            <value>
+
+                            <ex><![CDATA[巢蜜]]></ex>
+
+                            <ex><![CDATA[巢脾蜜]]></ex>
+
+                            <ex><![CDATA[蜂窝蜜]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

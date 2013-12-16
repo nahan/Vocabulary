@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>ask</key>
+
+<ps>ɑ:sk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/5e/d3/5ed33f7008771c9d49e3716aeaeca581.mp3</pron>
+
+<ps>æsk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5e/d3/5ed33f7008771c9d49e3716aeaeca581.mp3</pron>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>问，询问；需要；要求，请求；邀请；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>邀请；请求允许；要价；询问；
+
+</acceptation>
+
+<pos>vi.</pos>
+
+<acceptation>请，邀请；询问；要求；
+
+</acceptation>
+
+<sent><orig>
+
+Three early algorithms- Belief-Net-Ask, message-passing and variable elimination, lay the foundations of other inference algorithms.
+
+</orig>
+
+<trans>
+
+Belief-Net-Ask算法、消息传播算法和变量消去算法是出现比较早的三种算法，是其它各种推理算法的基础。
+
+</trans></sent>
+
+<sent><orig>
+
+The phase modulation has some more advantages against CW, which uses ASK (amplitude shift keying) .
+
+</orig>
+
+<trans>
+
+相位调制与使用ASK（幅度键控）的CW相比有很多优点。
+
+</trans></sent>
+
+<sent><orig>
+
+The signal types include SSB,DSB,PSK,AM,ASK,FM,FSK etc.
+
+</orig>
+
+<trans>
+
+信号调制样式包括SSB,DSB,PSK,AM,ASK,FM,PSK等。
+
+</trans></sent>
+
+<sent><orig>
+
+To provide a communication ASK modulation achieved using VHDL example, enclosing a corresponding VHDL source code.
+
+</orig>
+
+<trans>
+
+提供一个把通信中ASK调制用VHDL来实现的例子，内附有相应的VHDL源程序。
+
+</trans></sent>
+
+<sent><orig>
+
+Ask to look at previous work ask for a sample or ask for a reference.
+
+</orig>
+
+<trans>
+
+你可以参考翻译者以前的作品，或者是作品样本，或者任何可供参考的内容，考察翻译者的能力。
+
+</trans></sent>
+
+</dict>

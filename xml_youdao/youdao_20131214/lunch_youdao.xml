@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[lunch]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[午餐]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[lʌn(t)ʃ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 午餐]]></ex>
+
+                    <ex><![CDATA[vt. 吃午餐；供给午餐]]></ex>
+
+                    <ex><![CDATA[vi. 吃午餐；供给午餐]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Lunch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[午餐]]></ex>
+
+                            <ex><![CDATA[午饭]]></ex>
+
+                            <ex><![CDATA[中餐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[picnic lunch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[便当]]></ex>
+
+                            <ex><![CDATA[方便]]></ex>
+
+                            <ex><![CDATA[野餐]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Naked Lunch]]></key>
+
+            <value>
+
+                            <ex><![CDATA[裸体午餐]]></ex>
+
+                            <ex><![CDATA[活死人之旅]]></ex>
+
+                            <ex><![CDATA[赤裸的午餐]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

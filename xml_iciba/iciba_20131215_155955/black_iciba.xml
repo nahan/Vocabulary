@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>black</key>
+
+<ps>blæk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/8d/83/8d83a9995fa39d2c1426f40c089b7ee3.mp3</pron>
+
+<ps>blæk</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/1f/fd/1ffd9e753c8054cc61456ac7fac1ac89.mp3</pron>
+
+<pos>adj.</pos>
+
+<acceptation>黑（色）的；黑色人种的；黑暗的；不加牛奶的；
+
+</acceptation>
+
+<pos>n.</pos>
+
+<acceptation>黑色；黑人；黑颜料；黑暗；
+
+</acceptation>
+
+<pos>v.</pos>
+
+<acceptation>使变黑；抵制；拒绝；使变黑暗；
+
+</acceptation>
+
+<sent><orig>
+
+In &quot;the black cat&quot;the adjective &quot;black&quot; modifies the noun &quot;cat&quot;.
+
+</orig>
+
+<trans>
+
+在the black cat这一词组中，形容词black修饰名词cat。
+
+</trans></sent>
+
+<sent><orig>
+
+Black in black cat is an attributive.
+
+</orig>
+
+<trans>
+
+black cat中的black是修饰性形容词。
+
+</trans></sent>
+
+<sent><orig>
+
+Black-Scholes pricing model has no analytical formula of American put options,thus it cannot get accurate solution.
+
+</orig>
+
+<trans>
+
+Black-Scholes定价模型对美式看跌期权不存在解析公式，无法求其精确解。
+
+</trans></sent>
+
+<sent><orig>
+
+The findings documented in Smith (1985) are found to be at variance with Black (1979).
+
+</orig>
+
+<trans>
+
+人们发现在Smith(1985)文献中提出的结果与Black(1979)的不同。
+
+</trans></sent>
+
+<sent><orig>
+
+Black-Scholes pricing model has been designed in the essay.
+
+</orig>
+
+<trans>
+
+其次对布莱克(Black)—斯科尔斯(Scholes)定价模型公式设计出了计算程序。
+
+</trans></sent>
+
+</dict>

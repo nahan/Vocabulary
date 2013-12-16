@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>status</key>
+
+<ps>'steɪtəs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/1f/c3/1fc3c4db0e04c2bdfb2edd3a757c963b.mp3</pron>
+
+<ps>ˈstetəs, ˈstætəs</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/9a/cb/9acb44549b41563697bb490144ec6258.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>地位；情形，状态；身份；
+
+</acceptation>
+
+<sent><orig>
+
+The OP:AP-STATUS, OP:AP-DS1x-STATUS, and OP:AP-RCSx-STATUS input messages also report the maintenance and diagnostic status of DS0s.
+
+</orig>
+
+<trans>
+
+OP:AP-STATUS, OP:AP-DS1x-STATUS,和 OP:AP-RCSx-STATUS 输入消息也报告 DS0 的维护和诊断状态。
+
+</trans></sent>
+
+<sent><orig>
+
+The system status, control station status and operation station status are expounded.
+
+</orig>
+
+<trans>
+
+并对系统状态、制站状态和操作站状态显示进行了阐述。
+
+</trans></sent>
+
+<sent><orig>
+
+Supervise the production status and delivery status, comparing the actual status with the order.
+
+</orig>
+
+<trans>
+
+监控生产进度，发运计划的实施，比对客户订单的完成情况。
+
+</trans></sent>
+
+<sent><orig>
+
+View your previously submitted status reports, saved status reports, and reminders for overdue status reports.
+
+</orig>
+
+<trans>
+
+查看以前提交的状态报告，已保存的状态报告以及对过期状态报告的提醒。
+
+</trans></sent>
+
+<sent><orig>
+
+The AP Status Page and AP-DS1 Status Page both show the status of the DS1s.
+
+</orig>
+
+<trans>
+
+AP 状态页和 AP-DS1 状态页都会显示 DS1 的状态。
+
+</trans></sent>
+
+</dict>

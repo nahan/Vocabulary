@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[difference]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[区别]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['dɪf(ə)r(ə)ns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 差异；不同；争执]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[difference]]></key>
+
+            <value>
+
+                            <ex><![CDATA[差异]]></ex>
+
+                            <ex><![CDATA[不同]]></ex>
+
+                            <ex><![CDATA[差别]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Finite difference]]></key>
+
+            <value>
+
+                            <ex><![CDATA[差分]]></ex>
+
+                            <ex><![CDATA[有限差]]></ex>
+
+                            <ex><![CDATA[有限差数]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Culture Difference]]></key>
+
+            <value>
+
+                            <ex><![CDATA[文化差异]]></ex>
+
+                            <ex><![CDATA[中外文化差异]]></ex>
+
+                            <ex><![CDATA[文化冲突]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

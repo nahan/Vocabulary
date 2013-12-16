@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>limit</key>
+
+<ps>'lɪmɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/5a/98/5a988245ecae6d561a64c941fd519a55.mp3</pron>
+
+<ps>ˈlɪmɪt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/aa/9f/aa9f73eea60a006820d0f8768bc8a3fc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>限制；限量，限度；界限；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>限制，限定；
+
+</acceptation>
+
+<sent><orig>
+
+The only limit to our realization of tomorrow will be our doubts of today.
+
+</orig>
+
+<trans>
+
+实现明天理想的唯一障碍是今天的疑虑。
+
+</trans></sent>
+
+<sent><orig>
+
+Free limit [ IBRD] : The limit on a free-limit loan.
+
+</orig>
+
+<trans>
+
+自由限额[国际复兴开发银行]：对自由发放的贷款的限度。
+
+</trans></sent>
+
+<sent><orig>
+
+Theorem 1 (Uniqueness of Limit) If the sequence is convergent, then its limit is unique.
+
+</orig>
+
+<trans>
+
+定理1（极限的唯一性）如果数列收敛，那么它的极限唯一。
+
+</trans></sent>
+
+<sent><orig>
+
+AC. mechanical limIt'structure, exact limIt'setting steady and reliable.
+
+</orig>
+
+<trans>
+
+交流。机械限位结构，精确定位，稳定可靠。
+
+</trans></sent>
+
+<sent><orig>
+
+Moreover users can set some parameters such as power factor upper limit limit and so on.
+
+</orig>
+
+<trans>
+
+同时用户可根据需要设定功率因数上、下限，过电压值等参数。
+
+</trans></sent>
+
+</dict>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[intelligent]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[聪明的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪn'telɪdʒ(ə)nt]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 智能的；聪明的；理解力强的]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Intelligent]]></key>
+
+            <value>
+
+                            <ex><![CDATA[智能]]></ex>
+
+                            <ex><![CDATA[智慧的]]></ex>
+
+                            <ex><![CDATA[聪明的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[intelligent car]]></key>
+
+            <value>
+
+                            <ex><![CDATA[智能化汽车]]></ex>
+
+                            <ex><![CDATA[无人驾驶汽车]]></ex>
+
+                            <ex><![CDATA[智能汽车]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[intelligent network]]></key>
+
+            <value>
+
+                            <ex><![CDATA[智能网]]></ex>
+
+                            <ex><![CDATA[智能网络]]></ex>
+
+                            <ex><![CDATA[智慧型网路]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

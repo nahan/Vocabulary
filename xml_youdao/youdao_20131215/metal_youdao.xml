@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[metal]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[金属]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['met(ə)l]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 金属；合金]]></ex>
+
+                    <ex><![CDATA[adj. 金属制的]]></ex>
+
+                    <ex><![CDATA[vt. 以金属覆盖]]></ex>
+
+                    <ex><![CDATA[n. (Metal)人名；(捷)梅塔尔；(瑞典)梅塔尔]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Metal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[金属]]></ex>
+
+                            <ex><![CDATA[金属制品]]></ex>
+
+                            <ex><![CDATA[重金属]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Power metal]]></key>
+
+            <value>
+
+                            <ex><![CDATA[力量金属]]></ex>
+
+                            <ex><![CDATA[强力金属]]></ex>
+
+                            <ex><![CDATA[能量金属]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[METAL SLUG]]></key>
+
+            <value>
+
+                            <ex><![CDATA[合金弹头]]></ex>
+
+                            <ex><![CDATA[越南大战]]></ex>
+
+                            <ex><![CDATA[合金弹头1代]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

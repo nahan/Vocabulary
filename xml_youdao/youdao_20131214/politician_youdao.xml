@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[politician]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[政治家]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɒlɪ'tɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 政治家，政客]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[politician]]></key>
+
+            <value>
+
+                            <ex><![CDATA[政治家]]></ex>
+
+                            <ex><![CDATA[政治人物]]></ex>
+
+                            <ex><![CDATA[政治学家]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[crooked politician]]></key>
+
+            <value>
+
+                            <ex><![CDATA[奸诈的政客]]></ex>
+
+                            <ex><![CDATA[正在翻译]]></ex>
+
+                            <ex><![CDATA[歪政客]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Global Politician]]></key>
+
+            <value>
+
+                            <ex><![CDATA[全球政治家]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[half]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[一半]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɑːf]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 一半；半场；半学年]]></ex>
+
+                    <ex><![CDATA[adj. 一半的；不完全的；半途的]]></ex>
+
+                    <ex><![CDATA[adv. 一半地；部分地]]></ex>
+
+                    <ex><![CDATA[n. (Half)人名；(阿拉伯)哈勒夫；(德)哈尔夫；(英)哈夫]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Half]]></key>
+
+            <value>
+
+                            <ex><![CDATA[一半]]></ex>
+
+                            <ex><![CDATA[半场]]></ex>
+
+                            <ex><![CDATA[半程]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[half leather]]></key>
+
+            <value>
+
+                            <ex><![CDATA[半皮面装订]]></ex>
+
+                            <ex><![CDATA[半革装]]></ex>
+
+                            <ex><![CDATA[半表皮装订]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[half time]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中场休息]]></ex>
+
+                            <ex><![CDATA[守门员技术与基本训练]]></ex>
+
+                            <ex><![CDATA[半场]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>question</key>
+
+<ps>'kwestʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/d8/9f/d89fd180a68c09f0b767651fdfcdf231.mp3</pron>
+
+<ps>ˈkwɛstʃən</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/54/94/5494af1f14a8c19939968c3e9e2d4f79.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>问题；疑问；怀疑；议题；
+
+</acceptation>
+
+<pos>vt.</pos>
+
+<acceptation>问（某人）问题；对（某事物）表示[感到]怀疑；
+
+</acceptation>
+
+<sent><orig>
+
+In the example above, we use the object $question even after it has been deleted.
+
+</orig>
+
+<trans>
+
+在上面的例子里，我们用$question对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Predictive Categoriesinclude six categories of prediction, namely Enumeration, Advance Labeling, Reporting,Recapitulation, Hypotheticality, and Question.
+
+</orig>
+
+<trans>
+
+其中预设种类又包括列举(Enumeration)、提前标示(Advance Labeling)、转述(Reporting)、回顾(Recapitulation)、假设(Hypotheticality)和提问(Question)。
+
+</trans></sent>
+
+<sent><orig>
+
+Tag-question normally consists of a statement and a question tag.
+
+</orig>
+
+<trans>
+
+反义疑问句通常有陈述句和一般疑问句构成。
+
+</trans></sent>
+
+<sent><orig>
+
+Problem of agonistic problem answering question having a pen, ballot answering question, risk to wait.
+
+</orig>
+
+<trans>
+
+竞赛题型有笔答题、抽签题、抢答题、风险题等。
+
+</trans></sent>
+
+<sent><orig>
+
+The paper discusses the two types the rhetorical: explicit question ambiguous answer and question without answer.
+
+</orig>
+
+<trans>
+
+本文讨论设问的两种特殊类型：实问虚答与只问不答。
+
+</trans></sent>
+
+</dict>

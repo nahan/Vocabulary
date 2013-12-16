@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[pound]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[英镑]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[paʊnd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 英镑；重击，重击声；兽栏；拘留所]]></ex>
+
+                    <ex><![CDATA[vt. 捣烂；敲打；监禁，拘留]]></ex>
+
+                    <ex><![CDATA[vi. 连续重击，猛击]]></ex>
+
+                    <ex><![CDATA[n. (Pound)人名；(英)庞德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Pound]]></key>
+
+            <value>
+
+                            <ex><![CDATA[镑]]></ex>
+
+                            <ex><![CDATA[英镑]]></ex>
+
+                            <ex><![CDATA[井号]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Egyptian pound]]></key>
+
+            <value>
+
+                            <ex><![CDATA[埃及镑]]></ex>
+
+                            <ex><![CDATA[埃及磅]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Irish pound]]></key>
+
+            <value>
+
+                            <ex><![CDATA[爱尔兰镑]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

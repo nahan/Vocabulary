@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[post]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[文章]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pəʊst]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 岗位；邮件；标杆]]></ex>
+
+                    <ex><![CDATA[vt. 张贴；公布；邮递；布置]]></ex>
+
+                    <ex><![CDATA[vi. 快速行进]]></ex>
+
+                    <ex><![CDATA[n. (Post)人名；(英、西、捷、瑞典、荷)波斯特]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[POST]]></key>
+
+            <value>
+
+                            <ex><![CDATA[加电自检(Power On Self Test)]]></ex>
+
+                            <ex><![CDATA[贴子]]></ex>
+
+                            <ex><![CDATA[职位]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Post office]]></key>
+
+            <value>
+
+                            <ex><![CDATA[邮政局]]></ex>
+
+                            <ex><![CDATA[邮局]]></ex>
+
+                            <ex><![CDATA[在邮局]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Deutsche Post]]></key>
+
+            <value>
+
+                            <ex><![CDATA[德国邮政]]></ex>
+
+                            <ex><![CDATA[德国邮政集团]]></ex>
+
+                            <ex><![CDATA[德国邮政公司]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

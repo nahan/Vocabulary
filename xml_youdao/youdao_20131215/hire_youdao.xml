@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hire]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[雇佣]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['haɪə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 雇用，租用；租金，工钱]]></ex>
+
+                    <ex><![CDATA[vt. 雇用；出租]]></ex>
+
+                    <ex><![CDATA[vi. 雇用，租用；受雇]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[hire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[租用]]></ex>
+
+                            <ex><![CDATA[雇佣]]></ex>
+
+                            <ex><![CDATA[雇用]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[car hire]]></key>
+
+            <value>
+
+                            <ex><![CDATA[租车处]]></ex>
+
+                            <ex><![CDATA[汽车出租]]></ex>
+
+                            <ex><![CDATA[汽车租赁]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[hire invoice]]></key>
+
+            <value>
+
+                            <ex><![CDATA[租用发票]]></ex>
+
+                            <ex><![CDATA[租用我是骗子]]></ex>
+
+                            <ex><![CDATA[租用]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mixture]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[混合物]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['mɪkstʃə]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 混合；混合物；混合剂]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Mixture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[混合物]]></ex>
+
+                            <ex><![CDATA[混合]]></ex>
+
+                            <ex><![CDATA[合剂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Bordeaux mixture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[波尔多液]]></ex>
+
+                            <ex><![CDATA[波耳多液]]></ex>
+
+                            <ex><![CDATA[波尔多混合剂]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[azeotropic mixture]]></key>
+
+            <value>
+
+                            <ex><![CDATA[共沸混合物]]></ex>
+
+                            <ex><![CDATA[共沸点混合物]]></ex>
+
+                            <ex><![CDATA[恒沸点混合物]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

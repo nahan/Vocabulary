@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[conference]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[会议]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kɒnf(ə)r(ə)ns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 会议；讨论；协商；联盟；（正式）讨论会；[工会、工党用语]（每年的）大会]]></ex>
+
+                    <ex><![CDATA[vi. 举行或参加（系列）会议]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Conference]]></key>
+
+            <value>
+
+                            <ex><![CDATA[会议]]></ex>
+
+                            <ex><![CDATA[大会]]></ex>
+
+                            <ex><![CDATA[讨论会]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[conference board]]></key>
+
+            <value>
+
+                            <ex><![CDATA[美国谘商会]]></ex>
+
+                            <ex><![CDATA[世界大型企业联合会]]></ex>
+
+                            <ex><![CDATA[经济咨商局]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Video Conference]]></key>
+
+            <value>
+
+                            <ex><![CDATA[视讯会议]]></ex>
+
+                            <ex><![CDATA[电视会议]]></ex>
+
+                            <ex><![CDATA[视频会议]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

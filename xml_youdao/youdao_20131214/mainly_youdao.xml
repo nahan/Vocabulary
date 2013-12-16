@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[mainly]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[主要是]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['meɪnlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 主要地，大体上]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[mainly]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主要地]]></ex>
+
+                            <ex><![CDATA[大体上]]></ex>
+
+                            <ex><![CDATA[以攻为主]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[mainly part]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主要部分]]></ex>
+
+                            <ex><![CDATA[正在翻译]]></ex>
+
+                            <ex><![CDATA[主要部件]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Mainly Forums]]></key>
+
+            <value>
+
+                            <ex><![CDATA[主讨论区]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

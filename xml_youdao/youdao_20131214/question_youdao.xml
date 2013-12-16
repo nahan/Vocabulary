@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[question]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[问题]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['kwestʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 问题，疑问；询问；疑问句]]></ex>
+
+                    <ex><![CDATA[vt. 询问；怀疑；审问]]></ex>
+
+                    <ex><![CDATA[vi. 询问；怀疑；审问]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[question]]></key>
+
+            <value>
+
+                            <ex><![CDATA[问题]]></ex>
+
+                            <ex><![CDATA[疑问]]></ex>
+
+                            <ex><![CDATA[疑问句]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Question mark]]></key>
+
+            <value>
+
+                            <ex><![CDATA[问号]]></ex>
+
+                            <ex><![CDATA[答号]]></ex>
+
+                            <ex><![CDATA[问题业务]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Rhetorical question]]></key>
+
+            <value>
+
+                            <ex><![CDATA[反问]]></ex>
+
+                            <ex><![CDATA[修辞疑问句]]></ex>
+
+                            <ex><![CDATA[设问]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

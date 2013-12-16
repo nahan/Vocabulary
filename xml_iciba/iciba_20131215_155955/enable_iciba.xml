@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>enable</key>
+
+<ps>ɪ'neɪbl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/20/02/2002edebe145ea02f49696a0f3cc40e2.mp3</pron>
+
+<ps>ɛˈnebəl</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/20/8f/208f156d4a803025c284bb595a7576b4.mp3</pron>
+
+<pos>vt.</pos>
+
+<acceptation>使能够，提供做…的权利[措施]；使可能；授予权利或方法；
+
+</acceptation>
+
+<sent><orig>
+
+Click 'Enable' in the next dialog.
+
+</orig>
+
+<trans>
+
+在下一个对话框单击'Enable'。
+
+</trans></sent>
+
+<sent><orig>
+
+Firewall is enable. if Firewall is enable, default filtering method is permit.
+
+</orig>
+
+<trans>
+
+以上显示：防火墙被启用，缺省过滤方法是允许。
+
+</trans></sent>
+
+<sent><orig>
+
+To enable, select the Enable Edit and Continue check box.
+
+</orig>
+
+<trans>
+
+若要启用，请选择“启用‘编辑并继续’”复选框。
+
+</trans></sent>
+
+<sent><orig>
+
+You need to write-enable the disk. Write-enable the disk and then click OK.
+
+</orig>
+
+<trans>
+
+需要将磁盘设为可写。请取消磁盘的写保护，然后单击“确定”按钮。
+
+</trans></sent>
+
+<sent><orig>
+
+Enable Widget: Enable form widgets like a drop list or text field.
+
+</orig>
+
+<trans>
+
+使部件有效：使窗体部件有效，例如下拉列表框或文本框。
+
+</trans></sent>
+
+</dict>

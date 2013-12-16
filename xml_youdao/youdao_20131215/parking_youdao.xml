@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[parking]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[停车]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['pɑːkɪŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 停车]]></ex>
+
+                    <ex><![CDATA[adj. 停车的]]></ex>
+
+                    <ex><![CDATA[v. 停车（park的ing形式）]]></ex>
+
+                    <ex><![CDATA[n. (Parking)人名；(英)帕金]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Parking]]></key>
+
+            <value>
+
+                            <ex><![CDATA[停车]]></ex>
+
+                            <ex><![CDATA[泊车]]></ex>
+
+                            <ex><![CDATA[停车处]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[parking lot]]></key>
+
+            <value>
+
+                            <ex><![CDATA[停车场]]></ex>
+
+                            <ex><![CDATA[停车处]]></ex>
+
+                            <ex><![CDATA[多层停车场]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[parking space]]></key>
+
+            <value>
+
+                            <ex><![CDATA[停车位]]></ex>
+
+                            <ex><![CDATA[停车空间]]></ex>
+
+                            <ex><![CDATA[泊车位]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

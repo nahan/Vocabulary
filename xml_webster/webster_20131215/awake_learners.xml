@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="awake[1]"> <hw highlight="yes" hindex="1">awake</hw> <sound><wav>awake001.wav</wav></sound> <pr>əˈweɪk</pr> <fl>verb</fl> <in><if>awakes</if></in> <in><if>awoke</if> <sound><wav>awake002.wav</wav></sound> <pr>əˈwoʊk</pr></in> <in><if>awo*ken</if> <sound><wav>awake004.wav</wav></sound> <pr>əˈwoʊkən</pr></in> <in><if>awak*ing</if></in> <def><sl>somewhat formal</sl> <dt>:to stop sleeping :to wake up <wsgram>no obj</wsgram> <vi>She fell asleep immediately but <it>awoke</it> an hour later.</vi> <vi>I <it>awoke</it> several times during the night.</vi> <vi>He <it>awoke</it> with a start. = He <it>awoke</it> suddenly.</vi> <vi>The baby <it>awoke</it> from his nap.</vi> <wsgram>+ obj</wsgram> <vi>The alarm <it>awoke</it> me early.</vi> <vi>They were <it>awoken</it> by a loud bang.</vi></dt></def> <dro><dre>awake to</dre> <gram>phrasal verb</gram> <def><phrasev><pva>awake to (something)</pva></phrasev> <dt>:to become aware of (something) <vi>We finally <it>awoke to</it> the danger.</vi> <vi>How long will it take them to <it>awake to</it> their mistake?</vi></dt></def></dro></entry>
+
+	<entry id="awake[2]"> <hw highlight="yes" hindex="2">awake</hw> <altpr>əˈweɪk</altpr> <fl>adjective</fl> <lb>not used before a noun</lb> <def><dt>:not asleep <vi>Drinking coffee keeps him <it>awake</it>.</vi> <vi>I am so tired I can barely stay <it>awake</it>.</vi> <vi>She was lying <it>awake</it>, tossing and turning.</vi> <vi>One moment she was sleeping soundly—the next she was wide <it>awake</it>.</vi></dt></def></entry>
+
+	<entry id="awoke"> <hw>awoke</hw> <cx><cl>past tense of</cl> <ct>awake</ct></cx></entry>
+
+	<entry id="awoken"> <hw>awoken</hw> <cx><cl>past participle of</cl> <ct>awake</ct></cx></entry>
+
+	<entry id="wide awake"> <hw>wide awake</hw> <fl>adjective</fl> <def><dt>:fully awake <vi>It was quite late, but the children were still <it>wide awake</it>. [=not tired at all]</vi></dt></def></entry>
+
+</entry_list>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[celebration]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[庆祝活动]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[selɪ'breɪʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 庆典，庆祝会；庆祝；颂扬]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[celebration]]></key>
+
+            <value>
+
+                            <ex><![CDATA[庆祝]]></ex>
+
+                            <ex><![CDATA[庆典]]></ex>
+
+                            <ex><![CDATA[喜庆]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Grand celebration]]></key>
+
+            <value>
+
+                            <ex><![CDATA[隆重庆祝]]></ex>
+
+                            <ex><![CDATA[盛大庆祝]]></ex>
+
+                            <ex><![CDATA[盛大庆贺]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Celebration Melod]]></key>
+
+            <value>
+
+                            <ex><![CDATA[节庆歌乐精粹]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

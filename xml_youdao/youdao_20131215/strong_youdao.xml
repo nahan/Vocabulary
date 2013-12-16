@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[strong]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[强大的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[strɒŋ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 坚强的；强壮的；牢固的；擅长的]]></ex>
+
+                    <ex><![CDATA[adv. 强劲地；猛烈地]]></ex>
+
+                    <ex><![CDATA[n. (Strong)人名；(英)斯特朗]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[strong]]></key>
+
+            <value>
+
+                            <ex><![CDATA[强壮的]]></ex>
+
+                            <ex><![CDATA[强势]]></ex>
+
+                            <ex><![CDATA[强大]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Strong AI]]></key>
+
+            <value>
+
+                            <ex><![CDATA[强人工智慧]]></ex>
+
+                            <ex><![CDATA[强人工智能]]></ex>
+
+                            <ex><![CDATA[人工智慧]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Country Strong]]></key>
+
+            <value>
+
+                            <ex><![CDATA[乡谣情缘]]></ex>
+
+                            <ex><![CDATA[乡村音乐之恋]]></ex>
+
+                            <ex><![CDATA[爱的小强]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

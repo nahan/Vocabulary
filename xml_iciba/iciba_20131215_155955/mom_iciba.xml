@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>mom</key>
+
+<ps>mɒm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/0/0/bd/1d/bd1d7b0809e4b4ee9ca307aa5308ea6f.mp3</pron>
+
+<ps>mɑm</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/bd/1d/bd1d7b0809e4b4ee9ca307aa5308ea6f.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>&lt;美&gt;妈妈；
+
+</acceptation>
+
+<sent><orig>
+
+Unlike Object-Oriented Middleware, which is based on method invocation or RPC, MOM utilizes asynchronous communication.
+
+</orig>
+
+<trans>
+
+不像面向对象的中间件，它是基于方法调用或RPC,MOM采用异步通讯。
+
+</trans></sent>
+
+<sent><orig>
+
+MOM can be thought of as merging two once distinct technologies: messaging and queuing.
+
+</orig>
+
+<trans>
+
+MOM可以看作是过去两种不同技术的结合：消息传递与排队。
+
+</trans></sent>
+
+<sent><orig>
+
+Typically, synchronous communication is implemented by RPC-style communication infrastructures, while asynchronous mechanisms are implemented by MOM.
+
+</orig>
+
+<trans>
+
+一般而言，同步机制由RPC实现，而异步机制由MOM实现。当然，这不是绝对的。
+
+</trans></sent>
+
+<sent><orig>
+
+Today, the difference between MOM and OOM is not so obvious.
+
+</orig>
+
+<trans>
+
+今天，MOM和OOM之间的不同不是那么明显。
+
+</trans></sent>
+
+<sent><orig>
+
+Messaging-oriented middleware (MOM) broadly describes the technical means used to achieve BQM.
+
+</orig>
+
+<trans>
+
+面向消息的中间件(MOM)广义上描述了用于获得BQM的技术手段。
+
+</trans></sent>
+
+</dict>

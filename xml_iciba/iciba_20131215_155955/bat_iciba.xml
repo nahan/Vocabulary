@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>bat</key>
+
+<ps>bæt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/3d/6d/3d6d2a9a22d8900c7a32e9c5d39a3801.mp3</pron>
+
+<ps>bæt</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/5f/3f/5f3f4681121b460e3304a1887f42f1c3.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>蝙蝠；短棍，（棒球等的）球棒，（网球等的）球拍；白话，口语，成语，俗话；（口）打击，猛击，（海上）导弹；
+
+</acceptation>
+
+<pos>vt.&amp; vi.</pos>
+
+<acceptation>用球板击球，用球棒击球（尤指板球或棒球运动）；
+
+</acceptation>
+
+<sent><orig>
+
+Provided to install and uninstall BAT file BAT file.
+
+</orig>
+
+<trans>
+
+提供了安装BAT文件和卸载BAT文件。
+
+</trans></sent>
+
+<sent><orig>
+
+When the DISKCOPY command is finished, the command interpreter will attempt to read the BAT file.
+
+</orig>
+
+<trans>
+
+当diskcopy命令结束时，命令解释程序将试图读BAT文件。
+
+</trans></sent>
+
+<sent><orig>
+
+A bat is a small animal that flies at night.
+
+</orig>
+
+<trans>
+
+“bat”可以是在夜间飞行的小动物。
+
+</trans></sent>
+
+<sent><orig>
+
+Mainframe and vice-typing in order Play. bat start the game.
+
+</orig>
+
+<trans>
+
+主机和副机在命令键入Play.bat启动游戏。
+
+</trans></sent>
+
+<sent><orig>
+
+BAT file copies the viral files to the diskette.
+
+</orig>
+
+<trans>
+
+BAT文件就会把染毒的文件拷贝到软盘里了。
+
+</trans></sent>
+
+</dict>

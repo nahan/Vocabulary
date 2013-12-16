@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[park]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[公园]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[pɑːk]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 公园；[交] 停车场]]></ex>
+
+                    <ex><![CDATA[vt. 停放；放置；寄存]]></ex>
+
+                    <ex><![CDATA[vi. 停放车辆]]></ex>
+
+                    <ex><![CDATA[n. (Park)人名；(英、芬、瑞典)帕克]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Park]]></key>
+
+            <value>
+
+                            <ex><![CDATA[公园]]></ex>
+
+                            <ex><![CDATA[停放]]></ex>
+
+                            <ex><![CDATA[女王公园]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Central Park]]></key>
+
+            <value>
+
+                            <ex><![CDATA[中央公园]]></ex>
+
+                            <ex><![CDATA[中心公园]]></ex>
+
+                            <ex><![CDATA[纽约中央公园]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Jurassic Park]]></key>
+
+            <value>
+
+                            <ex><![CDATA[侏罗纪公园]]></ex>
+
+                            <ex><![CDATA[侏儸纪公园]]></ex>
+
+                            <ex><![CDATA[侏罗系公园]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

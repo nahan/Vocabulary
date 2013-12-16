@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[sad]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[悲伤的]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[sæd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[SAD]]></key>
+
+            <value>
+
+                            <ex><![CDATA[季节性情绪失调(Seasonal Affective Disorder)]]></ex>
+
+                            <ex><![CDATA[悲伤的]]></ex>
+
+                            <ex><![CDATA[难过的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sad Kiss]]></key>
+
+            <value>
+
+                            <ex><![CDATA[越吻越伤心]]></ex>
+
+                            <ex><![CDATA[播放越吻越伤心]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Sad Angel]]></key>
+
+            <value>
+
+                            <ex><![CDATA[悲伤的天使]]></ex>
+
+                            <ex><![CDATA[悲伤天使]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[obviously]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[很明显]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['ɒbvɪəslɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adv. 明显地]]></ex>
+
+                    <ex><![CDATA[显然地]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[obviously]]></key>
+
+            <value>
+
+                            <ex><![CDATA[显然]]></ex>
+
+                            <ex><![CDATA[明显地]]></ex>
+
+                            <ex><![CDATA[明明]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[obviously dra]]></key>
+
+            <value>
+
+                            <ex><![CDATA[显然]]></ex>
+
+                            <ex><![CDATA[很明显]]></ex>
+
+                            <ex><![CDATA[明显地]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[obviously drawn]]></key>
+
+            <value>
+
+                            <ex><![CDATA[显然得出]]></ex>
+
+                            <ex><![CDATA[显然提]]></ex>
+
+                            <ex><![CDATA[显然绘制]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

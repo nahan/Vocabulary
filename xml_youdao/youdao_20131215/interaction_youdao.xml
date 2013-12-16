@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[interaction]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[交互]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[ɪntər'ækʃ(ə)n]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 相互作用；[数] 交互作用]]></ex>
+
+                    <ex><![CDATA[n. 互动]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[interaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[相互作用]]></ex>
+
+                            <ex><![CDATA[交互作用]]></ex>
+
+                            <ex><![CDATA[交互]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Weak interaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[弱相互作用]]></ex>
+
+                            <ex><![CDATA[弱相互酌]]></ex>
+
+                            <ex><![CDATA[弱互酌]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Fundamental interaction]]></key>
+
+            <value>
+
+                            <ex><![CDATA[基本相互作用]]></ex>
+
+                            <ex><![CDATA[基本相互酌]]></ex>
+
+                            <ex><![CDATA[相作用]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

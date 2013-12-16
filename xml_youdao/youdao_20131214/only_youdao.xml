@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[only]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[只有]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['əʊnlɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[conj. 但是；不过；可是]]></ex>
+
+                    <ex><![CDATA[adj. 唯一的，仅有的；最合适的]]></ex>
+
+                    <ex><![CDATA[adv. 只，仅仅；不料]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[only]]></key>
+
+            <value>
+
+                            <ex><![CDATA[仅仅]]></ex>
+
+                            <ex><![CDATA[只有]]></ex>
+
+                            <ex><![CDATA[只是]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Only You]]></key>
+
+            <value>
+
+                            <ex><![CDATA[只有你]]></ex>
+
+                            <ex><![CDATA[威尼斯恋人]]></ex>
+
+                            <ex><![CDATA[独一无二]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[not only]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不仅仅]]></ex>
+
+                            <ex><![CDATA[不仅]]></ex>
+
+                            <ex><![CDATA[不只]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

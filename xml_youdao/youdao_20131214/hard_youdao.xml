@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[hard]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[硬]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[hɑːd]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的]]></ex>
+
+                    <ex><![CDATA[adv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地]]></ex>
+
+                    <ex><![CDATA[n. (Hard)人名；(英、芬、瑞典)哈德]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[hard]]></key>
+
+            <value>
+
+                            <ex><![CDATA[硬的]]></ex>
+
+                            <ex><![CDATA[坚硬的]]></ex>
+
+                            <ex><![CDATA[困难的]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hard Candy]]></key>
+
+            <value>
+
+                            <ex><![CDATA[水果硬糖]]></ex>
+
+                            <ex><![CDATA[硬糖]]></ex>
+
+                            <ex><![CDATA[可爱派]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Hard Fate]]></key>
+
+            <value>
+
+                            <ex><![CDATA[翡翠恋曲]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

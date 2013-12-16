@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[substance]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[物质]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['sʌbst(ə)ns]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 物质；实质；资产；主旨]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[substance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[物质]]></ex>
+
+                            <ex><![CDATA[实质]]></ex>
+
+                            <ex><![CDATA[内容]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[active substance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[放射性物质]]></ex>
+
+                            <ex><![CDATA[活性物质]]></ex>
+
+                            <ex><![CDATA[有效物质]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[organic substance]]></key>
+
+            <value>
+
+                            <ex><![CDATA[有机物质]]></ex>
+
+                            <ex><![CDATA[有机物]]></ex>
+
+                            <ex><![CDATA[有机质]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

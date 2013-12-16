@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>error</key>
+
+<ps>ˈerə(r)</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/b9/b9/b9b9a4d8722634a12511bd18a3b72e23.mp3</pron>
+
+<ps>ˈɛrɚ</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/cb/5e/cb5e100e5a9a3e7f6d1fd97512215282.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>错误，过失；[法]误审，违法；[数]误差；
+
+</acceptation>
+
+<sent><orig>
+
+KERNEL_STACK_INPAGE_ERROR If this is the first time you've seen this stop error Screen, restart your computer.
+
+</orig>
+
+<trans>
+
+ERROR条件这是重新开始你看这中止错误屏幕的第一个时你的计算机。
+
+</trans></sent>
+
+<sent><orig>
+
+Using the specific SQLException object lets you obtain detailed information about the error.
+
+</orig>
+
+<trans>
+
+利用特定的SQLException物件，会让你获得详细的错误(error)讯息。
+
+</trans></sent>
+
+<sent><orig>
+
+ERROR-the deviation (difference or ratio) of a measurement from its true value.
+
+</orig>
+
+<trans>
+
+误差(ERROR)-与被测量值的真值相比测量的偏差（差值或比值）。
+
+</trans></sent>
+
+<sent><orig>
+
+Besides, the manufacturing error, clearances at joints, and input error also bring mechanical error.
+
+</orig>
+
+<trans>
+
+另外，构件的加工误差、运动副间隙、输入误差等因素也使机构的输出存在着机械误差。
+
+</trans></sent>
+
+<sent><orig>
+
+Similar to classical error-correcting codes, minimum distance characterizes the error-correcting capability of network error-correcting codes.
+
+</orig>
+
+<trans>
+
+类似于传统纠错码，极小距离反映了网络纠错码的纠错能力。
+
+</trans></sent>
+
+</dict>

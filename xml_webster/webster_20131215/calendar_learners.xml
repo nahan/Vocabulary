@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="calendar"> <hw highlight="yes">cal*en*dar</hw> <sound><wav>calend01.wav</wav></sound> <pr>ˈkæləndɚ</pr> <fl>noun</fl> <in><il>plural</il> <if>cal*en*dars</if></in> <def><gram>count</gram> <sn>1</sn> <dt>:a document, chart, etc., that shows the days, weeks, and months of a year <vi>a wall/desk <it>calendar</it></vi> <vi>an appointment/engagement <it>calendar</it></vi></dt> <sn>2</sn> <dt>:a list or schedule of events or activities that occur at different times throughout the year <vi>The university's academic <it>calendar</it> runs from September to May.</vi></dt> <sn>3</sn> <dt>:a particular system for organizing the days of the year by month <vi>the Jewish <it>calendar</it></vi> <vi>the Mayan <it>calendar</it></vi></dt></def></entry>
+
+	<entry id="calendar year"> <hw>calendar year</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ years</if></in> <def><gram>count</gram> <dt>:the period of time from January 1 to December 31 <dx>compare <dxt>fiscal year</dxt></dx></dt></def></entry>
+
+	<entry id="Gregorian calendar"> <hw>Gre*go*ri*an calendar</hw> <sound><wav>grego01ld.wav</wav></sound> <pr>grɪˈgorijən-</pr> <fl>noun</fl> <def><gram>singular</gram> <dt>:the calendar system that is used by most people in the world today <snote>The Gregorian calendar was introduced in 1582 by Pope Gregory XIII. It is now used throughout the world for legal and business purposes.</snote></dt></def></entry>
+
+</entry_list>

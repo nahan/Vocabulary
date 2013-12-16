@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[treaty]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[条约]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['triːtɪ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 条约，协议；谈判]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Treaty]]></key>
+
+            <value>
+
+                            <ex><![CDATA[条约]]></ex>
+
+                            <ex><![CDATA[协定]]></ex>
+
+                            <ex><![CDATA[协议]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Reinsurance Treaty]]></key>
+
+            <value>
+
+                            <ex><![CDATA[再保险条约]]></ex>
+
+                            <ex><![CDATA[再保险协约]]></ex>
+
+                            <ex><![CDATA[再保险合约]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[Treaty ports]]></key>
+
+            <value>
+
+                            <ex><![CDATA[商埠]]></ex>
+
+                            <ex><![CDATA[通商口岸]]></ex>
+
+                            <ex><![CDATA[条约口岸]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

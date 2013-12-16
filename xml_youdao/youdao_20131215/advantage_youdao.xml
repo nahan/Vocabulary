@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[advantage]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[优势]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA[əd'vɑːntɪdʒ]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 优势；利益；有利条件]]></ex>
+
+                    <ex><![CDATA[vt. 有利于；使处于优势]]></ex>
+
+                    <ex><![CDATA[vi. 获利]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Advantage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[优点]]></ex>
+
+                            <ex><![CDATA[优势]]></ex>
+
+                            <ex><![CDATA[利益]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[advantage in]]></key>
+
+            <value>
+
+                            <ex><![CDATA[发球占先]]></ex>
+
+                            <ex><![CDATA[发球人领先]]></ex>
+
+                            <ex><![CDATA[发球紫]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[unfair advantage]]></key>
+
+            <value>
+
+                            <ex><![CDATA[不公平的优势]]></ex>
+
+                            <ex><![CDATA[压倒性的竞争优势]]></ex>
+
+                            <ex><![CDATA[求垄断或不当之利]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

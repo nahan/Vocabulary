@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<youdao-fanyi>
+
+    <errorCode>0</errorCode>
+
+    <query><![CDATA[status]]></query>
+
+    <!-- 有道翻译 -->
+
+    <translation>
+
+            <paragraph><![CDATA[状态]]></paragraph>
+
+        </translation>
+
+    <!-- 有道词典-基本词典 -->
+
+    <basic>
+
+            <!-- 音标 -->
+
+        <phonetic><![CDATA['steɪtəs]]></phonetic>
+
+            <!-- 基本释义 -->
+
+        <explains>
+
+                    <ex><![CDATA[n. 地位；状态；情形；重要身份]]></ex>
+
+                </explains>
+
+    </basic>
+
+    <!-- 有道词典-网络释义 -->
+
+    <web>
+
+            <explain>
+
+            <key><![CDATA[Status]]></key>
+
+            <value>
+
+                            <ex><![CDATA[状态]]></ex>
+
+                            <ex><![CDATA[身份]]></ex>
+
+                            <ex><![CDATA[地位]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[marital status]]></key>
+
+            <value>
+
+                            <ex><![CDATA[婚姻状况]]></ex>
+
+                            <ex><![CDATA[婚姻状态]]></ex>
+
+                            <ex><![CDATA[婚姻情况]]></ex>
+
+                        </value>
+
+        </explain>
+
+            <explain>
+
+            <key><![CDATA[status bar]]></key>
+
+            <value>
+
+                            <ex><![CDATA[状态栏]]></ex>
+
+                            <ex><![CDATA[状态条]]></ex>
+
+                            <ex><![CDATA[状态列]]></ex>
+
+                        </value>
+
+        </explain>
+
+        </web>
+
+</youdao-fanyi>
+

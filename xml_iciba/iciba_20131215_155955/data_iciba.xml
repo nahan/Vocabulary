@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dict num="219" id="219" name="219">
+
+<key>data</key>
+
+<ps>'deɪtə</ps>
+
+<pron>http://res.iciba.com/resource/amp3/oxford/0/31/6c/316c2ded655bb09d9bccd3506f75876b.mp3</pron>
+
+<ps>ˈdetə, ˈdætə, ˈdɑtə</ps>
+
+<pron>http://res.iciba.com/resource/amp3/1/0/8d/77/8d777f385d3dfec8815d20f7496026dc.mp3</pron>
+
+<pos>n.</pos>
+
+<acceptation>资料，材料；datum的复数；[计算机]数据，资料；从科学实验中提取的价值；
+
+</acceptation>
+
+<sent><orig>
+
+Hypertext can be thought to be the data that contains links to other data.
+
+</orig>
+
+<trans>
+
+超级文本可以认为是一种与别的信息资料(data)相链接(link)的信息资料。
+
+</trans></sent>
+
+<sent><orig>
+
+A shortened term for automatic data processing; taken from data and automation.
+
+</orig>
+
+<trans>
+
+自动数据处理的缩略语，由英文data （数据）和automation（自动化）两词产生。
+
+</trans></sent>
+
+<sent><orig>
+
+Likewise 'data' means 'data 0' Assembly begins in text 0.
+
+</orig>
+
+<trans>
+
+同样，‘data’意味着‘data0’。
+
+</trans></sent>
+
+<sent><orig>
+
+A file's data encoding (EI_DATA) specifies how to interpret the basic objects in a file.
+
+</orig>
+
+<trans>
+
+一个文件的数据编码(EI_DATA)指出了如何来解释一个文件中基本的数据对象。
+
+</trans></sent>
+
+<sent><orig>
+
+Data is a plural noun.
+
+</orig>
+
+<trans>
+
+&quot;Data&quot;是一个复数名词。
+
+</trans></sent>
+
+</dict>

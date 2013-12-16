@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<entry_list version="1.0">
+
+	<entry id="cartoon"> <hw>car*toon</hw> <sound><wav>cartoo01.wav</wav></sound> <pr>kɑɚˈtu:n</pr> <fl>noun</fl> <in><il>plural</il> <if>car*toons</if></in> <def><gram>count</gram> <sn>1 a</sn> <dt>:a drawing in a newspaper or magazine intended as a humorous comment on something <vi>a political <it>cartoon</it></vi></dt> <sn>b</sn> <dt>:a series of drawings that tell a story :<sx>comic strip</sx> <vi>She enjoys reading the <it>cartoons</it> in the Sunday paper.</vi></dt> <sn>2</sn> <dt>:a film or television show made by photographing a series of drawings :an animated film or television show <vi>The kids are watching <it>cartoons</it>.</vi> <vi>a <it>cartoon</it> character</vi></dt> <sn>3</sn> <ssl>technical</ssl> <dt>:a design, drawing, or painting made by an artist as a model for the finished work</dt></def> <uro><ure>car*toon*ist</ure> <sound><wav>cartoo03.wav</wav></sound> <pr>kɑɚˈtu:nɪst</pr> <fl>noun</fl> <in><il>plural</il> <if>car*toon*ists</if></in> <gram>count</gram></uro></entry>
+
+	<entry id="strip cartoon"> <hw>strip cartoon</hw> <fl>noun</fl> <in><il>plural</il> <if>⁓ -toons</if></in> <def><gram>count</gram> <sl>Brit</sl> <dt>:<sx>comic strip</sx></dt></def></entry>
+
+</entry_list>
