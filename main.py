@@ -28,12 +28,16 @@ if __name__ == '__main__':
     
     for item in list1:
         CreateVocabularyXMLLearners(item, APIKeyLearners01)
+        time.sleep(60)
     for item in list2:
         CreateVocabularyXMLLearners(item, APIKeyLearners02)
+        time.sleep(20)
     for item in list3:
         CreateVocabularyXMLLearners(item, APIKeyLearners03)
+        time.sleep(20)
     for item in list4:
         CreateVocabularyXMLLearners(item, APIKeyLearners04)
+        time.sleep(20)
     
     #for item in list1:
     #    GetURLContentCollegiate(item, APIKeyCollegiate01)
