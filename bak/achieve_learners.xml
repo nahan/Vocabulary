@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
-<entry_list version="1.0">
-
-	<entry id="achieve"> <hw highlight="yes">achieve</hw> <sound><wav>achiev01.wav</wav></sound> <pr>əˈtʃi:v</pr> <fl>verb</fl> <in><if>achieves</if></in> <in><if>achieved</if></in> <in><if>achiev*ing</if></in> <def><sn>1</sn> <sgram>+ obj</sgram> <dt>:to get or reach (something) by working hard <vi>This year, our company was able to <it>achieve</it> [=<it>accomplish, attain</it>] all of its production goals.</vi> <vi>He worked hard and <it>achieved</it> success. [=became successful]</vi> <vi>a diet that <it>achieves</it> dramatic results</vi> <vi>With much practice, she has <it>achieved</it> a high level of skill.</vi> <vi>They <it>achieved</it> high scores on their math tests.</vi></dt> <sn>2</sn> <sgram>no obj</sgram> <dt>:to become successful :to reach a goal <vi>We give students the skills they need in order to <it>achieve</it> in college.</vi></dt></def> <uro><ure>achiev*able</ure> <sound><wav>achiev02.wav</wav></sound> <pr>əˈtʃi:vəbə</pr> <fl>adjective</fl> <gram>more achiev*able; most achiev*able</gram> <utxt><vi><it>achievable</it> goals</vi></utxt></uro></entry>
-
-</entry_list>

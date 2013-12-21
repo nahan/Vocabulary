@@ -132,7 +132,8 @@ if __name__ == '__main__':
     #WebsterDictLearners()
     #IcibaDict()
     
-    CreateIcibaVocabularyText()
+    #CreateIcibaVocabularyText()
+    #InsertIcibaVocabularyContentIntoDB()
     
     
     #for i in range(0, 22):

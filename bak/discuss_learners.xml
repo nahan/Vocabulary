@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
-<entry_list version="1.0">
-
-	<entry id="discuss"> <hw highlight="yes">dis*cuss</hw> <sound><wav>discus02.wav</wav></sound> <pr>dɪˈskʌs</pr> <fl>verb</fl> <in><if>dis*cuss*es</if></in> <in><if>dis*cussed</if></in> <in><if>dis*cus*sing</if></in> <def><gram>+ obj</gram> <sn>1</sn> <dt>:to talk about (something) with another person or group <vi>She <it>discussed</it> the plan with several colleagues.</vi> <vi>They held a meeting to <it>discuss</it> the future of the company.</vi> <vi>We'll <it>discuss</it> where to meet later.</vi> <vi>Have you <it>discussed</it> the matter with your family?</vi></dt> <sn>2</sn> <dt>:to give information, ideas, opinions, etc., about (something) in writing or speech <vi>In the first chapter, the author <it>discusses</it> childcare issues.</vi> <vi>The article <it>discusses</it> the theory in depth.</vi></dt></def></entry>
-
-</entry_list>
